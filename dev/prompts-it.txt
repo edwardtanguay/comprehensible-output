@@ -1,0 +1,404 @@
+- se vai alla casella di ricerca qui (if you go to the search box here)
+- quindi digiterò dotnet (so I'll type dotnet)
+- una volta fatto questo (once this is done)
+- e tra l'altro la parola è nuova (and by the way the word is new)
+- un rapida rassegna di alcuni dei termini (a quick review of some of the terms)
+- man mano che i programmi diventano più complessi (as programs become more complex)
+- perché questo funzioni (for this to work)
+- la priorità deve essere da zero a cinque (priority must be from zero to five)
+- quindi, in tal caso (so, in that case)
+- si noti che (note that)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "se vai alla casella di ricerca qui", "quindi digiterò dotnet", "una volta fatto questo", "e tra l'altro la parola è nuova", "un rapida rassegna di alcuni dei termini", "man mano che i programmi diventano più complessi", "perché questo funzioni", "la priorità deve essere da zero a cinque", "quindi, in tal caso", "si noti che"
+
+-------------------------------
+
+- ho selezionato una raccolta (I selected a collection)
+- ognuna di queste cartelle (each of these folders)
+- li ho messi qui (I put them here)
+- e così via (and so on)
+- siamo partiti alle grande (we got off to a great start)
+- ma in poche parole (but in a nutshell)
+- gli argomenti sono facoltativi (the arguments are optional)
+- prova ad avviare una sessione (try starting a session)
+- se ce ne sono due (if there are two)
+- tuo codice sorgente (your source code)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ho selezionato una raccolta", "ognuna di queste cartelle", "li ho messi qui", "e così via", "siamo partiti alle grande", "ma in poche parole", "gli argomenti sono facoltativi", "prova ad avviare una sessione", "se ce ne sono due", "tuo codice sorgente"
+
+-------------------------------
+
+- finchè hai questo messaggio (as long as you have this message)
+- la cattiva notizia è (the bad news is)
+- ci saranno molti comandi che potrai usare (there will be plenty of commands you can use)
+- e ci vorrà del tempo (and it will take some time)
+- cìo garantirà di ottenere (this will ensure that you get)
+- quindi, se, ad esempio (so, if, for example)
+- quindi ci sono alcune cartelle che (so there are some folders that)
+- che sono state apportate (which have been made)
+- stai saltando in giro (you're jumping around)
+- un primo e un dopo (a before and an after)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "finchè hai questo messaggio", "la cattiva notizia è", "ci saranno molti comandi che potrai usare", "e ci vorrà del tempo", "cìo garantirà di ottenere", "quindi, se, ad esempio", "quindi ci sono alcune cartelle che", "che sono state apportate", "stai saltando in giro", "un primo e un dopo"
+
+-------------------------------
+
+- una volta fatto questo (once this is done)
+- gli argomenti che tratteremo (the topics we will cover)
+- si spera che (hopefully)
+- e questo mi ricorda che (and this reminds me that)
+- dopodichè (after that)
+- solo un avvertimento qui (just a warning here)
+- oltre a ciò (besides that)
+- quello che sta succedendo è che (what's happening is that)
+- fermeremo l'esecuzione del progetto (we will stop the execution of the project)
+- ti piacerebbe farlo (would you like to do it)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "una volta fatto questo", "gli argomenti che tratteremo", "si spera che", "e questo mi ricorda che", "dopodichè", "solo un avvertimento qui", "oltre a ciò", "quello che sta succedendo è che", "fermeremo l'esecuzione del progetto", "ti piacerebbe farlo"
+
+-------------------------------
+
+- il resto delle cose (the rest of the things)
+- tra le altre cose (among other things)
+- è possibile che accada un errore durante il processo di compilazione (it is possible that an error happens during the compilation process)
+- la stringa, due stringhe (one string, two strings)
+- fammi copiare, fammi vedere, fammi sapere (let me copy, let me see, let me know)
+- ecco come sarà (this is how it will be)
+- c'era questa piccola cosa (there was this little thing)
+- siamo stati in grado di fare (we were able to do)
+- potresti ricordare che (you might remember that)
+- Mi sono ricordato di registrarmi e registrare i dati. (I remembered to register and record the data.)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "il resto delle cose", "tra le altre cose", "è possibile che accada un errore durante il processo di compilazione", "la stringa, due stringhe", "fammi copiare, fammi vedere, fammi sapere", "ecco come sarà", "c'era questa piccola cosa", "siamo stati in grado di fare", "potresti ricordare che", "Mi sono ricordato di registrarmi e registrare i dati."
+
+-------------------------------
+
+- il file di prova, il file di testo (the test file, the text file)
+- menu a discesa (drop down menu)
+- qui sul lato sinistro (here on the left side)
+- ne parliamo molto a breve (we'll talk about that very shortly)
+- quindi facciamolo (so let's do that)
+- e noteremo che ci sono già molte cose (and we will notice that there are already many things)
+- nel posto giusto (in the right place)
+- solo come promemoria (just as a reminder)
+- tutto ciò che (everything that)
+- e cioè che abbiamo (and that is that we have)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "il file di prova, il file di testo", "menu a discesa", "qui sul lato sinistro", "ne parliamo molto a breve", "quindi facciamolo", "e noteremo che ci sono già molte cose", "nel posto giusto", "solo come promemoria", "tutto ciò che", "e cioè che abbiamo"
+
+-------------------------------
+
+- quello che vogliamo (what we want)
+- quel piccolo spinner (that little spinner)
+- spiegherò (I will explain)
+- per far sì che ciò accada (to make this happen)
+- quindi quello che faremo dopo (so what we're going to do next)
+- bene, figo (alright, cool)
+- quindi ecco che apparirà (so here it will appear)
+- e cioè, il percorso della cartella (that is, the path of the folder)
+- se guardi qui sul lato sinistro (if you look here on the left side)
+- in ogni caso (in any case)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "quello che vogliamo", "quel piccolo spinner", "spiegherò", "per far sì che ciò accada", "quindi quello che faremo dopo", "bene, figo", "quindi ecco che apparirà", "e cioè, il percorso della cartella", "se guardi qui sul lato sinistro", "in ogni caso"
+
+-------------------------------
+
+- ed ecco fatto (and there you have it)
+- ciascuna di queste opzione (each of these options)
+- quello che faremo per ora (what we will do for now)
+- e poi premeremo invio (and then we will press enter)
+- non importa quale sia il nome (it doesn't matter what the name is)
+- and since we will create a frontend (e poiché creeremo un frontend)
+- but all you have to do here (ma tutto quello che devi fare qui)
+- un modo speciale (a special way)
+- lato server (server side)
+- dato che utilizzeremo Next.js (since we will be using Next.js)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ed ecco fatto", "ciascuna di queste opzione", "quello che faremo per ora", "e poi premeremo invio", "non importa quale sia il nome", "and since we will create a frontend", "but all you have to do here", "un modo speciale", "lato server", "dato che utilizzeremo Next.js"
+
+-------------------------------
+
+- dal mio punto di vista (from my point of view)
+- quindi, in termini semplici (so, in simple terms)
+- ricordate che, ricorda che, ricordi che (you all remember that, you (tu) remember that, you (Lei) remember that)
+- una cosa importante da notare (one important thing to note)
+- ciò significa che (this means that)
+- è stato un lavoro intensivo (it was a lot of work)
+- della rete, delle reti, è una rete (of the network, of the networks, it is a network)
+- dalla macchina, dalle macchine (from the machine, from the machines)
+- per confrontare diversi prompt (to compare different prompts)
+- l'uso del servizio, l'uso dei servizi (the use of the service, the use of the services)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "dal mio punto di vista", "quindi, in termini semplici", "ricordate che, ricorda che, ricordi che", "una cosa importante da notare", "ciò significa che", "è stato un lavoro intensivo", "della rete, delle reti, è una rete", "dalla macchina, dalle macchine", "per confrontare diversi prompt", "l'uso del servizio, l'uso dei servizi"
+
+-------------------------------
+
+- del linguaggio naturale (of natural language)
+- ho l'informazione, lui ha delle informazioni (I have the piece of information, he has some information)
+- parliamo del motivo per cui esiste (let's talk about why it exists)
+- che aumenta la loro capacità (which increases their capability)
+- che aumenta le loro capacità (which increases their capabilities)
+- potere: posso, puoi, può, possiamo, potete, possonno (VERB: to be able to, present)
+- con questo strumento (with this tool)
+- e come ho detto prima (and as I said before)
+- nel contesto dell'IA (in the context of AI)
+- ecco un esempio (here is an example)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "del linguaggio naturale", "ho l'informazione, lui ha delle informazioni", "parliamo del motivo per cui esiste", "che aumenta la loro capacità", "che aumenta le loro capacità", "potere: posso, puoi, può, possiamo, potete, possonno", "con questo strumento", "e come ho detto prima", "nel contesto dell'IA", "ecco un esempio"
+
+-------------------------------
+
+- trecento sessantacinque (pr. three hundred sixty five)
+- AH-ta, tee, EM-eh, ell (pr. HTML)
+- venticinquemila (twenty five thousand)
+- in altre parole (in other words)
+- to follow, to perform (seguire, eseguire)
+- nel modo in cui esegue le attività (in the way it performs tasks)
+- per quanto ne so (as far as I know)
+- in secondo luogo (secondly)
+- ci sono alcuni modi, tuttavia (there are some ways, however)
+- con l'ascesa del 3D (with the rise of 3D)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "trecento sessantacinque", "AH-ta, tee, EM-eh, ell", "venticinquemila", "in altre parole", "to follow, to perform", "nel modo in cui esegue le attività", "per quanto ne so", "in secondo luogo", "ci sono alcuni modi, tuttavia", "con l'ascesa del 3D"
+
+-------------------------------
+
+- ma anche prima di questo (but even before this)
+- ha scelto un linguaggio (it chose a language)
+- che spinge (that pushes)
+- possono scegliere (they can choose)
+- puoi persino scrivere (you can even write)
+- in un taccuino (in a notebook)
+- che spieghi o visualizzi (that explains or visualizes)
+- è molto amichevole (it is very friendly)
+- ma ciò che lo distingue (but what sets it apart)
+- se fosse in voi (if it were you)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ma anche prima di questo", "ha scelto un linguaggio", "che spinge", "possono scegliere", "puoi persino scrivere", "in un taccuino", "che spieghi o visualizzi", "è molto amichevole", "ma ciò che lo distingue", "se fosse in voi"
+
+-------------------------------
+
+- il team dietro questo software (the team behind this software)
+- quando è entrato in scena (when he came on the scene)
+- consentono agli sviluppatori (they enable developers)
+- nella speranza che tu (in the hope that you)
+- in un paio di categorie (in a couple of categories)
+- c'è molto che puoi imparare qui (there is a lot you can learn here)
+- se stai guardando questo corso (if you are watching this course)
+- può essere eseguito (it can be executed)
+- le parenthese graffe (the curly brackets)
+- e quello che ho fatto qui (and what I did here)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "il team dietro questo software", "quando è entrato in scena", "consentono agli sviluppatori", "nella speranza che tu", "in un paio di categorie", "c'è molto che puoi imparare qui", "se stai guardando questo corso", "può essere eseguito", "le parenthese graffe", "e quello che ho fatto qui"
+
+-------------------------------
+
+- specifichi i tuoi filtri (specify your filters)
+- e in realtà (and in reality)
+- e quello che voglio fare (and what I want to do)
+- ma è stato appena avvolto in una scatola (but it was just wrapped in a box)
+- che esce da questa scatola (that comes out of this box)
+- nel caso in cui non hai ancora visto questo programma (in case you haven't seen this show yet)
+- a seconda del contesto (depending on the context)
+- se clicchi su questo link (if you click on this link)
+- come ho detto prima (as I said before)
+- ciò che il rilevante per te (what is relevant to you)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "specifichi i tuoi filtri", "e in realtà", "e quello che voglio fare", "ma è stato appena avvolto in una scatola", "che esce da questa scatola", "nel caso in cui non hai ancora visto questo programma", "a seconda del contesto", "se clicchi su questo link", "come ho detto prima", "ciò che il rilevante per te"
+
+-------------------------------
+
+- e poiché ti connetteresti a un sistema (and since you would be connecting to a system)
+- se hai fatto tutto questo (if you've done all of this)
+- i quando visiti la pagina (when you visit the page)
+- potresti non avere accesso (you may not have access)
+- che ci sono richiesti (that are required of us)
+- prima di tutto, devi installare il software (first of all, you need to install the software)
+- se provi a usare Linux (if you try to use Linux)
+- assicurati di guardare (make sure you look)
+- quindi, prima di tutto (so first of all)
+- e poi in cima a questo componente (and then on top of this component)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "e poiché ti connetteresti a un sistema", "se hai fatto tutto questo", "i quando visiti la pagina", "potresti non avere accesso", "che ci sono richiesti", "prima di tutto, devi installare il software", "se provi a usare Linux", "assicurati di guardare", "quindi, prima di tutto", "e poi in cima a questo componente"
+
+-------------------------------
+
+- a cui mi riferivo in precedenza (which I was referring to previously)
+- necessari per farlo funzionare (needed to make it work)
+- se sei nuovo (if you are new)
+- la prima ragione che cui ho scelto (the first reason I chose)
+- che nel mio caso (which in my case)
+- conoscenza che è richiesta (knowledge that is required)
+- perché lo stai facendo (why are you doing this)
+- ma d'altra parte (but on the other hand)
+- ma più simile a (but more similar to)
+- e poi puoi semplicemente spingere i dati (and then you can just push the data)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "a cui mi riferivo in precedenza", "necessari per farlo funzionare", "se sei nuovo", "la prima ragione che cui ho scelto", "che nel mio caso", "conoscenza che è richiesta", "perché lo stai facendo", "ma d'altra parte", "ma più simile a", "e poi puoi semplicemente spingere i dati"
+
+-------------------------------
+
+- sarebbe davvero difficile da fare (it would be really hard to do)
+- conoscere alcun linguaggio (know any language)
+- quindi ero abbastanza familiare con questo (so I was pretty familiar with this)
+- poiché si un tratto di un kit (because it is a part of a kit)
+- che puoi vedere sullo schermo (that you can see on the screen)
+- la maggior parte dei miei altri video (most of my other videos)
+- modifiche chirurgiche (surgical modifications)
+- a proposito (by the way)
+- puoi vedere che appare ancora qui (you can see it still appears here)
+- senza gli emoji (without the emojis)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "sarebbe davvero difficile da fare", "conoscere alcun linguaggio", "quindi ero abbastanza familiare con questo", "poiché si un tratto di un kit", "che puoi vedere sullo schermo", "la maggior parte dei miei altri video", "modifiche chirurgiche", "a proposito", "puoi vedere che appare ancora qui", "senza gli emoji"
+
+-------------------------------
+
+- in cima a questo elenco (at the top of this list)
+- puoi scegliere la scuola (you can choose the school)
+- più corta o più lunga (shorter or longer)
+- la lunghezza (the length)
+- proprio qui (right here)
+- l'area a sinistra funziona più o meno come il normale (the area on the left works pretty much the same as normal)
+- quando usi le frecce (when you use the arrows)
+- dopo il primo titolo (after the first title)
+- contiene un anteprima dei risultati (it contains a preview of the results)
+- era un testo lungo (it was a long text)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "in cima a questo elenco", "puoi scegliere la scuola", "più corta o più lunga", "la lunghezza", "proprio qui", "l'area a sinistra funziona più o meno come il normale", "quando usi le frecce", "dopo il primo titolo", "contiene un anteprima dei risultati", "era un testo lungo"
+
+-------------------------------
+
+- lo stesso prompt (the same prompt)
+- per prima cosa, creerà una nuova chat (first, it will create a new chat)
+- e ora più che mai (and now more than ever)
+- modifiche al codice (code changes)
+- diamo un'occhiata a come puoi farlo (let's take a look at how you can do it)
+- ecco le opzioni che hai (here are the options you have)
+- abbiamo già visto (we have already seen)
+- ciò puo causare problemi (this can cause problems)
+- Git fornisce un'impostazione (Git provides a setting)
+- loro utilizzano sia un ritorno a capo che un line feed (they use both a carriage return and a line feed)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "lo stesso prompt", "per prima cosa, creerà una nuova chat", "e ora più che mai", "modifiche al codice", "diamo un'occhiata a come puoi farlo", "ecco le opzioni che hai", "abbiamo già visto", "ciò puo causare problemi", "Git fornisce un'impostazione", "loro utilizzano sia un ritorno a capo che un line feed"
+
+-------------------------------
+
+- ma è solo bello saperlo (but it's just nice to know)
+- puoi fare cose come usare due asterischi (you can do things like use two asterisks)
+- ciò significa (this means)
+- quindi ovunque all'interno della nostra directory lavoro (so anywhere inside our working directory)
+- queste righe (these lines)
+- allo stesso tempo (at the same time)
+- che potresti usare (that you might use)
+- facile per il tuo team (easy for your team)
+- come vedremo tra un minuto (as we will see in a minute)
+- quei file devono essere salvati (those files need to be saved)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ma è solo bello saperlo", "puoi fare cose come usare due asterischi", "ciò significa", "quindi ovunque all'interno della nostra directory lavoro", "queste righe", "allo stesso tempo", "che potresti usare", "facile per il tuo team", "come vedremo tra un minuto", "quei file devono essere salvati"
+
+-------------------------------
+
+- eseguiranno il commit del file (they will commit the file)
+- quindi in questo scenario (so in this scenario)
+- ciò può causare la sovrascrittura dei commit (this may cause commits to be overwritten)
+- uno degli errori a cui devi fare attenzione (one of the mistakes you need to watch out for)
+- abbiamo fatto il nostro commit (we have made our commit)
+- le loro modifiche (their changes)
+- aprono il file con vim (they open the file with vim)
+- l'utente due vorrebbe anche modificare il file (user two would also like to edit the file)
+- e piuttosto semplice (and it's pretty simple)
+- in questo scenario (in this scenario)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "eseguiranno il commit del file", "quindi in questo scenario", "ciò può causare la sovrascrittura dei commit", "uno degli errori a cui devi fare attenzione", "abbiamo fatto il nostro commit", "le loro modifiche", "aprono il file con vim", "l'utente due vorrebbe anche modificare il file", "e piuttosto semplice", "in questo scenario"
+
+-------------------------------
+
+- con il loro team (with their team)
+- tienilo a mente (keep this in mind)
+- un'altra cosa che dovrei sottolineare (one more thing i should point out)
+- posso, puoi, può, possiamo, potete, possono (conj-potere-pres)
+- il tuo team può adottare (your team can adopt)
+- da lì, parleremo di convenzioni (from there, we'll talk about conventions)
+- alcune pratiche (some practices)
+- a questo punto (at this point)
+- questo capitolo concentrerà sulla basi (this chapter will focus on the basics)
+- che questo corso ti fornisca (that this course provides you)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "con il loro team", "tienilo a mente", "un'altra cosa che dovrei sottolineare", "posso, puoi, può, possiamo, potete, possono", "il tuo team può adottare", "da lì, parleremo di convenzioni", "alcune pratiche", "a questo punto", "questo capitolo concentrerà sulla basi", "che questo corso ti fornisca"
+
+-------------------------------
+
+- sarò lì per guidarti in ogni fase (I will be there to guide you through every step)
+- se capisci questi concetti (if you understand these concepts)
+- ciclo di vita (life cycle)
+- ti guiderò passo dopo passo (I will guide you, step by step)
+- guideremo, passo dopo passo (we will guide you, step by step)
+- codice sorgente (source code)
+- quindi siamo tutti pronti (so we are all ready)
+- quindi questo attiverà il nostro ambiente virtuale (so this will activate our virtual environment)
+- correggiamo questo (let's fix this)
+- e per attivarlo (and to activate it)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "sarò lì per guidarti in ogni fase", "se capisci questi concetti", "ciclo di vita", "ti guiderò passo dopo passo", "guideremo, passo dopo passo", "codice sorgente", "quindi siamo tutti pronti", "quindi questo attiverà il nostro ambiente virtuale", "correggiamo questo", "e per attivarlo"
+
+-------------------------------
+
+- ciascun progetto (each project)
+- ciò significa che sarai in grado di inviare i tuoi dati (this means you will be able to submit your data)
+- questo modulo raccoglie informazioni (this form collects information)
+- e ti lascerò abbastanza spazio (and I'll leave you enough space)
+- l'esercizio fisico (physical exercise)
+- durante il corso, costruiremo un progetto (during the course, we will build a project)
+- per i progetti di scienza (for science projects)
+- dove eccelle ogni framework (where each framework excels)
+- è leggero, mantiene el nucleo semplice (it's light, keeps the core simple)
+- giusto per il tuo progetto (right for your project)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ciascun progetto", "ciò significa che sarai in grado di inviare i tuoi dati", "questo modulo raccoglie informazioni", "e ti lascerò abbastanza spazio", "l'esercizio fisico", "durante il corso, costruiremo un progetto", "per i progetti di scienza", "dove eccelle ogni framework", "è leggero, mantiene el nucleo semplice", "giusto per il tuo progetto"
+
+-------------------------------
+
+- they are both popular frameworks (sono entrambi framework popolari)
+- allora perché scegliere Flask (so why choose Flask)
+- dai un'occhiata alla documentazione (check out the documentation)
+- su larga scala (on a large scale)
+- con solo poche righe (with just a few lines)
+- mentre il tuo progetto cresce (as your project grows)
+- Flask è in grado di gestire tutto (Flask can handle it all)
+- puoi aggiungere (you can add)
+- cinque righe di codice (five lines of code)
+- ecco alcune caratteristiche chiave di Flask (here are some key features of Flask)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "they are both popular frameworks", "allora perché scegliere Flask", "dai un'occhiata alla documentazione", "su larga scala", "con solo poche righe", "mentre il tuo progetto cresce", "Flask è in grado di gestire tutto", "puoi aggiungere", "cinque righe di codice", "ecco alcune caratteristiche chiave di Flask"
+
+-------------------------------
+
+- ciò significa che puoi decidere (this means you can decide)
+- è leggero, facile (it's light, easy)
+- se sei in grado di scrivere (if you can write)
+- ecco cosa ti consiglio (here's what I recommend)
+- è piuttosto semplice (it's pretty simple)
+- in questo corso (in this course)
+- facili da mantenere (easy to maintain)
+- nei nostri programmi (in our programs)
+- sviluppo del software (software development)
+- quindi, in ogni caso (so, in any case)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ciò significa che puoi decidere", "è leggero, facile", "se sei in grado di scrivere", "ecco cosa ti consiglio", "è piuttosto semplice", "in questo corso", "facili da mantenere", "nei nostri programmi", "sviluppo del software", "quindi, in ogni caso"
+
+-------------------------------
+
+- quindi, ad esempio (so for example)
+- ma è anche molto facile (but it's also very easy)
+- quindi (Therefore)
+- dei concetti fondamentali di rete (of fundamental networking concepts)
+- e infine (and finally)
+- che tu conoscessi (that you knew)
+- e alla fine del corso (and at the end of the course)
+- e per questo motivo (and for this reason)
+- per gli sviluppatori di React (for React developers)
+- negli ultimi anni (in recent years)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Italian with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "quindi, ad esempio", "ma è anche molto facile", "quindi", "dei concetti fondamentali di rete", "e infine", "che tu conoscessi", "e alla fine del corso", "e per questo motivo", "per gli sviluppatori di React", "negli ultimi anni"
+
+-------------------------------

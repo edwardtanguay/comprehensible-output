@@ -1,0 +1,102 @@
+TODO: find list of transatlantic English rules in main file, and process here
+
+``rules
+fr; explosive P's, e.g. particulièrement
+fr; staccato
+fr; hold mouth tight
+ta; pronounce every word: not [I grew up-n] but [I grew up in]
+ta; sharp consonant sounds
+ta; replace all filler words like um, ah, like, well with silence
+ta; make clear, crisp ends appear on the front and back of each word
+
+``flashcards
+it; ciò; choh; that is
+it; righe; REE-gah; lines
+nl; typ; teep
+nl; tot slot; toht SLOHT; finally
+nl; foutgevoelig; F(OW)T; error-prone
+nl; druk op Control + Spatie; ploos SPAHT-see; space
+nl; proces; PRO-sess
+nl; voer de waarde in; VOO-ur; values
+es; pantalla; pahn-TIGH-yah; screen
+fr; il hoche la tête; ohsh; he nods his head
+fr; elle s'essuie les yeux; sess-SWEE
+fr; quand elle s’assied; sass-see-AY; sits down
+fr; ce processus est; SOOS
+fr; dans les détails; day-TIGH-yah
+fr; la souris; soo-REE; mouse
+fr; page d'accueil; dah-COYee; home page
+fr; des rendez-vous capillaires; kah-pee-LAIR; hair appointments
+fr; rien de bien méchant; may-SH*an; nothing too mad
+fr; en vrille; VREE; in a spin
+fr; la syntax;SEEN-tax
+fr; je ressens une pression constante; reh-S*AHN oon; I feel a constant pressure
+fr; ça a du sens, non ?; S*AHS; that makes sense, right?
+fr; diapositives brillantes; bree-YANT; glossy slides
+fr; ton souhait ; SWAY; your wish
+fr; pareil; par-RAY; the same
+fr; prèt à être utilisé;PRET ah; ready to be used
+fr; il s'agit en fait; fett; it is actually
+fr; entre ces deux univers; dö-zoo-nee-VAIR
+fr; #{}; dièse [dee-EZZ], accolade ouvrante, accolade fermante
+fr; fais attention; FAY ah; pay attention
+fr; du plus; PLOOS; moreover
+fr; plus de 18 ans; PLOOS de
+fr; collègue; koh-LEG-geh
+fr; ce n'est guère différent; GAHR (like beginning of "garage"); it's not much different
+fr; en ce sens que; S*ENS; in the sense that 
+fr;processus ; PROH-say-süss
+fr;analyses; ah-nah-LEEZ
+fr;méchant;may-CH*AN
+fr;fournissent-elles; for-nees-TELL; do they provide
+fr; pour chaque jouet; zhoh-AY; for each toy
+fr;il ne reste plus qu'à créer; rest-a-PLOO;all that remains is to create
+fr; mais en beaucoup plus court; may *en ... plü coor; but much shorter
+fr; inhabituelles; EEN-ha...; unusual
+fr; il s'essuie les yeux; say-SWEE-lay...; he wipes his eyes
+fr; plus concis; c*on-SEE; more concise
+fr; symptômes; sum-TOHM
+fr; ce qui suit; SWEE; the following
+fr; dynamique; dee-nah-MEEK
+fr; que tout est prêt; pray; that everything is ready
+fr; bonjour à tout et toutes ; toot ay toot; everyone
+fr; après avoir couru une course, j'ai suivi un cours; coors, coor; after running a race, I took a course
+fr; les hachages; lay ah-SHAHZH
+fr; les biais; say bee-AH; the biases
+fr; elle s’est opposée au plan; toh-poh-SAY; she is opposed to this plan
+ta; little; middle-t, real-l
+ta; meeting; middle-t
+ta; bottle; middle-t
+ta; important; middle-t
+ta; here; light-r
+ta; later; middle-t
+ta; latter; middle-t
+ta; etc.; middle-t
+ta; don't say; middle-t
+ta; muted; middle-t
+ta; interact; middle-t
+ta; creating; middle-t
+fr; je mets mes pantoufles; may may; I put on my slippers
+fr;  j’ai hâte d’être à demain; zhay AHT DETreh; I'm looking forward to tomorrow
+fr; le flux de travail; flü; workflow
+fr; Qui rira le dernier; dairn-YAH; who will laugh last
+fr; on riait; ree-AY; we were laughing
+nl; jaloezieën; yah-loh-ZEE-ah
+nl; en de geur; *oor; and the smell
+nl; van verse koffie; FAIR-sah; fresh coffee
+pl; 2 june 2025; dwa czerwiec, dwa tysiące dwadzieścia pięć
+pl; 6:30; sześć trzydzieści
+pl; 7:00; siedem
+pl; 7:15; siedem piętnaście
+pl; 8:00; osiem
+pl; 15:00; piętnaście
+pl; 19:00; dziewiętnaście
+pl; 20:30; dwadzieścia, trzydzieści
+pl; 12; dwanaście
+pl; 10; dziesięć
+pl; 5; pięć (pee-ENCH)
+pl; 9; dziewięć (JEV-yench)
+pl; 11; jedenaście
+pl; 32; trzydzieści dwa
+
+

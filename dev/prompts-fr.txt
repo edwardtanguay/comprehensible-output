@@ -1,0 +1,239 @@
+- par rapport à (compared to)
+- sous le capot (under the hood)
+- on va voir esemble après à quoi il ressemble (we will see together afterwards what it looks like)
+- on va aussi rappeler un point (we will also remind you of a point)
+- va du coup nous forcer (will suddenly force us)
+- c'est assez incroyable d'avoir ça (it's pretty amazing to have that)
+- sans pour autant avoir (without necessarily having)
+- un des plus grands atouts (one of the greatest assets)
+- ce qui veut dire que (which means that)
+- sauf que ici (except that here)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "par rapport à", "sous le capot", "on va voir esemble après à quoi il ressemble", "on va aussi rappeler un point", "va du coup nous forcer", "c'est assez incroyable d'avoir ça", "sans pour autant avoir", "un des plus grands atouts", "ce qui veut dire que", "sauf que ici"
+
+-------------------------------
+
+- pour effectuer des tris (to carry out sorting)
+- on va le voir par la suite (we will see it later)
+- engendrer de coût (incur costs)
+- ainsi que la gestion (as well as management)
+- fortement typé (strongly typed)
+- donc il essaye de pallier (so it tries to compensate)
+- dues à son historique (due to its history)
+- c'est en partie aussi pour (it is partly also for)
+- ils ont ensuite pris la décision (they then made the decision)
+- pour pallier ça (to overcome this)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "pour effectuer des tris", "on va le voir par la suite", "engendrer de coût", "ainsi que la gestion", "fortement typé", "donc il essaye de pallier", "dues à son historique", "c'est en partie aussi pour", "ils ont ensuite pris la décision", "pour pallier ça"
+
+-------------------------------
+
+- des soucis sur la sécurité mémoire (concerns about memory security)
+- dus à des comportements indéfinis (due to undefined behaviors)
+- ce que ça induit d'utiliser (what it means to use)
+- c'est censé être acquis, connu au préalable (it is supposed to be acquired, known in advance)
+- mais pour autant (but for all that)
+- de vous expliquer à quoi cela sert (to explain to you what it is for)
+- je pars du principe que (I assume that)
+- ça devrais être déjà acquis (it should already be acquired)
+- il faudrait avoir déjà utilisé (you should have already used)
+- aborder les prérequis (address the prerequisites)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "des soucis sur la sécurité mémoire", "dus à des comportements indéfinis", "ce que ça induit d'utiliser", "c'est censé être acquis, connu au préalable", "mais pour autant", "de vous expliquer à quoi cela sert", "je pars du principe que", "ça devrais être déjà acquis", "il faudrait avoir déjà utilisé", "aborder les prérequis"
+
+-------------------------------
+
+- on va revenir dessus un peu plus tard (we'll come back to this a little later)
+- par rapport à sa taille (in relation to its size)
+- et ainsi de suite (and so on)
+- autant que je veux (as much as I want)
+- combien de roues aura ma voiture (how many wheels will my car have)
+- étant donné aue les pojets (given that the projects)
+- au niveau de l'entretien du programme (at the program maintenance level)
+- pareil pour le panier (same for the basket)
+- de ce fait (for this reason)
+- dans le cadre d'une application (as part of an application)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "on va revenir dessus un peu plus tard", "par rapport à sa taille", "et ainsi de suite", "autant que je veux", "combien de roues aura ma voiture", "étant donné aue les pojets", "au niveau de l'entretien du programme", "pareil pour le panier", "de ce fait", "dans le cadre d'une application"
+
+-------------------------------
+
+- donc de haut en bas (so from top to bottom)
+- en gros, une procédure (basically a procedure)
+- qui va s'appuyer sur des procédures (which will rely on procedures)
+- VSCode va se lancer (VSCode will launch)
+- suite à l'installation de VSCode (following the installation of VSCod)
+- je vais laisser coché (I will leave it checked)
+- je n'ai plus qu'à attendre (I just have to wait)
+- c'est parti (here we go)
+- de vous en sortir largement (to get by easily)
+- variable assignments (affectations de variables)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "donc de haut en bas", "en gros, une procédure", "qui va s'appuyer sur des procédures", "VSCode va se lancer", "suite à l'installation de VSCode", "je vais laisser coché", "je n'ai plus qu'à attendre", "c'est parti", "de vous en sortir largement", "variable assignments"
+
+-------------------------------
+
+- aussi bien à des débutants (as well as for beginners)
+- à relever le challenge (to take up the challenge)
+- avec de la mise en pratique (with practical application)
+- de façon approfondie (in depth)
+- tu es dans un bon endroit (you are in a good place)
+- cela peut s'avérer utile (this may prove useful)
+- en gros (basically)
+- mise à part la date (apart from the date)
+- le processeur convert va nous aider (the convert processor will help us)
+- nous souhaitons en faire (we wish to make it)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "aussi bien à des débutants", "à relever le challenge", "avec de la mise en pratique", "de façon approfondie", "tu es dans un bon endroit", "cela peut s'avérer utile", "en gros", "mise à part la date", "le processeur convert va nous aider", "nous souhaitons en faire"
+
+-------------------------------
+
+- crochet ouvrant et fermant (opening and closing bracket)
+- attardons-nous sur quelques processeurs (Let's focus on some processors)
+- quoi que ce soit (whatever it was)
+- alléger (alleviate)
+- telles qu'un code retour (such as a return code)
+- superior gauche (upper left)
+- on est à l'échelle de quelques centimètres (we are on a scale of a few centimeters)
+- en passant, je vais retirer la requête (as I go, I will withdraw the request)
+- tout ou partie de nos (all or part of our)
+- sont réparties (are distributed)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "crochet ouvrant et fermant", "attardons-nous sur quelques processeurs", "quoi que ce soit", "alléger", "telles qu'un code retour", "superior gauche", "on est à l'échelle de quelques centimètres", "en passant, je vais retirer la requête", "tout ou partie de nos", "sont réparties"
+
+-------------------------------
+
+- des anneaux (rings)
+- très usités sur les plateformes (widely used on platforms)
+- pour affiner les résultats (to refine the results)
+- le requêtage Elasticsearch permet de rechercher des documents rapidement (Elasticsearch querying allows fast document searches)
+- à la volée (on the fly)
+- ainsi de suite (and so on)
+- elles sont répartie par jour (they are distributed by day)
+- comme nous l'avions vu toute à l'heure (as we saw earlier)
+- cela se fait avec (this is done with)
+- répartition de nos documents (distribution of our documents)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "des anneaux", "très usités sur les plateformes", "pour affiner les résultats", "le requêtage Elasticsearch permet de rechercher des documents rapidement", "à la volée", "ainsi de suite", "elles sont répartie par jour", "comme nous l'avions vu toute à l'heure", "cela se fait avec", "répartition de nos documents"
+
+-------------------------------
+
+- pour autant (however)
+- pour pallier ce problème (to overcome this problem)
+- des effets de bords (side effects)
+- carrément supprimé (completely deleted)
+- d'un point de vue métier (from a business point of view)
+- de s'atteler à la tâche (to get down to business)
+- on se rende compte que (we realize that)
+- indexer un par un peu peut s'avérer très coûteux (indexing one by one can be very expensive)
+- un peu de bande passante (some bandwidth)
+- ce qu'on peut d'ailleurs vérifier (which we can also verify)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "pour autant", "pour pallier ce problème", "des effets de bords", "carrément supprimé", "d'un point de vue métier", "de s'atteler à la tâche", "on se rende compte que", "indexer un par un peu peut s'avérer très coûteux", "un peu de bande passante", "ce qu'on peut d'ailleurs vérifier"
+
+-------------------------------
+
+- ainsi que des données (as well as data)
+- pour récupérer un document de la base de données (to retrieve a document from the datastore)
+- pour faire du tri (to sort)
+- en fait (in fact)
+- un objet imbriqué (a nested object)
+- une fois l'installation achevée (once the installation is complete)
+- idem dans un moteur de recherche (the same in a search engine)
+- puisqu'il est trié de façon alphabétique (since it is sorted alphabetically)
+- a-t-il rangé ma donnée (did he tidy up my data)
+- les résultats escomptés (the expected results)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "ainsi que des données", "pour récupérer un document de la base de données", "pour faire du tri", "en fait", "un objet imbriqué", "une fois l'installation achevée", "idem dans un moteur de recherche", "puisqu'il est trié de façon alphabétique", "a-t-il rangé ma donnée", "les résultats escomptés"
+
+-------------------------------
+
+- et les fautes de frappe (and typos)
+- on a de la chance puisque (we are lucky because)
+- ce qu'il va falloir faire (what will have to be done)
+- si notre utilisateur saisit "cd" (if our user types "cd")
+- une façon de s'en sortir (a way to get out)
+- ça ne ramène aucun hit (it doesn't bring any hits)
+- par rapport à une recherche (compared to a search)
+- une couche d'intégration (an integration layer)
+- dans le cadre de cette découverte (as part of this discovery)
+- de les bloques avant qu'elles ne se propagent (to block them before they spread)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "et les fautes de frappe", "on a de la chance puisque", "ce qu'il va falloir faire", "si notre utilisateur saisit "cd"", "une façon de s'en sortir", "ça ne ramène aucun hit", "par rapport à une recherche", "une couche d'intégration", "dans le cadre de cette découverte", "de les bloques avant qu'elles ne se propagent"
+
+-------------------------------
+
+- gérer davantage de données (manage more data)
+- matérielles mises à sa disposition (materials made available to him)
+- s'étendre verticalement (extend vertically)
+- sur un champ données (on a data field)
+- de la recherche sur des plages de valeur (research on value ranges)
+- y ce quelle qu'en soit la source (and regardless of the source)
+- qui nous permettront de rechercher (which will allow us to search)
+- horodatées (timestamped)
+- permet de fouiller dans leurs données (allows you to dig into their data)
+- pour apprendre à concevoir (to learn how to design)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "gérer davantage de données", "matérielles mises à sa disposition", "s'étendre verticalement", "sur un champ données", "de la recherche sur des plages de valeur", "y ce quelle qu'en soit la source", "qui nous permettront de rechercher", "horodatées", "permet de fouiller dans leurs données", "pour apprendre à concevoir"
+
+-------------------------------
+
+- il est désormais possible (it is now possible)
+- d'une part ça touche (on the one hand it affects)
+- l'ensemble des requêtes (all of the requests)
+- éviter de mettre de la logique d'affichage au sein de tes contrôleurs (avoid putting display logic inside your controllers)
+- c'est en partent de rien (it's starting from nothing)
+- ça t'évite d'avoir à rédevelopper (this saves you from having to redevelop)
+- vu que c'est des langues qui sont compilés (since these are languages ​​that are compiled)
+- une vue en arbre des dossiers (a tree view of the folders)
+- je peux faire échap pour annuler (I can hit escape to cancel)
+- you have shortcuts here (tu as des raccourcis ici)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "il est désormais possible", "d'une part ça touche", "l'ensemble des requêtes", "éviter de mettre de la logique d'affichage au sein de tes contrôleurs", "c'est en partent de rien", "ça t'évite d'avoir à rédevelopper", "vu que c'est des langues qui sont compilés", "une vue en arbre des dossiers", "je peux faire échap pour annuler", "you have shortcuts here"
+
+-------------------------------
+
+- qui s'affiche (which is displayed)
+- dès que tu l'as installé (as soon as you have it installed)
+- est censé directement détecter (is supposed to directly detect)
+- pour tout un ensemble de langages (for a whole set of languages)
+- tout au long de cette formation (throughout this training)
+- tu as l'ensemble des videos (you have all the videos)
+- dès lors (from then on)
+- est-ce que mon audio est activé ou désactivé (is my audio off or on)
+- est-ce que ma lumière est éteinte ou allumée (is my light off or on)
+- je peux peut-être déjà me connecter ici (maybe I can log in already here)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "qui s'affiche", "dès que tu l'as installé", "est censé directement détecter", "pour tout un ensemble de langages", "tout au long de cette formation", "tu as l'ensemble des videos", "dès lors", "est-ce que mon audio est activé ou désactivé", "est-ce que ma lumière est éteinte ou allumée", "je peux peut-être déjà me connecter ici"
+
+-------------------------------
+
+- découvrirons les composants (we will discover the components)
+- en même temps (at the same time)
+- tu es au bon endroit (you are in the right place)
+- utilisé à travers le monde (used throughout the world)
+- des applications fiables (reliable applications)
+- je n'ai pas besoin d'enregistrer chaque phrase (I don't have to record every phrase)
+- peut-être pourrions-nous changer le nombre de phrases affichées (perhaps we could change the number of phrases that are displayed)
+- j'ai l'onglet du navigateur ici (I have the browser tab here)
+- je dois recommencer l'audio (I have to start the audio over again)
+- nous avons une interview aujourd'hui, nous devons nous en souvenir (we have an interview today, we have to remember that)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "découvrirons les composants", "en même temps", "tu es au bon endroit", "utilisé à travers le monde", "des applications fiables", "je n'ai pas besoin d'enregistrer chaque phrase", "peut-être pourrions-nous changer le nombre de phrases affichées", "j'ai l'onglet du navigateur ici", "je dois recommencer l'audio", "nous avons une interview aujourd'hui, nous devons nous en souvenir"
+
+-------------------------------
+
+- peut-être que cela pourrait être un rappel (perhaps it could be a reminder)
+- je définis le premiere route (I define the first route)
+- puisqu'on va en ajouter au fur et à mesure (since we will add more as we go along)
+- comme il est d'usage sur les projets Python (as is customary on Python projects)
+- tu apprendras à esquisser et à structurer tes applications web (you will learn how to sketch and structure your web applications)
+- GitHub Actions est tout ce qui gravite autour de la CI et la CD (GitHub Actions is everything that revolves around CI and CD)
+- une licence qui est apposée sur le projet (a license that is affixed to the project)
+- donc si vous n'êtes pas à l'aise avec GitHub (so if you are not comfortable with GitHub)
+- une entreprise qui propose des services d'hébergement (a company that offers hosting services)
+- puisqu'en effet (since in fact)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in French with 100 words which uses the phrases, and vary the tenses past, present, conditional and future: "peut-être que cela pourrait être un rappel", "je définis le premiere route", "puisqu'on va en ajouter au fur et à mesure", "comme il est d'usage sur les projets Python", "tu apprendras à esquisser et à structurer tes applications web", "GitHub Actions est tout ce qui gravite autour de la CI et la CD", "une licence qui est apposée sur le projet", "donc si vous n'êtes pas à l'aise avec GitHub", "une entreprise qui propose des services d'hébergement", "puisqu'en effet"
+
+-------------------------------

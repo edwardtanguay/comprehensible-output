@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	h1 {
+		font-variant: small-caps;
+	}
+	.btn-small {
+		@apply px-2 py-1 text-sm text-gray-700 bg-gray-200 border border-gray-300 rounded-md hover:bg-red-300;
+	}
+}
+
+a.active {
+	color: rgb(0, 0, 0);
+	font-style: italic;
+}
+
+body {
+	opacity: 0;
+	animation: fadeIn 0.3s ease-in forwards;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.htmlBody {
+	p {
+		margin-bottom: 0.5rem;
+		font-size: 0.8rem;
+	}
+	p:last-child {
+		margin-bottom: 0;
+	}
+	h3 {
+		font-size: 0.8rem;
+		font-weight: bold;
+		margin-bottom: .4rem;
+	}
+}
+
+.header-fr {
+	background-color: #333388;
+}
+.header-es {
+	background-color: #5f0e0e;
+}
+.header-it {
+	background-color: #194d19;
+}
+.header-nl {
+	background-color: #4d194d;
+}
+.header-pl {
+	background-color: #817909;
+}
+.header-de {
+	background-color: #7e4402;
+}
+// .kind-reading {
+// 	border: 1px solid #000;
+// }
+.bodykind-reading {
+	font-style: italic;
+}
+
+.day-finished {
+	background-color: #1e293b;
+	box-shadow: 2px 2px 8px 2px #555;
+	h2 {
+		color: rgb(165, 165, 3);
+		font-weight: bold;
+	}
+}
+.day-working {
+	background-color: #64748b;
+	h2 {
+		font-style: italic;
+		opacity: 0.5;
+	}
+}
+.day-readyToRecord {
+	background-color: #50943b;
+	border: 2px dashed darkgreen;
+}

@@ -1,0 +1,93 @@
+2025-06-06 - vrijdag 6 juni 2025
+
+>> Een gewone werkdag in het projectteam
+
+Het is maandagochtend. Het zonlicht schijnt door de halfopen jaloezieën van ons kantoor, en de geur van verse koffie vult de ruimte. Vanaf nu probeer ik elk moment te gebruiken om mijn Nederlands te oefenen, want mijn doel is om B1 Nederlands te spreken.
+
+Vandaag staat een nieuwe sprint op de planning. We starten met een korte stand-up. Iedereen zit een beetje slaperig voor zich uit te staren. “We hebben er maar een halve dag voor,” zegt mijn collega Johan, “dus laten we snel beginnen.”
+
+Tijdens de meeting merk ik dat het niet duidelijk is wat hij bedoelde met zijn opmerkingen over het deployproces. Ik vraag me af waarom we dit doen, maar ik zeg niets. Misschien begrijp ik het later wel.
+
+Na de stand-up krijg ik een melding: er is hier iets kapot. De database-verbinding weigert dienst. Terwijl het devops-team het onderzoekt, besluit ik iets nuttigs te doen. “Nu kunnen we Nederlandse zinnen opnemen,” zeg ik hardop, en open mijn oefenapp. Ik heb er al zestig, maar meer oefenen kan geen kwaad.
+
+Later op de ochtend bespreken we de resultaten van de laatste release. De veranderingen zijn in productie, maar we hebben nog geen feedback gekregen. Ze testen een week lang, dus dat is normaal.
+
+Tegen lunchtijd schuif ik aan bij mijn collega’s. Ik neem een tweede portie pasta, en meteen daarna denk ik: Ik denk dat ik te veel heb gegeten. Johan grinnikt. “Je leert snel de Nederlandse eetcultuur kennen.”
+
+Terug aan mijn bureau kijk ik naar een lijst cijfers voor een rapportage. “We hoeven alleen maar de getallen op te tellen,” mompelt mijn teamleider. Hij heeft makkelijk praten.
+
+Rond drie uur duiken we met een paar mensen in de requirements voor een nieuwe feature. We scrollen door eindeloze documenten. “Het is slechts een kleine info voor het team,” zegt iemand, maar ik zie meteen dat het veel werk wordt.
+
+“We zouden dit toch al af hebben?” vraagt Lisa. “Ja,” antwoordt Thomas, “maar we wilden het nog een keer doornemen.”
+
+De tijd verstrijkt. Mijn hoofd begint een beetje te tollen. “Ik weet het echt niet,” zeg ik terwijl ik zoek naar een specifiek stuk documentatie. “Laten we eens kijken of ik het kan vinden.” Uiteindelijk blijkt het in een oud Slack-bericht te staan. Natuurlijk.
+
+Voordat we afsluiten, bespreek ik met mijn taalcoach een paar nieuwe woorden. Ze lacht als ik een kromme zin maak. “Het kan niet zo moeilijk zijn,” zegt ze bemoedigend. Ik hoop dat ze gelijk heeft.
+
+Als ik die avond thuiskom, blader ik door mijn notities. Morgen is er weer een dag. Als ik zo doorga, zal ik binnenkort vloeiend Nederlands spreken. Dat geloof ik echt.
+
+2025-05-10 - zaterdag 10 mei 2025
+
+>> Het avontuur van een programmeur
+
+Laten we zeggen dat ik met een gloednieuw project ben begonnen. Deze keer gebruik ik een andere aanpak om de huidige code te verbeteren. Zodra een toepassing is opgeschort, raak ik het weer aan om wijzigingen aan te brengen. Het doel van deze uitdaging is om te voltooien wat ik ben begonnen, hetzij door te zoeken of door te experimenteren.
+
+En na een ogenblik merk ik dat vinden en vervangen is foutgevoelig, vooral als je het op een paar verschillende plekken moet toepassen. Om nu verder te gaan, klik ik ergens in de code waar je dat onderdeel naartoe wilt verplaatsen. Tegelijkertijd druk ik op de delete-toets om onnodige regels te verwijderen.
+
+Over het algemeen is het maken van wijzigingen tijdelijk, maar met slechts een paar aanpassingen kan ik grote verbeteringen bereiken. Deze verklaring helpt me om te begrijpen hoe ik de huidige code kan optimaliseren. En dan boven de for loop voeg ik een nieuwe functie toe die het makkelijker maakt om tekenreeksen en gehele getallen te verwerken.
+
+Het maakt niet uit hoe complex de code is, ik geef drie waarden door aan de functie en dat roept de functie aan met de juiste parameters. Vervolgens heb ik de code getest en om dat op te lossen, debug ik nu weer om eventuele fouten te vinden.
+
+Ik zeg dat ik op elk gewenst moment kan stoppen en opnieuw kan beginnen, want je kunt dus tientallen verwijzingen hebben die je moet bijwerken. En ik druk op Control + Spatie om suggesties te krijgen terwijl ik typ. Merk op dat elk van deze acties belangrijk is voor het succes van het project.
+
+En dan tot slot, als ik klaar ben, sla ik het nieuwe bestand op en wacht op de volgende gebeurtenis. Tijdelijk kan ik fouten maken, maar met oefening raak ik het weer onder de knie. Zo gaat het proces steeds verder, en ik ben klaar voor de volgende uitdaging.
+
+Laten we zeggen dat ik een nieuwe waarde typen moet in de code. Ik klik ergens en voer de waarde in, terwijl ik denk aan de afkortingen die ik eerder heb gebruikt. Deze keer gebruik ik een andere methode om de code te structureren, zodat het makkelijker is om te begrijpen.
+
+En terwijl ik typ, merk ik dat het doel van deze uitdaging niet alleen is om de code te voltooien, maar ook om het begrijpelijk te maken voor anderen. Zodra een toepassing is opgeschort, kan ik tijdelijk aan een ander onderdeel werken, maar ik kom altijd terug om het af te maken.
+
+Ik zeg dat ik de wijzigingen zorgvuldig moet doorvoeren, want vinden en vervangen is foutgevoelig. Om dat op te lossen, gebruik ik hulpmiddelen die me helpen om op een paar verschillende plekken tegelijk wijzigingen aan te brengen. Het maakt niet uit hoe complex het is, ik blijf gefocust.
+
+Vervolgens heb ik een nieuwe functie toegevoegd an de bovenkant van de klasse, die tekenreeksen en gehele getallen kan verwerken. En dan boven de for loop heb ik extra controles geplaatst om fouten te voorkomen.
+
+Ik geef drie waarden door aan de functie, en dat roept de functie aan die de berekeningen uitvoert. Nu debug ik weer om te controleren of alles correct werkt. En ik druk op Control + Spatie om suggesties te krijgen terwijl ik codeer.
+
+Over het algemeen is het proces van coderen een combinatie van plannen, uitvoeren en aanpassen. Met slechts een paar wijzigingen kan ik grote verbeteringen bereiken. En dan tot slot, sla ik het nieuwe bestand op en bereid ik me voor op de volgende gebeurtenis.
+
+Ik klik ergens om een nieuwe gebeurtenis toe te voegen, en ik zorg ervoor dat alles klaar is voor de volgende stap. Tijdelijk kan ik fouten maken, maar met oefening raak ik het weer onder de knie. Zo gaat het proces steeds verder, en ik ben klaar voor de volgende uitdaging.
+
+2025-04-18 - vrijdag 18 april 2025
+
+>> Onze wandeling vanuit het noorden van Berlijn
+
+Mijn vrouw en ik zijn vanmorgen vroeg opgestaan. We aten snel een ontbijt en trokken vervolgens onze wandelschoenen aan. De wandelschoenen zijn nieuw en zitten erg comfortabel. Het trucje is dat je de veters niet te strak moet aantrekken. Toen liepen we naar het treinstation hier in de buurt. Het is niet zo ver hier vandaan, misschien hooguit twee kilometer. We hoefden hooguit 8 minuten op de trein te wachten. 
+
+Toen stapten we in de trein. We vonden snel een zitplaats. Gelukkig zaten er niet veel mensen in de trein. We reisden ongeveer acht haltes. Toen stapten we over op een andere trein. Maar we moesten twaalf minuten op die trein wachten. Hij kwam er eindelijk, maar volgens de digitale dienstregeling, die we boven de trein zagen, was hij precies op tijd.
+
+Het duurde iets meer dan een uur om onze eindbestemming te bereiken. We stonden aan het begin van een lange wandeling. Omdat de roltrap blijkbaar kapot was, liepen we de trap op. Daarna sloegen we linksaf om onze tocht te beginnen.
+
+Het duurde iets meer dan een uur om onze eindbestemming te bereiken. We stonden aan het begin van een lange wandeling. Omdat de roltrap blijkbaar kapot was, liepen we de trap op. Daarna sloegen we linksaf om onze tocht te beginnen.
+
+Eerst liepen we door straten van een wijk. Er waren bijna geen mensen op straat. Het was negen uur 's ochtends, maar het leek alsof iedereen nog sliep. We passeerden een man die aan zijn huis werkte. Hij was zeker meer dan 10 meter bij ons vandaan, maar toen hij ons zag, riep hij "goedemorgen!"
+
+We liepen nog een stukje door een lange straat en sloegen toen rechtsaf. Dat was het punt waar we het bos in gingen. Het is een groot bos in het noorden van Berlijn. Het was behoorlijk bewolkt en de lucht was niet warm, maar dat maakte het een fijne wandeling door het bos.
+
+We stopten even op een bankje. We schonken twee kopjes koffie in. De koffie was erg lekker, zoals meestal het geval is wanneer je buiten in de natuur koffie drinkt. Uiteindelijk bereikten we het treinstation waar we de trein naar huis namen.
+
+2025-04-12 - Zaterdag 12 april 2025
+
+>> Een lekker zaterdagontbijt
+
+Vandaag ben ik bij mijn nichtje gaan ontbijten. We waren er met z'n vijven. We aten allerlei soorten eten, waaronder wafels, yoghurt en broodjes. Na het ontbijt gingen we wandelen en hadden we veel gesprekken.
+
+Ik wist niet dat we door de tunnel konden lopen om zo op de rotonde te komen. We hebben ook een lange wandeling door het park gemaakt en zagen een heel kleurrijke eend. Ik ben blij dat het niet regende. Het was zonnig en mooi weer, al was het ook een beetje fris.
+
+>> Softwareontwikkeling en het belang van flexibele benaderingen
+
+In softwareontwikkeling kan ongelooflijk nuttig zijn om verschillende benaderingen te verkennen om een probleem op te lossen. Soms kies je voor oplossingen die snel werken, maar die op lange termijn niet altijd de beste keuze zijn. Maar dat is niet erg, zolang je bewust bent van de beperkingen. Bijvoorbeeld, bepaalde tools kunnen handig zijn, maar houd er rekening mee dat deze niet worden ondersteund in toekomstige versies van het systeem. Het is belangrijk om altijd voorbereid te zijn op veranderingen en alternatieven te overwegen die beter schaalbaar en toekomstbestendig zijn.
+
+2025-04-09 - Woensdag 9 april 2025
+
+>> Bezoek met mijn dochter
+
+Gisteren bezocht ik mijn dochter. We hebben over van alles gepraat. Ik gaf haar een paar boeken om te lezen.

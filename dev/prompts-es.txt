@@ -1,0 +1,914 @@
+- sigamos viendo (let's keep watching)
+- asimismo, podemos utilizar caracteres (likewise, we can use characters)
+- la marca de tiempo (the timestamp)
+- si la dejamos en blanco (if we leave it blank)
+- muestra la marca de tiempo (displays the timestamp)
+- cuando solicitamos datos (when we request data)
+- para subir de nivel (to level up)
+- el ahorro en líneas de código (saving lines of code)
+- esto quiere decir que (this means that)
+- se va a retrasar hasta que su valor sea requerido (will be delayed until its value is required)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "sigamos viendo", "asimismo, podemos utilizar caracteres", "la marca de tiempo", "si la dejamos en blanco", "muestra la marca de tiempo", "cuando solicitamos datos", "para subir de nivel", "el ahorro en líneas de código", "esto quiere decir que", "se va a retrasar hasta que su valor sea requerido"
+
+-------------------------------
+
+- nuestra fuente de datos (our data source)
+- una manera sumamente reducida (an extremely reduced manner)
+- reviso si la longitud es mayor que seis (I check if the length is greater than six)
+- qué fue lo que hice (what did I do)
+- con un ciclo "for" (with a "for" loop)
+- para poder conocer más acerca de (to be able to know more about)
+- por medio de practicas y ejercicios (through practices and exercises)
+- hoy en día (nowadays)
+- coincidencias de patrones (pattern matching)
+- profundizaremos en cada tema (we will go deeper into each topic)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "nuestra fuente de datos", "una manera sumamente reducida", "reviso si la longitud es mayor que seis", "qué fue lo que hice", "con un ciclo "for"", "para poder conocer más acerca de", "por medio de practicas y ejercicios", "hoy en día", "coincidencias de patrones", "profundizaremos en cada tema"
+
+-------------------------------
+
+- iremos más allá (we will go further)
+- lo que sucedió aqui es (what happened here is)
+- lo que extenderia aún mas sus capacidades (which would further extend its capabilities)
+- una función puede ser decorada por más de un decorador (a function can be decorated by more than one decorator)
+- you can make use of a decorator (puede hacer uso de un decorador)
+- en vez de dejar el número cinco por defecto (instead of leaving the number five by default)
+- pero qué pasaría si quisiéramos agregarle un parámetro (but what if we wanted to add a parameter to it)
+- la función recorrer ciclo (the loop function)
+- que itera sobre un rango de cinco (which iterates over a range of five)
+- que mide el tiempo (that measures time)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "iremos más allá", "lo que sucedió aqui es", "lo que extenderia aún mas sus capacidades", "una función puede ser decorada por más de un decorador", "you can make use of a decorator", "en vez de dejar el número cinco por defecto", "pero qué pasaría si quisiéramos agregarle un parámetro", "la función recorrer ciclo", "que itera sobre un rango de cinco", "que mide el tiempo"
+
+-------------------------------
+
+- cuanto más optimizado esté el código, mejor será el rendimiento (the more optimized the code is, the better the performance will be)
+- el tiempo que ha tardado (the time it took)
+- cuánto tiempo demoró la prueba (how long did the test take)
+- cuánto tiempo se demoró (how long it took)
+- cuando un software no recibe actualizaciones, se vuelve vulnerable a ataques (when software doesn't receive updates, it becomes vulnerable to attacks)
+- donde se vuelve a medir el tiempo (where time is measured again)
+- lo que indica que (which indicates that)
+- que se va a llamar 001 (which will be called 001)
+- no la función recibida sino la función wrapper (not the received function but the wrapper function)
+- en el siguiente código (in the following code)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "cuanto más optimizado esté el código, mejor será el rendimiento", "el tiempo que ha tardado", "cuánto tiempo demoró la prueba", "cuánto tiempo se demoró", "cuando un software no recibe actualizaciones, se vuelve vulnerable a ataques", "donde se vuelve a medir el tiempo", "lo que indica que", "que se va a llamar 001", "no la función recibida sino la función wrapper", "en el siguiente código"
+
+-------------------------------
+
+- patron de diseño (design pattern)
+- son aquellas que reciben una función como parámetro (are those that receive a function as a parameter)
+- si algo sale mal, vaya directamente al soporte técnico (if something goes wrong, go directly to tech support)
+- cada valor que se vaya agregando (each value that is added)
+- revisemos que si cumple con las condiciones (let's check if it meets the conditions)
+- y es ahí donde se van a guardar los elementos que sean agregadas (and that is where the items that are added will be saved)
+- que se encargue de agregar (to be responsible for adding)
+- para que sea un closure, debe haber una función anidada (for it to be a closure, there must be a nested function)
+- por lo tanto, tiene acceso a las variables (therefore, it has access to the variables)
+- ya que hemos visto qué es un scope (since we have seen what a scope is)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "patron de diseño", "son aquellas que reciben una función como parámetro", "si algo sale mal, vaya directamente al soporte técnico", "cada valor que se vaya agregando", "revisemos que si cumple con las condiciones", "y es ahí donde se van a guardar los elementos que sean agregadas", "que se encargue de agregar", "para que sea un closure, debe haber una función anidada", "por lo tanto, tiene acceso a las variables", "ya que hemos visto qué es un scope"
+
+-------------------------------
+
+- por fuera de cualquier función (outside of any function)
+- si el acceso remoto fuere denegado, intenta verificar si el servidor está fuera de línea (if remote access were denied, try to check if the server is offline)
+- por fuera de la función (outside the function)
+- al definir una variable (when defining a variable)
+- pertenece al scope local de esa función (belongs to the local scope of that function)
+- cualquier variable que sea creada (any variable that is created)
+- nos referimos a scope (we refer to scope)
+- nested functions (funciones anidadas)
+- antes de entender a qué hacemos referencia (before understanding what we are referring to)
+- Paco ha recorrido 20 unidades (Paco has traveled 20 units)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "por fuera de cualquier función", "si el acceso remoto fuere denegado, intenta verificar si el servidor está fuera de línea", "por fuera de la función", "al definir una variable", "pertenece al scope local de esa función", "cualquier variable que sea creada", "nos referimos a scope", "nested functions", "antes de entender a qué hacemos referencia", "Paco ha recorrido 20 unidades"
+
+-------------------------------
+
+- esta vez se ha impreso el número 20 (this time the number 20 has been printed)
+- cuyo constructor recibe nombre y edad (whose constructor receives name and age)
+- doble guion bajo al inicio y al final (double underscore at the beginning and end)
+- uno que pertenece a esto (one that belongs to this)
+- el código es un poco más legible y facíl de entender (the code is a little more readable and easier to understand)
+- ya que las clases heredadas pueden aprovechar funciones que ya existen en la clase padre (since inherited classes can take advantage of functions that already exist in the parent class)
+- es importante resaltar que (it is important to highlight that)
+- argumentos requeridos por la clase padre (arguments required by the parent class)
+- podemos sobrescribir las características (we can override the characteristics)
+- con la sentencia class (with the class statement)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "esta vez se ha impreso el número 20", "cuyo constructor recibe nombre y edad", "doble guion bajo al inicio y al final", "uno que pertenece a esto", "el código es un poco más legible y facíl de entender", "ya que las clases heredadas pueden aprovechar funciones que ya existen en la clase padre", "es importante resaltar que", "argumentos requeridos por la clase padre", "podemos sobrescribir las características", "con la sentencia class"
+
+-------------------------------
+
+- también cuenta con dos métodos (it also has two methods)
+- tienen métodos de la clase a partir de la cual son creadas (they have methods of the class from which they are created)
+- esta vez nos ha salido un error (this time we got an error)
+- nombre, apellido y edad (name, surname and age)
+- dependen del objeto que está siendo creado (they depend on the object being created)
+- y a esta le vamos a asignar el valor 5 (and we are going to assign the value 5 to this one)
+- que se están representando en el código (that are being represented in the code)
+- a través de los cuales se construyen los objetos (through which objects are constructed)
+- a esto se le llama almacenamiento en la nube (this is called cloud storage)
+- a esto se le dice código abierto (this is called open source)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "también cuenta con dos métodos", "tienen métodos de la clase a partir de la cual son creadas", "esta vez nos ha salido un error", "nombre, apellido y edad", "dependen del objeto que está siendo creado", "y a esta le vamos a asignar el valor 5", "que se están representando en el código", "a través de los cuales se construyen los objetos", "a esto se le llama almacenamiento en la nube", "a esto se le dice código abierto"
+
+-------------------------------
+
+- a esto se le llama machine learning (this is called machine learning)
+- las clases son los planos o plantillas (classes are plans or templates)
+- a esto se le conoce como métodos (these are known as methods)
+- por lo que (hence)
+- y se la suma al total (and add it to the total)
+- además, cada objeto tiene comportamientos (in addition, each object has behaviors)
+- al que se le conoce como clase (which is known as a class)
+- con los cuales vamos a trabajar (with which we will work)
+- es importante resaltar que (it is important to highlight that)
+- y ver qué es lo que sucedió (and see what happened)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "a esto se le llama machine learning", "las clases son los planos o plantillas", "a esto se le conoce como métodos", "por lo que", "y se la suma al total", "además, cada objeto tiene comportamientos", "al que se le conoce como clase", "con los cuales vamos a trabajar", "es importante resaltar que", "y ver qué es lo que sucedió"
+
+-------------------------------
+
+- lo corremos escribiendo mypy (we run it by typing mypy)
+- también vimos cómo escribir (we also saw how to write)
+- guión, mayor que (hyphen, greater-than)
+- entre corchetes (in brackets)
+- está compuesta de (it is composed of)
+- la siguiente lista de apellidos (the following list of surnames)
+- Python cuenta con la librería mypy (Python has the mypy library)
+- como si fuese tipado estático (as if it were statically typed)
+- conceptos relacionados al tipado de un lenguaje (concepts related to the typing of a language)
+- si hacemos clic en el botón (if we click on the button)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "lo corremos escribiendo mypy", "también vimos cómo escribir", "guión, mayor que", "entre corchetes", "está compuesta de", "la siguiente lista de apellidos", "Python cuenta con la librería mypy", "como si fuese tipado estático", "conceptos relacionados al tipado de un lenguaje", "si hacemos clic en el botón"
+
+-------------------------------
+
+- abramos la página de un curso (let's open a course page)
+- el manejo de bases de datos con un ORM (managing databases with an ORM)
+- en entornos laborales (in work environments)
+- abordaremos temas avanzados (we will cover advanced topics)
+- llevar tu habilidades en Python al siguiente nivel (take your Python skills to the next level)
+- estamos indicando que (we are indicating that)
+- con el tiempo que se ha demorado en ser ejecutado (with the time it has taken to be executed)
+- vamos a calcular cuánto se demora la petición (let's calculate how long the request takes)
+- el siempre debe hace tres cosas (he must always do three things)
+- esta se va encargar de hacer la petición (this will be in charge of making the request)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "abramos la página de un curso", "el manejo de bases de datos con un ORM", "en entornos laborales", "abordaremos temas avanzados", "llevar tu habilidades en Python al siguiente nivel", "estamos indicando que", "con el tiempo que se ha demorado en ser ejecutado", "vamos a calcular cuánto se demora la petición", "el siempre debe hace tres cosas", "esta se va encargar de hacer la petición"
+
+-------------------------------
+
+- vamos a implementarlo (let's implement it)
+- ya que si no se encuentra el id (since if the id is not found)
+- donde vamos a levantar una excepción (where we are going to raise an exception)
+- los códigos de estado que una API retorna (the status codes that an API returns)
+- lo podemos comprobar y este nos debería traer una lista (we can check it and it should bring us a list)
+- cuando corrimos el servidor, se ha creado un archivo llamada todo.db (when we ran the server, a file called todo.db was created)
+- que estamos etiquetando (that we are labeling)
+- vamos a usar la llave "id" (we are going to use the "id" key)
+- y que ya no pertenece a la sección default (and no longer belongs to the default section)
+- junto con atributo que acabamos de definir (along with attribute we just defined)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "vamos a implementarlo", "ya que si no se encuentra el id", "donde vamos a levantar una excepción", "los códigos de estado que una API retorna", "lo podemos comprobar y este nos debería traer una lista", "cuando corrimos el servidor, se ha creado un archivo llamada todo.db", "que estamos etiquetando", "vamos a usar la llave "id"", "y que ya no pertenece a la sección default", "junto con atributo que acabamos de definir"
+
+-------------------------------
+
+- con la ayuda de los tags (with the help of tags)
+- las comillas y las comas (the quotation marks and the commas)
+- dejamos las comillas vacias (we leave the empty quotes)
+- que les pertenezcan (that belong to them)
+- vamos a quitar los líneas que sobran (let's remove the extra lines)
+- y cambiamos app por router (and we change app for router)
+- señala un error (indicates an error)
+- esto, a su vez, permite que el proyecto sea más organizado (This, in turn, allows the project to be more organized)
+- vamos a pedir (let's ask)
+- no siempre es requerido que la petición recibe un body (it is not always required that the request receives a body)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "con la ayuda de los tags", "las comillas y las comas", "dejamos las comillas vacias", "que les pertenezcan", "vamos a quitar los líneas que sobran", "y cambiamos app por router", "señala un error", "esto, a su vez, permite que el proyecto sea más organizado", "vamos a pedir", "no siempre es requerido que la petición recibe un body"
+
+-------------------------------
+
+- para guardarlo (in order to save it)
+- lo guardaré más tarde (I will save that later)
+- está justo ahí (it's right there)
+- tan oscuro como puede ser (as dark as it can be)
+- haga clic en el botón (click on the button)
+- haga clic en el lado izquierdo (click on the left side)
+- por un lado (on the one hand)
+- puesto que lo consideramos un error (since we consider it an error)
+- retornaremos un error (we will return an error)
+- la información pasa por nuestra capa web antes de ser enviada al servidor (the information passes through our web layer before being sent to the server)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "para guardarlo", "lo guardaré más tarde", "está justo ahí", "tan oscuro como puede ser", "haga clic en el botón", "haga clic en el lado izquierdo", "por un lado", "puesto que lo consideramos un error", "retornaremos un error", "la información pasa por nuestra capa web antes de ser enviada al servidor"
+
+-------------------------------
+
+- incluyendo el valor (including the value)
+- el tiempo que ha transcurrido (the time that has elapsed)
+- lo primero que hace es obtener la hora actual (the first thing it does is get the current time)
+- que se encargue de contar las peticiones (that is in charge of counting the requests)
+- que se encargue de contar las peticiones [en-KAR-gay] (that is in charge of counting the requests)
+- aunque podríamos haber utilizado cualquier otro (although we could have used any other)
+- accedemos a la URL (we access the URL)
+- arranca el servidor en el puerto 8080 (start the server on port 8080)
+- de manera aislada (in isolation)
+- hará una petition (will make a request)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "incluyendo el valor", "el tiempo que ha transcurrido", "lo primero que hace es obtener la hora actual", "que se encargue de contar las peticiones", "que se encargue de contar las peticiones [en-KAR-gay]", "aunque podríamos haber utilizado cualquier otro", "accedemos a la URL", "arranca el servidor en el puerto 8080", "de manera aislada", "hará una petition"
+
+-------------------------------
+
+- devolverá la lista (it will return the list)
+- para probarlo (to test it)
+- por último (finally)
+- GitLab nos proporciona algunas variables (GitLab provides us with some variables)
+- almacenaré en la variable (I will store in the variable)
+- copia el texto de una sola vez, no lo escribe (he copies text in all at once, he doesn't type it)
+- entendemos por prompt (by prompt we understand)
+- puedes verlo en la última línea (you can see on the last line)
+- leeremos la respuesta (we will read the answer)
+- el directorio raíz (the root directory)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "devolverá la lista", "para probarlo", "por último", "GitLab nos proporciona algunas variables", "almacenaré en la variable", "copia el texto de una sola vez, no lo escribe", "entendemos por prompt", "puedes verlo en la última línea", "leeremos la respuesta", "el directorio raíz"
+
+-------------------------------
+
+- volveremos al tema (we will return to the subject)
+- que se engarga de hacer la petición a la API (which is responsible for making the request to the API)
+- en siguientes vídeos [see-g|ee-EN-tays] (in the following videos)
+- no sería mejor ser capaces de hacer algo así (wouldn't it be better to be able to do something like this)
+- decenas, cientos (tens, hundreds)
+- caja de texto (text box)
+- el ratón (the mouse)
+- mediante nuestro navegador (via our browser)
+- cómo podemos hacer para ver todos los mensajes (how can we see all the messages)
+- ya que la gorutina podría no tener tiempo suficiente (since the goroutine might not have enough time)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "volveremos al tema", "que se engarga de hacer la petición a la API", "en siguientes vídeos [see-g|ee-EN-tays]", "no sería mejor ser capaces de hacer algo así", "decenas, cientos", "caja de texto", "el ratón", "mediante nuestro navegador", "cómo podemos hacer para ver todos los mensajes", "ya que la gorutina podría no tener tiempo suficiente"
+
+-------------------------------
+
+- la palabra clave go (the keyword go)
+- para realizar tareas en segundo plano (to perform tasks in the background)
+- en un solo hilo de ejecución (in a single thread of execution)
+- una única vez, como esperábamos (just once, as we expected)
+- podemos asegurarnos que (we can ensure that)
+- esto se debe a que (this is because)
+- que dentro tiene las protecciones (that has the protections inside)
+- un contador y un contenedor (a counter and a container //comparison)
+- él trabaja como profesor pero no sabe cómo solucionar este problema (he works like a teacher but he doesn't know how to solve this problem //comparison)
+- vemos cómo utilizar (we see how to use)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "la palabra clave go", "para realizar tareas en segundo plano", "en un solo hilo de ejecución", "una única vez, como esperábamos", "podemos asegurarnos que", "esto se debe a que", "que dentro tiene las protecciones", "un contador y un contenedor", "él trabaja como profesor pero no sabe cómo solucionar este problema", "vemos cómo utilizar"
+
+-------------------------------
+
+- un recurso compartido (a shared resource)
+- un conjunto de primitivas (a set of primitives)
+- en lugar de escribir este código (instead of writing this code)
+- operaciones costosas (expensive operations)
+- operaciones costosas (expensive operations)
+- un solo hilo (a single thread)
+- de esta manera, podemos asegurarnos que todas las gorutinas hayan finalizado (this way we can make sure that all goroutines have finished)
+- un valor entero (an integer value)
+- el recurso compartido puede ser una variable (the shared resource can be a variable)
+- condiciones de carrera (race conditions)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "un recurso compartido", "un conjunto de primitivas", "en lugar de escribir este código", "operaciones costosas", "operaciones costosas", "un solo hilo", "de esta manera, podemos asegurarnos que todas las gorutinas hayan finalizado", "un valor entero", "el recurso compartido puede ser una variable", "condiciones de carrera"
+
+-------------------------------
+
+- ya que puede llevar a un acoplamiento excesivo (as it can lead to over coupling)
+- el único que falla (the only one that fails)
+- tras el cual se cancelerá el contexto (after which the context will be cancelled)
+- la cadena de texto (the text string)
+- vamos a aseguarnos que (let's make sure that)
+- cuando se cumpla este tiempo (when this time is up)
+- treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa (thirty, forty, fifty, sixty, seventy, eighty, ninety)
+- el desayuno, el almuerzo, la cena (the breakfast, the lunch, the dinner)
+- veámoslo con diferentes ejemplos (let's look at this with different examples)
+- que comienza cuando se crea (which begins when it is created)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "ya que puede llevar a un acoplamiento excesivo", "el único que falla", "tras el cual se cancelerá el contexto", "la cadena de texto", "vamos a aseguarnos que", "cuando se cumpla este tiempo", "treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa", "el desayuno, el almuerzo, la cena", "veámoslo con diferentes ejemplos", "que comienza cuando se crea"
+
+-------------------------------
+
+- liberando recursos si fuera necesario [gr. subjunctive imperfect 1] (freeing up resources if necessary)
+- pudiendo definir un tiempo para cancelar la operación (being able to define a time to cancel the operation)
+- como hemos visto (as we have seen)
+- la variable habrá sido modificada (the variable will have been modified)
+- se aplicarán a la struct (will be applied to the struct)
+- este puntero apuntará a la dirección de memoria del valor (this pointer will point to the memory address of the value)
+- vamos a almacenar el valor 17 (let's store the value 17)
+- un valor de tipo entero (an integer value)
+- quedando el código mucho más limpio (leaving the code much cleaner)
+- veámoslo con un ejemplo (let's see this in an example)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "liberando recursos si fuera necesario [gr. subjunctive imperfect 1]", "pudiendo definir un tiempo para cancelar la operación", "como hemos visto", "la variable habrá sido modificada", "se aplicarán a la struct", "este puntero apuntará a la dirección de memoria del valor", "vamos a almacenar el valor 17", "un valor de tipo entero", "quedando el código mucho más limpio", "veámoslo con un ejemplo"
+
+-------------------------------
+
+- si hubiera algún error [gr. subjunctive imperfect 1] (if there is any error)
+- cada una de las cuales modifica un campo (each of which modifies a field)
+- una función que recibe un puntero (a function that receives a pointer)
+- qué valor corresponde a qué campo (which value corresponds to which field)
+- si añadiésimos nuevos campos [gr. subjunctive imperfect 2] (if we were to add new fields)
+- su amplia gama de paquetes (its wide range of packages)
+- Go pone un fuerte énfasis en las pruebas (Go places a strong emphasis on testing)
+- firmas digitales (digital signatures)
+- la librería proporciona muchas herramientas útiles (the library provides many useful tools)
+- en gran medida (to a large extent)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "si hubiera algún error [gr. subjunctive imperfect 1]", "cada una de las cuales modifica un campo", "una función que recibe un puntero", "qué valor corresponde a qué campo", "si añadiésimos nuevos campos [gr. subjunctive imperfect 2]", "su amplia gama de paquetes", "Go pone un fuerte énfasis en las pruebas", "firmas digitales", "la librería proporciona muchas herramientas útiles", "en gran medida"
+
+-------------------------------
+
+- alto rendimiento (high performance)
+- la librería está altamente optimizada (the library is highly optimized)
+- manejo de archivos (file management)
+- por encima del paquete actual (above the current package)
+- de tal modo que (in such a way that)
+- capas más altas de la aplicación (higher layers of the application)
+- por tanto (therefore)
+- por debajo de él (below it)
+- tales como (such as)
+- código despliegue [des-SPLEE-gay] (deployment code)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "alto rendimiento", "la librería está altamente optimizada", "manejo de archivos", "por encima del paquete actual", "de tal modo que", "capas más altas de la aplicación", "por tanto", "por debajo de él", "tales como", "código despliegue [des-SPLEE-gay]"
+
+-------------------------------
+
+- veámoslo con un pequeño ejemplo (let's look at it with a small example)
+- y por último, quiero destacar el directorio de pruebas (and finally, I want to highlight the test directory)
+- desde fuera del proyecto (from outside the project)
+- [say ehm-MAY day] (pr. cmd)
+- podemos encontrarlo en el repositorio (we can find it in the repository)
+- un conjunto de patrones de organización (a set of organizational patterns)
+- nuestra jerarquía (our hierarchy)
+- lo cual nos ayuda (which helps us)
+- lo cual es un error (which is a mistake)
+- aunque parece tener sentido (although it seems to make sense)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "veámoslo con un pequeño ejemplo", "y por último, quiero destacar el directorio de pruebas", "desde fuera del proyecto", "[say ehm-MAY day]", "podemos encontrarlo en el repositorio", "un conjunto de patrones de organización", "nuestra jerarquía", "lo cual nos ayuda", "lo cual es un error", "aunque parece tener sentido"
+
+-------------------------------
+
+- por ello (for this reason)
+- de tal forma de (in such a way that)
+- ámbito interno del paquete (internal scope of the package)
+- tendremos que exponer las funciones (we will have to expose the functions)
+- ya que es un detalle de implementación (since it is an implementation detail)
+- lo estamos ocultando a propósito (we are hiding it on purpose)
+- colocar los archivos en ese directorio (place the files in that directory)
+- cobertura de código (code coverage)
+- es solo el principio (it's just the beginning)
+- te sumergirás en el código (you will immerse yourself in the code)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "por ello", "de tal forma de", "ámbito interno del paquete", "tendremos que exponer las funciones", "ya que es un detalle de implementación", "lo estamos ocultando a propósito", "colocar los archivos en ese directorio", "cobertura de código", "es solo el principio", "te sumergirás en el código"
+
+-------------------------------
+
+- brindarte una comprensión (provide you with an understanding)
+- vas a empezar (you are going to start)
+- rendimiento optimizado (optimized performance)
+- nuevas alturas (new heights)
+- tiempo de espera agotado (timed out)
+- pero si la conexión fuera exitosa (but if the connection was successful)
+- tenemos el siguiente servidor (we have the following server)
+- se ve medio raro (it looks kind of weird)
+- nos han solicitado devolver por medio de un servicio la information de una clienta (we have been asked to return a client's information through a service)
+- recurso no encontrado (resource not found)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "brindarte una comprensión", "vas a empezar", "rendimiento optimizado", "nuevas alturas", "tiempo de espera agotado", "pero si la conexión fuera exitosa", "tenemos el siguiente servidor", "se ve medio raro", "nos han solicitado devolver por medio de un servicio la information de una clienta", "recurso no encontrado"
+
+-------------------------------
+
+- voy a irme a mi código (I'm going to go to my code)
+- si hubiera un error (if there was an error)
+- cada solicitud que llegue a la ruta (each request that arrives on the route)
+- luego de esto (after this)
+- lo primero que vamos hacer es (the first thing we are going to do is)
+- sumar, restar y multiplicar (add, subtract and multiply)
+- sabes algo al respecto (do you know anything about it)
+- hagamos la prueba (let's do the test)
+- vemos cómo podemos crear un servidor web (we look at how we can create a web server)
+- un framework web de alto rendimiento (a high performance web framework)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "voy a irme a mi código", "si hubiera un error", "cada solicitud que llegue a la ruta", "luego de esto", "lo primero que vamos hacer es", "sumar, restar y multiplicar", "sabes algo al respecto", "hagamos la prueba", "vemos cómo podemos crear un servidor web", "un framework web de alto rendimiento"
+
+-------------------------------
+
+- si hubiera un error (if there was an error)
+- él permite formatear la salida con sangrías (it allows you to format the output with indents)
+- enviamos la consulta (we send the query)
+- vamos a irnos al código (let's go to the code)
+- la información que venga en esta parámetro (the information that comes in this parameter)
+- después del signo de pregunta (after the question mark)
+- a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _ (pr. alphabet, letters with standard pronunciations)
+- f = EFF-ay, g = HEH, h = AH-chah, j = HOH-ta, l = ELL-ay, m = EM-ay, n = EN-ay, n = EN-yeh, r = ERR-ay, s = ESS-ay, v = OO-veh, w = oo-veh-DUB-lay, x = EK-ees, y = ee-grey-EGG-ah, z = SET-ah (pr. alphabet, letters with different pronuncations)
+- cada %v va a ser sustituido por un valor de nuestro mapa (each %v will be replaced by a value from our map)
+- y nuestro deseo es lo convertirlo en un string (and our wish is to turn it into a string)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "si hubiera un error", "él permite formatear la salida con sangrías", "enviamos la consulta", "vamos a irnos al código", "la información que venga en esta parámetro", "después del signo de pregunta", "a, b, c, d, e, _, _, _, i, _, k, _, _, _, _, o, p, q, _, _, t, u, _, _, _, _, _", "f = EFF-ay, g = HEH, h = AH-chah, j = HOH-ta, l = ELL-ay, m = EM-ay, n = EN-ay, n = EN-yeh, r = ERR-ay, s = ESS-ay, v = OO-veh, w = oo-veh-DUB-lay, x = EK-ees, y = ee-grey-EGG-ah, z = SET-ah", "cada %v va a ser sustituido por un valor de nuestro mapa", "y nuestro deseo es lo convertirlo en un string"
+
+-------------------------------
+
+- divididos en cinco grupos separados por guiones (divided into five groups separated by hyphens)
+- vamos a recorrer el slice por medio de un for (we are going to go through the slice using a for loop)
+- por lo que deseamos lo eliminar del slice (so we want to remove it from the slice)
+- doy das da damos dais dan (conj. dar present)
+- di diste dio dimos disteis dieron (conj.dar preterite)
+- sin embargo, nos dimos cuenta que el día jueves es feriado (however, we realized that Thursday is a holiday)
+- y le doy clic en Enviar (and I click on Send)
+- me aseguro que sea un método POST (I make sure it is a POST method)
+- vamos a setear el header (let's set the header)
+- donde indicamos que hubo un error (where we indicate that there was an error)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "divididos en cinco grupos separados por guiones", "vamos a recorrer el slice por medio de un for", "por lo que deseamos lo eliminar del slice", "doy das da damos dais dan", "di diste dio dimos disteis dieron", "sin embargo, nos dimos cuenta que el día jueves es feriado", "y le doy clic en Enviar", "me aseguro que sea un método POST", "vamos a setear el header", "donde indicamos que hubo un error"
+
+-------------------------------
+
+- por medio de un error (by means of an error)
+- pero si todo es exitoso (but if everything is successful)
+- en caso de que existiera un error (in case there was an error)
+- esto nos ayuda a desempaquetar los elementos (this helps us unpack the elements)
+- para comprobar si guardamos el archivo (to check if we saved the file)
+- caso contrario vamos a indicar que no existe (otherwise we will indicate that it does not exist)
+- y entre paréntesis cuadrados (and in square brackets)
+- veamos en el caso de React (let's see in the case of React)
+- veo, ves, ve, vemos, veis, ven (conj. ver present)
+- vi viste vio vimos visteis vieron (conj. ver preterite)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "por medio de un error", "pero si todo es exitoso", "en caso de que existiera un error", "esto nos ayuda a desempaquetar los elementos", "para comprobar si guardamos el archivo", "caso contrario vamos a indicar que no existe", "y entre paréntesis cuadrados", "veamos en el caso de React", "veo, ves, ve, vemos, veis, ven", "vi viste vio vimos visteis vieron"
+
+-------------------------------
+
+- tiene asociada un nombre (it has a name associated with it)
+- dos numeros enteros (two integers)
+- lo que vamos a hacer es colocar una declaración if aquí (what we are going to do is place an if-statement here)
+- el apellido (the last name)
+- tal vez no recordemos el nombre (we may not remember the name)
+- le restamos 1 (we subtract 1)
+- hagamos eso (let's do that)
+- lo podemos hacer por medio del índice (we can do it through the index)
+- dado que esta será al que se le entregue el premio (since this will be the one to whom the prize will be awarded)
+- nos hemos dado cuenta que hubo un error (we have realized that there was a mistake)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "tiene asociada un nombre", "dos numeros enteros", "lo que vamos a hacer es colocar una declaración if aquí", "el apellido", "tal vez no recordemos el nombre", "le restamos 1", "hagamos eso", "lo podemos hacer por medio del índice", "dado que esta será al que se le entregue el premio", "nos hemos dado cuenta que hubo un error"
+
+-------------------------------
+
+- los números ganadores de una rifa (the winning numbers of a raffle)
+- cuando desconozcas la cantidad de argumentos (when you don't know the amount of arguments)
+- para recorrer este arreglo de string (to loop through this string array)
+- en caso de que pase (in case it happens)
+- esto se debe a que puede ser posible que la cadena no sea un número válido. (this is because it may be possible that the string is not a valid number)
+- eso se puede hacer para que los datos sean compatibles (this can be done to make the data compatible)
+- vamos a darle Enter (let's hit Enter)
+- las comillas dobles (double quotes)
+- colocamos un backtick adelante y al final (we place a backtick in front and at the end)
+- hemos logrado nuestro objetivo (we have achieved our goal)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "los números ganadores de una rifa", "cuando desconozcas la cantidad de argumentos", "para recorrer este arreglo de string", "en caso de que pase", "esto se debe a que puede ser posible que la cadena no sea un número válido.", "eso se puede hacer para que los datos sean compatibles", "vamos a darle Enter", "las comillas dobles", "colocamos un backtick adelante y al final", "hemos logrado nuestro objetivo"
+
+-------------------------------
+
+- como parte de la tarea (as part of the task)
+- en el asunto tenemos (in the matter we have)
+- nos han solicitado enviar un correo electrónico (we have been asked to send an email)
+- la solución desafíos comunes (the solution to common challenges)
+- aunque quizás te hayas encontrado con retos (although you may have encountered challenges)
+- te surgen dudas (you have doubts)
+- te ha pasado que mientras estás programando (has it happened to you that while you are programming)
+- siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1] (whenever we returned an error previously)
+- como era de esperar, tenemos un error (as expected, we have an error)
+- esta vez, deberíamos recibir la respuesta correcta [gr. present conditional] (this time, we should get the correct answer)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "como parte de la tarea", "en el asunto tenemos", "nos han solicitado enviar un correo electrónico", "la solución desafíos comunes", "aunque quizás te hayas encontrado con retos", "te surgen dudas", "te ha pasado que mientras estás programando", "siempre que devolviéramos un error anteriormente [gr. subjunctive imperfect 1]", "como era de esperar, tenemos un error", "esta vez, deberíamos recibir la respuesta correcta [gr. present conditional]"
+
+-------------------------------
+
+- deberíamos ver el mensaje [gr. present conditional] (we should see the message)
+- tareas comunes como el conteo de peticiones (common tasks such as counting requests)
+- solemos ejecutar nuestros programas directamente desde el código fuente (we usually run our programs directly from the source code)
+- en el que se vayan a ejecutar [gr. subjunctive present] (in which they are going to be executed)
+- partamos de una pequeña aplicación (let's start with a small application)
+- pero no podemos entregarla así al usuario (but we can't deliver it to the user like this)
+- puesto que le estaríamos obligando a instalar Go [gr. present conditional] (since we would be forcing him to install Go)
+- Go destaca por el pequeño tamaño de sus binarios (Go stands out for the small size of its binaries)
+- al haberlo construido en nuestra máquina (having built it on our machine)
+- como vemos, se va a generar los binarios (as we see, the binaries will be generated)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "deberíamos ver el mensaje [gr. present conditional]", "tareas comunes como el conteo de peticiones", "solemos ejecutar nuestros programas directamente desde el código fuente", "en el que se vayan a ejecutar [gr. subjunctive present]", "partamos de una pequeña aplicación", "pero no podemos entregarla así al usuario", "puesto que le estaríamos obligando a instalar Go [gr. present conditional]", "Go destaca por el pequeño tamaño de sus binarios", "al haberlo construido en nuestra máquina", "como vemos, se va a generar los binarios"
+
+-------------------------------
+
+- para que sea capaz (so that it is capable)
+- este proceso tardará un tiempo (this process will take some time)
+- en gran medida (to a large extent)
+- el archivo se sobrescribirá (the file will be overwritten)
+- explicártelo un poco más adelante (I'll explain it to you a little later)
+- déjeme guardarlo (let me save it)
+- así es como lo hace (this is how you do it)
+- me gusta esa estandár porque (I like that standard because)
+- qué se trata esta función y qué hace (what this function is about and what it does)
+- por lo que debemos proporcionar ese nombre (so we need to provide that name)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "para que sea capaz", "este proceso tardará un tiempo", "en gran medida", "el archivo se sobrescribirá", "explicártelo un poco más adelante", "déjeme guardarlo", "así es como lo hace", "me gusta esa estandár porque", "qué se trata esta función y qué hace", "por lo que debemos proporcionar ese nombre"
+
+-------------------------------
+
+- puesto que podemos obtener metadatos (since we can get metadata)
+- en vez de definir el archivo (instead of defining the file)
+- entrega una código 404 (delivers a 404 code)
+- el elemento asociado al archivo que se quiere subir (the element associated with the file you want to upload)
+- cuyo nombre será almacenado (whose name will be stored)
+- servicio de almacenamiento (storage service)
+- puesto que lo que queremos ver es su funcionamiento (since what we want to see is how it works)
+- la función se va a llamar (the function is going to be called)
+- debemos esperar que la instrucción se cumple (we must wait for the instruction to be fulfilled)
+- puesto que la función solo retorna un diccionario (since the function only returns a dictionary)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "puesto que podemos obtener metadatos", "en vez de definir el archivo", "entrega una código 404", "el elemento asociado al archivo que se quiere subir", "cuyo nombre será almacenado", "servicio de almacenamiento", "puesto que lo que queremos ver es su funcionamiento", "la función se va a llamar", "debemos esperar que la instrucción se cumple", "puesto que la función solo retorna un diccionario"
+
+-------------------------------
+
+- otra puede estar siendo procesada al mismo tiempo (another may be being processed at the same time)
+- que a sido creada (that has been created)
+- y por ende (and therefore)
+- en el que se pone (in which it is placed)
+- que se encarga de crear los elementos (which is responsible for creating the elements)
+- para probar el modelo (to test the model)
+- que hace parte del body (that is part of the body)
+- y los agregue a la lista de elementos (and add them to the list of items)
+- suelen recibir datos a través del body (they usually receive data through the body)
+- dejaremos estos configurados como están (we will leave these set as they are)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "otra puede estar siendo procesada al mismo tiempo", "que a sido creada", "y por ende", "en el que se pone", "que se encarga de crear los elementos", "para probar el modelo", "que hace parte del body", "y los agregue a la lista de elementos", "suelen recibir datos a través del body", "dejaremos estos configurados como están"
+
+-------------------------------
+
+- que nos entrega la petición (who delivers the request to us)
+- no deben ser entregadas por un endpoint (they should not be delivered by an endpoint)
+- quinientos (five hundred)
+- estos parámetros llegan como parte de la ruta (these parameters come as part of the route)
+- será como hubiéramos enviado un None (it will be as if we had sent a None)
+- si lo dejamos vacío (if we leave it empty)
+- sino que debemos escribirlo (but we must write it)
+- ya no nos salen opciones (we no longer have options)
+- que ya hayan sido completados (that have already been completed)
+- un valor asignado (an assigned value)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "que nos entrega la petición", "no deben ser entregadas por un endpoint", "quinientos", "estos parámetros llegan como parte de la ruta", "será como hubiéramos enviado un None", "si lo dejamos vacío", "sino que debemos escribirlo", "ya no nos salen opciones", "que ya hayan sido completados", "un valor asignado"
+
+-------------------------------
+
+- más adelante en este curso (later in this course)
+- ninguno de los dos cumple con el objetivo (neither of them meets the objective)
+- ya que este endpoint (since this endpoint)
+- el endpoint permite el envío y el recepción de datos (the endpoint allows the sending and receiving of data)
+- se recomienda tener una estructura definida (it is recommended to have a defined structure)
+- ya que esta documentación es interactiva (since this documentation is interactive)
+- en caso de haberlos (if there are any)
+- se desplegará la information (the information will be displayed)
+- al darle clic a este recuadro (by clicking on this box)
+- seguido vemos la ruta del endpoint (next we see the endpoint route)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "más adelante en este curso", "ninguno de los dos cumple con el objetivo", "ya que este endpoint", "el endpoint permite el envío y el recepción de datos", "se recomienda tener una estructura definida", "ya que esta documentación es interactiva", "en caso de haberlos", "se desplegará la information", "al darle clic a este recuadro", "seguido vemos la ruta del endpoint"
+
+-------------------------------
+
+- si le damos clic, abrirá el archivo (if we click on it, it will open the file)
+- que apunta al archivo (which points to the file)
+- justo debajo del titulo encontramos una url (just below the title we find a url)
+- primero nos encontramos con el nombre de la API (first we come across the API name)
+- guión, guión, reload (pr. --reload)
+- lo corremos ejecutando el comando (we run it by executing the command)
+- la solución que tenemos creada (the solution we have created)
+- a medida que crece (as it grows)
+- alto rendimiento (high performance)
+- no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel (don't miss the opportunity to take your skills to the next level)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "si le damos clic, abrirá el archivo", "que apunta al archivo", "justo debajo del titulo encontramos una url", "primero nos encontramos con el nombre de la API", "guión, guión, reload", "lo corremos ejecutando el comando", "la solución que tenemos creada", "a medida que crece", "alto rendimiento", "no te pierdas la oportunidad de llevar tus habilidades al siguiente nivel"
+
+-------------------------------
+
+- es bastante parecida a esta herramientas (it is quite similar to this tool)
+- que provee GitLab (that GitLab provides)
+- la responsabilidad de cada una de ellas (the responsibility of each of them)
+- y ver dónde se producen los cambios (and see where the changes occur)
+- lo primero que nos puede venir a la cabeza (the first thing that may come to mind)
+- un montón de ramas (a bunch of branches)
+- vais a llegar a este tipo de dibujos (you will get to this kind of drawings)
+- cualquier persona que tuviera todavía un repositorio descargado (anyone who still had a downloaded repository)
+- en caso de que se perdiera el servidor (in case the server was lost)
+- para subirlas luego más tarde (to upload them later)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "es bastante parecida a esta herramientas", "que provee GitLab", "la responsabilidad de cada una de ellas", "y ver dónde se producen los cambios", "lo primero que nos puede venir a la cabeza", "un montón de ramas", "vais a llegar a este tipo de dibujos", "cualquier persona que tuviera todavía un repositorio descargado", "en caso de que se perdiera el servidor", "para subirlas luego más tarde"
+
+-------------------------------
+
+- las ventanas y las ventajas (the windows and the advantages)
+- est tiene ciertas ventajas (this has certain advantages)
+- de tal manera que (in such a way that)
+- si el servidor se cae (if the server goes down)
+- los problemas de rendimiento (performance issues)
+- podías ir adelante y atrás (you could go forward and backward)
+- almacenaba en una base de datos (stored in a database)
+- e iba revisando las versiones (and I was checking the versions)
+- habrá mucha gente de la que conocéis que (there will be many people you know who)
+- las siglas de (the initials of)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "las ventanas y las ventajas", "est tiene ciertas ventajas", "de tal manera que", "si el servidor se cae", "los problemas de rendimiento", "podías ir adelante y atrás", "almacenaba en una base de datos", "e iba revisando las versiones", "habrá mucha gente de la que conocéis que", "las siglas de"
+
+-------------------------------
+
+- OO-vay-say-ESS-ay (pr. VCS)
+- un servicio web gratuito o de pago (a free or paid web service)
+- tu código fuente (your source code)
+- aquellos que quieran tener un respaldo de su trabajo (those who want to have a backup of their work)
+- combiémoslo a no (let's change it to no)
+- algo muy común que se puede hacer (a very common thing to do)
+- así que echemos un vistazo al archivo readme (so let's take a look at the readme file)
+- una vez descargado, puedes iniciar el programa (once downloaded, you can start the program)
+- para retroceder un paso (to take a step back)
+- iremos a una nueva línea (we will go to a new line)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "OO-vay-say-ESS-ay", "un servicio web gratuito o de pago", "tu código fuente", "aquellos que quieran tener un respaldo de su trabajo", "combiémoslo a no", "algo muy común que se puede hacer", "así que echemos un vistazo al archivo readme", "una vez descargado, puedes iniciar el programa", "para retroceder un paso", "iremos a una nueva línea"
+
+-------------------------------
+
+- si vas al menu desplegable en la parte superior izquierda (if you go to the drop-down menu on the top left)
+- el texto todavía no aparece en la historia (the text does not yet appear in the story)
+- esto se debe a que necesitamos activarlo (this is because we need to activate it)
+- como habrás adivinado (as you may have guessed)
+- no hay nada más que mostrar (there is nothing more to show)
+- ahora pasemos a la terminal (now let's move onto the terminal)
+- va a devolver un resultado (will return a result)
+- solo para dar un ejemplo (just to give an example)
+- a continuación, agreguemos una variable (next, let's add a variable)
+- la variable no se puede cambiar después de haber sido declarada por primera vez (the variable cannot be changed after it has been declared for the first time)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "si vas al menu desplegable en la parte superior izquierda", "el texto todavía no aparece en la historia", "esto se debe a que necesitamos activarlo", "como habrás adivinado", "no hay nada más que mostrar", "ahora pasemos a la terminal", "va a devolver un resultado", "solo para dar un ejemplo", "a continuación, agreguemos una variable", "la variable no se puede cambiar después de haber sido declarada por primera vez"
+
+-------------------------------
+
+- a medida que la historia crece, es posible que desees hacer cosas (as the story grows, you may want to do things)
+- la buena noticia es que ink no tiene limitaciones (the good news is that ink has no limitations)
+- esto significa que puede manejar cualquier carácter (this means that it can handle any character)
+- esto es algo que debes tener en cuenta (this is something you should keep in mind)
+- de todos modos, dale me gusta para que más personas lo vean (anyway, please give it a like so more people can see it)
+- pero sobre todo espero que esto haya sido ùtil (but above all I hope this has been useful)
+- queremos agregar autenticación (we want to add authentication)
+- seguridad y almacenamiento (security and storage)
+- compruébalo (check it out)
+- crea tu propio trabajo desde cero (create your own work from scratch)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "a medida que la historia crece, es posible que desees hacer cosas", "la buena noticia es que ink no tiene limitaciones", "esto significa que puede manejar cualquier carácter", "esto es algo que debes tener en cuenta", "de todos modos, dale me gusta para que más personas lo vean", "pero sobre todo espero que esto haya sido ùtil", "queremos agregar autenticación", "seguridad y almacenamiento", "compruébalo", "crea tu propio trabajo desde cero"
+
+-------------------------------
+
+- a medida que tu sitio crece (as your site grows)
+- así que si estás listo (so if you are ready)
+- vi, viste, vio, vimos, visteis, vieron (conj. ver preterite)
+- veo, ves, ve, vemos, veis, ven (conj. ver present)
+- una vez que hayas creado tu cuenta, haz lo siguiente (once you have created your account, do the following)
+- no sé qué hacer (I don't know what to do)
+- pedí, pediste, pidió, pedimos, pidisteis, pidieron (conj. pedir preterite)
+- pido, pides, pide, pedimos, pedís, piden (conf. pedir present)
+- tu nombre y apellido (your name and surname)
+- que te guiará a través de un tutorial sencillo (that will guide you through a simple tutorial)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "a medida que tu sitio crece", "así que si estás listo", "vi, viste, vio, vimos, visteis, vieron", "veo, ves, ve, vemos, veis, ven", "una vez que hayas creado tu cuenta, haz lo siguiente", "no sé qué hacer", "pedí, pediste, pidió, pedimos, pidisteis, pidieron", "pido, pides, pide, pedimos, pedís, piden", "tu nombre y apellido", "que te guiará a través de un tutorial sencillo"
+
+-------------------------------
+
+- eso suena un poco raro (that sounds a little strange)
+- por que haríamos eso (why would we do that)
+- como punto de partida (as a starting point)
+- por ahora, ten en cuenta que (for now, keep in mind that)
+- en el costado (on the side)
+- voy a guiarte a través de todo (I'll guide you through everything)
+- en gran medida (to a large extent)
+- entrega continua (continuous delivery)
+- así que echemos un vistazo el proceso general (so let's take a look at the general process)
+- es consta de las siguientes partes (it consists of the following parts)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "eso suena un poco raro", "por que haríamos eso", "como punto de partida", "por ahora, ten en cuenta que", "en el costado", "voy a guiarte a través de todo", "en gran medida", "entrega continua", "así que echemos un vistazo el proceso general", "es consta de las siguientes partes"
+
+-------------------------------
+
+- brindemos por el desarrollo de software (let's drink to software development)
+- Este concepto ayuda a enfatizar (this concept helps to emphasize)
+- se supone que (it is assumed that)
+- esto se debe a que es muy difícil distinguir (this is because it is very difficult to distinguish)
+- desarrollador de aplicaciones (app developer)
+- probando una corazonada (testing a hunch)
+- pruebo una corazonada (I'm testing a hunch)
+- la otra cosa que sucede (the other thing that happens)
+- trabajar de un lado de otro (work back and forth)
+- dejaremos estos sin establecer (we will leave these unset)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "brindemos por el desarrollo de software", "Este concepto ayuda a enfatizar", "se supone que", "esto se debe a que es muy difícil distinguir", "desarrollador de aplicaciones", "probando una corazonada", "pruebo una corazonada", "la otra cosa que sucede", "trabajar de un lado de otro", "dejaremos estos sin establecer"
+
+-------------------------------
+
+- un par de cosas que quiero señalar (a couple of things I want to point out)
+- una rama llamada main (a branch called main)
+- tómate un par de minutos y (take a couple of minutes and)
+- no cubriremos en este curso (we will not cover in this course)
+- haga clic en la pestaña (click on the tab)
+- en el siglo pasado (in the last century)
+- meel NOH-vay see-EN-troh TRAYN-tah (pr. 1930)
+- ambos enfoques (both approaches)
+- debido al delta (due to the delta)
+- es bastante fácil averiguar (it's pretty easy to find out)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "un par de cosas que quiero señalar", "una rama llamada main", "tómate un par de minutos y", "no cubriremos en este curso", "haga clic en la pestaña", "en el siglo pasado", "meel NOH-vay see-EN-troh TRAYN-tah", "ambos enfoques", "debido al delta", "es bastante fácil averiguar"
+
+-------------------------------
+
+- si alguna vez has visto un documental (if you have ever seen a documentary)
+- cada capa de prueba (each layer of testing)
+- el siguiente nivel (the next level)
+- sería bueno averiguarlo (it would be nice to find out)
+- esa inversión amortizará muchos veces (that investment will pay for itself many times over)
+- así que echemos un vistazo (so let's take a look)
+- debajo de la imagen (below the image)
+- algo comienza a suceder (something starts to happen)
+- así que podemos seguir adelante (so we can move on)
+- llegué a esta página navegando (I got to this page by browsing)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "si alguna vez has visto un documental", "cada capa de prueba", "el siguiente nivel", "sería bueno averiguarlo", "esa inversión amortizará muchos veces", "así que echemos un vistazo", "debajo de la imagen", "algo comienza a suceder", "así que podemos seguir adelante", "llegué a esta página navegando"
+
+-------------------------------
+
+- regresemos (let's go back)
+- puede ser tentador crear (it may be tempting to create)
+- y borraré algunos de estos comentarios (and I will delete some of these comments)
+- no hicimos nada con él (we didn't do anything with it)
+- solo sigue exactamente lo que hago y deberías estar bien (just follow exactly what I do and you should be fine)
+- voy a usarlo para pegar algo de texto en el cuadro de entrada (I am going to use it to paste some text into the input box)
+- asegúrate de guardarlos porque de lo contrario los perderás (make sure you save them because otherwise you will lose them)
+- tendrás de regenerarlo (you will have to regenerate it)
+- querrás copiar esta contraseña (you'll want to copy this password)
+- puedes repetir los pasos (you can repeat the steps)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "regresemos", "puede ser tentador crear", "y borraré algunos de estos comentarios", "no hicimos nada con él", "solo sigue exactamente lo que hago y deberías estar bien", "voy a usarlo para pegar algo de texto en el cuadro de entrada", "asegúrate de guardarlos porque de lo contrario los perderás", "tendrás de regenerarlo", "querrás copiar esta contraseña", "puedes repetir los pasos"
+
+-------------------------------
+
+- y luego desplácese hacia abajo y luego hacia arriba (and then scroll down and then back up)
+- y tendremos que marcar esta casilla (and we will have to check this box)
+- necesitaremos agregar algunos permisos (we will need to add some permissions)
+- necesitamos permitir al usuario cargar archivos (we need to allow the user to upload files)
+- está justo aquí (it's right here)
+- lo guardé antes (I saved that earlier)
+- para todo lo demás (for everything else)
+- volveremos a nuestro proyecto (we will return to our project)
+- por tu cuenta o con tu equipo de trabajo (on your own or with your team)
+- ahora ya cuentas con un repositorio listo (now you have a repository ready)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "y luego desplácese hacia abajo y luego hacia arriba", "y tendremos que marcar esta casilla", "necesitaremos agregar algunos permisos", "necesitamos permitir al usuario cargar archivos", "está justo aquí", "lo guardé antes", "para todo lo demás", "volveremos a nuestro proyecto", "por tu cuenta o con tu equipo de trabajo", "ahora ya cuentas con un repositorio listo"
+
+-------------------------------
+
+- como vimos previamente (as we saw previously)
+- esta aplicación como tal (this application as such)
+- pero puedes darte cuenta como (but you can see how)
+- se requiere mantener un control (it is required to maintain control)
+- para lo cual necesitaremos (for which we will need)
+- pero basta de teoría (but enough of theory)
+- si pulsas en el botón (if you click on the button)
+- teniendo todo bajo un mismo techo (having everything under one roof)
+- fomentar el reúso de componentes (promote the reuse of components)
+- esto toma más coherencia (this makes more sense (with tomar))
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "como vimos previamente", "esta aplicación como tal", "pero puedes darte cuenta como", "se requiere mantener un control", "para lo cual necesitaremos", "pero basta de teoría", "si pulsas en el botón", "teniendo todo bajo un mismo techo", "fomentar el reúso de componentes", "esto toma más coherencia"
+
+-------------------------------
+
+- esto tiene más sentido (this makes more sense (with tener))
+- de allí el nombre (hence the name)
+- un conjunto de herramientas (a set of tools)
+- y lleva tus habilidades con React (and take your React skills to the next level)
+- entregar código robusto con mejor calidad (deliver robust code with higher quality)
+- te guiaré en la configuración (I will guide you through the setup)
+- que te ayudará a ahorrar tiempo (that will help you save time)
+- probar tu aplicación (test your app)
+- aunque también podemos echar mano de algunos patrones de diseño (although we can also make use of some design patterns)
+- muy cerca de llegar al final (very close to reaching the end)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "esto tiene más sentido", "de allí el nombre", "un conjunto de herramientas", "y lleva tus habilidades con React", "entregar código robusto con mejor calidad", "te guiaré en la configuración", "que te ayudará a ahorrar tiempo", "probar tu aplicación", "aunque también podemos echar mano de algunos patrones de diseño", "muy cerca de llegar al final"
+
+-------------------------------
+
+- where will you find it (dónde se va a encontrar)
+- en el moment en que dejemos de utilizar este hook (the moment we stop using this hook)
+- a partir de eso momento vamos a seguir escuchando (from that moment on we will continue listening)
+- ya lo tenemos habilitado (we already have it enabled)
+- no está disponible aún (is not available yet)
+- o sea (that is)
+- para ahorrarnos posibles problemas (to save us possible problems)
+- si no, te puede dar problemas (if not, it may cause you problems)
+- yo probé dentro de Google Chrome (I tried it inside Google Chrome)
+- hacia arriba y hacia abajo (upward and downward)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "where will you find it", "en el moment en que dejemos de utilizar este hook", "a partir de eso momento vamos a seguir escuchando", "ya lo tenemos habilitado", "no está disponible aún", "o sea", "para ahorrarnos posibles problemas", "si no, te puede dar problemas", "yo probé dentro de Google Chrome", "hacia arriba y hacia abajo"
+
+-------------------------------
+
+- cada vez que se mueva el mouse (every time the mouse moves)
+- lo que voy a necesitar es (what I'm going to need is)
+- lo voy a dejar el vacío (I'm going to leave it empty)
+- voy a aprovechar la situación (I'm going to take advantage of the situation)
+- cuenta como una función de React (it counts as a React function)
+- todavía se encuentran en un punto muy basico (they are still at a very basic point)
+- el cual está basado en este otro componente (which is based on this other component)
+- te estoy mostrando (I'm showing you)
+- ya no necesitamos pensar tanto en eso (we no longer need to think so much about it)
+- y lo estoy vinculando para que se ejecute este método (and I'm binding it so that this method runs)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "cada vez que se mueva el mouse", "lo que voy a necesitar es", "lo voy a dejar el vacío", "voy a aprovechar la situación", "cuenta como una función de React", "todavía se encuentran en un punto muy basico", "el cual está basado en este otro componente", "te estoy mostrando", "ya no necesitamos pensar tanto en eso", "y lo estoy vinculando para que se ejecute este método"
+
+-------------------------------
+
+- y eso es todo (and that's all)
+- y lo traigo a mi componente funcional (and I bring it to my functional component)
+- esto nos va a funcionar (this is going to work for us)
+- si te fijas, como te estaba mencionando (if you notice, as I was mentioning to you)
+- vamos a ignorar por completo esta parte (we are going to completely ignore this part)
+- analicemos la parte del constructor (let's analyze the constructor part)
+- aún nos faltan algunos partes (we are still missing some parts)
+- en teoria (in theory)
+- que vuelve mucho más fáciles estos procesos (which makes these processes much easier)
+- vayamos viendo las grandes ventajas que tiene (let's see the great advantages it has)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "y eso es todo", "y lo traigo a mi componente funcional", "esto nos va a funcionar", "si te fijas, como te estaba mencionando", "vamos a ignorar por completo esta parte", "analicemos la parte del constructor", "aún nos faltan algunos partes", "en teoria", "que vuelve mucho más fáciles estos procesos", "vayamos viendo las grandes ventajas que tiene"
+
+-------------------------------
+
+- por las cuales se crearon los hooks (for which hooks were created)
+- yo no hiciera esto (I wouldn't do this)
+- si nos fijamos acá (if we look here)
+- otro detalle importante es que (another important detail is that)
+- dentro del resto de la aplicación (within the rest of the application)
+- la herencia es un concepto de OOP (inheritance is a concept of OOP)
+- desplegarla dentro del documento (display it within the document)
+- yo voy a venir acá (I'm going to come here)
+- así que, por ejemplo (so for example)
+- y nos la está refiriendo a este método que está acá (and it is referring us to this method that is here)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "por las cuales se crearon los hooks", "yo no hiciera esto", "si nos fijamos acá", "otro detalle importante es que", "dentro del resto de la aplicación", "la herencia es un concepto de OOP", "desplegarla dentro del documento", "yo voy a venir acá", "así que, por ejemplo", "y nos la está refiriendo a este método que está acá"
+
+-------------------------------
+
+- está tomando el alcance de esta clase (is taking the scope of this class)
+- aún no existe este método (this method does not exist yet)
+- rastrear cuál fue el input (trace what the input was)
+- es una cadena de texto vacía (is an empty text string)
+- así que vamos a poner manos a la obra (so let's get to work)
+- según la selección que aparece acá (according to the selection that appears here)
+- el manejo del estado (state management)
+- y vemos que se va a mostrar (and we see what is going to be shown)
+- además de eso (besides that)
+- fuga de memoria (memory leak)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "está tomando el alcance de esta clase", "aún no existe este método", "rastrear cuál fue el input", "es una cadena de texto vacía", "así que vamos a poner manos a la obra", "según la selección que aparece acá", "el manejo del estado", "y vemos que se va a mostrar", "además de eso", "fuga de memoria"
+
+-------------------------------
+
+- tengo que presionar clic derecho (I have to press right click)
+- depurar (to debug)
+- ya se encuentra todo listo (everything is ready now)
+- te voy a mostrar un par rápidamente (I'll show you a couple quickly)
+- calza con el nombre (fits the name)
+- y acá buscar (and search here)
+- el modo de depuración (debug mode)
+- en caso de que no (in case you don't)
+- tienes que arrastrar esa carpeta (you have to drag that folder)
+- abordar los problemas (address the problems)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "tengo que presionar clic derecho", "depurar", "ya se encuentra todo listo", "te voy a mostrar un par rápidamente", "calza con el nombre", "y acá buscar", "el modo de depuración", "en caso de que no", "tienes que arrastrar esa carpeta", "abordar los problemas"
+
+-------------------------------
+
+- el concepto que está detrás de los hooks (the concept behind hooks)
+- digo, dices, dice, decimos, decís, dicen (conj: decir;present)
+- dije, dijiste, dijo, dijimos, dijisteis, dijeron (conj: decir;preterite)
+- tal como su nombre el dice (just as his name says)
+- lo mismo ocurre con los eventos (the same goes for events)
+- lo reemplazamos por una solo línea (we replace it with a single line)
+- muy parecidas (very similar)
+- que te estoy mostrando acá (what I'm showing you here)
+- antes de comenzar quisiera hablarte sobre qué son (before starting I would like to talk to you about what they are)
+- será un gusto ser tu instructor (it will be a pleasure to be your instructor)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Spanish with 100 words which uses the phrases: "el concepto que está detrás de los hooks", "digo, dices, dice, decimos, decís, dicen", "dije, dijiste, dijo, dijimos, dijisteis, dijeron", "tal como su nombre el dice", "lo mismo ocurre con los eventos", "lo reemplazamos por una solo línea", "muy parecidas", "que te estoy mostrando acá", "antes de comenzar quisiera hablarte sobre qué son", "será un gusto ser tu instructor"
+
+-------------------------------

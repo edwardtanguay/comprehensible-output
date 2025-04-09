@@ -1,0 +1,94 @@
+2025-05-13 - Martes 13 de mayo de 2025
+
+>> El paquete misterioso
+
+Todo comenzó una mañana tranquila, cuando Lucía he aterrizado en el directorio equivocado de su edificio. No reconocía la alfombra ni las plantas artificiales del pasillo. Decidió seguir adelante, porque podría ser cualquier cosa, quizás simplemente se habían hecho renovaciones. Pero el punto aquí es que todo cambiaría con un simple descubrimiento.
+
+En la esquina, notó una caja. Decía: “Lucía Fernández”, pero estaba en un rincón oscuro, en la esquina inferior del vestíbulo. Junto a ella había una nota escrita a mano. El texto era vago, pero claro: “Tienes que tirar de la cuerda roja para abrir la trampilla”.
+
+Me voy a centrar en esto, pensó, mientras se agachaba a examinar los detalles. Notó sus paquetes debajo de una repisa metálica mal instalada. Se preguntó: “¿Puedes averiguar si lo tienes instalado?” refiriéndose a algún tipo de sistema de vigilancia o trampa automatizada.
+
+Lucía, curiosa, ahora haré clic derecho en la aplicación de su teléfono que controla su cerradura digital, por si acaso. Veré si algo raro aparece en el registro. No vio nada... si no ves nada, probablemente no pasó nada, ¿no?
+
+Pero una cosa muy importante llamó su atención: una carpeta adjunta con instrucciones técnicas. Decía que el sistema consta de sensores ocultos, y que uno podría activarlos sin querer. “Tenga en cuenta que si hace esto mal, podría borrar toda la información del sistema”, advertía el manual.
+
+Decidida, iré a mi proyecto de reparación casera, donde tenía herramientas útiles. De regreso, desplácese hacia abajo en la app, encontró un botón oculto. “Así que haré clic”, dijo, y al instante se escuchó un clic metálico.
+
+Tienes que empujar suavemente el estante. Y de nuevo, apareció otra caja. “Puede elegir el alcance de su búsqueda”, decía un papel encima. No entendía del todo, pero de cualquier manera, abrió el paquete más pequeño. Dentro había un dispositivo antiguo, posiblemente un transmisor.
+
+“Ese comentario aparecerá allí”, leyó en la pantalla cuando lo conectó a su ordenador. “Se me pide que agregue un comentario antes de continuar”, musitó con frustración. Tecleó: “Paquete recibido. ¿Ahora qué?”
+
+Y una vez más, fue dirigida a otro menú. “Elegiré herramientas manuales esta vez”, pensó, recordando que los comandos automáticos habían fallado antes. “Ahora voy a ir a la ventana de procesos”. Allí vio algo oculto en segundo plano.
+
+Lucía notó una flecha – en la flecha hacia abajo – que revelaba un historial de ubicaciones. “Puede colocar un comentario en cada punto”, decía. Lo hizo. Entonces otra instrucción apareció: “Asegúrate de que puedas acceder a él antes de cerrar la sesión”.
+
+En ese momento, el dispositivo emitió un pitido. Una luz apuntó hacia un estante. “Ahora haré clic derecho sobre esa carpeta”. Abierta, encontró una carta con su nombre. Era de su abuelo, desaparecido hace años. Decía que su legado estaba “almacenado donde está almacenado el conocimiento antiguo”, y que este era sólo el inicio.
+
+“Lo importante aquí es que no todo lo que se entrega es visible a simple vista”, finalizaba la nota.
+
+Lucía sonrió. “Te dará la oportunidad de descubrir lo que muchos han pasado por alto”. En este punto, ya sabía que su aventura apenas comenzaba.
+
+2025-04-15 - Martes 15 de abril de 2025
+
+>> Desarrollo de software moderno
+
+En el desarrollo de software moderno, es clave entender cómo optimizar procesos y estructuras. Sigamos viendo cómo pequeñas decisiones influyen en el rendimiento. Asimismo, podemos utilizar caracteres especiales para definir funciones más claras. La marca de tiempo es crucial cuando solicitamos datos y, si la dejamos en blanco, el sistema muestra la marca de tiempo actual. Esto quiere decir que algunos valores se va a retrasar hasta que su valor sea requerido, lo cual mejora el rendimiento. El ahorro en líneas de código es significativo para subir de nivel como desarrollador y construir sistemas más eficientes.
+
+>> Desarrollo de software en una manera eficiente
+
+En el desarrollo de software, el ahorro en líneas de código es fundamental para mantener un proyecto limpio y mantenible. Esto quiere decir que debemos escribir solo lo necesario, usando estructuras eficientes como funciones reutilizables. Muchas veces, una variable se va a retrasar hasta que su valor sea requerido, optimizando así recursos. Al trabajar con nuestra fuente de datos, podemos procesarla en una manera sumamente reducida. Por ejemplo, reviso si la longitud es mayor que seis con un ciclo "for". Reflexionar sobre qué fue lo que hice ayuda a mejorar, especialmente por medio de prácticas y ejercicios, para poder conocer más acerca de buenas metodologías.
+
+>> Optimización en el desarrollo de software con C#
+
+En el desarrollo de software con C#, el ahorro en líneas de código es clave, especialmente al usar expresiones lambda o LINQ. Esto quiere decir que podemos escribir lógica compleja en una sola línea. Gracias a técnicas como la evaluación diferida, una colección se va a retrasar hasta que su valor sea requerido. Cuando accedemos a nuestra fuente de datos con Entity Framework, todo puede suceder de una manera sumamente reducida. A veces, reviso si la longitud es mayor que seis con un ciclo "for". Reflexionar sobre qué fue lo que hice, por medio de prácticas y ejercicios, es esencial para poder conocer más acerca de patrones y rendimiento.
+
+
+
+2025-04-14 - Lunes 14 de abril de 2025
+
+>> los días de la semana
+
+Creo que será difícil aprender los días de la semana en los siete idiomas que estoy aprendiendo: inglés, alemán, francés, español, italiano, holandés y polaco. En realidad no son difíciles de aprender. Pero como los días de la semana son similares pero diferentes en su ortografía, es difícil mantenerlos separados en la mente.
+
+>> Cursos de tecnología en español
+
+Tengo muchas ganas de ver mis cursos de tecnología en español. Hay muchos cursos en español, por ejemplo, sobre Python. Quiero aplicar lo aprendido en mis cursos de Python a mis sitios de Datapod. Creo que estos cursos me darán muchas ideas para nuevas funciones.
+
+>> Desarrollo de software en teoria
+
+El desarrollo de software, en teoría, debería seguir un proceso estructurado y predecible. Sin embargo, en la práctica surgen muchos desafíos inesperados. Por tanto, es esencial contar con buenas prácticas de programación y pruebas constantes. Existen momentos críticos donde vamos a levantar una excepción para manejar errores y evitar fallos graves. La planificación adecuada ayuda a minimizar estos riesgos. También es importante trabajar en equipo y comunicarse eficazmente. En teoría, todos los módulos deberían integrarse sin conflictos. Por tanto, se recomienda realizar integraciones frecuentes. Finalmente, donde vamos a levantar una excepción, debemos documentarla claramente para facilitar el mantenimiento.
+
+
+2025-04-13 - Domingo 13 de abril de 2025
+
+>> Desarrollo de software: desafíos y soluciones comunes
+
+El desarrollo de software puede ser un proceso desafiante, especialmente cuando los usuarios se enfrentan a errores como "recurso no encontrado". Al construir aplicaciones, es importante anticipar estos problemas y ofrecer soluciones claras. Un par de cosas que quiero señalar es que la optimización del rendimiento y la experiencia del usuario son esenciales. A menudo, los desarrolladores llegan a esta página navegando a través de documentación o foros en busca de soluciones. Es crucial estar al tanto de las mejores prácticas para evitar obstáculos comunes y ofrecer un producto funcional y fácil de usar para todos los usuarios.
+
+2025-04-12 - Sábado 12 de abril de 2025
+
+>> Desarrollo de software: una evolución constante
+
+En el desarrollo de software, vayamos viendo las grandes ventajas que tiene adoptar metodologías ágiles. Estas permiten un ciclo de vida más flexible y eficiente, lo que facilita la adaptación a cambios inesperados. Esto toma más coherencia cuando se aplican prácticas como el trabajo en equipo y la retroalimentación constante, elementos clave para el éxito. Esto se debe a que las metodologías ágiles promueven la mejora continua y la colaboración entre los miembros del equipo, lo cual resulta en productos de software más robustos y alineados con las necesidades del cliente. La agilidad es, sin duda, una ventaja fundamental.
+
+2025-04-11 - Viernes 11 de abril de 2025
+
+>> trabajando en la aplicación compout
+
+Solo me queda una tarea más por hacer para esta aplicación y habré terminado por hoy. Terminé la última tarea. La última tarea consistía en añadir un día en blanco por cada día sin entradas.
+
+Me sorprende mucho lo que la [EE-ah] IA puede lograr. A veces, el intellisense sabe exactamente lo que quiero hacer. Esto hace que programar sea más divertido. Es similar a montar en bicicleta eléctrica. Tú decides adónde quieres ir, pero es más fácil. La bicicleta se adapta a ti.
+
+Mi próximo proyecto será un datapod basado en React y una [say-ell-EE] CLI de Python. También quiero hacer un datapos que use Angular y Vue en el frontend. Pero creo que quiero concentrarme en React por el momento, ya que es lo que usaré en mi nuevo trabajo. Quizás para el próximo proyecto utilizaré C# para la CLI.
+
+>> Usando Ruby para crear una CLI
+
+Ruby es un excelente lenguaje para escribir interfaces de línea de comandos (CLI) por varias razones. Primero, su sintaxis clara y concisa permite escribir scripts legibles y fáciles de mantener, incluso para desarrolladores nuevos en el lenguaje. Gracias a su enfoque (focus) orientado a objetos, es posible estructurar el código de forma limpia (clean) y reutilizable, lo cual es útil en aplicaciones CLI más complejas.
+
+Además, Ruby tiene una amplia variedad de gemas (bibliotecas) que simplifican la creación de herramientas CLI. Por ejemplo, gemas como Thor, [*HAY-ell-ee] GLI o OptionParser permiten gestionar argumentos, comandos y mensajes de ayuda con muy poco esfuerzo (effort). Estas herramientas ofrecen una experiencia robusta y profesional al usuario final, similar a las utilidades del sistema.
+
+Otra ventaja es que Ruby está presente en la mayoría de los sistemas Unix/Linux y macOS, lo que facilita la distribución de scripts sin necesidad de instalaciones adicionales. También se puede empaquetar fácilmente para otros entornos si es necesario.
+
+Finalmente, la comunidad de Ruby es activa y amigable, lo que facilita encontrar ejemplos, documentación y ayuda cuando se necesita. Por todo esto, Ruby sigue siendo (remains) una opción sólida y elegante para desarrollar herramientas de línea de comandos eficientes y agradables de usar.
+
+Quizás también quiera crear un Datapod con una CLI de Ruby. Creo que estos proyectos son muy útiles.

@@ -1,0 +1,14 @@
+- wszystko, co musisz zrobić (all you have to do)
+- możesz więc pracować (so you can work)
+- na swoim komputerze (on your computer)
+- do menu kod (to the menu code)
+- jest to dość łatwe (it's quite easy)
+- jeśli chcesz pobrać (if you want to download)
+- treść kursu jest (the course content is)
+- kilka (several)
+- nie musisz być ekspertem (you don't have to be an expert)
+- dla programistów (for programmers)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in Polish with 100 words which uses the phrases, and vary the tenses past, present and future: "wszystko, co musisz zrobić", "możesz więc pracować", "na swoim komputerze", "do menu kod", "jest to dość łatwe", "jeśli chcesz pobrać", "treść kursu jest", "kilka", "nie musisz być ekspertem", "dla programistów"
+
+-------------------------------

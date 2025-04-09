@@ -1,0 +1,14 @@
+- des weiteren kannst du (furthermore, you can)
+- eine Aufstellung der wichtigsten Programme (a list of the most important programs)
+- für ihre Zwecke einspannen (to use for their own purposes)
+- mir schwirrt der Kopf (my head is spinning)
+- nicht so trivial wie es zunächst klingt (not as trivial as it sounds at first)
+- nicht so trivial wie es zunächst klingt (not as trivial as it sounds at first)
+- das steigert die Übersicht (this improves the overview)
+- mit Anderen Worten (in other words)
+- das artet schnell in Arbeit aus (this quickly turns into work)
+- Hinweise auf möglichen Stolperfallen (information about possible pitfalls)
+
+Create a title (first letter caps, rest lower case) and paragraph about software development in German with 100 words which uses the phrases, and vary the tenses past, present and future: "des weiteren kannst du", "eine Aufstellung der wichtigsten Programme", "für ihre Zwecke einspannen", "mir schwirrt der Kopf", "nicht so trivial wie es zunächst klingt", "nicht so trivial wie es zunächst klingt", "das steigert die Übersicht", "mit Anderen Worten", "das artet schnell in Arbeit aus", "Hinweise auf möglichen Stolperfallen"
+
+-------------------------------
