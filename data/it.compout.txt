@@ -1,3 +1,28 @@
+2025-06-08 - domenica 8 giugno 2025 
+
+>> Una sorpresa per te
+
+Alla fine del 1970, quando i computer cominciavano a entrare nelle università, pochi immaginavano quanto potessero diventare centrali nella vita quotidiana. Oggi, nuove informazioni arrivano sempre, e il tuo sistema operativo ti permette di leggere e scrivere dati in modi molti potenti.
+
+Lui e lei erano due studenti di informatica. Si chiamavano Gianni e Laura — nome seguito con cognome, naturalmente. È stata lei a farlo per prima: aprì un editor di testo e scrisse uno script in AWK. Gianni la guardava incuriosito. “Non riuscivo a capire perché tu usi sempre AWK,” disse. Laura rispose: “Se digiti AWK sulla riga di comando, vedrai quanto è potente!”
+
+In effetti, la riga di comando stessa non richiede che tu sappia tutto in anticipo: basta esplorare. Ma a volte può essere frustrante. Gianni non riusciva a capire perché il suo script non funzionasse: si arrende prima ancora di rendersi conto dell’errore. “Ecco cosa dovresti sapere,” disse Laura. “La parte all’interno delle virgolette definisce l’azione: ad esempio print $2 che stampa il secondo campo.”
+
+“Ah,” rispose Gianni, “il modo più semplice per invocare una funzione è digitare AWK, poi la parentesi graffa di apertura, l’istruzione, e infine una parentesi graffa di chiusura. Giusto?”
+“Esatto. Inoltre, puoi manipolare il testo facilmente, anche se stavi scrivendo altro.”
+
+Il giorno seguente, il professore chiese agli studenti di aggionare l’elenco dei membri del progetto. “Entrambi sono gratuiti,” spiegò il docente, riferendosi a due strumenti a riga di comando. “Infatti, gli esempi di questo corso mostrano come puoi vedere l’efficacia di questi strumenti.”
+
+Laura pensò: “Se volessi mettere questi nome nei loro nomi di file, userei AWK e sed.” E mentre tutti prendevano appunti, il professore disse: “Diamo di nuovo un’occhiata a come si fa: per prima cosa, identifichiamo un piccolo pezzo del testo. Poi c’è uno spazio, allora perché il nome è separato?”
+
+Sebben sia molto bravo a generare HTML, Gianni preferiva lavorare con dati strutturati. “Ti piacerebbe trovare un modo più veloce?” chiese a Laura. Lei rispose: “Sì, purché non cercherà di capire ogni singolo carattere.”
+
+Quel pomeriggio, Laura ricevette una sorpresa: il suo script era stato selezionato per una presentazione. “È stato lui a farlo,” disse Laura scherzando, indicando Gianni. Lui rise, ma sottolineare il merito altrui era parte del suo carattere.
+
+Nel futuro, entrambi aggioneranno i loro strumenti, studieranno nuove tecniche e forse insegneranno. Ma ricorderanno sempre i giorni in cui imparavano insieme: tra parentesi graffe, virgolette, e tanta curiosità.
+
+In alcuni casi, non ha nemmeno una seconda linea di codice per ottenere grandi risultati. Ed è proprio questo il fascino della riga di comando: semplice, ma potente.
+
 2025-05-12 - lunedí 12 maggio 2025
 
 >> Il viaggio di uno sviluppatore di software

@@ -1,76 +1,94 @@
-English,French,"step one, step two","première étape, deuxième étape"
-English,French,ability to understand spoken French,capacité à comprendre le français parlé
-English,French,the street is a bit narrow,la rue est un peu étroite
-English,French,the gate is still open,la porte est toujours ouverte
-English,French,ask a question,poser une question
-English,French,on my list,sur ma liste
-English,French,I'm going to the supermarket,Je vais au supermarché
-English,French,I'm going to the store,Je vais au magasin
-Dutch,English,Vanaf nu,From now on
-English,Dutch,I think I ate too much,Ik denk dat ik te veel heb gegeten
-English,Dutch,I wonder why we are doing this,Ik vraag me af waarom we dit doen
-English,Dutch,we just have to add the numbers,we hoeven alleen maar de getallen op te tellen
-English,Dutch,we only have a half day to do it,we hebben er maar een halve dag voor
-English,Dutch,I already have sixty,Ik heb er al zestig
-English,Dutch,it's not clear what he meant,het is niet duidelijk wat hij bedoelde
-English,Dutch,I don't really know,Ik weet het echt niet
-English,Dutch,let me see if I can find it,Laten we eens kijken of ik het kan vinden
-English,Dutch,the changes are in production,de veranderingen zijn in productie
-English,Dutch,something is broken here,er is hier iets kapot
-English,Dutch,they test for a week,ze testen een week lang
-English,Dutch,it can't be that hard,het kan niet zo moeilijk zijn
-English,Dutch,my goal is to speak B1 Dutch,mijn doel is om B1 Nederlands te spreken
-English,Dutch,we wanted to go through it one more time,we wilden het nog een keer doornemen
-English,Dutch,it's just a small info for the team,het is slechts een kleine info voor het team
-English,Dutch,now we can record Dutch phrases,nu kunnen we Nederlandse zinnen opnemen
-French,English,Je doute qu’il ne comprenne vraiment la situation,I doubt he really understands the situation.
-French,English,Elle s’éloigna de peur qu’il ne la suive,She moved away for fear that he would follow her.
-French,English,Ils partirent avant qu’il ne fasse nuit,They left before it got dark
-French,English,Elle redoute qu’il ne pleuve demain,She's afraid it will rain tomorrow.
-French,English,I fear that it may be too late,I fear that it may be too late
-English,French,also include the English translations,inclure également les traductions en anglais
-English,French,two days went by before he started to test,deux jours se sont écoulés avant qu'il ne commence à tester
-English,French,the chart is quite confusing,le graphique est assez confus
-English,French,most of the job is just pretending,la plupart du travail consiste simplement à faire semblant
-English,French,the way I remember it there were no errors,"si je me souviens bien, il n'y avait aucune erreur"
-English,French,the way I remember it was,comme je m'en souviens c'était
-English,French,the actual work is one day,le travail réel dure une journée
-English,French,it seems realistic to me,cela me semble réaliste
-English,French,the time until it is finished,le temps jusqu'à ce qu'il soit terminé
-English,French,we changed it up a bit,nous l'avons un peu changé
-English,French,do you have anything else on your mind,as-tu autre chose en tête ?
-English,French,we will have a ping from him,nous aurons un ping de sa part
-French,English,si tu es curieux à ce sujet,if you are curious about this
-English,French,it doesn't happen too often,ça n'arrive pas trop souvent
-English,French,we meet only when there is an agenda,nous nous réunissons uniquement lorsqu'il y a un ordre du jour
-English,French,we covered this topic,nous avons couvert ce sujet
-English,French,"if he replies, then she will do it","s'il répond, alors elle le fera"
-English,French,"anyway, let's move on","Bref, passons à autre chose"
-English,French,is he going to come,est-ce qu'il va venir
-English,French,there is a loud motorcycle outside,il y a une moto bruyante dehors
-English,French,he waited for it to happen,il a attendu que cela arrive
-English,French,this is an enforced rule in GitHub,c'est une règle appliquée dans GitHub
-English,French,we decided up front not to do it,nous avons décidé dès le départ de ne pas le faire
-English,French,we more or less noticed that it would not work out,nous avons plus ou moins remarqué que cela ne fonctionnerait pas
-English,French,do we differentiate between the two things,faisons-nous une différence entre les deux choses
-English,French,what about design?,Et le design ?
-English,French,I would keep it if I were you,Je le garderais si j'étais toi
-English,French,why are we changing this,pourquoi changeons-nous cela
-French,English,étant donné que tu seras anonyme,since you will be anonymous
-English,French,the external code review,la revue de code externe
-English,French,it takes awhile,ça prend du temps
-English,French,it is not clear which process is correct,il n'est pas clair quel processus est correct
-English,French,perhaps we could do 50 phrases for each language,peut-être que nous pourrions faire 50 phrases pour chaque langue
-English,French,I would have to get more experience here,Je devrais acquérir plus d'expérience ici
-English,French,that is the right color,c'est la bonne couleur
-English,French,we will have to let them review it,nous devrons les laisser l'examiner
-English,French,this issue is being blocked by another,ce problème est bloqué par un autre
-English,French,how they can speed things up,comment ils peuvent accélérer les choses
-English,French,the timing is confusing,le timing est déroutant
-English,French,the average time it takes,le temps moyen qu'il faut
-English,French,I don't have much more time,Je n'ai plus beaucoup de temps
-English,French,currently I concentrate on French,actuellement je me concentre sur le français
-English,French,that I haven't looked at yet,que je n'ai pas encore regardé
-English,French,I already took my Friday pill,J'ai déjà pris ma pilule du vendredi
-English,French,there are many ways to advance the progress,il existe de nombreuses façons de faire progresser les progrès
-English,French,only about half through,seulement environ la moitié
+Italian,English,un piccolo pezzo,a little piece
+Italian,English,anche se stavi scrivendo,even if you were writing
+Italian,English,inoltre,Furthermore
+Italian,English,a volte può essere frustrante,It can be frustrating sometimes
+Italian,English,non ha nemmeno una seconda linea,it doesn't even have a second line
+Italian,English,si arrende prima ancora di rendersi conto,he gives up before he even realizes
+English,Italian,it was she who did it,è stata lei a farlo
+English,Italian,it was he who did it,è stato lui a farlo
+English,Italian,he couldn't understand,non riusciva a capire
+English,Italian,he will not try to understand,non cercherà di capire
+English,Italian,he and she,lui e lei
+Italian,English,spesso,Often
+English,Italian,I couldn't understand,Non riuscivo a capire
+English,Italian,the command line itself,la riga di comando stessa
+Italian,English,poiché abbiamo digitato,since we typed
+Italian,English,e qui userò una funzione,and here I will use a function
+Italian,English,una parentesi graffa di chiusura,a closing curly bracket
+Italian,English,la parentesi graffa di apertura,the opening curly bracket
+Italian,English,che stamp il secondo campo,that prints the second field
+Italian,English,la parte all'interno delle virgolette,the part inside the quotation marks
+Italian,English,poi c'è uno spazio,then there is a space
+Italian,English,diamo di nuovo un'occhiata a,let's take a look again
+Italian,English,sel volessi mettere questi nome,if I wanted to put this name
+Italian,English,nome seguito con cognome,name followed by surname
+Italian,English,il modo più semplice per invocare,the simplest way to invoke
+Italian,English,gli esempi di questo corso,the examples of this course
+Italian,English,se digiti AWK sulla riga di comando,if you type AWK on the command line
+Italian,English,infatti,Indeed
+Italian,English,sebbene sia molto bravo a generare HTML,although it is very good at generating HTML
+Italian,English,non richiede che,It does not require that
+Italian,English,entrambi sono gratuiti,both are free
+Italian,English,digitare AWK,type AWK
+Italian,English,semplici attività,simple activities
+Italian,English,alle fine del 1970,at the end of 1970
+Italian,English,allora perché il nome,then why the name
+Italian,English,il più possibile,as much as possible
+Italian,English,ti piacerebbe trovare,you would like to find
+Italian,English,nuove informazioni arrivano sempre,new information is always coming in
+Italian,English,aggionare l'elenco dei membri,update the member list
+Italian,English,aggionare,update
+Italian,English,nei loro nomi di file,in their file names
+English,Italian,underscore,sottolineare
+Italian,English,in alcuni casi,in some cases
+Italian,English,como puoi vedere,as you can see
+Italian,English,purché,so long as
+Italian,English,in questi esempi,in these examples
+Italian,English,un editor di testo,a text editor
+Italian,English,una sorpresa per te,a surprise for you
+Italian,English,tuo sistema operativo,your operating system
+Italian,English,riga di comando,command line
+English,Italian,here's what you should know,ecco cosa dovresti sapere
+Italian,English,infine,In the end
+Italian,English,per prima cosa,first of all
+Italian,English,leggere e scrivere,read and write
+Italian,English,in modi molti potenti,in many powerful ways
+Italian,English,manipolare il testo,manipulate text
+English,German,this is a nice expression,das ist ein schöner Ausdruck
+German,English,wenn sich die Gunst erweist,when favor proves
+English,German,the new law spawned a wave of protests,das neue Gesetz löste eine Welle von Protesten aus
+English,Polish,eleven,jedenaście
+English,Dutch,now and here,nu en hier
+English,Dutch,I'm almost fluent,Ik spreek het bijna vloeiend
+English,Dutch,I know the difference between the two,Ik ken het verschil tussen de twee
+English,Dutch,he has bought it and he has cooked it,hij heeft het gekocht en hij heeft het gekookt
+English,Dutch,broken,kapot
+English,Dutch,in the evening,s avonds
+English,Dutch,in the morning,s ochtends
+French,English,il valait la peine,it was worth it
+French,English,dépend d’un tas d'autres choses,depends on a lot of other things
+French,English,qui ralentit tout,which slows everything down
+French,English,déroutant,confusing
+French,English,tout prenait du retard,everything was delayed
+French,English,Deux jours se sont écoulés avant,Two days passed before
+German,English,es war zu hoch berechnet,it was overcharged
+German,English,man muss einiges klären,some things need to be clarified
+German,English,pro API geschätzt,estimated per API
+German,English,ich habe nur Input geliefert,I only provided input
+German,English,was es an sich verlangt,what it requires
+English,French,to collect,à collecter
+English,French,one can be distracted so easily,on peut être distrait si facilement
+English,French,"dans une certaine mesure, c’est justifié","dans une certaine mesure, c'est justifié"
+English,French,"that's definitely true, but on the other hand","c'est certainement vrai, mais d'un autre côté"
+English,French,I admit that but at the same time,Je l'admets mais en même temps
+French,English,on ne peut pas nier que,we cannot deny that
+French,English,ce n’est pas aussi simple que cela,it's not as simple as that
+French,English,il faut reconnaître que,it must be recognized that
+French,English,je ne suis pas entièrement d'accord avec cette idée,I don't entirely agree with this idea
+English,French,I am finished with that,J'en ai fini avec ça
+French,English,"À mon avis, il serait préférable de","In my opinion, it would be better to"
+English,French,I'm going to use Python for the central site,Je vais utiliser Python pour le site central
+English,French,one needs to have a core project,il faut avoir un projet central
+English,French,there will only be five of us,nous ne serons que cinq
+English,French,AI knows what you are thinking and writes code you have in your mind,L'IA sait ce que vous pensez et écrit le code que vous avez dans votre esprit
+English,French,we'll start in a few minutes,nous commencerons dans quelques minutes

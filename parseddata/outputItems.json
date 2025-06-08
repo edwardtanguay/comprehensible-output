@@ -1,6 +1,17 @@
 [
 	{
-		"suuid": "ge1kvN",
+		"suuid": "ik6rZU",
+		"language": "it",
+		"date": "2025-06-08",
+		"title": "Domenica 8 giugno 2025",
+		"htmlBody": "\u003ch3\u003eUna sorpresa per te\u003c/h3\u003e\u003cp\u003eAlla fine del 1970, quando i computer cominciavano a entrare nelle università, pochi immaginavano quanto potessero diventare centrali nella vita quotidiana. Oggi, nuove informazioni arrivano sempre, e il tuo sistema operativo ti permette di leggere e scrivere dati in modi molti potenti.\u003c/p\u003e\u003cp\u003eLui e lei erano due studenti di informatica. Si chiamavano Gianni e Laura — nome seguito con cognome, naturalmente. È stata lei a farlo per prima: aprì un editor di testo e scrisse uno script in AWK. Gianni la guardava incuriosito. “Non riuscivo a capire perché tu usi sempre AWK,” disse. Laura rispose: “Se digiti AWK sulla riga di comando, vedrai quanto è potente!”\u003c/p\u003e\u003cp\u003eIn effetti, la riga di comando stessa non richiede che tu sappia tutto in anticipo: basta esplorare. Ma a volte può essere frustrante. Gianni non riusciva a capire perché il suo script non funzionasse: si arrende prima ancora di rendersi conto dell’errore. “Ecco cosa dovresti sapere,” disse Laura. “La parte all’interno delle virgolette definisce l’azione: ad esempio print $2 che stampa il secondo campo.”\u003c/p\u003e\u003cp\u003e“Ah,” rispose Gianni, “il modo più semplice per invocare una funzione è digitare AWK, poi la parentesi graffa di apertura, l’istruzione, e infine una parentesi graffa di chiusura. Giusto?”\u003c/p\u003e\u003cp\u003e“Esatto. Inoltre, puoi manipolare il testo facilmente, anche se stavi scrivendo altro.”\u003c/p\u003e\u003cp\u003eIl giorno seguente, il professore chiese agli studenti di aggionare l’elenco dei membri del progetto. “Entrambi sono gratuiti,” spiegò il docente, riferendosi a due strumenti a riga di comando. “Infatti, gli esempi di questo corso mostrano come puoi vedere l’efficacia di questi strumenti.”\u003c/p\u003e\u003cp\u003eLaura pensò: “Se volessi mettere questi nome nei loro nomi di file, userei AWK e sed.” E mentre tutti prendevano appunti, il professore disse: “Diamo di nuovo un’occhiata a come si fa: per prima cosa, identifichiamo un piccolo pezzo del testo. Poi c’è uno spazio, allora perché il nome è separato?”\u003c/p\u003e\u003cp\u003eSebben sia molto bravo a generare HTML, Gianni preferiva lavorare con dati strutturati. “Ti piacerebbe trovare un modo più veloce?” chiese a Laura. Lei rispose: “Sì, purché non cercherà di capire ogni singolo carattere.”\u003c/p\u003e\u003cp\u003eQuel pomeriggio, Laura ricevette una sorpresa: il suo script era stato selezionato per una presentazione. “È stato lui a farlo,” disse Laura scherzando, indicando Gianni. Lui rise, ma sottolineare il merito altrui era parte del suo carattere.\u003c/p\u003e\u003cp\u003eNel futuro, entrambi aggioneranno i loro strumenti, studieranno nuove tecniche e forse insegneranno. Ma ricorderanno sempre i giorni in cui imparavano insieme: tra parentesi graffe, virgolette, e tanta curiosità.\u003c/p\u003e\u003cp\u003eIn alcuni casi, non ha nemmeno una seconda linea di codice per ottenere grandi risultati. Ed è proprio questo il fascino della riga di comando: semplice, ma potente.\u003c/p\u003e",
+		"audioFileName": "2025-06-08-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 479,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "Ev2QWe",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -11,7 +22,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uDIbGu",
+		"suuid": "mdNtw7",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Oniedziałek, 2 czerwiec 2025",
@@ -22,7 +33,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lUNT6b",
+		"suuid": "3Dc0uD",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -33,7 +44,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EPawLx",
+		"suuid": "BWQEC4",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -44,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QT8AZR",
+		"suuid": "OvkUWl",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -55,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LyNCXa",
+		"suuid": "bRhUge",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -66,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "soKDSx",
+		"suuid": "XL3YoH",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -77,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "oElD0k",
+		"suuid": "ljvT1w",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -88,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FAABVV",
+		"suuid": "E9td0o",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -99,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "B7hL9z",
+		"suuid": "ZExuxm",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -110,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jqlUcl",
+		"suuid": "nN2LwC",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -121,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Yfl7Fm",
+		"suuid": "yGH5Ro",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -132,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JM0RE9",
+		"suuid": "kdDw7Z",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -143,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "U05cyB",
+		"suuid": "8J2qyo",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -154,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EgC6Yn",
+		"suuid": "m2oGJK",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -165,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QF8omR",
+		"suuid": "5PwGSg",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -176,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "m9VvOs",
+		"suuid": "l5nYH4",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -187,7 +198,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bpSHH9",
+		"suuid": "1BPjEC",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -198,7 +209,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JOAW9G",
+		"suuid": "DUAWYD",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -209,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "eKWOvb",
+		"suuid": "9KAlYA",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -220,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "m0BGDF",
+		"suuid": "Px6AW9",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -231,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7OHtf4",
+		"suuid": "vDezYC",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -239,10 +250,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 477
+		"estimatedAudioSeconds": 478
 	},
 	{
-		"suuid": "0A6Ksk",
+		"suuid": "Typmz2",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -250,10 +261,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 383
+		"estimatedAudioSeconds": 384
 	},
 	{
-		"suuid": "ssDofj",
+		"suuid": "kkQJ3m",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -264,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7Uvwl9",
+		"suuid": "dqR3bp",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -275,7 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WAK2Ny",
+		"suuid": "Y7R1SM",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -286,7 +297,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Xk6nVe",
+		"suuid": "fRD8dR",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -297,7 +308,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "znc44y",
+		"suuid": "PHi9sP",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -308,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pEre9U",
+		"suuid": "pyyLOb",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -319,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BJWI9y",
+		"suuid": "wqpabr",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -330,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sPVboJ",
+		"suuid": "nhEV15",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -338,21 +349,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 406
+		"estimatedAudioSeconds": 407
 	},
 	{
-		"suuid": "hMIMEu",
-		"language": "it",
-		"date": "2025-05-03",
-		"title": "Sabato 3 maggio 2025",
-		"htmlBody": "\u003ch3\u003eIl mistero della fame universale\u003c/h3\u003e\u003cp\u003eOgni essere umano ha sperimentato il desiderio improvviso di dire: \"Voglio mangiare qualcosa\". A volte, qualcuno chiede: \"Vuoi mangiare qualcosa?\" prima ancora di capire il motivo della propria fame. Parliamo del motivo per cui esiste questo impulso primordiale. Lui sta per mangiare un pranzo leggero, ma domani andrà a mangiare in un ristorante elegante. Con questo strumento tecnologico, gli scienziati stanno studiando meccanismi cerebrali che aumentano la loro capacità di riconoscere la fame. In futuro, potremmo creare terapie che aumentano le loro capacità digestive. È stato un pranzo fantastico, e ne parleremmo ancora se avessimo tempo.\u003c/p\u003e",
-		"audioFileName": "2025-05-03-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 94,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "cS76HK",
+		"suuid": "HAoR4c",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -363,7 +363,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "dU0isD",
+		"suuid": "sMtKdI",
+		"language": "it",
+		"date": "2025-05-03",
+		"title": "Sabato 3 maggio 2025",
+		"htmlBody": "\u003ch3\u003eIl mistero della fame universale\u003c/h3\u003e\u003cp\u003eOgni essere umano ha sperimentato il desiderio improvviso di dire: \"Voglio mangiare qualcosa\". A volte, qualcuno chiede: \"Vuoi mangiare qualcosa?\" prima ancora di capire il motivo della propria fame. Parliamo del motivo per cui esiste questo impulso primordiale. Lui sta per mangiare un pranzo leggero, ma domani andrà a mangiare in un ristorante elegante. Con questo strumento tecnologico, gli scienziati stanno studiando meccanismi cerebrali che aumentano la loro capacità di riconoscere la fame. In futuro, potremmo creare terapie che aumentano le loro capacità digestive. È stato un pranzo fantastico, e ne parleremmo ancora se avessimo tempo.\u003c/p\u003e",
+		"audioFileName": "2025-05-03-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 94,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "p2qCZv",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -374,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "q4A0tx",
+		"suuid": "duGAzJ",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -385,7 +396,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pDIAQ3",
+		"suuid": "eLwqpZ",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -396,7 +407,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xrro7V",
+		"suuid": "XXvn3z",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -407,7 +418,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1PBfqm",
+		"suuid": "7gqT2R",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -418,7 +429,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "W8sAO5",
+		"suuid": "boeuBv",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -429,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zqZ8tt",
+		"suuid": "qtedKS",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -440,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JvoxAY",
+		"suuid": "QjPqLc",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -451,7 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EMwgLV",
+		"suuid": "XLjwP9",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -462,18 +473,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jqaNlO",
-		"language": "it",
-		"date": "2025-04-23",
-		"title": "Mercoledì, 23 aprile 2025",
-		"htmlBody": "\u003ch3\u003eMantenere il ritmo\u003c/h3\u003e\u003cp\u003ePenso che oggi recupererò la mia registrazione audio. Ho aggiunto un lungo post in polacco. È il mio primo lungo post in polacco. Voglio scriverne uno ogni giorno, anche se la lingua è difficile da pronunciare.\u003c/p\u003e\u003ch3\u003eHo ricominciato a studiare il polacco\u003c/h3\u003e",
-		"audioFileName": "2025-04-23-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 40,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "kn0EPf",
+		"suuid": "P7tpyF",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Środa, 23 kwietnia 2025",
@@ -484,7 +484,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5iJdpf",
+		"suuid": "2yc0IL",
+		"language": "it",
+		"date": "2025-04-23",
+		"title": "Mercoledì, 23 aprile 2025",
+		"htmlBody": "\u003ch3\u003eMantenere il ritmo\u003c/h3\u003e\u003cp\u003ePenso che oggi recupererò la mia registrazione audio. Ho aggiunto un lungo post in polacco. È il mio primo lungo post in polacco. Voglio scriverne uno ogni giorno, anche se la lingua è difficile da pronunciare.\u003c/p\u003e\u003ch3\u003eHo ricominciato a studiare il polacco\u003c/h3\u003e",
+		"audioFileName": "2025-04-23-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 40,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "dpjoFx",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -495,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NtCfhS",
+		"suuid": "zr7VgF",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -506,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "InMiOi",
+		"suuid": "iRLpTQ",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -517,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BTRnXM",
+		"suuid": "WzHAcI",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -528,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PzHfHy",
+		"suuid": "ieqNky",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -539,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zRavXC",
+		"suuid": "kO5Vpv",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -550,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gc2go7",
+		"suuid": "2AiGif",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Środa 16 kwietnia 2025",
@@ -561,18 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "awlkpR",
-		"language": "it",
-		"date": "2025-04-16",
-		"title": "Mercoledì, 16 aprile 2025",
-		"htmlBody": "\u003ch3\u003eSuggerimenti per imparare sette lingue contemporaneamente\u003c/h3\u003e\u003cp\u003eÈ importante leggere i libri di grammatica di ogni lingua che stai imparando. Dovresti anche cercare ogni parola che non conosci. E dovresti risolvere ogni dubbio che hai sulla lingua. È in questo momento che avviene l'apprendimento. Ad esempio, il plurale nel titolo qui è \"suggerimenti\", ma vorrei sapere qual è il singolare. Credo che finisca con una \"o\". Lo cercherò. Ho fatto una ricerca e avevo ragione: la parola singolare è \"suggerimento\". L'aspetto più importante dell'apprendimento di una nuova lingua è usare la lingua per trasmettere un significato. Per questo motivo, è necessario iniziare a lavorare con grandi quantità di testo il più presto possibile.\u003c/p\u003e\u003ch3\u003eIl metodo compoutput per l'apprendimento delle lingue\u003c/h3\u003e\u003cp\u003eMi piace molto questo metodo di apprendimento delle lingue. Ha molto senso. Oggi ho ridotto la quantità di audio che devo registrare ogni giorno da dieci a cinque. Ciò renderà più realistico il raggiungimento del mio obiettivo. Mi piace anche la possibilità di scrivere in qualsiasi lingua io stia imparando. Mi piace anche confrontare le lingue. Mi stupisce il fatto di riuscire a parlare e capire molto meglio l'italiano che il polacco. Il polacco è davvero una lingua molto difficile.\u003c/p\u003e\u003cp\u003eForse presto ricomincerò a studiare l'islandese. È anche una lingua difficile. Ma voglio raggiungere, o addirittura superare, la padronanza della lingua di mia figlia.\u003c/p\u003e",
-		"audioFileName": "2025-04-16-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 210,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "xBuaFV",
+		"suuid": "eHew6w",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -583,18 +583,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RkMI2g",
-		"language": "es",
-		"date": "2025-04-15",
-		"title": "Martes 15 de abril de 2025",
-		"htmlBody": "\u003ch3\u003eDesarrollo de software moderno\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software moderno, es clave entender cómo optimizar procesos y estructuras. Sigamos viendo cómo pequeñas decisiones influyen en el rendimiento. Asimismo, podemos utilizar caracteres especiales para definir funciones más claras. La marca de tiempo es crucial cuando solicitamos datos y, si la dejamos en blanco, el sistema muestra la marca de tiempo actual. Esto quiere decir que algunos valores se va a retrasar hasta que su valor sea requerido, lo cual mejora el rendimiento. El ahorro en líneas de código es significativo para subir de nivel como desarrollador y construir sistemas más eficientes.\u003c/p\u003e\u003ch3\u003eDesarrollo de software en una manera eficiente\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software, el ahorro en líneas de código es fundamental para mantener un proyecto limpio y mantenible. Esto quiere decir que debemos escribir solo lo necesario, usando estructuras eficientes como funciones reutilizables. Muchas veces, una variable se va a retrasar hasta que su valor sea requerido, optimizando así recursos. Al trabajar con nuestra fuente de datos, podemos procesarla en una manera sumamente reducida. Por ejemplo, reviso si la longitud es mayor que seis con un ciclo \"for\". Reflexionar sobre qué fue lo que hice ayuda a mejorar, especialmente por medio de prácticas y ejercicios, para poder conocer más acerca de buenas metodologías.\u003c/p\u003e\u003ch3\u003eOptimización en el desarrollo de software con C#\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software con C#, el ahorro en líneas de código es clave, especialmente al usar expresiones lambda o LINQ. Esto quiere decir que podemos escribir lógica compleja en una sola línea. Gracias a técnicas como la evaluación diferida, una colección se va a retrasar hasta que su valor sea requerido. Cuando accedemos a nuestra fuente de datos con Entity Framework, todo puede suceder de una manera sumamente reducida. A veces, reviso si la longitud es mayor que seis con un ciclo \"for\". Reflexionar sobre qué fue lo que hice, por medio de prácticas y ejercicios, es esencial para poder conocer más acerca de patrones y rendimiento.\u003c/p\u003e",
-		"audioFileName": "2025-04-15-es.mp3",
+		"suuid": "tF37aO",
+		"language": "it",
+		"date": "2025-04-16",
+		"title": "Mercoledì, 16 aprile 2025",
+		"htmlBody": "\u003ch3\u003eSuggerimenti per imparare sette lingue contemporaneamente\u003c/h3\u003e\u003cp\u003eÈ importante leggere i libri di grammatica di ogni lingua che stai imparando. Dovresti anche cercare ogni parola che non conosci. E dovresti risolvere ogni dubbio che hai sulla lingua. È in questo momento che avviene l'apprendimento. Ad esempio, il plurale nel titolo qui è \"suggerimenti\", ma vorrei sapere qual è il singolare. Credo che finisca con una \"o\". Lo cercherò. Ho fatto una ricerca e avevo ragione: la parola singolare è \"suggerimento\". L'aspetto più importante dell'apprendimento di una nuova lingua è usare la lingua per trasmettere un significato. Per questo motivo, è necessario iniziare a lavorare con grandi quantità di testo il più presto possibile.\u003c/p\u003e\u003ch3\u003eIl metodo compoutput per l'apprendimento delle lingue\u003c/h3\u003e\u003cp\u003eMi piace molto questo metodo di apprendimento delle lingue. Ha molto senso. Oggi ho ridotto la quantità di audio che devo registrare ogni giorno da dieci a cinque. Ciò renderà più realistico il raggiungimento del mio obiettivo. Mi piace anche la possibilità di scrivere in qualsiasi lingua io stia imparando. Mi piace anche confrontare le lingue. Mi stupisce il fatto di riuscire a parlare e capire molto meglio l'italiano che il polacco. Il polacco è davvero una lingua molto difficile.\u003c/p\u003e\u003cp\u003eForse presto ricomincerò a studiare l'islandese. È anche una lingua difficile. Ma voglio raggiungere, o addirittura superare, la padronanza della lingua di mia figlia.\u003c/p\u003e",
+		"audioFileName": "2025-04-16-it.mp3",
 		"kind": "blog",
-		"audioSeconds": 271,
+		"audioSeconds": 210,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GdbVZM",
+		"suuid": "aqYWLR",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -605,7 +605,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lufDI6",
+		"suuid": "xNzP2N",
+		"language": "es",
+		"date": "2025-04-15",
+		"title": "Martes 15 de abril de 2025",
+		"htmlBody": "\u003ch3\u003eDesarrollo de software moderno\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software moderno, es clave entender cómo optimizar procesos y estructuras. Sigamos viendo cómo pequeñas decisiones influyen en el rendimiento. Asimismo, podemos utilizar caracteres especiales para definir funciones más claras. La marca de tiempo es crucial cuando solicitamos datos y, si la dejamos en blanco, el sistema muestra la marca de tiempo actual. Esto quiere decir que algunos valores se va a retrasar hasta que su valor sea requerido, lo cual mejora el rendimiento. El ahorro en líneas de código es significativo para subir de nivel como desarrollador y construir sistemas más eficientes.\u003c/p\u003e\u003ch3\u003eDesarrollo de software en una manera eficiente\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software, el ahorro en líneas de código es fundamental para mantener un proyecto limpio y mantenible. Esto quiere decir que debemos escribir solo lo necesario, usando estructuras eficientes como funciones reutilizables. Muchas veces, una variable se va a retrasar hasta que su valor sea requerido, optimizando así recursos. Al trabajar con nuestra fuente de datos, podemos procesarla en una manera sumamente reducida. Por ejemplo, reviso si la longitud es mayor que seis con un ciclo \"for\". Reflexionar sobre qué fue lo que hice ayuda a mejorar, especialmente por medio de prácticas y ejercicios, para poder conocer más acerca de buenas metodologías.\u003c/p\u003e\u003ch3\u003eOptimización en el desarrollo de software con C#\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software con C#, el ahorro en líneas de código es clave, especialmente al usar expresiones lambda o LINQ. Esto quiere decir que podemos escribir lógica compleja en una sola línea. Gracias a técnicas como la evaluación diferida, una colección se va a retrasar hasta que su valor sea requerido. Cuando accedemos a nuestra fuente de datos con Entity Framework, todo puede suceder de una manera sumamente reducida. A veces, reviso si la longitud es mayor que seis con un ciclo \"for\". Reflexionar sobre qué fue lo que hice, por medio de prácticas y ejercicios, es esencial para poder conocer más acerca de patrones y rendimiento.\u003c/p\u003e",
+		"audioFileName": "2025-04-15-es.mp3",
+		"kind": "blog",
+		"audioSeconds": 271,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "3Ph3l3",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -616,18 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "63oogG",
-		"language": "it",
-		"date": "2025-04-14",
-		"title": "Lunedì 14 aprile 2025",
-		"htmlBody": "\u003ch3\u003eUn paragrafo con dieci frasi che usano \"via\" ma in modi diversi:\u003c/h3\u003e\u003cp\u003eHa spinto via la sedia con un piede mentre si alzava. Sono scappati via appena hanno sentito il rumore. Il vento ha portato via le foglie secche dal cortile. Ha riso così tanto che le lacrime sono venute via da sole. Hanno preso via tutto senza lasciare traccia. Devi mettere via quei libri dopo aver finito di studiare. Non riesco a mandar via quel pensiero dalla testa. Gli anni sono volati via in un attimo. Ha buttato via l’occasione di dimostrare quanto vale. Spazza via la polvere prima di iniziare a dipingere.\u003c/p\u003e\u003ch3\u003eLa lingua polacca è diversa\u003c/h3\u003e\u003cp\u003eOggi riempirò i miei 10 minuti di audio con l'italiano. Ci sarà un po' di polacco, ma questo perché Karla ha iniziato a imparare frasi in polacco. A quanto pare ha incontrato una persona che le ha insegnato frasi in polacco. Le ho detto che mia madre conosceva due frasi in polacco. Le ha imparati da suo padre, morto quando lei era piccola. Ma il polacco è una lingua molto difficile. È particolarmente difficile se confrontato con altre lingue come l'olandese o le tre lingue simili francese, spagnolo e italiano. Io, però, voglio imparare il polacco.\u003c/p\u003e\u003ch3\u003eIl futuro di questa app\u003c/h3\u003e\u003cp\u003eQuindi, la mia app mi dice che il mio audio durerà ora quattro minuti. Per questo motivo, oggi devo produrre molto più materiale. In realtà, sto preparando l'audio di ieri. Questo mi fa chiedere: potrò continuare a usare questa app quando avrò un lavoro a tempo pieno? In realtà ho integrato una funzionalità per gestire questo problema. Posso facilmente ridurre il numero di minuti necessari. Posso abbassarli da 10 a 5. Quando li abbasso a 5, non ho bisogno di dedicare così tanto tempo ogni giorno alla produzione linguistica. Ma l'aspetto importante di questo metodo è che lo si usi quotidianamente. Questa abitudine di produrre un linguaggio comprensibile, di leggerlo ad alta voce e poi di ascoltarlo e comprenderlo, è ciò che porterà a miglioramenti della fluidità nel tempo.\u003c/p\u003e\u003ch3\u003ePassare dall'italiano allo spagnolo\u003c/h3\u003e\u003cp\u003eOk, ma penso di aver prodotto abbastanza italiano oggi. Passerò allo spagnolo. Uno dei miei obiettivi in ​​spagnolo è raggiungere il livello B1 entro dicembre 2026.\u003c/p\u003e\u003ch3\u003eA quanto pare\u003c/h3\u003e\u003cp\u003eA quanto pare, Marco ha deciso di trasferirsi in Spagna per lavoro. A quanto pare, non aveva detto nulla a nessuno prima di partire. A quanto pare, aveva ricevuto un'offerta che non poteva rifiutare. A quanto pare, la città in cui si è trasferito è molto bella e piena di vita. A quanto pare, ha già trovato casa vicino al centro storico. A quanto pare, sta anche imparando lo spagnolo molto in fretta. A quanto pare, i suoi colleghi lo hanno accolto calorosamente. A quanto pare, non sente troppo la mancanza dell'Italia. A quanto pare, però, torna spesso per visitare la famiglia. A quanto pare, questa nuova avventura gli sta facendo davvero bene.\u003c/p\u003e\u003ch3\u003eSviluppo software e intelligenza artificiale\u003c/h3\u003e\u003cp\u003eIn questo corso esploreremo come l’intelligenza artificiale può supportare lo sviluppo software moderno. Per prima cosa, creerà una nuova chat con il modello selezionato per gestire richieste complesse. L'obiettivo è insegnare come interagire con strumenti avanzati in modo efficace. Useremo lo stesso prompt in contesti diversi per analizzare le risposte generate. Questo ci aiuterà a comprendere meglio la logica del modello. In questo corso verranno affrontati anche temi come il debug automatizzato e il refactoring assistito. Per prima cosa, creerà una nuova chat ogni volta che cambierà il contesto. Lo stesso prompt produrrà risultati differenti.\u003c/p\u003e",
-		"audioFileName": "2025-04-14-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 595,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "Qa0VFm",
+		"suuid": "Kw5zA9",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -638,40 +638,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Lo6Z5T",
-		"language": "pl",
-		"date": "2025-04-13",
-		"title": "Niedziela, 13 kwietnia 2025",
-		"htmlBody": "\u003ch3\u003ePolskie liczby\u003c/h3\u003e\u003cp\u003eChcę nauczyć się liczb jeszcze raz: jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć. Język polski jest trudnym językiem.\u003c/p\u003e\u003ch3\u003eMój projekt\u003c/h3\u003e\u003cp\u003eTworzę witrynę w Pythonie. Pracuję nad tym dzisiaj. To jest zabawne.\u003c/p\u003e",
-		"audioFileName": "2025-04-13-pl.mp3",
-		"kind": "blog",
-		"audioSeconds": 44,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "cPaNx5",
+		"suuid": "QtdM1z",
 		"language": "it",
-		"date": "2025-04-13",
-		"title": "Domenica 13 aprile 2025",
-		"htmlBody": "\u003ch3\u003eRiflessioni sulla guadare di video tecnologici\u003c/h3\u003e\u003cp\u003eÈ difficile guardare più di due o tre video tecnologici al giorno. Sembra che ci voglia più tempo di quanto pensassi. Ma penso che sia importante guardare i video perché sono una fonte costante di nuove idee. Mi piacerebbe vedere presto alcuni video in spagnolo o francese in lingua originale.\u003c/p\u003e\u003ch3\u003eCiò\u003c/h3\u003e\u003cp\u003eCiò che mi piace di più nella vita è viaggiare. Quando vedo ciò che accade nel mondo, mi sento ispirato a fare di più. Non capisco ciò che stai cercando di dire, ma sono curioso di saperne di più. Ciò che conta davvero è la felicità, non il successo materiale. Quando guardo indietro, mi rendo conto di ciò che ho imparato lungo il cammino.\u003c/p\u003e\u003ch3\u003eUn progetto finito, ora passiamo al prossimo\u003c/h3\u003e\u003cp\u003eOk, quindi penso di aver terminato il mio progetto compoutput al punto da poterlo utilizzare. Oggi mangerò uno yogurt per uno spuntino. Poi prendo un caffè. E poi guarderò qualche video sulla tecnologia fino a fine giornata. Quando andrò a dormire, ascolterò gli audio che ho creato oggi. Non vedo l'ora di scoprire se questo sarà un modo efficace per imparare, ovvero per ascoltare l'audio che hai creato tu stesso.\u003c/p\u003e\u003ch3\u003eIl progetto Python che sta arrivando\u003c/h3\u003e\u003cp\u003eNon vedo l'ora di lavorare al mio progetto Python domani. In pratica, voglio arrivare al punto in cui ho il mio progetto Go-React con il template Python-React. Voglio avere una buona padronanza e competenze di base sia in Python che in Go. Un altro aspetto importante è che voglio che questi progetti funzionino anche su Linux e Mac.\u003c/p\u003e\u003ch3\u003eIl futuro dello sviluppo software\u003c/h3\u003e\u003cp\u003eLo sviluppo software sta evolvendo rapidamente grazie all'intelligenza artificiale e alle nuove tecnologie. Recentemente, un progetto che sembrava complesso è stato completato, ed è stato appena avvolto in una scatola, pronto per essere distribuito. Uno degli aspetti più interessanti è l'integrazione del linguaggio naturale, che consente agli sviluppatori di interagire con il codice in modo più intuitivo. Ad esempio, dopo aver implementato una nuova funzionalità, abbiamo fatto il nostro commit per salvare le modifiche, garantendo così una gestione ottimale del codice e una collaborazione più fluida tra i membri del team.\u003c/p\u003e\u003ch3\u003eDi solito\u003c/h3\u003e\u003cp\u003eDi solito, mi sveglio alle sette del mattino, ma oggi ho deciso di dormire un po' di più. Di solito, faccio colazione con un caffè e qualche biscotto, ma oggi ho optato per una colazione più sostanziosa. Di solito, lavoro in ufficio, ma oggi ho una riunione online con il team. Di solito, prendo una pausa verso mezzogiorno, ma oggi forse mangerò più tardi. Di solito, la sera mi rilasso leggendo un libro, ma oggi pensavo di guardare un film.\u003c/p\u003e\u003ch3\u003eFinché\u003c/h3\u003e\u003cp\u003eFinché non trovo una soluzione, continuerò a lavorare su questo progetto. Mi piace passeggiare nel parco finché il sole non tramonta, perché la luce del pomeriggio è davvero piacevole. Finché non avrò finito la mia lista di cose da fare, non mi sentirò tranquillo. Non voglio andare via finché non vedo come si sviluppa la situazione. Finché hai la possibilità di cambiare, dovresti farlo senza esitare. Continuerò a studiare finché non capirò completamente l'argomento.\u003c/p\u003e",
-		"audioFileName": "2025-04-13-it.mp3",
+		"date": "2025-04-14",
+		"title": "Lunedì 14 aprile 2025",
+		"htmlBody": "\u003ch3\u003eUn paragrafo con dieci frasi che usano \"via\" ma in modi diversi:\u003c/h3\u003e\u003cp\u003eHa spinto via la sedia con un piede mentre si alzava. Sono scappati via appena hanno sentito il rumore. Il vento ha portato via le foglie secche dal cortile. Ha riso così tanto che le lacrime sono venute via da sole. Hanno preso via tutto senza lasciare traccia. Devi mettere via quei libri dopo aver finito di studiare. Non riesco a mandar via quel pensiero dalla testa. Gli anni sono volati via in un attimo. Ha buttato via l’occasione di dimostrare quanto vale. Spazza via la polvere prima di iniziare a dipingere.\u003c/p\u003e\u003ch3\u003eLa lingua polacca è diversa\u003c/h3\u003e\u003cp\u003eOggi riempirò i miei 10 minuti di audio con l'italiano. Ci sarà un po' di polacco, ma questo perché Karla ha iniziato a imparare frasi in polacco. A quanto pare ha incontrato una persona che le ha insegnato frasi in polacco. Le ho detto che mia madre conosceva due frasi in polacco. Le ha imparati da suo padre, morto quando lei era piccola. Ma il polacco è una lingua molto difficile. È particolarmente difficile se confrontato con altre lingue come l'olandese o le tre lingue simili francese, spagnolo e italiano. Io, però, voglio imparare il polacco.\u003c/p\u003e\u003ch3\u003eIl futuro di questa app\u003c/h3\u003e\u003cp\u003eQuindi, la mia app mi dice che il mio audio durerà ora quattro minuti. Per questo motivo, oggi devo produrre molto più materiale. In realtà, sto preparando l'audio di ieri. Questo mi fa chiedere: potrò continuare a usare questa app quando avrò un lavoro a tempo pieno? In realtà ho integrato una funzionalità per gestire questo problema. Posso facilmente ridurre il numero di minuti necessari. Posso abbassarli da 10 a 5. Quando li abbasso a 5, non ho bisogno di dedicare così tanto tempo ogni giorno alla produzione linguistica. Ma l'aspetto importante di questo metodo è che lo si usi quotidianamente. Questa abitudine di produrre un linguaggio comprensibile, di leggerlo ad alta voce e poi di ascoltarlo e comprenderlo, è ciò che porterà a miglioramenti della fluidità nel tempo.\u003c/p\u003e\u003ch3\u003ePassare dall'italiano allo spagnolo\u003c/h3\u003e\u003cp\u003eOk, ma penso di aver prodotto abbastanza italiano oggi. Passerò allo spagnolo. Uno dei miei obiettivi in ​​spagnolo è raggiungere il livello B1 entro dicembre 2026.\u003c/p\u003e\u003ch3\u003eA quanto pare\u003c/h3\u003e\u003cp\u003eA quanto pare, Marco ha deciso di trasferirsi in Spagna per lavoro. A quanto pare, non aveva detto nulla a nessuno prima di partire. A quanto pare, aveva ricevuto un'offerta che non poteva rifiutare. A quanto pare, la città in cui si è trasferito è molto bella e piena di vita. A quanto pare, ha già trovato casa vicino al centro storico. A quanto pare, sta anche imparando lo spagnolo molto in fretta. A quanto pare, i suoi colleghi lo hanno accolto calorosamente. A quanto pare, non sente troppo la mancanza dell'Italia. A quanto pare, però, torna spesso per visitare la famiglia. A quanto pare, questa nuova avventura gli sta facendo davvero bene.\u003c/p\u003e\u003ch3\u003eSviluppo software e intelligenza artificiale\u003c/h3\u003e\u003cp\u003eIn questo corso esploreremo come l’intelligenza artificiale può supportare lo sviluppo software moderno. Per prima cosa, creerà una nuova chat con il modello selezionato per gestire richieste complesse. L'obiettivo è insegnare come interagire con strumenti avanzati in modo efficace. Useremo lo stesso prompt in contesti diversi per analizzare le risposte generate. Questo ci aiuterà a comprendere meglio la logica del modello. In questo corso verranno affrontati anche temi come il debug automatizzato e il refactoring assistito. Per prima cosa, creerà una nuova chat ogni volta che cambierà il contesto. Lo stesso prompt produrrà risultati differenti.\u003c/p\u003e",
+		"audioFileName": "2025-04-14-it.mp3",
 		"kind": "blog",
-		"audioSeconds": 634,
+		"audioSeconds": 595,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "y8A85o",
-		"language": "es",
-		"date": "2025-04-13",
-		"title": "Domingo 13 de abril de 2025",
-		"htmlBody": "\u003ch3\u003eDesarrollo de software: desafíos y soluciones comunes\u003c/h3\u003e\u003cp\u003eEl desarrollo de software puede ser un proceso desafiante, especialmente cuando los usuarios se enfrentan a errores como \"recurso no encontrado\". Al construir aplicaciones, es importante anticipar estos problemas y ofrecer soluciones claras. Un par de cosas que quiero señalar es que la optimización del rendimiento y la experiencia del usuario son esenciales. A menudo, los desarrolladores llegan a esta página navegando a través de documentación o foros en busca de soluciones. Es crucial estar al tanto de las mejores prácticas para evitar obstáculos comunes y ofrecer un producto funcional y fácil de usar para todos los usuarios.\u003c/p\u003e",
-		"audioFileName": "2025-04-13-es.mp3",
-		"kind": "blog",
-		"audioSeconds": 117,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "CsNItm",
+		"suuid": "RxTCht",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -682,29 +660,40 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Y6Qqub",
-		"language": "fr",
-		"date": "2025-04-12",
-		"title": "Samedi 12 avril 2025",
-		"htmlBody": "\u003ch3\u003eLe développement logiciel : de la précision à la perfection\u003c/h3\u003e\u003cp\u003eLe développement logiciel nécessite à la fois créativité et rigueur. Chaque ligne de code doit être soigneusement écrite pour éviter les erreurs, notamment les fautes de frappe, qui peuvent entraîner des bugs difficiles à détecter. Nous souhaitons en faire des applications robustes et performantes, où chaque détail compte. Quand on est à l'échelle de quelques centimètres, chaque petit ajustement a une grande importance, que ce soit pour l'interface utilisateur ou pour l'optimisation du code. C'est en prêtant attention à ces petites choses que l'on peut garantir la qualité et la fiabilité de nos projets.\u003c/p\u003e\u003ch3\u003eLe développement logiciel et l’importance de l’organisation\u003c/h3\u003e\u003cp\u003eDans le développement logiciel, l’organisation est essentielle pour garantir des résultats efficaces. Par exemple, j'ai l'onglet du navigateur ici, où je teste différentes fonctionnalités de l'application en temps réel. Cela me permet de comparer les performances avec les résultats escomptés. En suivant une approche systématique, nous découvrirons les composants clés qui influencent le comportement du logiciel. Chaque élément joue un rôle crucial dans le bon fonctionnement de l’ensemble. En documentant correctement et en testant régulièrement, nous nous assurons que toutes les parties de notre projet répondent aux attentes et offrent une expérience utilisateur fluide.\u003c/p\u003e",
-		"audioFileName": "2025-04-12-fr.mp3",
+		"suuid": "cUmBCs",
+		"language": "it",
+		"date": "2025-04-13",
+		"title": "Domenica 13 aprile 2025",
+		"htmlBody": "\u003ch3\u003eRiflessioni sulla guadare di video tecnologici\u003c/h3\u003e\u003cp\u003eÈ difficile guardare più di due o tre video tecnologici al giorno. Sembra che ci voglia più tempo di quanto pensassi. Ma penso che sia importante guardare i video perché sono una fonte costante di nuove idee. Mi piacerebbe vedere presto alcuni video in spagnolo o francese in lingua originale.\u003c/p\u003e\u003ch3\u003eCiò\u003c/h3\u003e\u003cp\u003eCiò che mi piace di più nella vita è viaggiare. Quando vedo ciò che accade nel mondo, mi sento ispirato a fare di più. Non capisco ciò che stai cercando di dire, ma sono curioso di saperne di più. Ciò che conta davvero è la felicità, non il successo materiale. Quando guardo indietro, mi rendo conto di ciò che ho imparato lungo il cammino.\u003c/p\u003e\u003ch3\u003eUn progetto finito, ora passiamo al prossimo\u003c/h3\u003e\u003cp\u003eOk, quindi penso di aver terminato il mio progetto compoutput al punto da poterlo utilizzare. Oggi mangerò uno yogurt per uno spuntino. Poi prendo un caffè. E poi guarderò qualche video sulla tecnologia fino a fine giornata. Quando andrò a dormire, ascolterò gli audio che ho creato oggi. Non vedo l'ora di scoprire se questo sarà un modo efficace per imparare, ovvero per ascoltare l'audio che hai creato tu stesso.\u003c/p\u003e\u003ch3\u003eIl progetto Python che sta arrivando\u003c/h3\u003e\u003cp\u003eNon vedo l'ora di lavorare al mio progetto Python domani. In pratica, voglio arrivare al punto in cui ho il mio progetto Go-React con il template Python-React. Voglio avere una buona padronanza e competenze di base sia in Python che in Go. Un altro aspetto importante è che voglio che questi progetti funzionino anche su Linux e Mac.\u003c/p\u003e\u003ch3\u003eIl futuro dello sviluppo software\u003c/h3\u003e\u003cp\u003eLo sviluppo software sta evolvendo rapidamente grazie all'intelligenza artificiale e alle nuove tecnologie. Recentemente, un progetto che sembrava complesso è stato completato, ed è stato appena avvolto in una scatola, pronto per essere distribuito. Uno degli aspetti più interessanti è l'integrazione del linguaggio naturale, che consente agli sviluppatori di interagire con il codice in modo più intuitivo. Ad esempio, dopo aver implementato una nuova funzionalità, abbiamo fatto il nostro commit per salvare le modifiche, garantendo così una gestione ottimale del codice e una collaborazione più fluida tra i membri del team.\u003c/p\u003e\u003ch3\u003eDi solito\u003c/h3\u003e\u003cp\u003eDi solito, mi sveglio alle sette del mattino, ma oggi ho deciso di dormire un po' di più. Di solito, faccio colazione con un caffè e qualche biscotto, ma oggi ho optato per una colazione più sostanziosa. Di solito, lavoro in ufficio, ma oggi ho una riunione online con il team. Di solito, prendo una pausa verso mezzogiorno, ma oggi forse mangerò più tardi. Di solito, la sera mi rilasso leggendo un libro, ma oggi pensavo di guardare un film.\u003c/p\u003e\u003ch3\u003eFinché\u003c/h3\u003e\u003cp\u003eFinché non trovo una soluzione, continuerò a lavorare su questo progetto. Mi piace passeggiare nel parco finché il sole non tramonta, perché la luce del pomeriggio è davvero piacevole. Finché non avrò finito la mia lista di cose da fare, non mi sentirò tranquillo. Non voglio andare via finché non vedo come si sviluppa la situazione. Finché hai la possibilità di cambiare, dovresti farlo senza esitare. Continuerò a studiare finché non capirò completamente l'argomento.\u003c/p\u003e",
+		"audioFileName": "2025-04-13-it.mp3",
 		"kind": "blog",
-		"audioSeconds": 181,
+		"audioSeconds": 634,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BXnAK8",
-		"language": "nl",
-		"date": "2025-04-12",
-		"title": "Zaterdag 12 april 2025",
-		"htmlBody": "\u003ch3\u003eEen lekker zaterdagontbijt\u003c/h3\u003e\u003cp\u003eVandaag ben ik bij mijn nichtje gaan ontbijten. We waren er met z'n vijven. We aten allerlei soorten eten, waaronder wafels, yoghurt en broodjes. Na het ontbijt gingen we wandelen en hadden we veel gesprekken.\u003c/p\u003e\u003cp\u003eIk wist niet dat we door de tunnel konden lopen om zo op de rotonde te komen. We hebben ook een lange wandeling door het park gemaakt en zagen een heel kleurrijke eend. Ik ben blij dat het niet regende. Het was zonnig en mooi weer, al was het ook een beetje fris.\u003c/p\u003e\u003ch3\u003eSoftwareontwikkeling en het belang van flexibele benaderingen\u003c/h3\u003e\u003cp\u003eIn softwareontwikkeling kan ongelooflijk nuttig zijn om verschillende benaderingen te verkennen om een probleem op te lossen. Soms kies je voor oplossingen die snel werken, maar die op lange termijn niet altijd de beste keuze zijn. Maar dat is niet erg, zolang je bewust bent van de beperkingen. Bijvoorbeeld, bepaalde tools kunnen handig zijn, maar houd er rekening mee dat deze niet worden ondersteund in toekomstige versies van het systeem. Het is belangrijk om altijd voorbereid te zijn op veranderingen en alternatieven te overwegen die beter schaalbaar en toekomstbestendig zijn.\u003c/p\u003e",
-		"audioFileName": "2025-04-12-nl.mp3",
+		"suuid": "OnWQEc",
+		"language": "es",
+		"date": "2025-04-13",
+		"title": "Domingo 13 de abril de 2025",
+		"htmlBody": "\u003ch3\u003eDesarrollo de software: desafíos y soluciones comunes\u003c/h3\u003e\u003cp\u003eEl desarrollo de software puede ser un proceso desafiante, especialmente cuando los usuarios se enfrentan a errores como \"recurso no encontrado\". Al construir aplicaciones, es importante anticipar estos problemas y ofrecer soluciones claras. Un par de cosas que quiero señalar es que la optimización del rendimiento y la experiencia del usuario son esenciales. A menudo, los desarrolladores llegan a esta página navegando a través de documentación o foros en busca de soluciones. Es crucial estar al tanto de las mejores prácticas para evitar obstáculos comunes y ofrecer un producto funcional y fácil de usar para todos los usuarios.\u003c/p\u003e",
+		"audioFileName": "2025-04-13-es.mp3",
 		"kind": "blog",
-		"audioSeconds": 157,
+		"audioSeconds": 117,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bpmSKM",
+		"suuid": "JgRfWo",
+		"language": "pl",
+		"date": "2025-04-13",
+		"title": "Niedziela, 13 kwietnia 2025",
+		"htmlBody": "\u003ch3\u003ePolskie liczby\u003c/h3\u003e\u003cp\u003eChcę nauczyć się liczb jeszcze raz: jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć. Język polski jest trudnym językiem.\u003c/p\u003e\u003ch3\u003eMój projekt\u003c/h3\u003e\u003cp\u003eTworzę witrynę w Pythonie. Pracuję nad tym dzisiaj. To jest zabawne.\u003c/p\u003e",
+		"audioFileName": "2025-04-13-pl.mp3",
+		"kind": "blog",
+		"audioSeconds": 44,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "bxh1GL",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -715,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vMqtPg",
+		"suuid": "G0u1Lb",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -726,29 +715,29 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8QXbwg",
-		"language": "de",
-		"date": "2025-04-11",
-		"title": "Freitag, 11. April 2025",
-		"htmlBody": "\u003ch3\u003eVocabular: sternhagelvoll, Schmalhans, Gummitwist\u003c/h3\u003e\u003cp\u003eIm Hof spielten die Kinder fröhlich Gummitwist, während Schmalhans, der alte Nachbar, missmutig am Fenster stand. „Lärm und Leichtsinn!“, brummte er. Plötzlich erschien Opa Fritz, sternhagelvoll vom Dorffest, schwankend und mit roter Nase. „Na, lasst den Meister ran!“, rief er lachend und stolperte direkt ins Gummiband. Die Kinder kreischten vor Vergnügen, als er sich verhedderte und rücklings in den Sand fiel. Selbst Schmalhans zuckte mit den Mundwinkeln. „So viel Schwung für so wenig Gleichgewicht“, murmelte er. Opa lachte: „Früher war ich Gummitwist-Champion!“ Und alle wussten: Ein bisschen Leichtsinn schadet manchmal gar nicht.\u003c/p\u003e",
-		"audioFileName": "2025-04-11-de.mp3",
+		"suuid": "gBSssK",
+		"language": "fr",
+		"date": "2025-04-12",
+		"title": "Samedi 12 avril 2025",
+		"htmlBody": "\u003ch3\u003eLe développement logiciel : de la précision à la perfection\u003c/h3\u003e\u003cp\u003eLe développement logiciel nécessite à la fois créativité et rigueur. Chaque ligne de code doit être soigneusement écrite pour éviter les erreurs, notamment les fautes de frappe, qui peuvent entraîner des bugs difficiles à détecter. Nous souhaitons en faire des applications robustes et performantes, où chaque détail compte. Quand on est à l'échelle de quelques centimètres, chaque petit ajustement a une grande importance, que ce soit pour l'interface utilisateur ou pour l'optimisation du code. C'est en prêtant attention à ces petites choses que l'on peut garantir la qualité et la fiabilité de nos projets.\u003c/p\u003e\u003ch3\u003eLe développement logiciel et l’importance de l’organisation\u003c/h3\u003e\u003cp\u003eDans le développement logiciel, l’organisation est essentielle pour garantir des résultats efficaces. Par exemple, j'ai l'onglet du navigateur ici, où je teste différentes fonctionnalités de l'application en temps réel. Cela me permet de comparer les performances avec les résultats escomptés. En suivant une approche systématique, nous découvrirons les composants clés qui influencent le comportement du logiciel. Chaque élément joue un rôle crucial dans le bon fonctionnement de l’ensemble. En documentant correctement et en testant régulièrement, nous nous assurons que toutes les parties de notre projet répondent aux attentes et offrent une expérience utilisateur fluide.\u003c/p\u003e",
+		"audioFileName": "2025-04-12-fr.mp3",
 		"kind": "blog",
-		"audioSeconds": 66,
+		"audioSeconds": 181,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WcRgzi",
-		"language": "it",
-		"date": "2025-04-11",
-		"title": "Venerdì 11 aprile 2025",
-		"htmlBody": "\u003ch3\u003eAppunti sulla programmazione\u003c/h3\u003e\u003cp\u003eSono riuscito a creare una funzione che calcola la durata in secondi di un file [em-ay-PEE-tray] MP3. ChatGPT è molto utile per attività di questo tipo. Adesso riorganizzerò il test in modo che sia in un file separato che potrò utilizzare per altri test. Ho aggiunto un nuovo campo. Ora devo scorrere gli oggetti e salvare il numero di secondi nel campo. Il numero di secondi è la durata del file MP3. Non ha cambiato nulla nel codice. L'intelligenza artificiale è facile da usare, ma fa solo l'ottanta percento di ciò che si desidera. È quasi sempre necessario correggere il codice che crea. Sto ordinando gli oggetti in base al campo data, in ordine decrescente.\u003c/p\u003e\u003cp\u003eSpero che dopo aver creato questa app, la userò davvero ogni giorno. E spero che mi aiuti a parlare fluentemente molte lingue.\u003c/p\u003e",
-		"audioFileName": "2025-04-11-it.mp3",
+		"suuid": "UVOg8C",
+		"language": "nl",
+		"date": "2025-04-12",
+		"title": "Zaterdag 12 april 2025",
+		"htmlBody": "\u003ch3\u003eEen lekker zaterdagontbijt\u003c/h3\u003e\u003cp\u003eVandaag ben ik bij mijn nichtje gaan ontbijten. We waren er met z'n vijven. We aten allerlei soorten eten, waaronder wafels, yoghurt en broodjes. Na het ontbijt gingen we wandelen en hadden we veel gesprekken.\u003c/p\u003e\u003cp\u003eIk wist niet dat we door de tunnel konden lopen om zo op de rotonde te komen. We hebben ook een lange wandeling door het park gemaakt en zagen een heel kleurrijke eend. Ik ben blij dat het niet regende. Het was zonnig en mooi weer, al was het ook een beetje fris.\u003c/p\u003e\u003ch3\u003eSoftwareontwikkeling en het belang van flexibele benaderingen\u003c/h3\u003e\u003cp\u003eIn softwareontwikkeling kan ongelooflijk nuttig zijn om verschillende benaderingen te verkennen om een probleem op te lossen. Soms kies je voor oplossingen die snel werken, maar die op lange termijn niet altijd de beste keuze zijn. Maar dat is niet erg, zolang je bewust bent van de beperkingen. Bijvoorbeeld, bepaalde tools kunnen handig zijn, maar houd er rekening mee dat deze niet worden ondersteund in toekomstige versies van het systeem. Het is belangrijk om altijd voorbereid te zijn op veranderingen en alternatieven te overwegen die beter schaalbaar en toekomstbestendig zijn.\u003c/p\u003e",
+		"audioFileName": "2025-04-12-nl.mp3",
 		"kind": "blog",
-		"audioSeconds": 126,
+		"audioSeconds": 157,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AZ8MBk",
+		"suuid": "QRRUEP",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -759,7 +748,29 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "nhOqdc",
+		"suuid": "mXYdx7",
+		"language": "de",
+		"date": "2025-04-11",
+		"title": "Freitag, 11. April 2025",
+		"htmlBody": "\u003ch3\u003eVocabular: sternhagelvoll, Schmalhans, Gummitwist\u003c/h3\u003e\u003cp\u003eIm Hof spielten die Kinder fröhlich Gummitwist, während Schmalhans, der alte Nachbar, missmutig am Fenster stand. „Lärm und Leichtsinn!“, brummte er. Plötzlich erschien Opa Fritz, sternhagelvoll vom Dorffest, schwankend und mit roter Nase. „Na, lasst den Meister ran!“, rief er lachend und stolperte direkt ins Gummiband. Die Kinder kreischten vor Vergnügen, als er sich verhedderte und rücklings in den Sand fiel. Selbst Schmalhans zuckte mit den Mundwinkeln. „So viel Schwung für so wenig Gleichgewicht“, murmelte er. Opa lachte: „Früher war ich Gummitwist-Champion!“ Und alle wussten: Ein bisschen Leichtsinn schadet manchmal gar nicht.\u003c/p\u003e",
+		"audioFileName": "2025-04-11-de.mp3",
+		"kind": "blog",
+		"audioSeconds": 66,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "PiOahN",
+		"language": "it",
+		"date": "2025-04-11",
+		"title": "Venerdì 11 aprile 2025",
+		"htmlBody": "\u003ch3\u003eAppunti sulla programmazione\u003c/h3\u003e\u003cp\u003eSono riuscito a creare una funzione che calcola la durata in secondi di un file [em-ay-PEE-tray] MP3. ChatGPT è molto utile per attività di questo tipo. Adesso riorganizzerò il test in modo che sia in un file separato che potrò utilizzare per altri test. Ho aggiunto un nuovo campo. Ora devo scorrere gli oggetti e salvare il numero di secondi nel campo. Il numero di secondi è la durata del file MP3. Non ha cambiato nulla nel codice. L'intelligenza artificiale è facile da usare, ma fa solo l'ottanta percento di ciò che si desidera. È quasi sempre necessario correggere il codice che crea. Sto ordinando gli oggetti in base al campo data, in ordine decrescente.\u003c/p\u003e\u003cp\u003eSpero che dopo aver creato questa app, la userò davvero ogni giorno. E spero che mi aiuti a parlare fluentemente molte lingue.\u003c/p\u003e",
+		"audioFileName": "2025-04-11-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 126,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "wbGxaH",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -770,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JX9F9k",
+		"suuid": "qrIfp3",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -781,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "68Fu5a",
+		"suuid": "OiDkQg",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -792,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Mb9cg9",
+		"suuid": "jVvfBU",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -803,18 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LcKNqL",
-		"language": "it",
-		"date": "2025-04-09",
-		"title": "Mercoledì 9 aprile 2025",
-		"htmlBody": "\u003ch3\u003eIl mio progetto: Output comprensibile\u003c/h3\u003e\u003cp\u003ePenso che questo progetto avrà molto successo. Mi consentirà anche di realizzare molti progetti Datapod.\u003c/p\u003e\u003ch3\u003ePranzo insieme\u003c/h3\u003e\u003cp\u003eOggi abbiamo portato dei vestiti in un negozio dell'usato. Dopo ci siamo fermati in una panetteria per mangiare due ciotole di chili e due panini. Abbiamo parlato di tante cose, come del nostro lavoro e delle nostre figlie.\u003c/p\u003e\u003ch3\u003eNumeri\u003c/h3\u003e\u003cp\u003eOggi voglio esercitarmi a dire e ad ascoltare i numeri. Ecco alcuni numeri: centododici, sessantotto, centosettantatré, novantanove, centoventicinque, ottantuno, centosessanta, centonove, centottantadue, cinquantasette, centoventisette, quattrocentosessantacinque, ottocentonovantuno, duecentododici, cinquecentosessantotto, millecentonove, milleseicentottantadue, millequarantatré, millesettecentoventicinque, millecinquanta.\u003c/p\u003e\u003ch3\u003eColori\u003c/h3\u003e\u003cp\u003eNon fa mai male conoscere i nomi dei colori: rosso, blu, giallo, verde, arancione, viola, rosa, marrone, nero, bianco, grigio, azzurro, beige, oro, argento, celeste, fucsia, ciano, indaco, crema.\u003c/p\u003e",
-		"audioFileName": "2025-04-09-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 300,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "AAVPiz",
+		"suuid": "Mrnpx2",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",
@@ -822,6 +822,17 @@
 		"audioFileName": "2025-04-09-nl.mp3",
 		"kind": "blog",
 		"audioSeconds": 27,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "ThpdIR",
+		"language": "it",
+		"date": "2025-04-09",
+		"title": "Mercoledì 9 aprile 2025",
+		"htmlBody": "\u003ch3\u003eIl mio progetto: Output comprensibile\u003c/h3\u003e\u003cp\u003ePenso che questo progetto avrà molto successo. Mi consentirà anche di realizzare molti progetti Datapod.\u003c/p\u003e\u003ch3\u003ePranzo insieme\u003c/h3\u003e\u003cp\u003eOggi abbiamo portato dei vestiti in un negozio dell'usato. Dopo ci siamo fermati in una panetteria per mangiare due ciotole di chili e due panini. Abbiamo parlato di tante cose, come del nostro lavoro e delle nostre figlie.\u003c/p\u003e\u003ch3\u003eNumeri\u003c/h3\u003e\u003cp\u003eOggi voglio esercitarmi a dire e ad ascoltare i numeri. Ecco alcuni numeri: centododici, sessantotto, centosettantatré, novantanove, centoventicinque, ottantuno, centosessanta, centonove, centottantadue, cinquantasette, centoventisette, quattrocentosessantacinque, ottocentonovantuno, duecentododici, cinquecentosessantotto, millecentonove, milleseicentottantadue, millequarantatré, millesettecentoventicinque, millecinquanta.\u003c/p\u003e\u003ch3\u003eColori\u003c/h3\u003e\u003cp\u003eNon fa mai male conoscere i nomi dei colori: rosso, blu, giallo, verde, arancione, viola, rosa, marrone, nero, bianco, grigio, azzurro, beige, oro, argento, celeste, fucsia, ciano, indaco, crema.\u003c/p\u003e",
+		"audioFileName": "2025-04-09-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 300,
 		"estimatedAudioSeconds": 0
 	}
 ]
