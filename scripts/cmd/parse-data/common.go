@@ -26,6 +26,10 @@ type Flashcard struct {
 	Back     string `json:"back"`
 }
 
+func getRelativeAppDataDirectory() string {
+	return "../../../data/compout-base-data"
+}
+
 func getOutputItemsFromJsonFile() ([]OutputItem, error) {
 	jsonData, err := os.ReadFile("../../../parseddata/outputItems.json")
 	if err != nil {

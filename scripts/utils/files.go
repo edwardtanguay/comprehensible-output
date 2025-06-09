@@ -3,6 +3,7 @@ package utils
 import (
 	"os"
 	"strings"
+	"sort"
 )
 
 /*
@@ -66,6 +67,8 @@ func GetFileNamesFromDirectoryThatContainText(dirPath string, text string) []str
 			files = append(files, entry.Name())
 		}
 	}
+	// sort.Sort(sort.Reverse(sort.StringSlice(files)))
+	sort.Strings(files)
 	return files
 }
 
@@ -83,4 +86,9 @@ func SaveLinesToFile(fileName string, lines []string) error {
 		return err
 	}
 	return nil
+}
+
+func FileExists(path string) bool {
+	_, err := os.Stat(path)
+	return err == nil || !os.IsNotExist(err)
 }

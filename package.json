@@ -7,7 +7,7 @@
 		"dev": "vite --port 3221 --open",
 		"pd": "cd scripts/cmd/parse-data && go run .",
 		"cpl": "cd scripts/cmd/create-prompts-from-linkedin && go run .",
-		"cpg": "cd scripts/cmd/create-prompts-from-google-translate && go run .",
+		"cpf": "cd scripts/cmd/create-prompt-files && go run .",
 		"gh": "git log --pretty=format:\"%ad | %h | %s\" --date=format:\"%Y-%m-%d %H:%M:%S\"",
 		"lc": "cd scripts/cmdbash && bash lang-count-in-google-phrases.sh",
 		"build": "tsc && vite build",

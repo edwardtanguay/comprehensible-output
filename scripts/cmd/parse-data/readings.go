@@ -7,7 +7,8 @@ import (
 )
 
 func parseReadings() {
-	files := utils.GetFileNamesFromDirectoryThatContainText("../../../data", ".readings.")
+	var appdir = getRelativeAppDataDirectory()
+	files := utils.GetFileNamesFromDirectoryThatContainText(appdir, ".readings.")
 	outputItems, err := getOutputItemsFromJsonFile()
 	if err != nil {
 		fmt.Printf("Error getting output items: %v\n", err)
@@ -15,7 +16,7 @@ func parseReadings() {
 	}
 
 	for _, file := range files {
-		lines := utils.GetLinesFromFile("../../../data/" + file)
+		lines := utils.GetLinesFromFile(appdir + "/" + file)
 
 		for _, line := range lines {
 			parts := strings.Split(line, ";")

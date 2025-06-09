@@ -8,12 +8,13 @@ import (
 )
 
 func parseBlogEntries() {
-	files := utils.GetFileNamesFromDirectoryThatContainText("../../../data", ".compout.")
+	var appdir = getRelativeAppDataDirectory()
+	files := utils.GetFileNamesFromDirectoryThatContainText(appdir, ".compout.")
 
 	var outputItems []OutputItem
 	for _, file := range files {
 		language := utils.GetLanguageCodeFromFileName(file)
-		lines := utils.GetLinesFromFile("../../../data/" + file)
+		lines := utils.GetLinesFromFile(appdir + "/" + file)
 		numberOfDaysRecorded := 0
 		var date string
 		var title string
