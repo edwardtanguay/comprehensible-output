@@ -103,4 +103,6 @@ it; 1970; MEE-lay noh-vay-CHAYN-toh say-TAHN-tah
 it; cominciavano; coh-meen-CHAH-vah-noh; started to (imperfetto)
 it; si chiamavano; kee-ah-MAH-vah-noh; were called 
 it; HTML; AH-kah tee EHM-eh ELL-eh
-
+fr;Qui rira le dernier ; dairn-YAY; who will laugh last
+fr;une pieuvre ; pee-ÖV-re; octopus
+fr; pas à pas; paz-ah-PAH; step by step

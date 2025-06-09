@@ -1,3 +1,27 @@
+2025-06-10 - mardi 10 juin 2025
+
+>> Une journée presque normale
+
+Tout au long de la journée, dans un petit bureau encombré au centre de Lyon, Élise travaillait sur un projet de refonte d’un site web communal. Ce projet, survenu au sein d’un petit village voisin, demandait coordination, patience et surtout, une capacité à gérer les imprévus. Elle se répétait : "Je vais utiliser Python pour le site central", espérant que ce choix faciliterait le flux de travail à long terme.
+
+Auparavant, apparemment, un autre développeur avait essayé de moderniser le système, mais tout prenait du retard. Ce fut un véritable casse-tête, car les utilisateurs ne comprenaient pas les changements. On ne peut pas nier que certaines solutions techniques peuvent sembler complexes. Je l’admets mais en même temps, ce n’est pas aussi simple que cela de contenter tout le monde.
+
+Ce matin-là, Élise avait pris soin de bien planifier ses tâches. Au préalable, elle avait déjà versé l’eau dans la cafetière, nettoyé son bureau et préparé les documents pour la visio. Cependant, on peut être distrait si facilement. Entre les notifications constantes et les messages des collègues, ça s’échappe. Elle se retrouva bientôt à courir après la réponse attendue d’un client absent.
+
+Pendant la visio, les discussions furent longues et parfois tendues. Ils avaient chacun quelque chose à dire, et ils parlent encore, même après deux heures. Je ne suis pas entièrement d’accord avec cette idée, dit-elle à un collègue, mais d’un autre côté, elle comprenait les préoccupations de chacun. J'en ai fini avec ça, pensa-t-elle, en attrapant le micro pour clore la réunion.
+
+Chaque fois que nous proposons un nouveau service, les critiques surgissent. Je pense que c'est fini, murmura Élise après avoir raccroché. Ok, j'ai voté, dit-elle ensuite dans le canal de discussion, validant le design final.
+
+Dès lors que tu veux innover, il faut exercer une pression, non seulement sur soi-même mais aussi sur les autres, pour démarrer tous les processus à temps. Tu éviteras de tout perdre, répétait-elle souvent à son stagiaire, qui travaillait sur une fonction de sauvegarde automatique.
+
+Plus tard dans la journée, un collègue vint la voir : "Le maire a demandé à renseigner les utilisateurs sur la nouvelle plateforme." Je ne voulais pas te désinviter de la réunion avec lui demain, ajouta-t-il. Je pense qu'il sera également malade demain, répondit-elle en plaisantant.
+
+En fin de journée, l’essentiel c’est qu’on s’amuse. Quelques instants de rire et sourire partagés dans la salle de repos rappelèrent à Élise pourquoi elle aimait ce métier. Qui rira le dernier ? demanda son collègue en montrant une pieuvre en plastique posée sur son bureau, vestige d’un pari perdu.
+
+Ça vaut la peine de se battre pour ça, pensa Élise, en regardant le site enfin en ligne. Il le restaure, ce village numérique, pas à pas. Même si parfois ce n’est pas aussi simple que cela, même si nous ne savons pas exactement où il se trouve ce "succès", de nier les progrès accomplis serait injuste.
+
+Et demain ? Demain, il te laissera entrer quand il arrivera... le client satisfait.
+
 2025-06-01 - dimanche 1er juin 2025
 
 >> Souvenir d’un projet presque réussi
