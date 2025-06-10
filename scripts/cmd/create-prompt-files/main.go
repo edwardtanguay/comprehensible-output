@@ -13,8 +13,6 @@ func main() {
 
 	filenames := utils.GetFileNamesFromDirectoryThatContainText(getRelativeGoogleTranslateDataDirectory(), "googtran-")
 
-	statsLine002Items := []StatsLineItem{}
-
 	flashcardsByLanguage := map[string][]Flashcard{
 		"German":    {},
 		"French":    {},
@@ -32,8 +30,10 @@ func main() {
 		languages = append(languages, lang)
 	}
 
-	for index, filename := range filenames {
+	for _, filename := range filenames {
 		pathAndFileName := fmt.Sprintf("../../../data/google-translate-phrases/%s", filename)
+
+		statsLine002Items := []StatsLineItem{}
 
 		for _, language := range languages {
 
@@ -59,17 +59,28 @@ func main() {
 
 			if language != "English" {
 				flashcardsByLanguage[language] = append(flashcardsByLanguage[language], flashcards...)
-				if index == len(filenames)-1 {
-					if len(flashcards) != 0 {
-						statsLine002Items = append(statsLine002Items, StatsLineItem{
-							Language:        language,
-							NumberOfPhrases: len(flashcards),
-						})
-					}
+				if len(flashcards) != 0 {
+					statsLine002Items = append(statsLine002Items, StatsLineItem{
+						Language:        language,
+						NumberOfPhrases: len(flashcards),
+					})
 				}
 			}
 
 		}
+		sort.Slice(statsLine002Items, func(i, j int) bool {
+			return statsLine002Items[i].NumberOfPhrases > statsLine002Items[j].NumberOfPhrases
+		})
+		// stat line 002
+		parts := []string{}
+		for _, item := range statsLine002Items {
+			if item.NumberOfPhrases == 0 {
+				parts = append(parts, fmt.Sprintf("%s", getLanguageCode(item.Language)))
+			} else {
+				parts = append(parts, fmt.Sprintf("%s(%d)", getLanguageCode(item.Language), item.NumberOfPhrases))
+			}
+		}
+		fmt.Printf("%s = %s\n", filename, strings.Join(parts, ", "))
 	}
 
 	// get English phrases (not possible in googtran, so we get from phrases-en.txt)
@@ -109,14 +120,10 @@ func main() {
 	sort.Slice(statsLine001Items, func(i, j int) bool {
 		return statsLine001Items[i].NumberOfPhrases > statsLine001Items[j].NumberOfPhrases
 	})
-	sort.Slice(statsLine002Items, func(i, j int) bool {
-		return statsLine002Items[i].NumberOfPhrases > statsLine002Items[j].NumberOfPhrases
-	})
 
 	var parts []string
 
 	// message
-	fmt.Println("All prompt files created, number of phrases:")
 	fmt.Println("------------------------------------------------------")
 
 	// stat line 001
@@ -130,16 +137,5 @@ func main() {
 	}
 	fmt.Printf("TOTAL: %s", strings.Join(parts, ", "))
 	fmt.Println()
-
-	// stat line 002
-	parts = []string{}
-	for _, item := range statsLine002Items {
-		if item.NumberOfPhrases == 0 {
-			parts = append(parts, fmt.Sprintf("%s", getLanguageCode(item.Language)))
-		} else {
-			parts = append(parts, fmt.Sprintf("%s(%d)", getLanguageCode(item.Language), item.NumberOfPhrases))
-		}
-	}
-	fmt.Printf("LAST FILE: %s", strings.Join(parts, ", "))
 
 }
