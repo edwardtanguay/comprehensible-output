@@ -98,7 +98,6 @@ pl; 5; pięć (pee-ENCH)
 pl; 9; dziewięć (JEV-yench)
 pl; 11; jedenaście
 pl; 32; trzydzieści dwa
-it; 2025; DO-ah MEE-lay VEN-tee CHING-quay
 it; 1970; MEE-lay noh-vay-CHAYN-toh say-TAHN-tah
 it; cominciavano; coh-meen-CHAH-vah-noh; started to (imperfetto)
 it; si chiamavano; kee-ah-MAH-vah-noh; were called 
@@ -114,3 +113,6 @@ fr; sans regret; reh-GRAY
 fr; du sens; S(AN)S
 fr; le rapport; rah-POR
 fr; mais avancer; may-AH
+it; 11; undici
+it; giugno; JOON-yo
+it; 2025; DO-ah MEE-lay VEN-tee CHINK-quay

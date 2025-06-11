@@ -1,3 +1,32 @@
+2025-06-11 - mercoledì 11 giugno 2025 
+
+>> Un'avventura nella riga di comando
+
+Luca è uno studente universitario curioso. Un giorno, durante una lezione di informatica, il docente spiegò: "Se digiti AWK sulla riga di comando, puoi manipolare il testo in modo molto potente". Luca, che non ne aveva mai sentito parlare, si chiese: "Cosa significa esattamente?".
+
+Ecco cosa dovresti sapere, continuò il docente, “AWK funziona bene con i file di testo, purché non cercherà di capire troppo all'inizio. Spesso, gli studenti si arrendono prima ancora di rendersi conto di quanto sia utile.” Luca ascoltava mentre tutti prendevano appunti, ma pensava: "Questo codice è un po’ complesso, ma voglio farlo di nuovo domani per esercitarmi."
+
+Quella sera, Luca tornò a casa. "Voglio continuare a lavorare al mio progetto", disse. "Ho trovato un sito con esercizi su AWK, ma queste domande sono difficili e leggere tutte queste informazioni è difficile. Però è importante avere una buona conoscenza della grammatica del linguaggio."
+
+Digitò un piccolo pezzo di codice nella riga di comando:
+awk '{print $1}' file.txt
+
+Ma si dimenticò della parentesi graffa di apertura. Il programma non funzionava. "Questo software non è stato ben progettato!", pensò frustrato. Ma poi notò l'errore: "Ah, mancava la parentesi graffa di apertura!".
+
+Il giorno dopo, alla lezione, chiese al professore: "Perché devo usare sia la parentesi graffa di apertura sia quella di chiusura?". Il docente rispose: "È la sintassi base. Ecco cosa dovresti sapere: ogni blocco di codice in AWK deve essere racchiuso tra graffe."
+
+“Sto ricominciando tutto da capo”, pensò Luca. “Per ora basta, ma domani ci riproverò. Ho bisogno di nuovo del codice dell’esempio.”
+
+Nel frattempo, nella sua città, qualcosa stava cambiando. Nuove tecnologie arrivavano, la città sta cambiando e nuove informazioni arrivano sempre. La sua amica Giulia, che lavora in un aeroporto, gli disse: “Abbiamo dovuto passare all’altro software per la gestione dei voli. È così stancante.”
+
+Un giorno, Luca andò a un seminario. Lì incontrò un programmatore che disse: “Io aggiorno spesso l’elenco dei membri del mio team con script in AWK.” Luca pensò: "Non ho così tante frasi da manipolare, ma questo è interessante."
+
+Alla fine del corso, Luca era stanco ma soddisfatto. "Adesso facciamo i tutorial e sarà qui tra un’ora il docente per l’ultima sessione. Devo andare a fare la spesa, ma poi torno.”
+
+Nel futuro, Luca crede che userà AWK spesso. Disse: "Se avrò un team, voglio insegnare loro questo linguaggio. Dovrebbe essere facile, purché nessuno si arrende prima ancora di rendersi conto del suo potere."
+
+Certo, non tutti sono come lui. Sua sorella, ad esempio, ha tre figli e lei era in quell’hotel dove il Wi-Fi non funzionava. "Lei non ascolta mai veramente quando parlo di tecnologia", rideva Luca. "Ma io continuo. Voglio farlo di nuovo. Non sappiamo cosa stanno facendo gli altri, ma io ho un progetto da finire!"
+
 2025-06-08 - domenica 8 giugno 2025 
 
 >> Una sorpresa per te
