@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "gw3B4T",
+		"suuid": "dn1R8o",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -11,7 +11,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1yPdM7",
+		"suuid": "rt8QXB",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -22,7 +22,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8igY5I",
+		"suuid": "hCPGac",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -33,7 +33,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qRtcsO",
+		"suuid": "6SXiQ9",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -44,7 +44,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "H3gn8c",
+		"suuid": "0k9QGs",
+		"language": "fr",
+		"date": "2025-06-07",
+		"title": "Samedi 7 juin 2025",
+		"htmlBody": "\u003ch3\u003eComment on les trie\u003c/h3\u003e\u003cp\u003eJe me souviens que, dans mon travail quotidien, il est très répandu de manipuler des chaînes de caractères, souvent un peu floues pour toi quand elles contiennent des chevauchements ou des éléments aléatoires, sans aucun sens apparent. L'essentiel, c'est qu'on s'amuse à comprendre comment on les trie, surtout quand il faut gérer des données complexes.\u003c/p\u003e\u003cp\u003eL'autre jour, j'ai créé une réunion après notre réunion principale pour discuter d'une mise à jour sur ce bug sur lequel nous travaillions. Les nouvelles viennent de l'équipe de direction : des améliorations ont été mises en œuvre, notamment concernant l'usage du dièse pour les lignes et la barre oblique inverse, ce qui rend tout ça un peu plus clair.\u003c/p\u003e\u003cp\u003eIl faut dire que dans la suite de la formation, on apprend que les langues s'apprennent mieux de la manière dont elles sont utilisées, et c'est pareil pour le code : a savoir qu'elles démarrent avec un mot-clé précis. Pour trier les données efficacement, il faut comprendre ces règles, sinon les chaînes deviennent aléatoires, sans aucun sens.\u003c/p\u003e\u003cp\u003eDans notre système, nous n'avons qu'un seul attachement par message, ce qui simplifie la gestion, mais ça devient de plus en plus facile grâce aux chevauchements contrôlés. J'espère que ça t'a plu d'en savoir plus. J'ai hâte d'être lundi pour continuer à pousser tes mises à jour et voir si les deux projets n'interféreront pas l'un avec l'autre.\u003c/p\u003e\u003cp\u003eDurant cette période stable et pérenne, tout au long de la journée, mon téléphone a fait un bruit : une notification importante était arrivée. Je suggère de l'envisager sérieusement, surtout parce que nous avons eu quelques améliorations concernant la façon dont on trie les données et que ça peut changer notre flux de travail.\u003c/p\u003e\u003cp\u003eAllons un peu plus loin : il est basé sur un algorithme qui, difficile à prédire, traite les chaînes de caractères en tenant compte des chevauchements et des mots-clés. Seulement environ la moitié des cas étaient bien gérés avant, mais maintenant, tant qu'il reste du stock dans le système, tout fonctionne bien.\u003c/p\u003e\u003cp\u003eJe vais d'abord l'essayer sans mes notes, et ensuite appeler cette liste pour vérifier que tout est en ordre. Dans le coin supérieur droit de l'interface, un nouveau bouton est apparu, permettant d'accéder rapidement à cette fonctionnalité. Elle le pose sur une assiette, comme pour servir un plat bien préparé.\u003c/p\u003e\u003cp\u003eQue puis-je dire d'autre ? Je n'ai pas perdu mon temps à étudier ce problème, car les résultats sont visibles. Je n'en ai pas assez mangé de cette expérience, car ça devient de plus en plus passionnant de voir les progrès réalisés. Tu en as combien de tâches en cours, toi ?\u003c/p\u003e\u003cp\u003eLa réunion a été reportée à demain, mais sache que tu peux obtenir un résumé complet toutes les heures de la journée. J'ai hâte de voir les retours, et surtout de savoir comment les équipes vont réagir à ces changements.\u003c/p\u003e\u003cp\u003eIl faut dire aussi que, dans ce contexte, le mot est utilisé pour exprimer une difficulté que nous avions rencontrée avec les chevauchements. Maintenant, avec les mises à jour, ça marche bien. Je n'ai pas fini d'explorer toutes les possibilités, mais en beaucoup plus court, ce système est efficace.\u003c/p\u003e\u003cp\u003eEnfin, si tu veux mon avis, je suggère de l'envisager comme un outil indispensable. Je me souviens que, lors de la dernière formation, on avait dit que tout cela serait difficile à maîtriser, mais que ça deviendrait simple avec le temps.\u003c/p\u003e\u003cp\u003eJ'espère que ce récit t'a apporté un éclairage nouveau sur comment on les trie, et surtout que tu comprendras pourquoi il faut continuer à travailler dessus. Allez, on avance, et je suis sûr que nous aurons un résultat solide dans un futur proche.\u003c/p\u003e",
+		"audioFileName": "2025-06-07-fr.mp3",
+		"kind": "blog",
+		"audioSeconds": 451,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "2gUdwE",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -55,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j5pnmD",
+		"suuid": "XKFOMJ",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Oniedziałek, 2 czerwiec 2025",
@@ -66,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yjGGSH",
+		"suuid": "YcnU6z",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -77,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5Lq2YI",
+		"suuid": "2puXj3",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -88,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Tafets",
+		"suuid": "0jyjfW",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -99,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WlnnJe",
+		"suuid": "G8mNcm",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -110,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UHuQiB",
+		"suuid": "UmET4H",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -121,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OrLYA6",
+		"suuid": "5aIzSp",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -132,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lyRGhU",
+		"suuid": "USmNZl",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -143,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bJhPp8",
+		"suuid": "TM860G",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -154,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "10BMo4",
+		"suuid": "4qqn6T",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -165,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a0P3Pu",
+		"suuid": "yazD33",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -176,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5ENNkW",
+		"suuid": "U2X8EV",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -187,7 +198,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "duslrB",
+		"suuid": "RNxXKC",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -198,7 +209,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LbC84e",
+		"suuid": "5UbsLj",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -209,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SwXvBP",
+		"suuid": "DkFSEL",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -220,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6hYFbs",
+		"suuid": "Lm6eML",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -231,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iD0r8d",
+		"suuid": "7fHkNF",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -242,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WVCJ7Y",
+		"suuid": "XQsUJW",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -253,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GASk8f",
+		"suuid": "GVD26t",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -264,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "c6h1e1",
+		"suuid": "d3meqj",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -275,7 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ETy2o0",
+		"suuid": "s63hnJ",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -283,10 +294,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 477
+		"estimatedAudioSeconds": 476
 	},
 	{
-		"suuid": "Nv9S5l",
+		"suuid": "bSpKZK",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -294,10 +305,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 383
+		"estimatedAudioSeconds": 382
 	},
 	{
-		"suuid": "rkSKDm",
+		"suuid": "nqyBI7",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -308,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JcwDBR",
+		"suuid": "IHlNky",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -319,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Eh59MC",
+		"suuid": "xyKOIM",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -330,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1Qlhdh",
+		"suuid": "mzyCSL",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -341,7 +352,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yTnBlO",
+		"suuid": "HpkmjU",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -352,7 +363,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "rXQmrc",
+		"suuid": "E9ym4A",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -363,7 +374,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AVDnkp",
+		"suuid": "ta5ZQa",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -374,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pZFgPb",
+		"suuid": "zpYYbQ",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -382,10 +393,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 406
+		"estimatedAudioSeconds": 405
 	},
 	{
-		"suuid": "KzEExO",
+		"suuid": "jG7r7x",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -396,7 +407,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zDV3tM",
+		"suuid": "Z3zwDa",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -407,7 +418,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Bj1Z2o",
+		"suuid": "5P4RrI",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -418,7 +429,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "c1uKRG",
+		"suuid": "QPw2Ci",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -429,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "R5GrAA",
+		"suuid": "HtgMkm",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -440,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bQEtWv",
+		"suuid": "cARhBc",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -451,7 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a2Pb4M",
+		"suuid": "hbPWEn",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -462,7 +473,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HGOzyU",
+		"suuid": "vR4wAd",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -473,7 +484,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "J6csVh",
+		"suuid": "FhwnRX",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -484,7 +495,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AV76a1",
+		"suuid": "21BhRv",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -495,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CzQCyJ",
+		"suuid": "X0NNXn",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Środa, 23 kwietnia 2025",
@@ -506,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XSvvSf",
+		"suuid": "tetdLB",
 		"language": "it",
 		"date": "2025-04-23",
 		"title": "Mercoledì, 23 aprile 2025",
@@ -517,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pDprP3",
+		"suuid": "NtPWNH",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -528,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EFnRyT",
+		"suuid": "ZrfazW",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -539,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uh3CY6",
+		"suuid": "pnHzPd",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -550,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SkoeA6",
+		"suuid": "pSb6OF",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -561,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2iKcsD",
+		"suuid": "DenGGN",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -572,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lrJX4e",
+		"suuid": "0g1qR6",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -583,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1EMESE",
+		"suuid": "EsWev6",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -594,7 +605,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xUWCWG",
+		"suuid": "hoilBE",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -605,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QN5TBf",
+		"suuid": "kP8oxG",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Środa 16 kwietnia 2025",
@@ -616,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jlpmIf",
+		"suuid": "EJsPka",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -627,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VZnCrF",
+		"suuid": "TYHxLh",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -638,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RgZYAK",
+		"suuid": "XPRLRi",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -649,7 +660,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KHq2lO",
+		"suuid": "QD6Dd2",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -660,7 +671,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uyJ7Dt",
+		"suuid": "kTzGrD",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -671,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Zh81iE",
+		"suuid": "kJsnuL",
 		"language": "it",
 		"date": "2025-04-14",
 		"title": "Lunedì 14 aprile 2025",
@@ -682,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vXmnc5",
+		"suuid": "mVTOmN",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -693,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pnjdxw",
+		"suuid": "YaoM2Q",
 		"language": "es",
 		"date": "2025-04-13",
 		"title": "Domingo 13 de abril de 2025",
@@ -704,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "glAzxP",
+		"suuid": "0mVdOY",
 		"language": "pl",
 		"date": "2025-04-13",
 		"title": "Niedziela, 13 kwietnia 2025",
@@ -715,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2EKIAG",
+		"suuid": "DJWS4f",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -726,7 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6actXZ",
+		"suuid": "noiZod",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -737,7 +748,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Stnm3y",
+		"suuid": "szPHdg",
 		"language": "nl",
 		"date": "2025-04-12",
 		"title": "Zaterdag 12 april 2025",
@@ -748,7 +759,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "V1a8Sk",
+		"suuid": "0ueJsc",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -759,7 +770,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "IGdNJA",
+		"suuid": "tzARtE",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -770,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "b0yAyL",
+		"suuid": "Z0qcPg",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -781,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "nz5JH6",
+		"suuid": "Kzt0XR",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -792,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UGVjaO",
+		"suuid": "qxmf72",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -803,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9Zawan",
+		"suuid": "yXdvK2",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -814,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Sw1oqz",
+		"suuid": "T01461",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -825,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XnR4Mn",
+		"suuid": "4za6Ac",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -836,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yxjx9Y",
+		"suuid": "g1Wzuz",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -847,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XQUKGn",
+		"suuid": "UG0nvR",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",
@@ -858,7 +869,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XOyoS7",
+		"suuid": "MU0GHL",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
