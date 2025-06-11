@@ -4,12 +4,55 @@ import (
 	"comprehensible-output/utils"
 	"fmt"
 	"math/rand"
+	"os"
 	"sort"
 	"strings"
 	"time"
 )
 
+func Reverse[T any](s []T) {
+	for i, j := 0, len(s)-1; i < j; i, j = i+1, j-1 {
+		s[i], s[j] = s[j], s[i]
+	}
+}
+
+func Randomize[T any](input []T) []T {
+	rand.Seed(time.Now().UnixNano())
+
+	type weighted struct {
+		value  T
+		weight float64
+	}
+
+	decorated := make([]weighted, len(input))
+	for i, val := range input {
+		decorated[i] = weighted{value: val, weight: rand.Float64()}
+	}
+
+	sort.Slice(decorated, func(i, j int) bool {
+		return decorated[i].weight < decorated[j].weight
+	})
+
+	shuffled := make([]T, len(input))
+	for i, w := range decorated {
+		shuffled[i] = w.value
+	}
+
+	return shuffled
+}
+
 func main() {
+
+	rand.Seed(time.Now().UnixNano())
+
+	mode := "normal"
+	if len(os.Args) == 2 {
+		mode = os.Args[1]
+	}
+
+	fmt.Println("USAGE: npm run cfg = (normal) create prompt files with last 50 phrases")
+	fmt.Println("USAGE: npm run cfg random = create prompt files with 50 random phrases")
+	fmt.Printf("mode is %s\n", mode)
 
 	filenames := utils.GetFileNamesFromDirectoryThatContainText(getRelativeGoogleTranslateDataDirectory(), "googtran-")
 
@@ -50,12 +93,6 @@ func main() {
 				fmt.Println("Error:", err)
 				return
 			}
-
-			// randomize
-			rand.Seed(time.Now().UnixNano())
-			rand.Shuffle(len(flashcards), func(i, j int) {
-				flashcards[i], flashcards[j] = flashcards[j], flashcards[i]
-			})
 
 			if language != "English" {
 				flashcardsByLanguage[language] = append(flashcardsByLanguage[language], flashcards...)
@@ -115,6 +152,10 @@ func main() {
 		// create prompt files
 		numberOfPhrases := 50
 		numberOfWords := 550
+		// fmt.Println("number of flashcards: ", len(flashcardsByLanguage[language]))
+		if mode == "random" {
+			flashcardsByLanguage[language] = Randomize(flashcardsByLanguage[language])
+		}
 		createPromptTexts(flashcardsByLanguage[language], numberOfPhrases, numberOfWords, language)
 	}
 	sort.Slice(statsLine001Items, func(i, j int) bool {
