@@ -105,7 +105,7 @@ func createLanguagePrompt(language string, phrases []string) string {
 		level = "A1"
 	}
 	if level == "A1" {
-		r += fmt.Sprintf("Create a %d word story about %s in %s %s that uses numbers between 1 and 100, days of the week, basic colors, month names, telling time, family members, vocabulary from everyday life and common daily routines, using only the present tense. Spell out all numbers and times with the number-version following in parentheses, e.g. at 3:00 (three o'clock) and he has 7 (seven).", numberOfWords, topic, level, language)
+		r += fmt.Sprintf("Create a %d word story about %s in %s %s that uses numbers between 1 and 100, days of the week, basic colors, month names, telling time, family members, vocabulary from everyday life and common daily routines, using only the present tense. Spell out all numbers and times. And precede the story with an appropriate title.", numberOfWords, topic, level, language)
 	} else {
 		r += fmt.Sprintf("Create a title (first letter uppercase, the rest lowercase) and then a story about %s, in %s %s, with %d words varying the tenses past, present, conditional and future, using the following phrases: \"%s\".", topic, level, language, numberOfWords, strings.Join(phrases, "\", \""))
 	}

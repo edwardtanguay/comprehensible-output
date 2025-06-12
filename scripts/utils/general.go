@@ -38,5 +38,9 @@ func CapitalizeFirstLetter(s string) string {
 	if len(s) == 0 {
 		return s
 	}
-	return strings.ToUpper(s[:1]) + s[1:]
+	if strings.Contains(s, "oda") {
+		return "Ś" + s[1:]
+	} else {
+		return strings.ToUpper(s[:1]) + s[1:]
+	}
 }

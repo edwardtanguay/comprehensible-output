@@ -10,4 +10,16 @@ English words that are new and not very known
 
 Neue und wenig bekannte deutsche Wörter
 
+Create a text in Polish that counts from zero to twenty, then 20 to 100 by tens, then lists 10 common colors, then lists the 10 most common languages spoken in Europe, then the days of the week, the months of the year, and 20 opposite words like hot/cold, far/near, etc. Write all words out as words, including the numbers.
 
+Create a text in Polish that lists all question words like who/what, all common verbs like be/have/can, and 30 common nouns like father, mother, house, tree. Write it all out as one paragraph, and preface each section with a intro text, e.g. Question words: who, what..., what without any translations into English, just Polish.
+
+---
+
+UNUSED POLISH:
+
+x Słowa pytające: kto, co, gdzie, kiedy, dlaczego, jak, który, czy, ile, jaki, jaka, jakie, czyj, czyja, czyje.
+
+x Czasowniki podstawowe: być, mieć, móc, chcieć, musieć, wiedzieć, znać, dawać, brać, mówić, słyszeć, widzieć, iść, jechać, przychodzić, wychodzić, jeść, pić, spać, myśleć, pracować, uczyć się, grać, czytać, pisać, rozumieć, kochać, nienawidzić, pomagać, czekać.
+
+Rzeczowniki podstawowe: ojciec, matka, brat, siostra, dziecko, dom, drzewo, pies, kot, szkoła, miasto, ulica, samochód, rower, książka, krzesło, stół, łóżko, drzwi, okno, chleb, woda, mleko, jabłko, dzień, noc, czas, przyjaciel, ubranie, komputer.
