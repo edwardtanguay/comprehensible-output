@@ -116,3 +116,4 @@ fr; mais avancer; may-AH
 it; 11; undici
 it; giugno; JOON-yo
 it; 2025; DO-ah MEE-lay VEN-tee CHINK-quay
+it; schermo; SCARE-mo; screen
