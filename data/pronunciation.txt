@@ -120,5 +120,7 @@ it; schermo; SCARE-mo; screen
 pl; pięć; pee-ENCH
 pl; 2025; dwa tysiące (tis-YAWN-sah) dwadzieścia pięć
 pl; Liczby; LEEG-buh; 
-
-1) ciepły/zimny. 2) daleki/bliski. 3) duży/mały. 4) wysoki/niski. 5) szybki/wolny. 6) ciemny/jasny. 7) twardy/miękki. 8) młody/stary. 9) czysty/brudny. 10) mocny/słaby. 11) bogaty/biedny. 12) otwarty/zamknięty. 13). głośny/cichy. 14) szczęśliwy/smutny. 15) gruby/chudy. 16) suchy/mokry. 17) prawda/ fałsz. 18) lewy/prawy. 19) rano/wieczór. 20) wewnątrz/na zewnątrz
+it; Una giornata indimenticabile; CAH
+it; verso; VAIR|soh; towards
+it; Comunque; coh-MOON-quay
+it; una scelta; SHELL-tah; choice
