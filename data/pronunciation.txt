@@ -124,3 +124,4 @@ it; Una giornata indimenticabile; CAH
 it; verso; VAIR|soh; towards
 it; Comunque; coh-MOON-quay
 it; una scelta; SHELL-tah; choice
+es; acciones; AK-see-OH-nays; actions
