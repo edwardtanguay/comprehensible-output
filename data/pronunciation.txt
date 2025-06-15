@@ -125,3 +125,10 @@ it; verso; VAIR|soh; towards
 it; Comunque; coh-MOON-quay
 it; una scelta; SHELL-tah; choice
 es; acciones; AK-see-OH-nays; actions
+nl; moet je weten hoe wijzigingen; WIGH-zeh-*ing-ah; know how to make changes
+nl; De ontmoeting; ont-MOO-ting; meeting
+nl; nieuwsgierig; news-*EAR-*ugh; curious
+nl; briljant; BRILL-yant
+nl; Soms is iets eenvoudig, soms niet; ayn-VOW-du*
+nl; kruispunt; german:(kraus); intersection
+nl; docent; doh-SENT
