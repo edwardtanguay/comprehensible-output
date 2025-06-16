@@ -132,3 +132,9 @@ nl; briljant; BRILL-yant
 nl; Soms is iets eenvoudig, soms niet; ayn-VOW-du*
 nl; kruispunt; german:(kraus); intersection
 nl; docent; doh-SENT
+nl;wijzigingen ; WIGH-zeh-*ing-eh; changes
+nl; vaardigheden; FAR-dih-hey-duh; skills
+nl; bedankt voor de uitleg; OUT-le*, thanks for the explanation
+nl; hardop ; hard-OHP; out loud
+nl; notities; noh-TEE-sees; notes
+nl; Italiaans ; ee-tahl-YAWNS; Italian
