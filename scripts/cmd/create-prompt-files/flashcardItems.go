@@ -33,10 +33,10 @@ func createPromptTexts(allFlashcards []Flashcard, numberOfPhrases int, numberOfW
 	var phrases []string
 
 	var flashcards []Flashcard
-	if len(allFlashcards) < 50 {
+	if len(allFlashcards) < numberOfPhrases {
 		flashcards = allFlashcards
 	} else {
-		flashcards = allFlashcards[len(allFlashcards)-50:]
+		flashcards = allFlashcards[len(allFlashcards)-numberOfPhrases:]
 	}
 
 	for _, card := range flashcards {
