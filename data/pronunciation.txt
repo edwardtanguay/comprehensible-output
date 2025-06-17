@@ -144,4 +144,11 @@ nl; valse vrienden; FAHL-seh
 nl; vals; fahls
 nl; produceren; proh-do-SEER-ah
 nl; success; sook-SESS
-nl; motivatie ; moh-tih-FAH-see
+nl; motivatie ; moh-tih-VAH-see
+nl; politie; poh-LEE-tsee
+nl; notitie; not-TEE-see
+nl; drieënzeventig; dree-en-ZAY-ven-ti*
+nl; typ; TEEP
+nl; opties;AHP-seez
+nl; actie; AHK-see
+nl; engageren; ahn-gah-JAIR-eh
