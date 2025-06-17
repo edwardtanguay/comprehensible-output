@@ -138,3 +138,10 @@ nl; bedankt voor de uitleg; OUT-le*, thanks for the explanation
 nl; hardop ; hard-OHP; out loud
 nl; notities; noh-TEE-sees; notes
 nl; Italiaans ; ee-tahl-YAWNS; Italian
+nl; speciaal; spay-shee-AL
+nl; route; ROOT-eh
+nl; valse vrienden; FAHL-seh
+nl; vals; fahls
+nl; produceren; proh-do-SEER-ah
+nl; success; sook-SESS
+nl; motivatie ; moh-tih-FAH-see
