@@ -160,3 +160,4 @@ nl; revolutie; ray-voh-LOO-see
 nl; Zeker weten; ZAY-ker-VAY-tah; you bet
 nl; pagina; PAH-*ee-nah; page
 nl; afscheid ; OFF-s*ight; parting (Abschied)
+it; cioè; CHOH-eh; that is

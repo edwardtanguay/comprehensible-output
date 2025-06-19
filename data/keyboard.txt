@@ -1,0 +1,2 @@
+sp; backtick; ALT-96
+sp; hash; AltGr-3

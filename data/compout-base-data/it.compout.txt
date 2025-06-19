@@ -1,3 +1,31 @@
+2025-06-20 - venerdì 20 guigno 2025
+
+>> Un'avventura inaspettata
+
+Martedì 17 giugno, Luca si sveglia presto. Ha un progetto importante da completare per la sua azienda. “Quanto posso fare entro novembre?” si chiede, fissando lo schermo del computer. Diciamo che stai lavorando su una funzionalità nuova e complessa: è proprio il suo caso.
+
+Ha tre file audio da registrare e deve anche scrivere il codice per una nuova interfaccia. Non ha nemmeno risposto al messaggio del collega che chiedeva un aggiornamento. E non importa nemmeno—ora deve concentrarsi.
+
+In questo esempio, Luca apre “la cartella sopra quella corrente” per trovare un vecchio file di configurazione. Subito dopo, si domanda: "Cosa succede se ometto nnn?" Non è sicuro, ma decide di provarci. Clicco qui, pensa, sperando di non fare errori.
+
+Immediatamente nota qualcosa di strano: la tastiera scrive caratteri diversi. "Come faccio a digitare un accento inverso?" si chiede. Prova vari tasti accanto al 2, oppure su alcuni layout. “Ah, ecco, sulla tastiera spagnola è diverso!” esclama.
+
+Gli viene in mente che “il carattere hash è di solito nella fila superiore, sotto il tasto Esc, a seconda del sistema operativo.” Finalmente riesce a configurare tutto. “Ed è bello perché ora posso lavorare più velocemente,” pensa.
+
+Ore dopo, si ferma un attimo. “Sono solo a metà strada e sono già stanco.” Gli mancano ancora diciassette pagine di documentazione, diciotto test automatizzati, e diciannove email a cui rispondere.
+
+Il suo collega Marco entra. Luca si è rivolto a lui e chiede: “Qual è un modo rapido per testare tutto?” Marco risponde: “Scrivi uno script, così può provarlo anche chi non conosce il sistema. Fai una guida anche per gli altri, in modo che possono provarlo facilmente.”
+
+“Vuoi inviare il report oggi?” chiede Marco. “Non ancora, non ho nemmeno un euro nel portafoglio, figurati energia,” scherza Luca. “Non ho voglia di uscire.” Marco sorride: “Memmeno io.”
+
+Luca apre il browser e cerca: “Penso che sia un po' veloce, ma magari posso rallentarlo.” Subito dopo cerca anche: “Penso che sia un po' lento” — non riesce a decidersi. “Tu spieghi sempre che bisogna fare attenzione alla velocità, a seconda del contesto,” gli dice Marco.
+
+“Guarda, ed è pericoloso perché se dimentichi di fare push, perdi tutto.” Luca annuisce. “Ma non dover mettere da parte nulla è anche un vantaggio.”
+
+Il giorno seguente, giovedì, Luca completa tutto. Si rende conto che “spingere e tirare” è più che codice: è vita. Ricorda quando non riuscivo a capire nulla.
+
+“Tra cui questo progetto,” dice con orgoglio, “è andato tutto bene.” Con un piccolo sforzo, ha imparato molto, e persino un linguaggio che all’inizio sembrava troppo difficile.
+
 2025-06-19 - giovedì 19 guigno 2025
 
 >> Una giornata strana
