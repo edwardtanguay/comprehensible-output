@@ -53,7 +53,7 @@ func main() {
 		meanings = append(meanings, card.Back+" ("+card.Front+")")
 		phrases = append(phrases, card.Back)
 		if count%numberOfPhrases == 0 {
-			line := fmt.Sprintf("%s\n\nCreate a title (first letter uppercase, the rest lowercase) and story about software development in %s with %d words which uses the phrases, and vary the tenses past, present, conditional and future: \"%s\"\n\n-------------------------------", "- "+strings.Join(meanings, "\n- "), getLanguageWord(filterLanguage), numberOfWords, strings.Join(phrases, "\", \""))
+			line := fmt.Sprintf("%s\n\nCreate a title (first letter uppercase, the rest lowercase) and story about software development in %s with %d words which uses the phrases, and vary the tenses past, present, conditional, future, and reflexive: \"%s\"\n\n-------------------------------", "- "+strings.Join(meanings, "\n- "), getLanguageWord(filterLanguage), numberOfWords, strings.Join(phrases, "\", \""))
 			lines = append(lines, line)
 			lines = append(lines, "")
 			meanings = []string{}

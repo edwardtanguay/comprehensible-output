@@ -4,6 +4,8 @@ TODO: find list of transatlantic English rules in main file, and process here
 fr; explosive P's, e.g. particulièrement
 fr; staccato
 fr; hold mouth tight
+it; talk like Davide: https://www.youtube.com/watch?v=oFNqlvc_UiY
+it; exaggerate mouth movements
 ta; pronounce every word: not [I grew up-n] but [I grew up in]
 ta; sharp consonant sounds
 ta; replace all filler words like um, ah, like, well with silence
@@ -13,6 +15,8 @@ ta; make clear, crisp ends appear on the front and back of each word
 it; ciò; choh; that is
 it; righe; REE-gah; lines
 nl; typ; teep
+il; tu spieghi; too spYEGG-ee
+it; azienda; ad-zee-EN-dah
 nl; tot slot; toht SLOHT; finally
 nl; foutgevoelig; F(OW)T; error-prone
 nl; druk op Control + Spatie; ploos SPAHT-see; space
