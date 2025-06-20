@@ -1,3 +1,27 @@
+2025-06-21 - sabato 21 guigno 2025
+
+>> Il viaggio
+
+Mi sono alzato presto stamattina. Devo alzarmi ogni giorno alle sette per prendere il treno che impiega quarantacinque minuti per arrivare in centro. Mi sono vestito velocemente, poi mi sono iscritto al club di lettura online. Lo spero che sarà interessante.
+
+Ogni lunedì sto aspettando che inizi il corso di tecnologia. Lo ascolterò con attenzione oggi, perché gli argomenti che tratteremo includono Vue.js. Ho sentito parlare di un nuovo aggiornamento per il framework Vue.js, e l'aggiornamento apporta miglioramenti significativi. Questa applicazione consente di gestire i dati in tempo reale—una funzione che mi ha colpito di più.
+
+Non ricordo bene il nome del professore, e non riesco a ricordare se ho contattato l'assistente del corso per il materiale. Ma mi assicuro sempre che funzioni prima di iniziare una nuova lezione. Io eseguo il codice passo dopo passo. Una volta, sono riuscito a risolvere un problema che sembrava impossibile.
+
+La settimana scorsa mi sono divertito molto a scuola. Un gruppo di studenti si è ribellato contro l’orario delle lezioni troppo lungo. Ora si ribellano anche altri studenti, e ieri si sono ribellati durante l’assemblea. Forse devono alzarsi più tardi! Alcuni pensano che devono prepararsi meglio per i compiti. La verità è che loro devono alzarsi alle sei ogni giorno, e anche noi dobbiamo alzarci presto. Tu devi alzarti prima delle otto, no?
+
+Domani mi unirò a un seminario. Ti vestirai in modo formale? Il tema sarà "la nuova versione di React interesserà molti sviluppatori". Il sistema è stato aggiornato ieri, e ora l'utente può accedere alla dashboard solo dopo aver effettuato il login. Abbiamo spostato il file di testo nel nuovo server. Per ora salteremo questo modulo, ma lo copriremo nel prossimo corso.
+
+Nel frattempo, imposto la password del database e controllo i log. A volte è necessario reimpostare i parametri. Quando ricevi una notifica sul tuo dispositivo, guarda cosa c'è sulla schermata. Tu salvi la password nel browser? Devo dire che non è molto sicuro.
+
+A casa, il libro giace sul tavolo. Voglio un po' di burro per fare uno spuntino, ma prima devo lavorare ancora. Con un piccolo sforzo, riuscirò a finire tutto.
+
+Mio fratello assomigliare a mio padre, ma non vuole tacere mai. Ieri l'ho spaventato con una storia di hacker. Lui ha detto: “Magari potevi avvisarmi prima!”
+
+La mia insegnante ha istituito un nuovo metodo per spiegare i verbi. I verbi trasportano le informazioni più importanti, ha detto. “L'italiano è una lingua bellissima, è complesso ma completo.” Per chiarire e chiamare le cose con il loro nome, quella parola dovrebbe essere scritta in maiuscolo.” È corretto? “Dipende,” ha risposto, “a seconda del contesto.”
+
+Ora che tutto è pronto, mi sono adattato a questo nuovo stile di vita. E quello che sta succedendo, è che comincio a capirlo davvero. Figurati, all’inizio era tutto difficile. Ma con pazienza, si può imparare spesso e subito. 
+
 2025-06-20 - venerdì 20 guigno 2025
 
 >> Un'avventura inaspettata

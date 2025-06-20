@@ -161,3 +161,9 @@ nl; Zeker weten; ZAY-ker-VAY-tah; you bet
 nl; pagina; PAH-*ee-nah; page
 nl; afscheid ; OFF-s*ight; parting (Abschied)
 it; cioè; CHOH-eh; that is
+it; non riesco ; ree-ESS-koh; I am not able to
+it; sulla schermata; scayr-MAH-tah
+it; poiché ; poh-ee-KAY; since
+it; subito; SOO-bee-toh; immediately
+it; il libro giace sul tavolo; JAH-cha; is lying on the table
+it; in maiuscolo; migh-YOO-skoh-loh; in capital letters
