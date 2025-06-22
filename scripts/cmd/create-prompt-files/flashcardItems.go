@@ -29,7 +29,7 @@ func createFlashcardItems(rawItems []RawGoogleTranslateItems, language string) (
 
 func createPromptTexts(allFlashcards []Flashcard, numberOfPhrases int, numberOfWords int, language string) {
 	var lines []string
-	var meanings []string
+	// var meanings []string
 	var phrases []string
 
 	var flashcards []Flashcard
@@ -40,10 +40,10 @@ func createPromptTexts(allFlashcards []Flashcard, numberOfPhrases int, numberOfW
 	}
 
 	for _, card := range flashcards {
-		meanings = append(meanings, card.Back+" ("+card.Front+")")
+		// meanings = append(meanings, card.Back+" ("+card.Front+")")
 		phrases = append(phrases, card.Back)
 	}
-	line := createLanguagePrompt(language, phrases)
+	line := createLanguagePrompt(language, phrases, numberOfWords)
 	lines = append(lines, line)
 
 	// save lines to file

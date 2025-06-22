@@ -150,7 +150,7 @@ func main() {
 		})
 
 		// create prompt files
-		numberOfPhrases := 50
+		numberOfPhrases := 50 // nnn
 		numberOfWords := 550
 		// fmt.Println("number of flashcards: ", len(flashcardsByLanguage[language]))
 		if mode == "random" {
@@ -171,7 +171,7 @@ func main() {
 	parts = []string{}
 	for _, item := range statsLine001Items {
 		if item.NumberOfPhrases == 0 {
-			parts = append(parts, fmt.Sprintf("%s", getLanguageCode(item.Language)))
+			parts = append(parts, getLanguageCode(item.Language))
 		} else {
 			parts = append(parts, fmt.Sprintf("%s(%d)", getLanguageCode(item.Language), item.NumberOfPhrases))
 		}

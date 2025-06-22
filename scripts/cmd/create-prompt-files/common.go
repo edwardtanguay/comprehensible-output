@@ -79,8 +79,7 @@ func getLanguageCode(language string) string {
 	}
 }
 
-func createLanguagePrompt(language string, phrases []string) string {
-	numberOfWords := 550
+func createLanguagePrompt(language string, phrases []string, numberOfWords int) string {
 	topic := "any topic"
 	level := "A1"
 	r := ""
