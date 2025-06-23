@@ -1,5 +1,22 @@
 TODO: find list of transatlantic English rules in main file, and process here
 
+== Italian Phrases ===================
+Lui pala la neve ogni mattina.
+La palla è finita nel giardino.
+
+Hai visto la casa in vendita?
+La cassa era troppo pesante.
+
+Mia cara amica mi ha scritto.
+La carra agricola è in cortile.
+
+Il fato è imprevedibile.
+Il fatto è chiaro.
+
+Il mio capo è gentile.
+Quel cappo stringe troppo.
+======================================
+
 ``rules
 fr; explosive P's, e.g. particulièrement
 fr; staccato
@@ -168,3 +185,6 @@ it; subito; SOO-bee-toh; immediately
 it; il libro giace sul tavolo; JAH-cha; is lying on the table
 it; in maiuscolo; migh-YOO-skoh-loh; in capital letters
 it; dialoghi; dee-AH-loh-g|ee (g like gary, grand); dialogues
+it; consigli; con-SEE-yee; advice
+it; asciugamano; ah-shoo-GAH-mah-noh; towel
+it; non può essere così difficile; non poo-ESS-air-ay; it can't be that hard

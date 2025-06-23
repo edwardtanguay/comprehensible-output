@@ -23,3 +23,7 @@ x Słowa pytające: kto, co, gdzie, kiedy, dlaczego, jak, który, czy, ile, jaki
 x Czasowniki podstawowe: być, mieć, móc, chcieć, musieć, wiedzieć, znać, dawać, brać, mówić, słyszeć, widzieć, iść, jechać, przychodzić, wychodzić, jeść, pić, spać, myśleć, pracować, uczyć się, grać, czytać, pisać, rozumieć, kochać, nienawidzić, pomagać, czekać.
 
 Rzeczowniki podstawowe: ojciec, matka, brat, siostra, dziecko, dom, drzewo, pies, kot, szkoła, miasto, ulica, samochód, rower, książka, krzesło, stół, łóżko, drzwi, okno, chleb, woda, mleko, jabłko, dzień, noc, czas, przyjaciel, ubranie, komputer.
+
+---
+
+three examples of alzarsi with various verb tenses with Italian and English in the form <italian>;<english>, don't number them, and start with lowercase if possible
