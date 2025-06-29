@@ -207,3 +207,4 @@ it; scatola; SKAH-toh-lah; box
 it; tutto ciò che ; TOO-toh CHOH-kay; everything that
 it; Usare ; oo-ZARR-ay; to use
 it; Sabato ; SAH-bah-toh; Saturday
+nl; de eerste functie; FOONK-see; the first function

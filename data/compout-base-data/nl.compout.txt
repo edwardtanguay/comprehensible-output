@@ -1,3 +1,27 @@
+2025-06-29 - zondag 29 juni 2025
+
+>> Een avontuur op de heuvel
+
+Op een ochtend besloot ik een wandeling te maken, voor het geval je denkt dat ik altijd binnen zit. Het was een goede manier om met mezelf in contact te blijven en mijn vaardigheden te testen. De zon scheen zwak door de wolken, en de lucht voelde fris. Ik liep richting de heuvel bij het oude huurcomplex, waar ik vroeger vaak speelde als kind.
+
+Onderweg zag ik een reeks kinderen spelen. Ik zag ze opduiken achter bomen en struiken, schreeuwend van plezier. Zeker weten, ze genoten van het moment. Het herinnerde me eraan hoe waardevol eenvoudige momenten kunnen zijn. Jammer zeg dat we als volwassenen vaak zulke dingen vergeten.
+
+Ik bereikte de top van de heuvel, waar het uitzicht prachtig was. Daar begon ik te denken over hoe je dit kunt oplossen: hoe kun je meer genieten van het leven, ondanks werk en stress? Blijf eerlijk tegenover jezelf, dacht ik. Soms is het nodig om even stil te staan bij wat echt belangrijk is.
+
+Plots hoorde ik iemand roepen. Een vrouw stond beneden en zwaaide naar me. Ze was een toerist, verdwaald. Ze vroeg of ik Engels sprak, of ik kan ook Nederlands spreken, zei ze aarzelend. Als je wilt, kun je met mij mee terug naar het dorp lopen, stelde ik voor. Onderweg begon ze over haar werk te vertellen. Ze was programmeur, net als ik. We spraken over functies, en ik zei: "In andere talen wordt dit vaak null genoemd, maar in JavaScript is dat anders." Ze lachte. “Hoe zit het met Java dan?” vroeg ze. “De eerste functie die ik ooit schreef, drukte in principe waarden af,” antwoordde ik.
+
+We praatten over variabelen, waarvan de naam hun waarde is, en opdrachten die moeilijk waren. “Misschien ken ik de woorden niet in het Nederlands,” zei ze, “maar ik begrijp de concepten.” “Ik heb dit al een paar keer gezegd,” antwoordde ik, “taal is maar een hulpmiddel.”
+
+Toen we het dorp bereikten, namen we afscheid. Ik denk dat het eerste zal zijn dat ik vanavond een verslag schrijf over vandaag. Dit is een test van Papa, grapte ik tegen mezelf terwijl ik begon te typen. Ik bekeek de pagina van mijn dagboek, waar ik alles opschreef, in de volgorde waarin ik het had meegemaakt.
+
+Later die avond, tijdens het coderen, merkte ik een fout op. Een waarde zat er nog niet bij. Het probleem is dat het systeem ervan uitgaande dat alles correct wordt ingevuld. Af en toe gebeurt het nog. Nu zou dit eenvoudig te vervangen zijn met een paar andere aanvullende commits.
+
+Je zult merken dat sommige bugs terugkeren. Dat ding was er niet toen ik daar was, maar ineens is het er weer. Duwen en trekken, dat is programmeren soms. Let met name op je logica.
+
+Ik dronk koffie, zoals altijd. Mijn vriendin zegt altijd: “Ze heeft mij veel melk gekocht, maar hij vergeet het altijd.” Ze weet dat ik van koffie hou, maar ook dat ik koffie maak zoals een wetenschapper.
+
+Want zonder deze kleine rituelen, zou mijn dag niet compleet zijn.
+
 2025-06-18 - woensdag 18 juni 2025
 
 >> Een dag als geen ander
