@@ -208,3 +208,6 @@ it; tutto ciò che ; TOO-toh CHOH-kay; everything that
 it; Usare ; oo-ZARR-ay; to use
 it; Sabato ; SAH-bah-toh; Saturday
 nl; de eerste functie; FOONK-see; the first function
+fr;les droits d’accès; ak-SAY; the access rights
+fr;on est assez souple pour s’en sortir; {o}n-ay-TAH-say-SOOP-le
+fr;système;SEE-stem

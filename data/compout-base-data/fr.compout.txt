@@ -1,3 +1,25 @@
+2025-06-30 - lundi 30 juin 2025
+
+>> Une journée ordinaire
+
+Ce matin-là, je me suis levé tard. Je dois me raser, mais je n’ai pas le temps. Le radiateur était éteint, la serviette encore humide de la veille, et le savon glissait sans cesse entre mes doigts. On y est, une journée qui commence avec retard et confusion.
+
+En préparant mes fichiers pour le travail, je me suis dit : "Je dois les enregistrer", mais l'ordinateur m’a rappelé que je dois le charger d’abord. Quelle ironie, je l’ai déjà chargé hier soir ! Finalement, je l'ai chargé à nouveau — on ne sait jamais. Après avoir téléchargé les fichiers, j'ai lancé une commande étrange, une commande étendue que j’aurais pu écrire comme ceci, mais je vais essayer de l’utiliser comme je l’ai vue dans un tutoriel. Est-ce que ça va fonctionner ? — mystère.
+
+J’ai récupéré ici la valeur, mais je vais devoir la préfixer avec un identifiant spécial. Si j’accole quelque chose à cette variable, elle devient instable. Et si je mets quelque chose comme ça, le système ne comprend plus où ça commence et où ça s’arrête. Franchement, ce n’est quand même pas pratique.
+
+Mais par contre ce que je peux faire, c’est utiliser une autre méthode. Ça permet de s’en souvenir plus facilement, donc on se garde ça en tête. Ensuite, on cherche une structure particulière. Il se trouve qu’on commence par chercher une lettre, puis tout ce qui suit la dernière lettre est analysé. C’est bizarre, mais si j’enlève la permission, le code échoue.
+
+Plus tard, j’ai dû expliquer cela à mon collègue. Il se débrouille très bien, mais il est très pénible par rapport à ça : toujours des questions, jamais satisfait. "Mais qu’est-ce qu’il s’est passé ?" demandait-il. "Tu vois, à l’occurrence ce sera toujours cette fonction qui est appelée." Il m’a regardé, confus. "Et tu n’es pas au courant que ça indique au système d’exploitation quoi faire ?"
+
+"C’est pour ça que ça existe !" ai-je répondu. "Sinon, il serait très simple à un malfaiteur de détourner le système." On a ri un peu. Il m’a demandé : "Y a-t-il une manière de sécuriser ça davantage ?" Je lui ai dit que ce qui veut dire pour moi en l’occurrence, c’est qu’il faut toujours vérifier les droits d’accès. "C’est à nous de dire ce qui est autorisé ou pas."
+
+Enfin, je me suis demandé : "Alors qu’est-ce qui se passe si on laisse tout ouvert ?". La réponse est claire : va se faire pirater. Pas demain, mais bientôt. Donc, on n’en a pas forcément besoin, mais ça aide.
+
+Demain, je serai très bavard en français, c’est décidé. Cette langue m’amuse, et même si parfois ce n’est pas pratique, on est assez souple pour s’en sortir. Et si je devais expliquer tout cela en anglais, je reviendrais d’ailleurs plus confus.
+
+Pour l’instant, la batterie est pleine, les fichiers sont là, et ici ça a marché. La journée a commencé dans le chaos, mais elle s’est bien terminée.
+
 2025-06-07 - samedi 7 juin 2025
 
 >> Comment on les trie

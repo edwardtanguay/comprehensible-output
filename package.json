@@ -9,6 +9,7 @@
 		"cpl": "cd scripts/cmd/create-prompts-from-linkedin && go run .",
 		"cpf": "cd scripts/cmd/create-prompt-files && go run .",
 		"gh": "git log --pretty=format:\"%ad | %h | %s\" --date=format:\"%Y-%m-%d %H:%M:%S\"",
+		"backup": "bash -c 'git archive --format=zip HEAD -o \"../BACKUP/comprehensible-output-$(date +%F-%H-%M-%S).zip\"'",
 		"lc": "cd scripts/cmdbash && bash lang-count-in-google-phrases.sh",
 		"build": "tsc && vite build",
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
