@@ -211,3 +211,21 @@ nl; de eerste functie; FOONK-see; the first function
 fr;les droits d’accès; ak-SAY; the access rights
 fr;on est assez souple pour s’en sortir; {o}n-ay-TAH-say-SOOP-le
 fr;système;SEE-stem
+fr; mon premier objet ; prem-YAIR
+fr;syntaxe; suhn-TAKS
+fr; j'ai tenté d'accéder aux attributs cachés; ah-trih-BÜ; I tried to access the hidden attributes
+fr; six; sees
+fr;encourageant; -ZH(AN)
+fr; En fait; fett
+fr; conjuguer; k(on)-joo-GAY
+fr;  à quoi sert chaque temps ; sair; what is the purpose of each tense
+fr;  j’apprends; -(EN)
+fr; mais on y arrive petit à petit; may-(oh)-ee-ah-reev-peh-TEET-ah-peh-TEE
+fr; subtilités ; SOOP-tee-lee-tay
+fr; vert; VEHR
+fr; quelques choses en plus à comprendre; ploos-ah; a few more things to understand
+fr; en plus; (en) PLOOS
+fr; il ne nous reste plus que; PLOO kuh; all we have left is
+fr; détails; day-TIGHya
+fr; il m’aurait aidé avec; eel-mohr-ray-teh-day-ah-VEK; he would have helped me with
+
