@@ -18,6 +18,7 @@ Quel cappo stringe troppo.
 ======================================
 
 ``rules
+general; you are a native speaker
 fr; explosive P's, e.g. particulièrement
 fr; staccato
 fr; hold mouth tight
@@ -228,4 +229,5 @@ fr; en plus; (en) PLOOS
 fr; il ne nous reste plus que; PLOO kuh; all we have left is
 fr; détails; day-TIGHya
 fr; il m’aurait aidé avec; eel-mohr-ray-teh-day-ah-VEK; he would have helped me with
+fr;en fait partie; fett; is part of it
 
