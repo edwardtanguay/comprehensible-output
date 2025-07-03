@@ -1,3 +1,27 @@
+2025-07-01 - mardi 1 juillet 2025
+
+>> Monde du code et beauté du langage
+
+Pendant le trajet vers la bibliothèque universitaire, Thomas pensait à son projet de fin d’année. Je veux réussir mon examen B2 l'année prochaine, se disait-il. J'ai besoin de pratique, peut-être au début de l'année prochaine, il vivra une percée. Passionné par la programmation depuis plusieurs décennies, il considérait la beauté du langage comme un art en soi, une fusion entre logique, créativité et rigueur.
+
+Alors commençons sans plus tarder. Ce matin-là, il s’était connecté à son ordinateur. Je suis connecté maintenant, murmura-t-il. Il ouvrit son terminal et dit : Je tape : deux points, barre oblique, barre oblique inverse. Il voulait créer ces deux commandes dans Git. Il déclara : Nous voulons que ces commits fusionnent dans ce commit ici. Pour cela, il devait d’abord enregistrer quelques détails avant de pousser le tout vers le compte GitHub : afin de le pousser vers le compte GitHub, bien sûr.
+
+Il se souvenait de ses débuts : mon premier objet codé était un petit script Python qui affichait "Bonjour le monde". Depuis, il avait appris que mieux vaut respecter les standards de chaque communauté afin d’éviter les erreurs et de fournir une vérification efficace de son travail.
+
+Un jour, son professeur lui avait dit : "GVG est un acronyme, mais cet acronyme signifie aussi 'Go Vers le Grand'. J’espère que ça ne te dérange pas si je l’utilise ainsi." Thomas en riait encore.
+
+Il consulta un ancien dépôt Git et remarqua : Je pensais que nous en avions dix, mais nous en avons même cent vingt. Quelle surprise ! Mais en réalité, on voit que nous n'en avons que deux branches actives. Il cliqua sur l’icône du crayon pour modifier un fichier. Ensuite, il lança la commande "gh" pour interagir avec GitHub. Je veux m'assurer que c'est correct, pensa-t-il, alors il relut tout attentivement. Il se dit aussi : assure-toi que c'est correct — cette phrase est une tournure figée qui signifie “vérifie tout avant d’envoyer”.
+
+Soudain, il dut changer de pièce. Je dois déplacer mon ordinateur portable, dit-il à voix haute. Je dois me connecter rapidement. Maintenant j’ai la bonne souris, dit-il en souriant. Il ria en pensant à la fois où il avait copié un mauvais code : copier et coller, ce n’est pas toujours la solution.
+
+Un ami entra. Je serai là dans une minute, dit-il. Puis il changea d’avis : Je serai là sous peu, plus formel. Ensemble, ils discutèrent de JavaScript. Le langage de prédilection de Thomas, cependant, était Rust, qui s’est imposé pour ses performances et sa syntaxe élégante, un surensemble logique du C pour certains.
+
+Je recharge la page, dit-il après une erreur. Je dois m’assurer que ça ne marche pas, au cas où le bug aurait disparu. Elle a écrit à nouveau sur le forum du projet, signalant un souci.
+
+Finalement, cette tâche est terminée. Il réussira à coup sûr, pensa Thomas. J’ai vraiment envie que ce projet fonctionne bien. Avant de partir, il dit à son ami : clique sur l’icône ici et tu dois taper ce qui suit pour lancer le programme, avec la date d’aujourd’hui.
+
+Je ne sais pas quel genre de journée ce sera, mais Thomas savait une chose : le code en fait partie.
+
 2025-07-03 - jeudi 3 juillet 2025
 
 >> Un souvenir presque oublié
