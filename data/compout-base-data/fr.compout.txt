@@ -1,3 +1,25 @@
+2025-07-04 - vendredi 4 juillet 2025
+
+>> Une histoire improbable entre code et ananas
+
+Dans un petit village côtier, vivait Jules, un développeur passionné par la programmation… et les ananas surgelés. Chaque matin, il se réveillait tôt pour éteindre l'ordinateur qu'il avait oublié en veille, puis il préparait son petit déjeuner en incluant toujours une portion d’ananas. Pourquoi ? Personne ne le savait, pas même lui. Mais c’est le but de cette histoire : montrer que des choses sans lien apparent peuvent pourtant former un tout. Par exemple, ils n'ont aucun ancêtre commun, mais le code et les fruits pouvaient coexister.
+
+Un jour, Jules travaillait sur un nouveau projet et je veux le publier chez Vercel, disait-il à son ami Lucas. Dans un premier temps, il fallait configurer le projet. Ce qu’il faut configurer, expliquait-il, à la racine du projet, c’est le fichier vercel.json. En se basant sur le contenu de ton projet, disait Lucas, il déduit automatiquement le comportement attendu. Pourtant, Jules constatait que son fichier n’était pas pris en compte. Il n'est pas exécuté, grogna-t-il. Il faut sans doute exécuter une commande.
+
+Je peux exécuter vercel deploy, pensa-t-il, une fois que c'est fait, tout devrait fonctionner. Mais on me surligne la ligne 2 : erreur de syntaxe. Lucas lui fit remarquer : il faut utiliser des guillemets doubles, on ne peut pas utiliser de guillemets simples en JSON. "Ah oui", sourit Jules. Quand on parle français, on utilise "tu", mais en code, il faut être plus strict.
+
+Ils décidèrent de peaufiner la configuration. Je vais piocher les options dont j’aurais besoin, dit Jules, ces options sont réparties en plusieurs sections. Nous avons accès à plus d'une centaine d'options, et nous en avons pas mal à examiner. Jules tapait vite, mais toujours avec précision. Il avait configuré son éditeur pour que chaque appui sur Tab insère 2 espaces. Une tabulation s'affiche sous la forme de 2 espaces, c’était sa manière de contrôler la largeur des tabulations.
+
+Pour renommer le répertoire, il utilisa la commande suivante : mv mon-projet nouveau-nom. Ensuite, nous allons récupérer cette commande : git clone, qui nous renvoie vers un repository en ligne. Je n’ai qu’à inclure cette commande dans le script, pensa Jules.
+
+Soudain, une question lui traversa l’esprit : Qu'est-ce qui est préférable d'exécuter immédiatement ? Le déploiement, ou les tests ? Il décida d’opter pour les deux. Par ailleurs, il créa un script personnalisé pour tout automatiser.
+
+Bien que pratique, tout ce processus demande une certaine rigueur. Ils peuvent profiter des raccourcis, mais Jules tenait à tout comprendre.
+
+Si un jour Jules devait enseigner à quelqu’un, il commencerait par : tu es déjà sur la bonne voie, surtout partout où tu cherches à comprendre. Dans son arrière-plan, il gardait toujours un terminal ouvert, prêt à coder ou à… décongeler des ananas. Une routine étrange, peut-être, mais efficace.
+
+Et si c’était à refaire, il le referait sans hésiter, avec passion, rigueur, et quelques fruits tropicaux.
+
 2025-07-01 - mardi 1 juillet 2025
 
 >> Monde du code et beauté du langage
