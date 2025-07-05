@@ -232,3 +232,6 @@ fr; il m’aurait aidé avec; eel-mohr-ray-teh-day-ah-VEK; he would have helped 
 fr;en fait partie; fett; is part of it
 fr;détails;day-TIGH-yeh
 fr; c'est le but; büt; that's the goal
+fr; en fait; ɑ̃ fɛt; in fact
+fr;rigueur; ree-GÖHR
+fr;GVG ; zhay-vay-zhay
