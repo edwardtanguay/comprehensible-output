@@ -235,3 +235,4 @@ fr; c'est le but; büt; that's the goal
 fr; en fait; ɑ̃ fɛt; in fact
 fr;rigueur; ree-GÖHR
 fr;GVG ; zhay-vay-zhay
+fr; grogna-t-il; grown-ya-TEEL; he grumbled

@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "x2whEu",
+		"suuid": "piDLYp",
 		"language": "fr",
 		"date": "2025-07-05",
 		"title": "Samedi 5 juillet 2025",
@@ -8,21 +8,21 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 511
+		"estimatedAudioSeconds": 519
 	},
 	{
-		"suuid": "9Hy1w0",
+		"suuid": "PGjm7K",
 		"language": "fr",
 		"date": "2025-07-04",
 		"title": "Vendredi 4 juillet 2025",
 		"htmlBody": "\u003ch3\u003eUne histoire improbable entre code et ananas\u003c/h3\u003e\u003cp\u003eDans un petit village côtier, vivait Jules, un développeur passionné par la programmation… et les ananas surgelés. Chaque matin, il se réveillait tôt pour éteindre l'ordinateur qu'il avait oublié en veille, puis il préparait son petit déjeuner en incluant toujours une portion d’ananas. Pourquoi ? Personne ne le savait, pas même lui. Mais c’est le but de cette histoire : montrer que des choses sans lien apparent peuvent pourtant former un tout. Par exemple, ils n'ont aucun ancêtre commun, mais le code et les fruits pouvaient coexister.\u003c/p\u003e\u003cp\u003eUn jour, Jules travaillait sur un nouveau projet et je veux le publier chez Vercel, disait-il à son ami Lucas. Dans un premier temps, il fallait configurer le projet. Ce qu’il faut configurer, expliquait-il, à la racine du projet, c’est le fichier vercel.json. En se basant sur le contenu de ton projet, disait Lucas, il déduit automatiquement le comportement attendu. Pourtant, Jules constatait que son fichier n’était pas pris en compte. Il n'est pas exécuté, grogna-t-il. Il faut sans doute exécuter une commande.\u003c/p\u003e\u003cp\u003eJe peux exécuter vercel deploy, pensa-t-il, une fois que c'est fait, tout devrait fonctionner. Mais on me surligne la ligne 2 : erreur de syntaxe. Lucas lui fit remarquer : il faut utiliser des guillemets doubles, on ne peut pas utiliser de guillemets simples en JSON. \"Ah oui\", sourit Jules. Quand on parle français, on utilise \"tu\", mais en code, il faut être plus strict.\u003c/p\u003e\u003cp\u003eIls décidèrent de peaufiner la configuration. Je vais piocher les options dont j’aurais besoin, dit Jules, ces options sont réparties en plusieurs sections. Nous avons accès à plus d'une centaine d'options, et nous en avons pas mal à examiner. Jules tapait vite, mais toujours avec précision. Il avait configuré son éditeur pour que chaque appui sur Tab insère 2 espaces. Une tabulation s'affiche sous la forme de 2 espaces, c’était sa manière de contrôler la largeur des tabulations.\u003c/p\u003e\u003cp\u003ePour renommer le répertoire, il utilisa la commande suivante : mv mon-projet nouveau-nom. Ensuite, nous allons récupérer cette commande : git clone, qui nous renvoie vers un repository en ligne. Je n’ai qu’à inclure cette commande dans le script, pensa Jules.\u003c/p\u003e\u003cp\u003eSoudain, une question lui traversa l’esprit : Qu'est-ce qui est préférable d'exécuter immédiatement ? Le déploiement, ou les tests ? Il décida d’opter pour les deux. Par ailleurs, il créa un script personnalisé pour tout automatiser.\u003c/p\u003e\u003cp\u003eBien que pratique, tout ce processus demande une certaine rigueur. Ils peuvent profiter des raccourcis, mais Jules tenait à tout comprendre.\u003c/p\u003e\u003cp\u003eSi un jour Jules devait enseigner à quelqu’un, il commencerait par : tu es déjà sur la bonne voie, surtout partout où tu cherches à comprendre. Dans son arrière-plan, il gardait toujours un terminal ouvert, prêt à coder ou à… décongeler des ananas. Une routine étrange, peut-être, mais efficace.\u003c/p\u003e\u003cp\u003eEt si c’était à refaire, il le referait sans hésiter, avec passion, rigueur, et quelques fruits tropicaux.\u003c/p\u003e",
-		"audioFileName": "",
+		"audioFileName": "2025-07-04-fr.mp3",
 		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 461
+		"audioSeconds": 1207,
+		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lrrgHk",
+		"suuid": "l5E5G6",
 		"language": "fr",
 		"date": "2025-07-03",
 		"title": "Jeudi 3 juillet 2025",
@@ -33,7 +33,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "i5ADMF",
+		"suuid": "zfJhaN",
 		"language": "fr",
 		"date": "2025-07-02",
 		"title": "Mercredi 2 juillet 2025",
@@ -44,7 +44,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Zzd6bo",
+		"suuid": "k4THl6",
 		"language": "fr",
 		"date": "2025-07-01",
 		"title": "Mardi 1 juillet 2025",
@@ -55,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pJCnS3",
+		"suuid": "FNZRLl",
 		"language": "fr",
 		"date": "2025-06-30",
 		"title": "Lundi 30 juin 2025",
@@ -66,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kI5i04",
+		"suuid": "G6bMLZ",
 		"language": "nl",
 		"date": "2025-06-29",
 		"title": "Zondag 29 juni 2025",
@@ -74,10 +74,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 433
+		"estimatedAudioSeconds": 440
 	},
 	{
-		"suuid": "yRDVp2",
+		"suuid": "lkSwz8",
 		"language": "it",
 		"date": "2025-06-29",
 		"title": "Domenica 29 guigno 2025",
@@ -85,10 +85,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 413
+		"estimatedAudioSeconds": 419
 	},
 	{
-		"suuid": "xhaiNF",
+		"suuid": "vhMHNv",
 		"language": "it",
 		"date": "2025-06-28",
 		"title": "Sabato 28 giugno 2025",
@@ -99,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xibURN",
+		"suuid": "NTZap7",
 		"language": "it",
 		"date": "2025-06-27",
 		"title": "Venerdì 27 guigno 2025",
@@ -110,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fMzOfo",
+		"suuid": "KHfwg4",
 		"language": "it",
 		"date": "2025-06-26",
 		"title": "Giovedì 26 guigno 2025",
@@ -121,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QOnoJd",
+		"suuid": "9aN6Hg",
 		"language": "it",
 		"date": "2025-06-25",
 		"title": "Mercoledì 25 guigno 2025",
@@ -132,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "e1Reqh",
+		"suuid": "8ybgea",
 		"language": "it",
 		"date": "2025-06-24",
 		"title": "Martedì 24 guigno 2025",
@@ -143,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "psMp3y",
+		"suuid": "oLA3gp",
 		"language": "it",
 		"date": "2025-06-23",
 		"title": "Lunedì 23 guigno 2025",
@@ -154,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LlaMqa",
+		"suuid": "fmgRLl",
 		"language": "it",
 		"date": "2025-06-22",
 		"title": "Domenica 22 guigno 2025",
@@ -165,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "637NuA",
+		"suuid": "TovZUd",
 		"language": "it",
 		"date": "2025-06-21",
 		"title": "Sabato 21 guigno 2025",
@@ -176,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QuNxYZ",
+		"suuid": "SAVOqy",
 		"language": "it",
 		"date": "2025-06-20",
 		"title": "Venerdì 20 guigno 2025",
@@ -187,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jrdjwO",
+		"suuid": "Q5b5JC",
 		"language": "it",
 		"date": "2025-06-19",
 		"title": "Giovedì 19 guigno 2025",
@@ -195,10 +195,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 415
+		"estimatedAudioSeconds": 421
 	},
 	{
-		"suuid": "lIOGF1",
+		"suuid": "2Bra7V",
 		"language": "it",
 		"date": "2025-06-18",
 		"title": "Mercoledì 18 guigno 2025",
@@ -206,10 +206,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 405
+		"estimatedAudioSeconds": 412
 	},
 	{
-		"suuid": "Pe75uj",
+		"suuid": "Kcirxb",
 		"language": "nl",
 		"date": "2025-06-18",
 		"title": "Woensdag 18 juni 2025",
@@ -220,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fES5KU",
+		"suuid": "bmJp1m",
 		"language": "it",
 		"date": "2025-06-17",
 		"title": "Martedì 17 giugno 2025",
@@ -231,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pKbHFj",
+		"suuid": "Xb5vmN",
 		"language": "nl",
 		"date": "2025-06-17",
 		"title": "Dinsdag 17 juni 2025",
@@ -242,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "45aKvX",
+		"suuid": "mGk8Cn",
 		"language": "nl",
 		"date": "2025-06-16",
 		"title": "Maandag 16 juni 2025",
@@ -253,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JrxnkE",
+		"suuid": "BQB6K3",
 		"language": "it",
 		"date": "2025-06-16",
 		"title": "Lunedì 16 giugno 2025",
@@ -264,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3BAXdC",
+		"suuid": "p4Epfc",
 		"language": "it",
 		"date": "2025-06-15",
 		"title": "Domenica 15 giugno 2025",
@@ -275,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1u2pfo",
+		"suuid": "593LvV",
 		"language": "nl",
 		"date": "2025-06-15",
 		"title": "Zondag 15 juni 2025",
@@ -286,7 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "auD6mO",
+		"suuid": "3zNKVT",
 		"language": "nl",
 		"date": "2025-06-14",
 		"title": "Zaterdag 14 juni 2025",
@@ -297,7 +297,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "foMw3G",
+		"suuid": "q9QsbF",
 		"language": "it",
 		"date": "2025-06-14",
 		"title": "Sabato 14 giugno 2025",
@@ -308,7 +308,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7y1JZr",
+		"suuid": "3YYNzA",
 		"language": "it",
 		"date": "2025-06-13",
 		"title": "Venerdì 13 giugno 2025",
@@ -319,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sztNMu",
+		"suuid": "hojlLB",
 		"language": "it",
 		"date": "2025-06-12",
 		"title": "Giovedì 12 giugno 2025",
@@ -330,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3semZ1",
+		"suuid": "L52wck",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -341,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6eNUVi",
+		"suuid": "SG6git",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -352,7 +352,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vps1k0",
+		"suuid": "ofsdnE",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -363,7 +363,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4TJ02B",
+		"suuid": "j6FWR4",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -374,7 +374,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BXSKdg",
+		"suuid": "5LHGJ0",
 		"language": "fr",
 		"date": "2025-06-07",
 		"title": "Samedi 7 juin 2025",
@@ -385,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Usy8aE",
+		"suuid": "e0ocE1",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -396,7 +396,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iVtYVT",
+		"suuid": "rTxdve",
 		"language": "pl",
 		"date": "2025-06-05",
 		"title": "Zwartek, 5 czerwca 2025",
@@ -407,7 +407,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BNTdCw",
+		"suuid": "3YZz0C",
 		"language": "pl",
 		"date": "2025-06-04",
 		"title": "Środa, 4 czerwca 2025",
@@ -418,7 +418,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NDzYKU",
+		"suuid": "xPzBeI",
 		"language": "pl",
 		"date": "2025-06-03",
 		"title": "Wtorek, 3 czerwca 2025",
@@ -429,7 +429,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YQhCqc",
+		"suuid": "qPQrJf",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Poniedziałek, 2 czerwiec 2025",
@@ -440,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "30D7o9",
+		"suuid": "RcFhOq",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -451,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ALiDYz",
+		"suuid": "DhQ5TZ",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -462,7 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "IkgZuN",
+		"suuid": "26Xsov",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -473,7 +473,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "u5LAmi",
+		"suuid": "GcfKRA",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -484,7 +484,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0zI6C7",
+		"suuid": "hTmxhu",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -495,7 +495,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kEKSB7",
+		"suuid": "to1ZFB",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -506,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GGyFX2",
+		"suuid": "WHoBbI",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -517,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EdcP2o",
+		"suuid": "UoMdpL",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -528,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EyGoTN",
+		"suuid": "d5V4Ew",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -539,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WRWpGm",
+		"suuid": "MKCmku",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -550,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "TScFh6",
+		"suuid": "rk0AGq",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -561,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SGPLEl",
+		"suuid": "2AXKff",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -572,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HioeHW",
+		"suuid": "KvIriJ",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -583,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Rl6Cgb",
+		"suuid": "zWSWzh",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -594,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KNjoJz",
+		"suuid": "vSWSeh",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -605,7 +605,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jnaMKM",
+		"suuid": "EmncMs",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -616,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sXBnYx",
+		"suuid": "PUf7OO",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -627,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KGkD5B",
+		"suuid": "hOp2uJ",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -638,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aKTCzA",
+		"suuid": "3CGDLj",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -649,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pnYNc0",
+		"suuid": "NyLzte",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -657,10 +657,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 506
+		"estimatedAudioSeconds": 514
 	},
 	{
-		"suuid": "pnv6yY",
+		"suuid": "V5YYv4",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -668,10 +668,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 407
+		"estimatedAudioSeconds": 413
 	},
 	{
-		"suuid": "wQqyGP",
+		"suuid": "zcgSbl",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -682,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LdCrHR",
+		"suuid": "tL0qfe",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -693,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Mx5ASN",
+		"suuid": "eygCvP",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -704,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZEN1Mx",
+		"suuid": "qqQAOP",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -715,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "r3TRww",
+		"suuid": "e3QFJc",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -726,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "74Y6ii",
+		"suuid": "Ygc8eB",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -737,7 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "je90bk",
+		"suuid": "45yFg3",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -748,7 +748,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OyccyJ",
+		"suuid": "QFnXD4",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -756,10 +756,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 431
+		"estimatedAudioSeconds": 438
 	},
 	{
-		"suuid": "Nhbdhm",
+		"suuid": "d7hyRi",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -770,7 +770,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AxO7Ed",
+		"suuid": "wesYcp",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -781,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "hveycR",
+		"suuid": "x8ctvx",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -792,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kWrTbS",
+		"suuid": "yZqZEr",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -803,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FQ4fch",
+		"suuid": "IsaQf3",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -814,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YGGkq8",
+		"suuid": "y0H6aJ",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -825,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5Ab9bz",
+		"suuid": "m6cNU2",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -836,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "dz8U3Q",
+		"suuid": "LGwNqH",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -847,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "W966hr",
+		"suuid": "zVwI6F",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -858,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "islVEi",
+		"suuid": "Y01mDZ",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -869,7 +869,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "veAQxX",
+		"suuid": "rk7kMt",
 		"language": "it",
 		"date": "2025-04-23",
 		"title": "Mercoledì, 23 aprile 2025",
@@ -880,7 +880,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CbkmnR",
+		"suuid": "2ylBDb",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -891,7 +891,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "r5JMWx",
+		"suuid": "JBk5A3",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Ś�roda, 23 kwietnia 2025",
@@ -902,7 +902,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sCiAVE",
+		"suuid": "oDl4ya",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -913,7 +913,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1V7Qun",
+		"suuid": "psgtHA",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -924,7 +924,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ETEiex",
+		"suuid": "LTRFQs",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -935,7 +935,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "y0S98a",
+		"suuid": "yRHlMC",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -946,7 +946,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4d16T9",
+		"suuid": "rPgMGw",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -957,7 +957,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GWftYb",
+		"suuid": "HpOljU",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -968,7 +968,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "JAJYmS",
+		"suuid": "qPMmId",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -979,7 +979,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wASt0D",
+		"suuid": "70Jgms",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Ś�roda 16 kwietnia 2025",
@@ -990,7 +990,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GJBXvQ",
+		"suuid": "AIFjNo",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -1001,7 +1001,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qpTXRb",
+		"suuid": "vgRlE8",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -1012,7 +1012,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LGdveE",
+		"suuid": "A94LcI",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -1023,7 +1023,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WS97kL",
+		"suuid": "R4nzhm",
 		"language": "it",
 		"date": "2025-04-14",
 		"title": "Lunedì 14 aprile 2025",
@@ -1034,7 +1034,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7C6fPp",
+		"suuid": "eb2GSS",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -1045,7 +1045,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "987bfE",
+		"suuid": "feuWD2",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -1056,7 +1056,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GACDlq",
+		"suuid": "RLa6fT",
 		"language": "es",
 		"date": "2025-04-13",
 		"title": "Domingo 13 de abril de 2025",
@@ -1067,7 +1067,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LtoDXC",
+		"suuid": "odp4yl",
 		"language": "pl",
 		"date": "2025-04-13",
 		"title": "Niedziela, 13 kwietnia 2025",
@@ -1078,7 +1078,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LdetXG",
+		"suuid": "HHQXmC",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -1089,7 +1089,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Oj1LC7",
+		"suuid": "r3nja2",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -1100,7 +1100,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MAS283",
+		"suuid": "n0vSDc",
 		"language": "nl",
 		"date": "2025-04-12",
 		"title": "Zaterdag 12 april 2025",
@@ -1111,7 +1111,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Hv0NIH",
+		"suuid": "184w1C",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -1122,7 +1122,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "778AFD",
+		"suuid": "Dhz4la",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -1133,7 +1133,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Oh4cKt",
+		"suuid": "991OFg",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -1144,7 +1144,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OfoeYe",
+		"suuid": "tJQQhx",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -1155,7 +1155,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aKflwz",
+		"suuid": "D6mLS2",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -1166,7 +1166,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "e51bU6",
+		"suuid": "IbSE3M",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -1177,7 +1177,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7dlP6s",
+		"suuid": "wWYD4c",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -1188,7 +1188,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "d8YW02",
+		"suuid": "Fzi4uj",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -1199,7 +1199,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fvnxVQ",
+		"suuid": "QWEu6k",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -1210,7 +1210,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "InExI0",
+		"suuid": "tSahYU",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -1221,7 +1221,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DDWEBE",
+		"suuid": "KJYsNb",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",
@@ -1232,7 +1232,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4meIef",
+		"suuid": "3Gzx26",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
