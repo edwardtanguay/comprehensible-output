@@ -1,4 +1,30 @@
-2025-07-06 dimanche 6 juillet 2025
+2025-07-07 xlundi 7 juillet 2025
+
+>> Une journée ordinaire, presque
+
+Ce matin-là, le radiateur était éteint. Clara grelottait en se levant, et elle a oublié de les coiffer en se levant — ses cheveux formaient une crinière désordonnée. Cela étant dit, elle avait un objectif : finir sa présentation pour le client. Il faut d'abord encadrer le sujet, lui avait dit son chef, il avait raison sur ce sujet.
+
+Assise à son bureau, elle le pose sur une assiette : une tartine au fromage, pendant que je saupoudre un peu d'avoine sur mon yaourt. On travaille ensemble depuis un moment. Ce matin, l’environnement de développement est configuré, la syntaxe que tu vois ci-dessous est prête, et le projet peut enfin démarrer. Tu décides quand travailler, m’avait-elle dit hier. Mais aujourd’hui, c’est maintenant ou jamais.
+
+Pendant qu’on échange au milieu d'une conversation, un bug surgit : il l’a perdu quelque part dans les couches d'abstraction. Il déduit automatiquement le comportement du composant, mais ce ne sera pas celui escompté. Il va falloir qu’on s’occupe de ça — moi pour le code, elle pour la réunion.
+
+Elle me demande : « Peux-tu t'en occuper ? » Bien sûr. Pendant ce temps, elle répète : "pour clore cette présentation, je dirai ceci : partout où nous avons cela, ce n’est qu’un seul bouton". Je pense que c'était clair — mais si vous me permettez d’être critique, elle pourrait remanier un peu l’intro. En ce qui me concerne, ce qui manque, c’est une explication sur comment ils peuvent accélérer les choses.
+
+Le client pose une question inattendue : est-ce une version majeure ou mineure ? Clara hésite, mais répond avec calme. J’espère pouvoir lui parler plus tard pour débriefer.
+
+Puis un bruit éclate de la rue. C'était beaucoup trop fort. Un camion vient de heurter une borne. Ils renversent des trottinettes dans leur chute. J’ai réussi à traverser à temps, mais il en a marre. C’est un voisin qui râle tous les jours.
+
+L’après-midi, on tire un chiffre allant de 1 à 6 pour tester une valeur aléatoire dans notre système. Il le restaure à l’état précédent si le test échoue. Bien qu'ils aient des similarités syntaxiques, nos modules ont des chevauchements difficiles à maintenir. Nous ne nous sommes pas concentrés sur ceux-là.
+
+Je les attends pour la réunion finale. J’ai hâte d’être fixé sur la date de lancement. Il y aura un surensemble de fonctionnalités, mais pas tout de suite. Le design ? Tu as en bas à gauche un bouton qu’il faudra repenser. Tu dois remanier tes sentiments si tu veux comprendre le feedback du client.
+
+Le soir tombe. Ça devrait être amusant de tester la version mobile demain. C’est la taille maximale du fichier qui bloque l’upload, apparemment. Clara rajoute le mot-clé async dans le module, comme première tentative. On verra demain.
+
+Je vois cela comme le problème principal : ces erreurs en amont qu’on détecte trop tard. Il se trouve qu’on commence par chercher les bugs en surface alors qu’ils sont plus profonds.
+
+Mais ce soir, tout semble impeccable. Le code tourne. Le build est prêt. Demain, on verra si c’était solide — ou juste une illusion bien emballée.
+
+2025-07-06 xdimanche 6 juillet 2025
 
 >> Un raisin dans la poche
 
