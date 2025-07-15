@@ -1,3 +1,33 @@
+2025-07-15 - martedì 15 luglio 2025
+
+>> Un'avventura indimenticabile
+
+Era una mattina d’estate, il sole splendeva alto nel cielo, e io mi mettevo le scarpe per uscire. Benvenuto al corso di programmazione, diceva un messaggio nella mia casella di posta. Ero iscritto a un laboratorio che prometteva di insegnarci Scala come linguaggio di scripting, e da bravo studente di informatica, ero curioso. Mi ha detto l’insegnante: “Devi creare un file come questo, devi eseguire questo comando e poi esportare tutti i nomi delle directory in un file di testo”.
+
+La classe era piena di gente nuova. Erano tutte brave persone, venivano da diverse città, ovunque si trovino nel progetto, contribuivano con passione.
+
+Prima di tutto, ci siamo seduti in cerchio per conoscerci. Poi il professore ha detto: “Dobbiamo decidere la tabella di marcia per queste quattro settimane. Ed entro la fine di questo corso, ognuno di voi sarà capace di costruire un'app semplice con Scala.”
+
+Ho alzato la mano e ho chiesto: “Mostrami come posso utilizzare Scala come linguaggio di scripting.” Lui ha sorriso e ha iniziato a scrivere alla lavagna. Ma quando digito scala ottengo un errore”, ha detto un altro ragazzo. Il professore ha spiegato: “Non era corretto il modo in cui lo avevi installato. C'è una differenza tra la versione del JDK e la versione di Java.”
+
+Abbiamo parlato di nomi di file. Un’altra domanda interessante è venuta fuori: “È corretto usare i trattini nei nomi dei file in Scala, o è meglio usare gli underscore?” Il professore ha risposto: “Anche se non è lo standard raccomandato, è un pattern che si vede spesso”.
+
+Un giorno abbiamo parlato di file system. Il professore ci ha chiesto: “Se fosse un percorso di file, come lo rappresentereste?” E poi ci ha insegnato a stampare una virgola per riga ogni volta che la trova, e persino come contare tutte le virgole in un file.
+
+Durante una pausa, parlavamo di musica. Una studentessa ha chiesto: “Quando sono state fatte le canzoni dei Beatles?” Nessuno sapeva la risposta esatta, ma speriamo nel meglio per il nostro esame finale.
+
+Nel frattempo, Salvo un altro file, salvo il file, provo a sistemare il codice. Un altro studente mi chiede: “Come posso restituire i primi 3 caratteri di una stringa?” Gli rispondo: “str.take(3), penso che funzionerà ancora.”
+
+Un altro giorno, parlando in inglese, qualcuno ha chiesto: “Quale articolo si usa con "Location"?” e un altro ha risposto: “Non so se "appena" è la parola corretta, ma direi a location.”
+
+A un certo punto, un compagno stava scrivendo un’email formale e ha chiesto: “Qual è una frase per chiudere una lettera in italiano?” Io ho suggerito: “Cordiali saluti.”
+
+Il professore ci ha ricordato: “Questo è solo un promemoria: l’esercitazione sta per finire, non è la versione definitiva, è una bozza. In modo da poter scegliere quella giusta, fate attenzione alla sintassi.”
+
+Alla fine del mese, ci siamo salutati con una corsa nel parco. Io, con le mie giacche leggere, ho corso tra le pozzanghere, pensando che la prossima corsa sarà ancora più bella. Ho tagliato il formaggio per il picnic e mi sono seduto sull’erba. Era Agosto, e Agosto ha trentuno giorni. Ho tutto il mese di luglio libero ora, e devo cercarlo, quel nuovo progetto.
+
+Il prossimo sarà difficile, lo so. Ho bisogno di aiuto con questo progetto, ma speriamo nel meglio. È stato un mese piuttosto tanto impegnativo, ma indimenticabile.
+
 2025-07-14 - lunedì 14 luglio 2025
 
 >> La campagna elettorale

@@ -237,3 +237,4 @@ fr;rigueur; ree-GÖHR
 fr;GVG ; zhay-vay-zhay
 fr; grogna-t-il; grown-ya-TEEL; he grumbled
 fr; en veille; VAY-ee; on standby
+it; scegliere; SHELL-yer-ay

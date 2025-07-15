@@ -1,6 +1,17 @@
 [
 	{
-		"suuid": "ceImiU",
+		"suuid": "VlMoIW",
+		"language": "it",
+		"date": "2025-07-15",
+		"title": "Martedì 15 luglio 2025",
+		"htmlBody": "\u003ch3\u003eUn'avventura indimenticabile\u003c/h3\u003e\u003cp\u003eEra una mattina d’estate, il sole splendeva alto nel cielo, e io mi mettevo le scarpe per uscire. Benvenuto al corso di programmazione, diceva un messaggio nella mia casella di posta. Ero iscritto a un laboratorio che prometteva di insegnarci Scala come linguaggio di scripting, e da bravo studente di informatica, ero curioso. Mi ha detto l’insegnante: “Devi creare un file come questo, devi eseguire questo comando e poi esportare tutti i nomi delle directory in un file di testo”.\u003c/p\u003e\u003cp\u003eLa classe era piena di gente nuova. Erano tutte brave persone, venivano da diverse città, ovunque si trovino nel progetto, contribuivano con passione.\u003c/p\u003e\u003cp\u003ePrima di tutto, ci siamo seduti in cerchio per conoscerci. Poi il professore ha detto: “Dobbiamo decidere la tabella di marcia per queste quattro settimane. Ed entro la fine di questo corso, ognuno di voi sarà capace di costruire un'app semplice con Scala.”\u003c/p\u003e\u003cp\u003eHo alzato la mano e ho chiesto: “Mostrami come posso utilizzare Scala come linguaggio di scripting.” Lui ha sorriso e ha iniziato a scrivere alla lavagna. Ma quando digito scala ottengo un errore”, ha detto un altro ragazzo. Il professore ha spiegato: “Non era corretto il modo in cui lo avevi installato. C'è una differenza tra la versione del JDK e la versione di Java.”\u003c/p\u003e\u003cp\u003eAbbiamo parlato di nomi di file. Un’altra domanda interessante è venuta fuori: “È corretto usare i trattini nei nomi dei file in Scala, o è meglio usare gli underscore?” Il professore ha risposto: “Anche se non è lo standard raccomandato, è un pattern che si vede spesso”.\u003c/p\u003e\u003cp\u003eUn giorno abbiamo parlato di file system. Il professore ci ha chiesto: “Se fosse un percorso di file, come lo rappresentereste?” E poi ci ha insegnato a stampare una virgola per riga ogni volta che la trova, e persino come contare tutte le virgole in un file.\u003c/p\u003e\u003cp\u003eDurante una pausa, parlavamo di musica. Una studentessa ha chiesto: “Quando sono state fatte le canzoni dei Beatles?” Nessuno sapeva la risposta esatta, ma speriamo nel meglio per il nostro esame finale.\u003c/p\u003e\u003cp\u003eNel frattempo, Salvo un altro file, salvo il file, provo a sistemare il codice. Un altro studente mi chiede: “Come posso restituire i primi 3 caratteri di una stringa?” Gli rispondo: “str.take(3), penso che funzionerà ancora.”\u003c/p\u003e\u003cp\u003eUn altro giorno, parlando in inglese, qualcuno ha chiesto: “Quale articolo si usa con \"Location\"?” e un altro ha risposto: “Non so se \"appena\" è la parola corretta, ma direi a location.”\u003c/p\u003e\u003cp\u003eA un certo punto, un compagno stava scrivendo un’email formale e ha chiesto: “Qual è una frase per chiudere una lettera in italiano?” Io ho suggerito: “Cordiali saluti.”\u003c/p\u003e\u003cp\u003eIl professore ci ha ricordato: “Questo è solo un promemoria: l’esercitazione sta per finire, non è la versione definitiva, è una bozza. In modo da poter scegliere quella giusta, fate attenzione alla sintassi.”\u003c/p\u003e\u003cp\u003eAlla fine del mese, ci siamo salutati con una corsa nel parco. Io, con le mie giacche leggere, ho corso tra le pozzanghere, pensando che la prossima corsa sarà ancora più bella. Ho tagliato il formaggio per il picnic e mi sono seduto sull’erba. Era Agosto, e Agosto ha trentuno giorni. Ho tutto il mese di luglio libero ora, e devo cercarlo, quel nuovo progetto.\u003c/p\u003e\u003cp\u003eIl prossimo sarà difficile, lo so. Ho bisogno di aiuto con questo progetto, ma speriamo nel meglio. È stato un mese piuttosto tanto impegnativo, ma indimenticabile.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 592
+	},
+	{
+		"suuid": "5RDSve",
 		"language": "it",
 		"date": "2025-07-14",
 		"title": "Lunedì 14 luglio 2025",
@@ -11,7 +22,7 @@
 		"estimatedAudioSeconds": 398
 	},
 	{
-		"suuid": "nd1cXB",
+		"suuid": "ZLFYNC",
 		"language": "it",
 		"date": "2025-07-13",
 		"title": "Domenica 13 luglio 2025",
@@ -22,7 +33,7 @@
 		"estimatedAudioSeconds": 470
 	},
 	{
-		"suuid": "Gvx7iB",
+		"suuid": "U6sB3c",
 		"language": "it",
 		"date": "2025-07-12",
 		"title": "Sabato 12 luglio 2025",
@@ -33,7 +44,7 @@
 		"estimatedAudioSeconds": 617
 	},
 	{
-		"suuid": "IXN3yT",
+		"suuid": "znXBH8",
 		"language": "it",
 		"date": "2025-07-11",
 		"title": "Venerdì 11 luglio 2025",
@@ -44,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aabzQu",
+		"suuid": "RxKeQ8",
 		"language": "it",
 		"date": "2025-07-10",
 		"title": "Giovedì 10 luglio 2025",
@@ -55,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XoqhFs",
+		"suuid": "N1FcCn",
 		"language": "it",
 		"date": "2025-07-09",
 		"title": "Mercoledì 9 luglio 2025",
@@ -66,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RtypIy",
+		"suuid": "pM0Hk9",
 		"language": "fr",
 		"date": "2025-07-08",
 		"title": "Mardi 8 juillet 2025",
@@ -77,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a5dTC0",
+		"suuid": "QCEVBK",
 		"language": "fr",
 		"date": "2025-07-07",
 		"title": "Lundi 7 juillet 2025",
@@ -88,7 +99,7 @@
 		"estimatedAudioSeconds": 548
 	},
 	{
-		"suuid": "PMwuj2",
+		"suuid": "vJfb1e",
 		"language": "fr",
 		"date": "2025-07-06",
 		"title": "Dimanche 6 juillet 2025",
@@ -99,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qHEWdm",
+		"suuid": "8D3OfH",
 		"language": "fr",
 		"date": "2025-07-05",
 		"title": "Samedi 5 juillet 2025",
@@ -110,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8PjG5q",
+		"suuid": "pqc1hQ",
 		"language": "fr",
 		"date": "2025-07-04",
 		"title": "Vendredi 4 juillet 2025",
@@ -121,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yYAlC4",
+		"suuid": "CepSnj",
 		"language": "fr",
 		"date": "2025-07-03",
 		"title": "Jeudi 3 juillet 2025",
@@ -132,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0aSTCX",
+		"suuid": "HESJpP",
 		"language": "fr",
 		"date": "2025-07-02",
 		"title": "Mercredi 2 juillet 2025",
@@ -143,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fyxonp",
+		"suuid": "I9efv4",
 		"language": "fr",
 		"date": "2025-07-01",
 		"title": "Mardi 1 juillet 2025",
@@ -154,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gHzd39",
+		"suuid": "fm89Ip",
 		"language": "fr",
 		"date": "2025-06-30",
 		"title": "Lundi 30 juin 2025",
@@ -165,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HdHBqY",
+		"suuid": "bzQM5x",
 		"language": "it",
 		"date": "2025-06-29",
 		"title": "Domenica 29 guigno 2025",
@@ -176,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "hugHix",
+		"suuid": "BNLTuJ",
 		"language": "nl",
 		"date": "2025-06-29",
 		"title": "Zondag 29 juni 2025",
@@ -187,7 +198,7 @@
 		"estimatedAudioSeconds": 496
 	},
 	{
-		"suuid": "FJin6W",
+		"suuid": "dwk0o7",
 		"language": "it",
 		"date": "2025-06-28",
 		"title": "Sabato 28 giugno 2025",
@@ -198,7 +209,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yB4Y78",
+		"suuid": "HAlu1f",
 		"language": "it",
 		"date": "2025-06-27",
 		"title": "Venerdì 27 guigno 2025",
@@ -209,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SkTMvf",
+		"suuid": "yviu1Z",
 		"language": "it",
 		"date": "2025-06-26",
 		"title": "Giovedì 26 guigno 2025",
@@ -220,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "046Qk3",
+		"suuid": "jQzwzZ",
 		"language": "it",
 		"date": "2025-06-25",
 		"title": "Mercoledì 25 guigno 2025",
@@ -231,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Ln3d1g",
+		"suuid": "JxSqSw",
 		"language": "it",
 		"date": "2025-06-24",
 		"title": "Martedì 24 guigno 2025",
@@ -242,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sDNO8x",
+		"suuid": "QsAp98",
 		"language": "it",
 		"date": "2025-06-23",
 		"title": "Lunedì 23 guigno 2025",
@@ -253,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tIGTzq",
+		"suuid": "WfpkS3",
 		"language": "it",
 		"date": "2025-06-22",
 		"title": "Domenica 22 guigno 2025",
@@ -264,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WZOjj8",
+		"suuid": "LXtn5f",
 		"language": "it",
 		"date": "2025-06-21",
 		"title": "Sabato 21 guigno 2025",
@@ -275,7 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Tc8QI1",
+		"suuid": "40gJWf",
 		"language": "it",
 		"date": "2025-06-20",
 		"title": "Venerdì 20 guigno 2025",
@@ -286,7 +297,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qUxOW5",
+		"suuid": "8RdkcI",
 		"language": "it",
 		"date": "2025-06-19",
 		"title": "Giovedì 19 guigno 2025",
@@ -297,18 +308,7 @@
 		"estimatedAudioSeconds": 475
 	},
 	{
-		"suuid": "lmcdu1",
-		"language": "nl",
-		"date": "2025-06-18",
-		"title": "Woensdag 18 juni 2025",
-		"htmlBody": "\u003ch3\u003eEen dag als geen ander\u003c/h3\u003e\u003cp\u003eOp een Woensdag besloot ik iets anders te doen dan normaal. Ik heb het opgeschreven als vergadernotitie, maar in werkelijkheid wilde ik gewoon wat tijd voor mezelf nemen. Dus met dat in gedachten trok ik mijn wandelschoenen aan en ging op pad.\u003c/p\u003e\u003cp\u003eIk wandelde door het bos, waar ik vrijwel elke boom herkende van eerdere wandelingen. Bijna elke vogel klonk bekend. Ik dacht: Wat zou er gebeuren als ik verder liep dan normaal? Dus ik deed dat. Ik liep voorbij het meer, bovenop die laatste heuvel en tot op de bodem van een klein dal. Daar vond ik iets onverwachts: een verlaten hut.\u003c/p\u003e\u003cp\u003eBinnen in de hut lag een oude laptop. Ik dacht: vind een willekeurig bestand — en tot mijn verbazing vond ik twee bestanden met de namen \"uitdaging en uitleg\" en \"verbintenis\". Ik besloot ze eens snel te bekijken. In het eerste bestand stond: \"Het doel van deze uitdaging is om meer inzichten te krijgen in hoe ik omga met stress.\" En in het tweede bestand stond: \"De verbintenis is eenvoudig: blijf eerlijk tegenover jezelf.\"\u003c/p\u003e\u003cp\u003eIk dacht: hoe ik omga met moeilijkheden is afhankelijk van mijn keuzes. Er zijn altijd twee manieren om om te gaan met problemen: duwen en trekken, of loslaten en leren. Ik heb op de harde manier geleerd dat duwen en trekken meestal niet helpt.\u003c/p\u003e\u003cp\u003eToen ik terug naar huis liep, kwam ik een oude vriend tegen. Hij overtuigde mij om met hem naar een film te gaan. Later die avond zei ik: Ik heb genoten van de film. Ik hoop dat je het leuk vond. Hij glimlachte gerust en zei: \"Zeker weten.\"\u003c/p\u003e\u003cp\u003eDe volgende dag besloot ik mijn laptop te openen en schreef mijn ervaringen op. Ik dacht: ga naar de browser en ververs de pagina, dan zie ik de veranderingen. En inderdaad, ik zag ze opduiken — nieuwe ideeën, min of meer gestructureerd als een aaneengeschakelde reeks gedachten. Ik moest omhoog scrollen, dan naar beneden scrollen om alles te begrijpen. Maar het was waardevol.\u003c/p\u003e\u003cp\u003eNadat ik dat gedaan had, vroeg ik me af: Wat kan ik verwachten van morgen? Misschien een keuze die het verschil maakt. Ik besloot over te schakelen naar een nieuwe routine, voor het geval je denkt dat verandering geen zin heeft.\u003c/p\u003e\u003cp\u003eMaar als ik elke dag oefen, lukt het. Dus ik ga hallo zeggen tegen nieuwe gewoontes en afscheid nemen van een slechte gewoonte. Ik wens je veel succes als je hetzelfde probeert.\u003c/p\u003e\u003cp\u003eIk geloof dat zelfs als het moeilijk is, er altijd een oplossing is. Ze oplijken als sterretjes aan de nachtelijke hemel — klein, maar ook waardevol.\u003c/p\u003e\u003cp\u003eBedankt voor de uitleg die ik gisteren las. Dit is een mooie zin om mee af te sluiten: Laten we doorgaan, want zonder die stap vooruit verliezen we ons doel uit het oog.\u003c/p\u003e\u003cp\u003eEn ik zal zien hoe ver ik kom op deze wereldbol — scrollend, denkend, schrijvend — totdat ik het gevoel krijg dat ik niets meer kwijt ben.\u003c/p\u003e",
-		"audioFileName": "2025-06-18-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 378,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "WDnupD",
+		"suuid": "H9Icl7",
 		"language": "it",
 		"date": "2025-06-18",
 		"title": "Mercoledì 18 guigno 2025",
@@ -319,18 +319,18 @@
 		"estimatedAudioSeconds": 465
 	},
 	{
-		"suuid": "1gu1EV",
+		"suuid": "sXg0l2",
 		"language": "nl",
-		"date": "2025-06-17",
-		"title": "Dinsdag 17 juni 2025",
-		"htmlBody": "\u003ch3\u003eDe wandeling\u003c/h3\u003e\u003cp\u003eEen paar dagen geleden begon ik met het plannen van een lange tocht door de bergen. Ik moest mijn wandelschoenen vinden, want zonder die zou het moeilijk worden. Wandelschoenen zijn speciaal gemaakt zodat we er lange afstanden mee kunnen wandelen. Ze werken echt goed, vooral als je elke dag oefent. Ik zal mijn wandelschoenen klaarzetten voor morgen.\u003c/p\u003e\u003cp\u003eIk moet zeggen dat ik een beetje nerveus ben. Het is een lange weg, en ik weet niet precies wat ik kan verwachten. Maar ik heb mijn prioriteiten op een rijtje: water, eten, kaarten, en natuurlijk mijn wandelschoenen. Ik heb er al twintig wandelingen mee gemaakt, en het is bijna alsof het vele jaren geleden is dat ik mijn eerste tocht deed.\u003c/p\u003e\u003cp\u003eLaten we het dus doen! Ik geloof dat deze tocht me veel zal leren, niet alleen over de natuur, maar ook over mezelf. Bijvoorbeeld: hoe ik omga met vermoeidheid, of hoe goed ik mijn route kan volgen. Het is iets dat moeilijk is, maar ook waardevol.\u003c/p\u003e\u003cp\u003eOnderweg dacht ik aan talen. Ik heb de laatste tijd veel Nederlands geleerd. Soms ben ik een beetje in de war, vooral met valse vrienden. Het probleem met valse vrienden is dat ze op woorden in je moedertaal lijken, maar iets anders betekenen. Ik moest dat woord opzoeken: vals. Wat was dat woord dat je zei? O ja, valstrik! Dat betekent iets anders, toch?\u003c/p\u003e\u003cp\u003eIk hou van melk, hou jij van melk? Ik heb nog maar één melk over, dus ik zal straks naar de winkel gaan om wat melk te kopen. In ieder geval is het belangrijk om veel taal te produceren. Dat helpt je om beter te worden in spreken en schrijven. Weet jij het verschil tussen leren en studeren? De twee woorden lijken op elkaar. Beide woorden hebben dezelfde betekenis in sommige contexten, maar er is een groot verschil. Bedankt voor de uitleg!\u003c/p\u003e\u003cp\u003eIk moet dat woord opzoeken, omdat ik het niet vaak hoor. Als ik het woord eenmaal ken, dan is het makkelijker dan dat ik dacht. Het woord wordt uitgesproken zoals het geschreven is, dat helpt. Wie weet, misschien leer ik weer iets nieuws vandaag.\u003c/p\u003e\u003cp\u003eIk wens je veel succes met je eigen taalreis. Wens me geluk voor de tocht! Als het weer goed is, zal ik morgen vertrekken. Ik ben blij dat ik deze beslissing heb genomen. Het was slim dat ik dat deed. Omdat de test succesvol was – ik heb gisteren een kleine wandeling gemaakt – weet ik dat ik er klaar voor ben.\u003c/p\u003e\u003cp\u003eSoms denk ik dat het moeilijk is om meerdere talen tegelijk te leren. Maar als ik elke dag oefen, lukt het. Ik oefen Nederlands, maar ik wil ook Italiaans blijven oefenen, zodat ik ook Italiaans blijf oefenen naast Nederlands. Het is afhankelijk van je motivatie en je vaardigheden.\u003c/p\u003e\u003cp\u003eHet is belangrijk om jezelf niet te veel druk op te leggen. Het is makkelijker dan dat je denkt. En onthoud: een lange tocht begint met de eerste stap.\u003c/p\u003e",
-		"audioFileName": "2025-06-17-nl.mp3",
+		"date": "2025-06-18",
+		"title": "Woensdag 18 juni 2025",
+		"htmlBody": "\u003ch3\u003eEen dag als geen ander\u003c/h3\u003e\u003cp\u003eOp een Woensdag besloot ik iets anders te doen dan normaal. Ik heb het opgeschreven als vergadernotitie, maar in werkelijkheid wilde ik gewoon wat tijd voor mezelf nemen. Dus met dat in gedachten trok ik mijn wandelschoenen aan en ging op pad.\u003c/p\u003e\u003cp\u003eIk wandelde door het bos, waar ik vrijwel elke boom herkende van eerdere wandelingen. Bijna elke vogel klonk bekend. Ik dacht: Wat zou er gebeuren als ik verder liep dan normaal? Dus ik deed dat. Ik liep voorbij het meer, bovenop die laatste heuvel en tot op de bodem van een klein dal. Daar vond ik iets onverwachts: een verlaten hut.\u003c/p\u003e\u003cp\u003eBinnen in de hut lag een oude laptop. Ik dacht: vind een willekeurig bestand — en tot mijn verbazing vond ik twee bestanden met de namen \"uitdaging en uitleg\" en \"verbintenis\". Ik besloot ze eens snel te bekijken. In het eerste bestand stond: \"Het doel van deze uitdaging is om meer inzichten te krijgen in hoe ik omga met stress.\" En in het tweede bestand stond: \"De verbintenis is eenvoudig: blijf eerlijk tegenover jezelf.\"\u003c/p\u003e\u003cp\u003eIk dacht: hoe ik omga met moeilijkheden is afhankelijk van mijn keuzes. Er zijn altijd twee manieren om om te gaan met problemen: duwen en trekken, of loslaten en leren. Ik heb op de harde manier geleerd dat duwen en trekken meestal niet helpt.\u003c/p\u003e\u003cp\u003eToen ik terug naar huis liep, kwam ik een oude vriend tegen. Hij overtuigde mij om met hem naar een film te gaan. Later die avond zei ik: Ik heb genoten van de film. Ik hoop dat je het leuk vond. Hij glimlachte gerust en zei: \"Zeker weten.\"\u003c/p\u003e\u003cp\u003eDe volgende dag besloot ik mijn laptop te openen en schreef mijn ervaringen op. Ik dacht: ga naar de browser en ververs de pagina, dan zie ik de veranderingen. En inderdaad, ik zag ze opduiken — nieuwe ideeën, min of meer gestructureerd als een aaneengeschakelde reeks gedachten. Ik moest omhoog scrollen, dan naar beneden scrollen om alles te begrijpen. Maar het was waardevol.\u003c/p\u003e\u003cp\u003eNadat ik dat gedaan had, vroeg ik me af: Wat kan ik verwachten van morgen? Misschien een keuze die het verschil maakt. Ik besloot over te schakelen naar een nieuwe routine, voor het geval je denkt dat verandering geen zin heeft.\u003c/p\u003e\u003cp\u003eMaar als ik elke dag oefen, lukt het. Dus ik ga hallo zeggen tegen nieuwe gewoontes en afscheid nemen van een slechte gewoonte. Ik wens je veel succes als je hetzelfde probeert.\u003c/p\u003e\u003cp\u003eIk geloof dat zelfs als het moeilijk is, er altijd een oplossing is. Ze oplijken als sterretjes aan de nachtelijke hemel — klein, maar ook waardevol.\u003c/p\u003e\u003cp\u003eBedankt voor de uitleg die ik gisteren las. Dit is een mooie zin om mee af te sluiten: Laten we doorgaan, want zonder die stap vooruit verliezen we ons doel uit het oog.\u003c/p\u003e\u003cp\u003eEn ik zal zien hoe ver ik kom op deze wereldbol — scrollend, denkend, schrijvend — totdat ik het gevoel krijg dat ik niets meer kwijt ben.\u003c/p\u003e",
+		"audioFileName": "2025-06-18-nl.mp3",
 		"kind": "blog",
-		"audioSeconds": 366,
+		"audioSeconds": 378,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QusGLU",
+		"suuid": "kn3kqa",
 		"language": "it",
 		"date": "2025-06-17",
 		"title": "Martedì 17 giugno 2025",
@@ -341,18 +341,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zZt4WR",
-		"language": "it",
-		"date": "2025-06-16",
-		"title": "Lunedì 16 giugno 2025",
-		"htmlBody": "\u003ch3\u003eIl mistero del gioco ombra\u003c/h3\u003e\u003cp\u003eEccomi qui nel mio spazio, pronto a raccontarvi una storia che mi ha cambiato. Non so su quale ramo della mia mente sia nata questa memoria, ma lo incollerò comunque, perché in qualche modo lo tormenta ancora.\u003c/p\u003e\u003cp\u003ePer cominciare, bisogna sapere che, nella mia vita, i videogiochi hanno sempre avuto un ruolo importante. Ma ce n’era uno, il gioco ombra, che mi colpì in modo diverso. Lo trovai per caso in una vecchia cartuccia. Era un po’ ingombrante, danneggiata, ma non vuoi buttarlo via qualcosa che manda onde d’urto nel cuore appena lo tocchi.\u003c/p\u003e\u003cp\u003eAppena lanciai il gioco, mi trovai in un mondo ludico, pieno di suoni metallici e rintocchi videoludichi. Il mio personaggio raccoglieva gettoni, e premendo il tasto Q, si apriva un menù misterioso con alcune bandiere.\u003c/p\u003e\u003cp\u003e\"Perché si chiama così?\" mi chiesi. Ogni livello era diverso, e spesso ti permette di tornare in cima o ti permette di tornare in fondo, ma solo se risolvevi degli enigmi. Il gioco era una grande astrazione della realtà, ma qui non è così: ogni mossa aveva una conseguenza.\u003c/p\u003e\u003cp\u003eTi rendi subito conto che non era un gioco come gli altri. Il giudice del mondo digitale, un’entità senza volto, sembrava osservarti. Una volta mi disse: \"mi sta dicendo che non sei pronto\". Rimasi sbalordito. Era solo un gioco? Non ho avuto tempo per capirlo del tutto.\u003c/p\u003e\u003cp\u003eDa quando ho scoperto il gioco ombra, voglio apportare una modifica al mio modo di vivere. Ho capito che voglio fare i miei corsi, migliorarmi, crescere. Ma le altre cose, come il lavoro, mi prendono troppo tempo. A volte è difficile svegliarsi, ma so che serve impegno.\u003c/p\u003e\u003cp\u003eOra se faccio questo, se torno a quel gioco, costeranno più tempo le mie giornate, ma forse ne vale la pena. Lasciate che vi mostri cosa intendo. C'era un livello in cui dovevi scartare dei ricordi per andare avanti. Ma ogni volta che ne scartavi uno, ne tornava un altro. Come se non vuoi buttarlo via, ma sai che devi.\u003c/p\u003e\u003cp\u003eIn preda alla curiosità, ho deciso di eseguire un’analisi del codice. Volevo rilevare qualcosa di strano. E alla fine, il segreto è stato svelato a tutti: il gioco ombra non era un gioco. Era un test psicologico interattivo.\u003c/p\u003e\u003cp\u003eCercheresti di evitarlo se lo sapessi? Forse. Ma io no. Lo rifarei. Se potessi, farei ancora quella scelta, anche se costeranno più tempo le mie giornate.\u003c/p\u003e\u003cp\u003eE domani? Parlare di un argomento così profondo con gli amici sarà difficile. Ma voglio provarci. Grazie mille per aver ascoltato questa storia. In fondo, è anche vostra.\u003c/p\u003e\u003cp\u003ePer concludere, voglio solo dire: inizia dalla prima riga, anche se sembra tutto vorticoso. In un paio di secondi, la vita può cambiare. Riscrivila, se serve. Serve solo il coraggio di premere \"Start\".\u003c/p\u003e",
-		"audioFileName": "2025-06-16-it.mp3",
+		"suuid": "Mw3Ge8",
+		"language": "nl",
+		"date": "2025-06-17",
+		"title": "Dinsdag 17 juni 2025",
+		"htmlBody": "\u003ch3\u003eDe wandeling\u003c/h3\u003e\u003cp\u003eEen paar dagen geleden begon ik met het plannen van een lange tocht door de bergen. Ik moest mijn wandelschoenen vinden, want zonder die zou het moeilijk worden. Wandelschoenen zijn speciaal gemaakt zodat we er lange afstanden mee kunnen wandelen. Ze werken echt goed, vooral als je elke dag oefent. Ik zal mijn wandelschoenen klaarzetten voor morgen.\u003c/p\u003e\u003cp\u003eIk moet zeggen dat ik een beetje nerveus ben. Het is een lange weg, en ik weet niet precies wat ik kan verwachten. Maar ik heb mijn prioriteiten op een rijtje: water, eten, kaarten, en natuurlijk mijn wandelschoenen. Ik heb er al twintig wandelingen mee gemaakt, en het is bijna alsof het vele jaren geleden is dat ik mijn eerste tocht deed.\u003c/p\u003e\u003cp\u003eLaten we het dus doen! Ik geloof dat deze tocht me veel zal leren, niet alleen over de natuur, maar ook over mezelf. Bijvoorbeeld: hoe ik omga met vermoeidheid, of hoe goed ik mijn route kan volgen. Het is iets dat moeilijk is, maar ook waardevol.\u003c/p\u003e\u003cp\u003eOnderweg dacht ik aan talen. Ik heb de laatste tijd veel Nederlands geleerd. Soms ben ik een beetje in de war, vooral met valse vrienden. Het probleem met valse vrienden is dat ze op woorden in je moedertaal lijken, maar iets anders betekenen. Ik moest dat woord opzoeken: vals. Wat was dat woord dat je zei? O ja, valstrik! Dat betekent iets anders, toch?\u003c/p\u003e\u003cp\u003eIk hou van melk, hou jij van melk? Ik heb nog maar één melk over, dus ik zal straks naar de winkel gaan om wat melk te kopen. In ieder geval is het belangrijk om veel taal te produceren. Dat helpt je om beter te worden in spreken en schrijven. Weet jij het verschil tussen leren en studeren? De twee woorden lijken op elkaar. Beide woorden hebben dezelfde betekenis in sommige contexten, maar er is een groot verschil. Bedankt voor de uitleg!\u003c/p\u003e\u003cp\u003eIk moet dat woord opzoeken, omdat ik het niet vaak hoor. Als ik het woord eenmaal ken, dan is het makkelijker dan dat ik dacht. Het woord wordt uitgesproken zoals het geschreven is, dat helpt. Wie weet, misschien leer ik weer iets nieuws vandaag.\u003c/p\u003e\u003cp\u003eIk wens je veel succes met je eigen taalreis. Wens me geluk voor de tocht! Als het weer goed is, zal ik morgen vertrekken. Ik ben blij dat ik deze beslissing heb genomen. Het was slim dat ik dat deed. Omdat de test succesvol was – ik heb gisteren een kleine wandeling gemaakt – weet ik dat ik er klaar voor ben.\u003c/p\u003e\u003cp\u003eSoms denk ik dat het moeilijk is om meerdere talen tegelijk te leren. Maar als ik elke dag oefen, lukt het. Ik oefen Nederlands, maar ik wil ook Italiaans blijven oefenen, zodat ik ook Italiaans blijf oefenen naast Nederlands. Het is afhankelijk van je motivatie en je vaardigheden.\u003c/p\u003e\u003cp\u003eHet is belangrijk om jezelf niet te veel druk op te leggen. Het is makkelijker dan dat je denkt. En onthoud: een lange tocht begint met de eerste stap.\u003c/p\u003e",
+		"audioFileName": "2025-06-17-nl.mp3",
 		"kind": "blog",
-		"audioSeconds": 445,
+		"audioSeconds": 366,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cyADGr",
+		"suuid": "cTiDRz",
 		"language": "nl",
 		"date": "2025-06-16",
 		"title": "Maandag 16 juni 2025",
@@ -363,7 +363,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zod89Q",
+		"suuid": "mYtkJT",
+		"language": "it",
+		"date": "2025-06-16",
+		"title": "Lunedì 16 giugno 2025",
+		"htmlBody": "\u003ch3\u003eIl mistero del gioco ombra\u003c/h3\u003e\u003cp\u003eEccomi qui nel mio spazio, pronto a raccontarvi una storia che mi ha cambiato. Non so su quale ramo della mia mente sia nata questa memoria, ma lo incollerò comunque, perché in qualche modo lo tormenta ancora.\u003c/p\u003e\u003cp\u003ePer cominciare, bisogna sapere che, nella mia vita, i videogiochi hanno sempre avuto un ruolo importante. Ma ce n’era uno, il gioco ombra, che mi colpì in modo diverso. Lo trovai per caso in una vecchia cartuccia. Era un po’ ingombrante, danneggiata, ma non vuoi buttarlo via qualcosa che manda onde d’urto nel cuore appena lo tocchi.\u003c/p\u003e\u003cp\u003eAppena lanciai il gioco, mi trovai in un mondo ludico, pieno di suoni metallici e rintocchi videoludichi. Il mio personaggio raccoglieva gettoni, e premendo il tasto Q, si apriva un menù misterioso con alcune bandiere.\u003c/p\u003e\u003cp\u003e\"Perché si chiama così?\" mi chiesi. Ogni livello era diverso, e spesso ti permette di tornare in cima o ti permette di tornare in fondo, ma solo se risolvevi degli enigmi. Il gioco era una grande astrazione della realtà, ma qui non è così: ogni mossa aveva una conseguenza.\u003c/p\u003e\u003cp\u003eTi rendi subito conto che non era un gioco come gli altri. Il giudice del mondo digitale, un’entità senza volto, sembrava osservarti. Una volta mi disse: \"mi sta dicendo che non sei pronto\". Rimasi sbalordito. Era solo un gioco? Non ho avuto tempo per capirlo del tutto.\u003c/p\u003e\u003cp\u003eDa quando ho scoperto il gioco ombra, voglio apportare una modifica al mio modo di vivere. Ho capito che voglio fare i miei corsi, migliorarmi, crescere. Ma le altre cose, come il lavoro, mi prendono troppo tempo. A volte è difficile svegliarsi, ma so che serve impegno.\u003c/p\u003e\u003cp\u003eOra se faccio questo, se torno a quel gioco, costeranno più tempo le mie giornate, ma forse ne vale la pena. Lasciate che vi mostri cosa intendo. C'era un livello in cui dovevi scartare dei ricordi per andare avanti. Ma ogni volta che ne scartavi uno, ne tornava un altro. Come se non vuoi buttarlo via, ma sai che devi.\u003c/p\u003e\u003cp\u003eIn preda alla curiosità, ho deciso di eseguire un’analisi del codice. Volevo rilevare qualcosa di strano. E alla fine, il segreto è stato svelato a tutti: il gioco ombra non era un gioco. Era un test psicologico interattivo.\u003c/p\u003e\u003cp\u003eCercheresti di evitarlo se lo sapessi? Forse. Ma io no. Lo rifarei. Se potessi, farei ancora quella scelta, anche se costeranno più tempo le mie giornate.\u003c/p\u003e\u003cp\u003eE domani? Parlare di un argomento così profondo con gli amici sarà difficile. Ma voglio provarci. Grazie mille per aver ascoltato questa storia. In fondo, è anche vostra.\u003c/p\u003e\u003cp\u003ePer concludere, voglio solo dire: inizia dalla prima riga, anche se sembra tutto vorticoso. In un paio di secondi, la vita può cambiare. Riscrivila, se serve. Serve solo il coraggio di premere \"Start\".\u003c/p\u003e",
+		"audioFileName": "2025-06-16-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 445,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "bGBGQJ",
 		"language": "nl",
 		"date": "2025-06-15",
 		"title": "Zondag 15 juni 2025",
@@ -374,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ha97My",
+		"suuid": "HxQFTj",
 		"language": "it",
 		"date": "2025-06-15",
 		"title": "Domenica 15 giugno 2025",
@@ -385,18 +396,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "73O8bO",
-		"language": "nl",
-		"date": "2025-06-14",
-		"title": "Zaterdag 14 juni 2025",
-		"htmlBody": "\u003ch3\u003eEen Dag Vol Talen En Plannen\u003c/h3\u003e\u003cp\u003eOp een frisse ochtend, werd ik wakker met een idee. “Ik neem vijf minuten Nederlands per dag op,” zei ik tegen mezelf. Het is een goede manier om vloeiender te worden in een taal, vooral als je zoekt zinnen op in Google Translate, dan lees je het verhaal hardop voor en neem je het op in een MP3-bestand.\u003c/p\u003e\u003cp\u003eIk heb een programma geschreven waarmee AI een verhaal kan maken uit de zinnen, en nu kunnen we Nederlandse zinnen opnemen. Dat klinkt als goed nieuws, toch? Bedankt voor het nieuws, zei mijn vriendin toen ik het haar vertelde.\u003c/p\u003e\u003cp\u003eIk wil een cursus Nederlands vinden, want hoewel ik spreek het bijna vloeiend, er zijn zoveel woorden om te leren. Je hebt een grote woordenschat nodig om kleine gesprekken in hotels te voeren. Ik wil kleine gesprekken voeren in de hotels als we door Nederland reizen. Wat heb je vandaag gepland? vroeg ze.\u003c/p\u003e\u003cp\u003e“We gaan vandaag wandelen. We gaan onze nieuwe wandelschoenen dragen. Misschien komen we mijn buurvrouw tegen.” Ben je met je buurvrouw en haar hond gaan wandelen? vroeg ze. “Ja, gisteren nog! Waar woont je buurman?” vroeg ze daarna. “Hij woont op de tweede verdieping.” – Op welke verdieping woont ze, bedoelde ze eigenlijk.\u003c/p\u003e\u003cp\u003eNu en hier, terwijl ik deze tekst schrijf, denk ik aan onze reis door de Alpen. De laatste twee dagen van onze wandeling zijn in Italië. Ik wil Italiaans spreken in Zuid-Tirol tijdens onze reis in de Alpen. Ik ben nu vooral Italiaans aan het leren, maar Nederlands blijft ook belangrijk.\u003c/p\u003e\u003cp\u003eMijn vriend vroeg: “Weet je waar je gaat verblijven? Wat ga je daar doen?” Ik zei: “Misschien schrijf ik over onze reis. Wat zul je daar zien? Bergen, sneeuw, mooie dorpen…”\u003c/p\u003e\u003cp\u003eHij heeft het gekocht en hij heeft het gekookt, zei mijn buurman later die avond, over zijn diner. Helaas was de oven kapot. “Het is slechts een kleine info voor het team,” zei hij lachend.\u003c/p\u003e\u003cp\u003e“Ik ken het verschil tussen de twee,” zei ik, toen hij vroeg naar ‘moeilijk’ en ‘gemakkelijk’. Het is eigenlijk gemakkelijk. Het is gemakkelijk. Het is eigenlijk niet zo moeilijk als je oefent.\u003c/p\u003e\u003cp\u003eJe probeert vijftig per dag te besparen – bedoelde mijn app over nieuwe woorden. Dan kun je naar de audiobestanden luisteren en proberen ze te begrijpen, en dan download je ze aan het eind van de dag.\u003c/p\u003e\u003cp\u003eGisteren zei iemand: “Jij spreekt beter Nederlands dan zij Engels spreken.” Dat was leuk om te horen. Toch, ik begreep je niet helemaal toen hij iets zei. Wat betekent dat? vroeg ik. Welk woord zei je?\u003c/p\u003e\u003cp\u003eMijn nicht woont nu in Nederland. Kent ze mensen in Nederland? Wat studeert ze? Hoe vaak heb je met haar gesproken?\u003c/p\u003e\u003cp\u003eTegen het einde van de dag voelde ik me moe. De hele dag lang had ik gewerkt en geoefend. Ik heb zoveel talen in mijn hoofd, maar ik blijf doorgaan.\u003c/p\u003e\u003cp\u003eMorgen zal ik er een zoeken: een nieuw verhaal, een nieuwe zin, een nieuwe manier om beter te worden. Het is weer tijd voor het Nederlandse gesprek.\u003c/p\u003e",
-		"audioFileName": "2025-06-14-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 412,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "OXUwsp",
+		"suuid": "z4k3LF",
 		"language": "it",
 		"date": "2025-06-14",
 		"title": "Sabato 14 giugno 2025",
@@ -407,7 +407,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "e0j5bj",
+		"suuid": "EIPP6L",
+		"language": "nl",
+		"date": "2025-06-14",
+		"title": "Zaterdag 14 juni 2025",
+		"htmlBody": "\u003ch3\u003eEen Dag Vol Talen En Plannen\u003c/h3\u003e\u003cp\u003eOp een frisse ochtend, werd ik wakker met een idee. “Ik neem vijf minuten Nederlands per dag op,” zei ik tegen mezelf. Het is een goede manier om vloeiender te worden in een taal, vooral als je zoekt zinnen op in Google Translate, dan lees je het verhaal hardop voor en neem je het op in een MP3-bestand.\u003c/p\u003e\u003cp\u003eIk heb een programma geschreven waarmee AI een verhaal kan maken uit de zinnen, en nu kunnen we Nederlandse zinnen opnemen. Dat klinkt als goed nieuws, toch? Bedankt voor het nieuws, zei mijn vriendin toen ik het haar vertelde.\u003c/p\u003e\u003cp\u003eIk wil een cursus Nederlands vinden, want hoewel ik spreek het bijna vloeiend, er zijn zoveel woorden om te leren. Je hebt een grote woordenschat nodig om kleine gesprekken in hotels te voeren. Ik wil kleine gesprekken voeren in de hotels als we door Nederland reizen. Wat heb je vandaag gepland? vroeg ze.\u003c/p\u003e\u003cp\u003e“We gaan vandaag wandelen. We gaan onze nieuwe wandelschoenen dragen. Misschien komen we mijn buurvrouw tegen.” Ben je met je buurvrouw en haar hond gaan wandelen? vroeg ze. “Ja, gisteren nog! Waar woont je buurman?” vroeg ze daarna. “Hij woont op de tweede verdieping.” – Op welke verdieping woont ze, bedoelde ze eigenlijk.\u003c/p\u003e\u003cp\u003eNu en hier, terwijl ik deze tekst schrijf, denk ik aan onze reis door de Alpen. De laatste twee dagen van onze wandeling zijn in Italië. Ik wil Italiaans spreken in Zuid-Tirol tijdens onze reis in de Alpen. Ik ben nu vooral Italiaans aan het leren, maar Nederlands blijft ook belangrijk.\u003c/p\u003e\u003cp\u003eMijn vriend vroeg: “Weet je waar je gaat verblijven? Wat ga je daar doen?” Ik zei: “Misschien schrijf ik over onze reis. Wat zul je daar zien? Bergen, sneeuw, mooie dorpen…”\u003c/p\u003e\u003cp\u003eHij heeft het gekocht en hij heeft het gekookt, zei mijn buurman later die avond, over zijn diner. Helaas was de oven kapot. “Het is slechts een kleine info voor het team,” zei hij lachend.\u003c/p\u003e\u003cp\u003e“Ik ken het verschil tussen de twee,” zei ik, toen hij vroeg naar ‘moeilijk’ en ‘gemakkelijk’. Het is eigenlijk gemakkelijk. Het is gemakkelijk. Het is eigenlijk niet zo moeilijk als je oefent.\u003c/p\u003e\u003cp\u003eJe probeert vijftig per dag te besparen – bedoelde mijn app over nieuwe woorden. Dan kun je naar de audiobestanden luisteren en proberen ze te begrijpen, en dan download je ze aan het eind van de dag.\u003c/p\u003e\u003cp\u003eGisteren zei iemand: “Jij spreekt beter Nederlands dan zij Engels spreken.” Dat was leuk om te horen. Toch, ik begreep je niet helemaal toen hij iets zei. Wat betekent dat? vroeg ik. Welk woord zei je?\u003c/p\u003e\u003cp\u003eMijn nicht woont nu in Nederland. Kent ze mensen in Nederland? Wat studeert ze? Hoe vaak heb je met haar gesproken?\u003c/p\u003e\u003cp\u003eTegen het einde van de dag voelde ik me moe. De hele dag lang had ik gewerkt en geoefend. Ik heb zoveel talen in mijn hoofd, maar ik blijf doorgaan.\u003c/p\u003e\u003cp\u003eMorgen zal ik er een zoeken: een nieuw verhaal, een nieuwe zin, een nieuwe manier om beter te worden. Het is weer tijd voor het Nederlandse gesprek.\u003c/p\u003e",
+		"audioFileName": "2025-06-14-nl.mp3",
+		"kind": "blog",
+		"audioSeconds": 412,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "6TRQI0",
 		"language": "it",
 		"date": "2025-06-13",
 		"title": "Venerdì 13 giugno 2025",
@@ -418,7 +429,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KHlGtg",
+		"suuid": "HZsCKL",
 		"language": "it",
 		"date": "2025-06-12",
 		"title": "Giovedì 12 giugno 2025",
@@ -429,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "75JJY8",
+		"suuid": "ZtgNRK",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -440,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GVRRep",
+		"suuid": "R2bLks",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -451,7 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "46Qsbo",
+		"suuid": "9dOAzt",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -462,7 +473,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8ZFFvY",
+		"suuid": "ITMEay",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -473,7 +484,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "y5iqRh",
+		"suuid": "YxUirz",
 		"language": "fr",
 		"date": "2025-06-07",
 		"title": "Samedi 7 juin 2025",
@@ -484,7 +495,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qitvbK",
+		"suuid": "Pyk66Z",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -495,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "W3Ad3R",
+		"suuid": "uczWTt",
 		"language": "pl",
 		"date": "2025-06-05",
 		"title": "Zwartek, 5 czerwca 2025",
@@ -506,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "h8RphF",
+		"suuid": "N42GjQ",
 		"language": "pl",
 		"date": "2025-06-04",
 		"title": "Środa, 4 czerwca 2025",
@@ -517,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kOoPXQ",
+		"suuid": "05Q6pT",
 		"language": "pl",
 		"date": "2025-06-03",
 		"title": "Wtorek, 3 czerwca 2025",
@@ -528,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Xsn2Q9",
+		"suuid": "33ncV6",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Poniedziałek, 2 czerwiec 2025",
@@ -539,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ro7FPy",
+		"suuid": "2Csrsj",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -550,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OkDKqa",
+		"suuid": "ZXMOom",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -561,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BJERyZ",
+		"suuid": "v4xYE9",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -572,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EfGBgU",
+		"suuid": "1I8RL6",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -583,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "u9UKne",
+		"suuid": "HOd8zD",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -594,7 +605,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9BqKhT",
+		"suuid": "gI7rZx",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -605,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xKg5hQ",
+		"suuid": "83mYo7",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -616,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j03TOK",
+		"suuid": "woFeIJ",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -627,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xaJMaW",
+		"suuid": "tXB4z6",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -638,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VCsp9f",
+		"suuid": "DuU4C5",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -649,7 +660,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HHrdw3",
+		"suuid": "oies19",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -660,7 +671,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MaI9zO",
+		"suuid": "Sspy2U",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -671,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VCqJOE",
+		"suuid": "xyOwUQ",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -682,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a4jlVF",
+		"suuid": "MpSTJq",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -693,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wjcQUz",
+		"suuid": "0mdfXA",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -704,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wzQ5mF",
+		"suuid": "uYruHb",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -715,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AwmKuu",
+		"suuid": "DzX0Ua",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -726,7 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aTY0A2",
+		"suuid": "UVkOp6",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -737,7 +748,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "V1etjK",
+		"suuid": "JFKcJF",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -748,7 +759,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UqNARX",
+		"suuid": "4kF5oG",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -759,7 +770,7 @@
 		"estimatedAudioSeconds": 580
 	},
 	{
-		"suuid": "AgOHah",
+		"suuid": "LzQAOa",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -770,7 +781,7 @@
 		"estimatedAudioSeconds": 466
 	},
 	{
-		"suuid": "63qAAG",
+		"suuid": "WuTMJ9",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -781,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "axDouh",
+		"suuid": "h6zuJW",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -792,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QGd5bp",
+		"suuid": "JrMOBI",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -803,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Nf5bsL",
+		"suuid": "utB1iF",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -814,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FNO32A",
+		"suuid": "nrjxwz",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -825,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2cZUw5",
+		"suuid": "shqhmG",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -836,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NLNB98",
+		"suuid": "Cwhl87",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -847,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "z4yzEn",
+		"suuid": "u4DPxc",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -858,7 +869,7 @@
 		"estimatedAudioSeconds": 494
 	},
 	{
-		"suuid": "9kUTDm",
+		"suuid": "HO0CA1",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -869,7 +880,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "80UUA2",
+		"suuid": "qNJDQW",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -880,7 +891,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BDgqsw",
+		"suuid": "tt2o28",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -891,7 +902,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2WX1gd",
+		"suuid": "9UtRly",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -902,7 +913,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "biYsbG",
+		"suuid": "12cS24",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -913,7 +924,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zo1Bea",
+		"suuid": "nmxq7L",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -924,7 +935,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tyHdkW",
+		"suuid": "LougEc",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -935,7 +946,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3ynAgN",
+		"suuid": "DFkOc5",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -946,7 +957,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RmLUA9",
+		"suuid": "w1NvRX",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -957,7 +968,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "laisSz",
+		"suuid": "Uu1pcx",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -968,7 +979,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DvOUqp",
+		"suuid": "vkLKrq",
 		"language": "it",
 		"date": "2025-04-23",
 		"title": "Mercoledì, 23 aprile 2025",
@@ -979,7 +990,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Dv3JWt",
+		"suuid": "hMJOUE",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -990,7 +1001,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "y0GFWH",
+		"suuid": "ExWGOE",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Ś�roda, 23 kwietnia 2025",
@@ -1001,7 +1012,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aRl1Mu",
+		"suuid": "fQSbsn",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -1012,7 +1023,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LbaXKp",
+		"suuid": "7z5NlT",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -1023,7 +1034,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ieoLS4",
+		"suuid": "dFPPe5",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -1034,7 +1045,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "axUjD4",
+		"suuid": "5Ajcvh",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -1045,7 +1056,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Q9x9PB",
+		"suuid": "LSoOp8",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -1056,7 +1067,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5ECTWN",
+		"suuid": "1ZIM5J",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -1067,7 +1078,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Anv7Ss",
+		"suuid": "31GCAz",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -1078,7 +1089,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wl3Gul",
+		"suuid": "yAXZHb",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Ś�roda 16 kwietnia 2025",
@@ -1089,7 +1100,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KhShQF",
+		"suuid": "7uTM8x",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -1100,7 +1111,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EfD4DW",
+		"suuid": "0pPjVw",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -1111,7 +1122,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vIy1bC",
+		"suuid": "ThbqG1",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -1122,7 +1133,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5PNREK",
+		"suuid": "p2USOH",
 		"language": "it",
 		"date": "2025-04-14",
 		"title": "Lunedì 14 aprile 2025",
@@ -1133,7 +1144,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1H3EcD",
+		"suuid": "j4Cq8G",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -1144,7 +1155,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OYNjNj",
+		"suuid": "sPn1KO",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -1155,7 +1166,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "hlXgbQ",
+		"suuid": "aBSpJr",
 		"language": "es",
 		"date": "2025-04-13",
 		"title": "Domingo 13 de abril de 2025",
@@ -1166,7 +1177,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lzclYA",
+		"suuid": "2x5fmh",
 		"language": "pl",
 		"date": "2025-04-13",
 		"title": "Niedziela, 13 kwietnia 2025",
@@ -1177,7 +1188,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MpEwpZ",
+		"suuid": "R3YL5z",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -1188,7 +1199,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YZjOcl",
+		"suuid": "kEn7Lj",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -1199,7 +1210,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QmrG5t",
+		"suuid": "s5ELno",
 		"language": "nl",
 		"date": "2025-04-12",
 		"title": "Zaterdag 12 april 2025",
@@ -1210,7 +1221,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FsevXk",
+		"suuid": "IeDSje",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -1221,7 +1232,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gm2hZb",
+		"suuid": "TSlO62",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -1232,7 +1243,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "StlOJT",
+		"suuid": "uAeWxl",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -1243,7 +1254,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "X1PGKb",
+		"suuid": "tw2ROx",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -1254,7 +1265,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "84OmLB",
+		"suuid": "hAqDGv",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -1265,7 +1276,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "b6yA8A",
+		"suuid": "7Tec7L",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -1276,7 +1287,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PjT2hr",
+		"suuid": "lINS77",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -1287,7 +1298,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j1Jf4J",
+		"suuid": "w1JT85",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -1298,7 +1309,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Ip8tKD",
+		"suuid": "3YdY62",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -1309,7 +1320,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "avJpX7",
+		"suuid": "i5e7v4",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -1320,7 +1331,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "I8Kof3",
+		"suuid": "jlYEhE",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",
@@ -1331,7 +1342,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "i7qqeb",
+		"suuid": "YxZGtp",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
