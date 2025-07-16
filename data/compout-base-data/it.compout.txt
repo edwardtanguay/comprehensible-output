@@ -1,3 +1,31 @@
+2025-07-16 - mercoledì 16 luglio 2025
+
+>> Una giornata più o meno vuoto
+
+Questa è una informazione più che un errore: oggi dovevo lavorare, ma il mio calendario era più o meno vuoto. Il primo incontro è stato annullato, ma il secondo avrà luogo domani. Così, mi metto le scarpe e la sciarpa e decido di fare una passeggiata.
+
+Cammino vicino al parco e vedo alcune pozzanghere. Non avevo mai visto essi così da vicino, sembravano magiche, riflettendo il cielo. Mentre passi il mouse su di essi—scusa, volevo dire mentre passo vicino a esse—mi rendo conto che posso riflettere su molte cose.
+
+Devo controllare i miei messaggi, ma prima di tutto mi prendo un momento per pensare al lavoro. Ricevo questo errore da giorni: “Non ci siano classi o oggetti pubblici”. In contesti professionali è consigliato mantenere maiuscole, ma questo errore si riferisce al fatto che ho classi o oggetti direttamente definiti da te nel file sbagliato.
+
+Spiegazione: per usare un oggetto, segui questi passi. Prima crea un nuovo sottopacchetto, poi definisci la classe lì. Questo è il motivo per cui l’errore compare, ovvero il file non è organizzato correttamente. Come posso eliminare questo avviso? Semplice: devo riorganizzare il codice e assicurarmi che non ci siano classi o oggetti pubblici nel file principale.
+
+Tuttavia, non è così facile come sembra. Di solito, devo gestire la compilazione manualmente. È possibile usare lo stash in IntelliJ, è utile quando devi cambiare branch senza doverle commettere o perdere le modifiche non ancora committate. Puoi forzare uno stash, ma devi specificarlo esplicitamente.
+
+A questo punto mi siedo su una panchina e scrivo uno schemino riassuntivo con esempi. In sintesi: 1) spostare le classi, 2) usare uno stash, 3) creare un branch vuoto se necessario. Quindi, il flusso corretto è: creare la struttura giusta, testare, compilare. Così possiamo chiudere tutto con successo.
+
+Torno a casa e registro un messaggio vocale. Possiamo registrare l'audio per mezz'ora, ma per oggi bastano cinque minuti. Come ricompensa, mi preparo un tè caldo.
+
+Domani, continuerò il progetto. Forse il modo in cui è possibile strutturare meglio tutto sarà più chiaro. Ma se capita che questo sistema dia problemi più e più volte, allora dovrò cercare un altro approccio.
+
+Ancora una volta, mi chiedo se ce n'è troppo di codice confuso nel progetto. Forse sì. Quello è quello che vogliamo: chiarezza, ordine, coerenza.
+
+Trentaquattro più cinque fa trentanove. Sono trentanove i file da controllare. Questo è ciò di cui hai bisogno per una buona manutenzione del codice: pazienza.
+
+In modo da non mostrare le linee inutili, applico un filtro visuale nel mio editor. Alla fine della giornata, mi sento stanco ma soddisfatto.
+
+Anche se si tratta di un errore tecnico, che puoi trarre da questo video o esperienza è un insegnamento più profondo: l’ordine e la calma sono sempre utili, sia nel codice che nella vita.
+
 2025-07-15 - martedì 15 luglio 2025
 
 >> Un'avventura indimenticabile
