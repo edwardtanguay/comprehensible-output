@@ -1,3 +1,76 @@
+2025-07-20 - domenica 20 luglio 2025
+
+>> Il protagonista scopre il tradimento
+
+Era una giornata serena: le nuvole sono bianche e il cielo è blu, e Marco vanno in bicicletta con sua figlia. Dopo anni di sacrifici, finalmente aveva trovato una certa pace. Il nuovo lavoro è stata la svolta che aspettava, e per molti lui rappresentava la svolta tecnologica del secolo. Ma quel giorno qualcosa cambiò.
+
+Tornato a casa, Marco ha trovato un messaggio sul telefono di sua moglie. All’inizio non voleva leggere, ma la curiosità era troppo forte. Il protagonista scopre il tradimento: sua moglie aveva un’altra relazione. Non sono nemmeno le 9, ma lui ha già una birra in mano e non riesce a smettere di pensarci. “Ho tante parole nella mia testa, ma vedo il seguente errore: ho dimenticato chi sono”, mormora.
+
+La svolta del romanzo comincia proprio lì: Marco decide di cambiare. Col passare del tempo, capisce che non può restare nella stessa situazione. Vuole passare attraverso il tunnel della sofferenza e trovare la luce. Questa strada è molto soleggiata, pensa mentre cammina da solo. Sono sceso una fermata prima per riflettere meglio.
+
+Dipende dal contesto d’uso, ma a volte cambiare è l’unica soluzione. Fammi sapere se vuoi un confronto tra restare e andare via, gli scrive un amico. "Fammi sapere se vuoi esempi con altri verbi", aggiunge con ironia. Marco sorride per la prima volta da giorni.
+
+Intanto, la figlia gli chiede: “Papà, che cos'è una SPA?”. Lui ride: “Dipende dal contesto d’uso! Può essere un centro benessere o una Single Page Application”. Lei tossisce rumorosamente e ride con lui.
+
+“Ecco tre frasi,” scrive nel suo diario:
+
+1. Il problema è che non contrassegniamo le frasi come finite.
+
+2. Il problema è credere che nulla cambierà.
+
+3. Se ne abbiamo abbastanza, possiamo cambiare.
+
+Il comportamento del compartimento dei suoi pensieri era sempre stato ordinato, ma ora tutto era un caos. “Controlla se hai un file webpack.config.js nel progetto”, pensa senza logica. “Perché quando si esegue Webpack viene creato un file? Boh!”
+
+Un giorno, ha incontrato Lara. Era madre single: hanno un bambino, viaggiavano spesso. “Abbiamo fatto un’escursione dalla Germania,” gli racconta. “Le mie gambe si sentono bene, non mi fanno male, ma la mia gamba e il mio braccio ieri… fa male!”
+
+Marco ride. “Anche io ho dormito per dieci minuti oggi, e ho gli occhiali sbagliati.”
+
+“È sorprendente,” dice Lara, “ci sono così tante parole che possono cambiare una vita.”
+
+Sono quasi a casa, scrive Marco nel suo diario, mesi dopo. “Non rimasero lì a lungo i momenti bui. Ora il mio peso cambia di un chilo ogni giorno, ma diventerà più facile.”
+
+Saremo lì in due fermate, pensa, mentre Lara gli prende la mano.
+
+Spiega cosa significa amore, gli chiede lei.
+
+“Comportamento predefinito: resistere insieme, avanti/indietro, giorno per giorno.”
+
+2025-07-19 - sabato 19 luglio 2025
+
+>> La svolta di un giorno qualsiasi
+
+Era un martedì di ottobre. Ci sono giorni che sembrano normali, ma poi succede qualcosa. Quel giorno, Luca si svegliò presto, prese il suo caffè e accese il computer. Doveva lavorare su un nuovo progetto e pensava: “Dobbiamo fare di oggi un giorno di apprendimento”.
+
+Analizzo il codice ora, disse tra sé e sé. Dopo tre mesi di apprendimento, stava finalmente iniziando a capire meglio come usare Webpack. “Scrivi una storia delle versioni di Webpack, con una frase per versione come descrizione”, gli aveva detto il suo collega. Così, iniziò.
+
+“Versione 1: molto semplice. Versione 2: segnando una svolta verso architetture moderne. Versione 3: supporto migliorato per il codice asincrono...” E così via. Si sentiva soddisfatto.
+
+Ma poi si ricordò che era importante controllare di nuovo il sito prima di fare modifiche. Lo controllerò velocemente, pensò. Tutto sembrava a posto. “Farò un ramo adesso”, disse. Ma per branch nel senso Git, ovviamente.
+
+Nel pomeriggio, si mise a studiare grammatica italiana. “Ci sono alcuni aspetti della grammatica che devo imparare”, scrisse sul suo quaderno. “È importante che io migliori le mie competenze, anche se sbaglia spesso e continua a ripetere lo stesso errore”.
+
+Dopo un’ora, fece una pausa. Prese della frutta. “Mi piace la frutta”, disse. “Cospargo l’avena sulla mia frutta ogni giorno.” Un’abitudine sana, pensava.
+
+Poi tornò al lavoro. Doveva scrivere dei test per il nuovo modulo. “I test sono in esecuzione ora, il test è stato superato. Bene!”, disse ad alta voce. Poi vide un messaggio: “Il burro è finito.” Ma non era vero, era solo una battuta tra colleghi sul canale Slack.
+
+Nel frattempo, pensava: “Forse possiamo finire il corso di Webpack questa settimana.” Il modulo avanzato sembrava difficile, ma interessante. “Dobbiamo massimizzare la quantità che prendiamo da questo materiale.”
+
+E così iniziò la parte finale della lezione. “Come trovare quante volte un testo è presente in un Google Spreadsheet.
+Se vuoi contare quante volte appare la parola, usa questa formula. Puoi anche riferirti a una cella, ad esempio, A1. A2, A3... È il testo esatto che vuoi contare, e B1:B10 è l’intervallo di celle in cui vuoi cercare.”
+
+Luca rise. “Questo è utile.” Poi guardò l’orologio. È possibile che scenderemo sotto gli otto oggi come ore di lavoro, ma andava bene così.
+
+La sera uscì con i suoi amici. Esco ogni tanto, ma Ci vediamo spesso allo stesso bar vicino all’università. Parlarono di viaggi e maratone. Uno chiese: “Com’è il Marathon de Namur?”
+Luca rispose: “Il percorso è piuttosto impegnativo, con un dislivello positivo di circa 157 m. Qual è stato il tempo più lento registrato? Non lo so. Ma la vista è bella.”
+
+A casa, Luca si rilassò. Ripensava a tutto. “Mi dico spesso che devo rallentare. Dovresti goderti la situazione, anche quando sei stanco.”
+Pensava anche a domani. “Spero che arrivino presto i nuovi task, così posso iniziare.”
+Si mise a scrivere il diario. “Sto registrando sia il francese che l’italiano, per vedere come miglioro. Questa è la cosa più importante.”
+
+La giornata era finita. Ma aveva imparato qualcosa, come ogni martedì.
+E il tempo? Sì, il tempo è finito, ma non puoi dimenticarlo: ogni giorno può segnare una svolta verso architetture moderne — della mente, del cuore e del codice.
+
 2025-07-17 - giovedì 17 luglio 2025
 
 >> Una giornata normale, o quasi

@@ -1,3 +1,38 @@
+2025-07-18 xvendredi 18 juillet 2025
+
+>> L’entreprise et la quête de soi
+
+Dans une petite entreprise de développement web située à Lyon, un grand changement s’annonçait. L’équipe technique, composée de jeunes développeurs passionnés, avait toujours travaillé avec les mêmes outils. Mais en raison d’un désaccord majeur entre les deux parties — les développeurs et la direction — ils ont été contraints de revoir entièrement leur stratégie technologique afin de rester compétitifs sur un marché en constante évolution.
+
+Malgré les difficultés rencontrées, notamment un manque de formation et des outils obsolètes, ils ont été rassemblés autour d’un même objectif : moderniser leur application principale pour la mise en production dans six mois. Pour cela, nous aurions eu besoin de balises claires et d’un plan précis. L’un des outils choisis était Webpack.
+
+"Utiliser Webpack via la ligne de commande, cela peut vite devenir un vrai cauchemar si on ne s’y prend pas correctement," disait Lucie, cheffe de projet. Pourtant, elle a su faire preuve de persévérance et de sang-froid, guidant l’équipe pas à pas.
+
+Le premier jour, elle annonça :
+
+"Voilà comment ça va se passer. Je vais devoir importer tous les fichiers dont nous aurons besoin, puis je vais rajouter une petite option pour activer le mode développement. Une fois que c'est fait, il ne nous reste plus qu'à initialiser notre application."
+
+Dans la partie inférieure de l’écran, on pouvait lire les logs détaillés, comme attendu. Chaque fichier requiert une configuration spécifique, et l’équipe découvrit que qu'en est-il de la compatibilité des modules voire avec les différentes versions était une problématique bien réelle.
+
+Qu'en est-il de tous les autres paquets ? On va retrouver les paquets dans le node_modules, mais on n'en a plus besoin une fois la production terminée.
+
+"Regardez à quoi cette option fait référence, et j'appuie sur la touche Enter pour valider," expliqua Lucie.
+"Ensuite, nous la ferons passer sur le serveur de staging pour que tout cela prenne effet."
+
+Dans ce processus de migration, chacun trouva peu à peu son rôle. Il ne s’agissait plus seulement de code, mais d’identité et la quête de soi. Qui étions-nous sans nos anciens outils ? Qui devenions-nous ? Les relations qu'elles entretiennent entre elles, les fonctions, les fichiers, mais aussi celles que les développeurs entretiennent entre eux, prenaient un nouveau sens.
+
+Dans la colonne de côté, un nouveau dossier fut créé : config, pour y créer un nouveau dossier par environnement. Cela simplifia la gestion de la bande passante et permit une meilleure adaptation à partir de tous vos modules.
+
+Un mois plus tard, comme étant un module intégré dans le projet final, Webpack tournait parfaitement. Le script de production, qui est bel et bien injecté dans l’HTML, fonctionnait dans la même ordre d’idées que celui de développement.
+
+Et puis tout à la fin, le chef d’équipe demanda :
+
+"Comment s'assurer que nos applications restent stables ?"
+Lucie répondit :
+"Cela va de paire avec une bonne connaissance des outils, et bien qu'aucune connaissance ne soit requise au départ, la curiosité fera l’affaire."
+
+Ainsi, ce projet de migration se transforma en un voyage technique et humain, révélateur de cette importance croissante de l’adaptabilité et bien plus encore.
+
 2025-07-08 xmardi 8 juillet 2025
 
 >> Le couloir

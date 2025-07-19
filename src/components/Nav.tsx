@@ -11,6 +11,10 @@ const menuItems = [
 		title: "Welcome",
 	},
 	{
+		idCode: "links",
+		title: "Links",
+	},
+	{
 		idCode: "about",
 		title: "About",
 	},

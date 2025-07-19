@@ -150,8 +150,8 @@ func main() {
 		})
 
 		// create prompt files
-		numberOfPhrases := 58 // nnn
-		numberOfWords := 580
+		numberOfPhrases := 51 // nnn
+		numberOfWords := 550
 		// fmt.Println("number of flashcards: ", len(flashcardsByLanguage[language]))
 		if mode == "random" {
 			flashcardsByLanguage[language] = Randomize(flashcardsByLanguage[language])

@@ -239,3 +239,10 @@ fr; grogna-t-il; grown-ya-TEEL; he grumbled
 fr; en veille; VAY-ee; on standby
 it; scegliere; SHELL-yer-ay
 fr; Francia; FRAN-chah; France
+fr; mais ce n'est pas tout; SNAY; but that's not all
+fr; dans ce cas; SKAH; in this case
+fr; processus ; -süs; process
+fr; un nouveau sens; S(EN)S; a new meaning
+fr; un voyage technique et humain; hoo-M(AIN); a techical and human journey
+fr; et bien plus encore; ploos; and much more
+il; cioè con quale nome; choh-AY; that is, with what name
