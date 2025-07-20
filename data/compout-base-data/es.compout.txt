@@ -1,4 +1,30 @@
-2025-05-13 - Martes 13 de mayo de 2025
+2025-07-21 - lunes 21 de julio de 2025
+
+>> La aventura tecnológica
+
+Hace unos años, me encontré con una gema escondida en internet: una herramienta de desarrollo útil en ciertos entornos tanto en el frontend como en el backend. Esto puedo sonar algo raro, pero fue gracias a un error que cometí que la descubrí. ¿Esto por qué sucede? Porque, como te das cuenta, a veces los errores nos llevan a buenos descubrimientos.
+
+En ese tiempo reutilicé un código que ya teníamos previamente, pero cometí un pequeño fallo. Al hacerlo se ejecutarán ciertos procesos, el cual también ofrece una vista detallada de lo que pasa por detrás del sistema. Vemos que este tipo de herramientas nos va a agilizar mucho el trabajo diario.
+
+Debemos cerciorarnos de que todo esté bien configurado antes de continuar. Para asegurarse, hay que revisar de manera adecuada en cada uno de los módulos. Esto se debe a que cualquier pequeño cambio puede afectar todo el sistema.
+
+Voy a limpiar mi pantalla ahora, porque tengo muchas ventanas abiertas y necesito concentrarme. Una vez que lo tienes clonado, puedes empezar a trabajar, o incluso podrás clonar otros proyectos si así lo deseas. Será necesario que cuentes con ciertas herramientas que estarás utilizando a lo largo de todo el curso.
+
+El sistema desplegaba automáticamente nuevas versiones, aunque también La antigua plataforma desplegaba los microservicios manualmente. Esto quiere decir que ahora el proceso es más rápido. Esto va a agilizar mucho nuestro proceso, pero debes tener cuidado al hacerlo, puesto que ya lo tenemos creado y podríamos romper algo sin querer.
+
+En una de las sesiones, nos vamos a ubicar en la carpeta del backend. Volvemos a escribir los comandos, y en este caso nos arroja un error. ¿Qué quiere decir esto? Que algo no está funcionando como debería. Esto se debe a que olvidamos quitar el comentario del archivo de configuración.
+
+El ejército desplegaba sus tropas a lo largo de la frontera, y de la misma forma, nuestro código se distribuye en distintos servidores. A veces desplegué manualmente algunos elementos, pero eso ya no es necesario.
+
+Una vez configurado todo, tú tendrás que moverte a algún branch para seguir desarrollando. A veces no hay ramas, pero aún no tenemos ninguna que sea estable, así que habrá que crear una nueva.
+
+Estamos utilizando muchas herramientas modernas, que estás utilizando tú también. Esto se ha extendido de tal forma que ya es común en empresas grandes y pequeñas. Pero no solo eso, las ventajas de estas prácticas son enormes, lo que hace muy importante conocer cómo se usan correctamente.
+
+Durante la formación, surgirán ciertas preguntas. Algunas serán simples, otras complejas. Además, así como alguna persona puede sentirse perdida al principio, yo te enseñaré la potente capacidad de estas tecnologías, las cuales podrás usar en muchos proyectos.
+
+Finalmente, provecho mucho más el tiempo ahora que conozco estas técnicas. Podría fabricar herramientas más complejas en menos tiempo, y también rechazar soluciones poco eficientes. Todo esto me ha ayudado a crecer como desarrollador.
+
+2025-05-13 - martes 13 de mayo de 2025
 
 >> El paquete misterioso
 

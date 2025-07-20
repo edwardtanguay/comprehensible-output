@@ -246,3 +246,7 @@ fr; un nouveau sens; S(EN)S; a new meaning
 fr; un voyage technique et humain; hoo-M(AIN); a techical and human journey
 fr; et bien plus encore; ploos; and much more
 il; cioè con quale nome; choh-AY; that is, with what name
+es; -g; guión, [ch]ee-ONG-[ch]ay; hyphen g
+es; pantalla; pahn-TIGH-ya; screen
+es; gema escondida; [ch]AY-mah; hidden gem
+es; tecnológica; tek-noh-LOH-[ch]ee-kah; technology
