@@ -1,3 +1,57 @@
+2025-07-23 xmercredi 23 juillet 2025
+
+>> Un projet, une mission
+
+Lorsque j’ai commencé à travailler sur mon application web, je ne me doutais pas que cela deviendrait un véritable fouillis. Le dossier src devenait vite encombré, rempli de tout plein de propriétés inutilisées, de fichiers dupliqués, ou encore l’éclatement du code entre plusieurs sous-dossiers sans réelle logique.
+
+J'ai quelques petites modifications à apporter, et je vais ici éclater les éléments pour mieux encore affiner la manière dont le projet est organisé. Il se fait que ces éléments ont été créés sans convention claire. Ce n'est jamais un bon signe.
+
+Je me rends dans mon fichier principal et je vais simplement venir le copier-coller ici, dans un autre dossier, plus adapté. Et ça ne prendra que quelques secondes. Voilà qui est fait.
+
+Maintenant que j’ai importé ces deux éléments, je lui passe quelques petites options pour qu’il prenne en compte cette deuxième page. Et du coup, tout fonctionne toujours convenablement, mais il reste encore quelques problèmes à résoudre. Ce sont des comportements JavaScript un peu capricieux, mais qui ne sont pas bien graves.
+
+Nous allons donc nous pencher sur la manière d’en tirer le meilleur parti à long terme, et on va se servir pour cela d’un petit utilitaire basé bien sûr sur les nouveautés du langage Sass en tant que tel.
+
+J’en profite pour faire un petit peu de ménage. Le serveur est maintenant éteint, et je vais coller ceci dans un autre fichier. Attention, c’est parti.
+
+Passé :
+
+Jusqu’à présent, nous nous sommes assurés que tout était bien structuré. J’avais utilisé des classes qui proviennent de bibliothèques externes, et c’est toujours ça de pris. À ce train-là, on aurait pu perdre des heures, mais ça n’a pris que quelques secondes.
+
+Je n’ai pas envie d’utiliser ce dossier public ; il n’a rien à faire dans cette page. Je préfère travailler à l’aide de plugins. Je vais plutôt envie utiliser une méthode plus légère, et ce sera le résultat de la fusion de plusieurs modules.
+
+Quand j’ai lancé la mise en production, je ne m’attendais pas à ce que tout se passe aussi bien. Nous n’avons pas eu besoin de forcer quoi que ce soit. Pourtant, à la toute fin de ce fichier, nous avons un problème à résoudre : ce n’est pas le hash tout court, mais bien un identifiant unique mal généré.
+
+Futur :
+
+Demain, je finirai d’ajouter une troisième page. Il est temps d’en mettre un troisième composant central pour équilibrer le tout. Ensuite, je devrai optimiser encore davantage : il y en encore moyen de gagner quelques kilobytes. Je devrai aussi ajouter une deuxième propriété dont on a besoin.
+
+Je vais également revoir les variables : un tas de propriétés inutiles traînent encore. Et je prévois de regrouper les fichiers. On peut les déplacer vers la corbeille. Ce sera vite fait.
+
+Conditionnel :
+
+Si je ne dis rien de particulier, le système devrait se comporter comme prévu. Mais si je devais tout refaire, j’essaierais une autre approche. J’installerais quelques outils supplémentaires, je m’aiderais de plugins externes pour tout automatiser, et j'éviterais que le dossier devienne un désordre complet.
+
+Je pourrais aussi générer un petit rapport, pour mieux comprendre où se trouvent les erreurs. Et je vérifierais que ce petit bout de code est bien placé. Il vient d’émettre une alerte, ce n’est jamais bon signe.
+
+Présent :
+
+De nos jours, la documentation que je consulte est particulièrement complète et bien faite. Je m’en sers chaque jour. Je lis attentivement les astuces, surtout celles sur la performance. Et je me dis souvent : attention, il y a une petite faute d’orthographe ici – ce genre de détail m’aide à rester vigilant.
+
+Je suis actuellement en train de tester le système : nous devons saisir dans le terminal quelques commandes. C’est ce qu’on a mis dans le fichier start.sh. Il provient de mon fichier de configuration initial. Et je fais ça à chaque mise à jour, pour être sûr que tout fonctionne toujours convenablement.
+
+Réflexion :
+
+Sachant tout cela, nous devrions peut-être repenser complètement notre architecture. Nous devons nous pencher sur les modules les plus couramment rencontrés, et essayer de les centraliser. Ce petit utilitaire nous convient parfaitement pour cela.
+
+Et puis, une dernière petite chose : attention à la syntaxe, un tiret oublié peut tout casser. Où se trouve-t-il, ce tiret ? Ah, au bout de quelques instants, je l’ai trouvé.
+
+Ça suffira pour le moment. Ce n’est plus le mode de production. Je peux enfin souffler. A quale gruppo verbale francese appartiene avoir ? Au troisième, bien sûr.
+
+Conclusion :
+
+Et voilà, tout est prêt. Le projet est plus propre, plus rapide, plus efficace. C’est le genre de travail invisible, mais qui porte ses fruits à long terme.
+
 2025-07-18 xvendredi 18 juillet 2025
 
 >> L’entreprise et la quête de soi

@@ -1,3 +1,25 @@
+2025-07-24 - giovedì 24 luglio 2025
+
+>> L’incontro
+
+Questa mattina mi sono svegliato presto. Non c'era ancora nessuno qui, e non c'è ancora nessuno qui nemmeno adesso. Ho pulito il bancone della cucina, ho pulito la stufa, e ho messo la frutta congelata nel microonde, anche se la frutta congelata è fredda anche dopo trenta secondi. Ho appena sentito il segnale acustico: il microonde ha finito.
+
+Mentre facevo colazione con una ciotola e un piatto, e con un coltello, una forchetta e un cucchiaio, ho pensato a quello che mi aspetta oggi. Sono un po' preoccupato per il futuro, ma devo usare le mie abilità sociali perché l'incontro, infatti, è andato bene la settimana scorsa e ora mi vogliono rivedere.
+
+È importante semplicemente presentarsi, anche se non si è sicuri. A volte quella parola è al di sopra del mio livello, o quella parola non è al mio livello, ma ho una naturale inclinazione ad imparare. Ieri, per esempio, ho dimenticato le parole per spiegare una cosa tecnica. Direi che ho fatto del mio meglio comunque.
+
+Adesso farò l’ultimo video del capitolo, e poi uscirò sul balcone per prendere un po’ d’aria fresca. Spero che non stia piovendo. Più tardi, voglio iniziare con il tutorial su come farlo aprire automaticamente, e forse anche capire di cosa intendi esattamente per "avvisi", a seconda della versione del sistema operativo.
+
+Per sopprimere gli avvisi, si può agire in diversi modi. Di seguito ti do una panoramica dei metodi, ma il metodo più affidabile resta quello tramite interfaccia web. Se vuoi definire tutto via file, puoi scrivere le regole direttamente. Scorri fino alla sezione “Impostazioni”, oppure vai nella dashboard del tuo progetto. Ottima osservazione: non tutte le versioni sono uguali, e a volte trovi une ancienne version provenant du cache oppure una cartella dist con dentro un file index.html.
+
+Per pubblicare il sito, Vercel serva i file statici dalla cartella /public, oppure da /dist. Quindi, passaggi: compila, organizza i file, e questo dice a Vercel di riscrivere tutte le rotte verso index.html. Pubblicare un sito statico partendo dal file HTML è semplice, ma a seconda della versione, qualche problema può riscontrare.
+
+Sto riscontrando molto successo con questo metodo. Certo, a volte potremmo doverne comprare due, se il primo non funziona. Una volta al supermercato, ho visto una confezione sul nastro della cassa che sembrava interessante, ma non l’ho comprata. Veniva provenant de un’altra regione e costava troppo.
+
+Ora torno al lavoro. Voglio fare metà e metà oggi: mezza giornata studio, mezza giornata esercizio. Sto preparando anche una lista: quali sono i tre tipi di verbi francesi? E a quale gruppo verbale francese appartiene nnn? Alla fine, voglio anche generare una lista per i tre lingue francese, spagnolo e italiano con gli articoli.
+
+Abbiamo finito? Abbiamo il nome corretto, o abbiamo il nome giusto per questo progetto? Rendilo in modo che sfumi più velocemente alla fine. Non importa se non è perfetto.
+
 2025-07-22 - martedì 22 luglio 2025
 
 >> Il mistero dell’occhiale azzurro

@@ -1,6 +1,28 @@
 [
 	{
-		"suuid": "bzlHLc",
+		"suuid": "mmNwBI",
+		"language": "it",
+		"date": "2025-07-24",
+		"title": "Giovedì 24 luglio 2025",
+		"htmlBody": "\u003ch3\u003eL’incontro\u003c/h3\u003e\u003cp\u003eQuesta mattina mi sono svegliato presto. Non c'era ancora nessuno qui, e non c'è ancora nessuno qui nemmeno adesso. Ho pulito il bancone della cucina, ho pulito la stufa, e ho messo la frutta congelata nel microonde, anche se la frutta congelata è fredda anche dopo trenta secondi. Ho appena sentito il segnale acustico: il microonde ha finito.\u003c/p\u003e\u003cp\u003eMentre facevo colazione con una ciotola e un piatto, e con un coltello, una forchetta e un cucchiaio, ho pensato a quello che mi aspetta oggi. Sono un po' preoccupato per il futuro, ma devo usare le mie abilità sociali perché l'incontro, infatti, è andato bene la settimana scorsa e ora mi vogliono rivedere.\u003c/p\u003e\u003cp\u003eÈ importante semplicemente presentarsi, anche se non si è sicuri. A volte quella parola è al di sopra del mio livello, o quella parola non è al mio livello, ma ho una naturale inclinazione ad imparare. Ieri, per esempio, ho dimenticato le parole per spiegare una cosa tecnica. Direi che ho fatto del mio meglio comunque.\u003c/p\u003e\u003cp\u003eAdesso farò l’ultimo video del capitolo, e poi uscirò sul balcone per prendere un po’ d’aria fresca. Spero che non stia piovendo. Più tardi, voglio iniziare con il tutorial su come farlo aprire automaticamente, e forse anche capire di cosa intendi esattamente per \"avvisi\", a seconda della versione del sistema operativo.\u003c/p\u003e\u003cp\u003ePer sopprimere gli avvisi, si può agire in diversi modi. Di seguito ti do una panoramica dei metodi, ma il metodo più affidabile resta quello tramite interfaccia web. Se vuoi definire tutto via file, puoi scrivere le regole direttamente. Scorri fino alla sezione “Impostazioni”, oppure vai nella dashboard del tuo progetto. Ottima osservazione: non tutte le versioni sono uguali, e a volte trovi une ancienne version provenant du cache oppure una cartella dist con dentro un file index.html.\u003c/p\u003e\u003cp\u003ePer pubblicare il sito, Vercel serva i file statici dalla cartella /public, oppure da /dist. Quindi, passaggi: compila, organizza i file, e questo dice a Vercel di riscrivere tutte le rotte verso index.html. Pubblicare un sito statico partendo dal file HTML è semplice, ma a seconda della versione, qualche problema può riscontrare.\u003c/p\u003e\u003cp\u003eSto riscontrando molto successo con questo metodo. Certo, a volte potremmo doverne comprare due, se il primo non funziona. Una volta al supermercato, ho visto una confezione sul nastro della cassa che sembrava interessante, ma non l’ho comprata. Veniva provenant de un’altra regione e costava troppo.\u003c/p\u003e\u003cp\u003eOra torno al lavoro. Voglio fare metà e metà oggi: mezza giornata studio, mezza giornata esercizio. Sto preparando anche una lista: quali sono i tre tipi di verbi francesi? E a quale gruppo verbale francese appartiene nnn? Alla fine, voglio anche generare una lista per i tre lingue francese, spagnolo e italiano con gli articoli.\u003c/p\u003e\u003cp\u003eAbbiamo finito? Abbiamo il nome corretto, o abbiamo il nome giusto per questo progetto? Rendilo in modo che sfumi più velocemente alla fine. Non importa se non è perfetto.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 603
+	},
+	{
+		"suuid": "SzdGyR",
+		"language": "fr",
+		"date": "2025-07-23",
+		"title": "Mercredi 23 juillet 2025",
+		"htmlBody": "\u003ch3\u003eUn projet, une mission\u003c/h3\u003e\u003cp\u003eLorsque j’ai commencé à travailler sur mon application web, je ne me doutais pas que cela deviendrait un véritable fouillis. Le dossier src devenait vite encombré, rempli de tout plein de propriétés inutilisées, de fichiers dupliqués, ou encore l’éclatement du code entre plusieurs sous-dossiers sans réelle logique.\u003c/p\u003e\u003cp\u003eJ'ai quelques petites modifications à apporter, et je vais ici éclater les éléments pour mieux encore affiner la manière dont le projet est organisé. Il se fait que ces éléments ont été créés sans convention claire. Ce n'est jamais un bon signe.\u003c/p\u003e\u003cp\u003eJe me rends dans mon fichier principal et je vais simplement venir le copier-coller ici, dans un autre dossier, plus adapté. Et ça ne prendra que quelques secondes. Voilà qui est fait.\u003c/p\u003e\u003cp\u003eMaintenant que j’ai importé ces deux éléments, je lui passe quelques petites options pour qu’il prenne en compte cette deuxième page. Et du coup, tout fonctionne toujours convenablement, mais il reste encore quelques problèmes à résoudre. Ce sont des comportements JavaScript un peu capricieux, mais qui ne sont pas bien graves.\u003c/p\u003e\u003cp\u003eNous allons donc nous pencher sur la manière d’en tirer le meilleur parti à long terme, et on va se servir pour cela d’un petit utilitaire basé bien sûr sur les nouveautés du langage Sass en tant que tel.\u003c/p\u003e\u003cp\u003eJ’en profite pour faire un petit peu de ménage. Le serveur est maintenant éteint, et je vais coller ceci dans un autre fichier. Attention, c’est parti.\u003c/p\u003e\u003cp\u003ePassé :\u003c/p\u003e\u003cp\u003eJusqu’à présent, nous nous sommes assurés que tout était bien structuré. J’avais utilisé des classes qui proviennent de bibliothèques externes, et c’est toujours ça de pris. À ce train-là, on aurait pu perdre des heures, mais ça n’a pris que quelques secondes.\u003c/p\u003e\u003cp\u003eJe n’ai pas envie d’utiliser ce dossier public ; il n’a rien à faire dans cette page. Je préfère travailler à l’aide de plugins. Je vais plutôt envie utiliser une méthode plus légère, et ce sera le résultat de la fusion de plusieurs modules.\u003c/p\u003e\u003cp\u003eQuand j’ai lancé la mise en production, je ne m’attendais pas à ce que tout se passe aussi bien. Nous n’avons pas eu besoin de forcer quoi que ce soit. Pourtant, à la toute fin de ce fichier, nous avons un problème à résoudre : ce n’est pas le hash tout court, mais bien un identifiant unique mal généré.\u003c/p\u003e\u003cp\u003eFutur :\u003c/p\u003e\u003cp\u003eDemain, je finirai d’ajouter une troisième page. Il est temps d’en mettre un troisième composant central pour équilibrer le tout. Ensuite, je devrai optimiser encore davantage : il y en encore moyen de gagner quelques kilobytes. Je devrai aussi ajouter une deuxième propriété dont on a besoin.\u003c/p\u003e\u003cp\u003eJe vais également revoir les variables : un tas de propriétés inutiles traînent encore. Et je prévois de regrouper les fichiers. On peut les déplacer vers la corbeille. Ce sera vite fait.\u003c/p\u003e\u003cp\u003eConditionnel :\u003c/p\u003e\u003cp\u003eSi je ne dis rien de particulier, le système devrait se comporter comme prévu. Mais si je devais tout refaire, j’essaierais une autre approche. J’installerais quelques outils supplémentaires, je m’aiderais de plugins externes pour tout automatiser, et j'éviterais que le dossier devienne un désordre complet.\u003c/p\u003e\u003cp\u003eJe pourrais aussi générer un petit rapport, pour mieux comprendre où se trouvent les erreurs. Et je vérifierais que ce petit bout de code est bien placé. Il vient d’émettre une alerte, ce n’est jamais bon signe.\u003c/p\u003e\u003cp\u003ePrésent :\u003c/p\u003e\u003cp\u003eDe nos jours, la documentation que je consulte est particulièrement complète et bien faite. Je m’en sers chaque jour. Je lis attentivement les astuces, surtout celles sur la performance. Et je me dis souvent : attention, il y a une petite faute d’orthographe ici – ce genre de détail m’aide à rester vigilant.\u003c/p\u003e\u003cp\u003eJe suis actuellement en train de tester le système : nous devons saisir dans le terminal quelques commandes. C’est ce qu’on a mis dans le fichier start.sh. Il provient de mon fichier de configuration initial. Et je fais ça à chaque mise à jour, pour être sûr que tout fonctionne toujours convenablement.\u003c/p\u003e\u003cp\u003eRéflexion :\u003c/p\u003e\u003cp\u003eSachant tout cela, nous devrions peut-être repenser complètement notre architecture. Nous devons nous pencher sur les modules les plus couramment rencontrés, et essayer de les centraliser. Ce petit utilitaire nous convient parfaitement pour cela.\u003c/p\u003e\u003cp\u003eEt puis, une dernière petite chose : attention à la syntaxe, un tiret oublié peut tout casser. Où se trouve-t-il, ce tiret ? Ah, au bout de quelques instants, je l’ai trouvé.\u003c/p\u003e\u003cp\u003eÇa suffira pour le moment. Ce n’est plus le mode de production. Je peux enfin souffler. A quale gruppo verbale francese appartiene avoir ? Au troisième, bien sûr.\u003c/p\u003e\u003cp\u003eConclusion :\u003c/p\u003e\u003cp\u003eEt voilà, tout est prêt. Le projet est plus propre, plus rapide, plus efficace. C’est le genre de travail invisible, mais qui porte ses fruits à long terme.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 1003
+	},
+	{
+		"suuid": "ogGJi0",
 		"language": "it",
 		"date": "2025-07-22",
 		"title": "Martedì 22 luglio 2025",
@@ -11,7 +33,7 @@
 		"estimatedAudioSeconds": 541
 	},
 	{
-		"suuid": "fTYXLJ",
+		"suuid": "qKj94y",
 		"language": "es",
 		"date": "2025-07-21",
 		"title": "Lunes 21 de julio de 2025",
@@ -22,7 +44,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uWOIOS",
+		"suuid": "yXAAzx",
 		"language": "it",
 		"date": "2025-07-20",
 		"title": "Domenica 20 luglio 2025",
@@ -33,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RjKdnt",
+		"suuid": "OJaMBU",
 		"language": "it",
 		"date": "2025-07-19",
 		"title": "Sabato 19 luglio 2025",
@@ -44,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3FAYSQ",
+		"suuid": "c80C9j",
 		"language": "fr",
 		"date": "2025-07-18",
 		"title": "Vendredi 18 juillet 2025",
@@ -55,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NNKZKn",
+		"suuid": "pEQwZX",
 		"language": "it",
 		"date": "2025-07-17",
 		"title": "Giovedì 17 luglio 2025",
@@ -66,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uT1Obn",
+		"suuid": "ZVB4WH",
 		"language": "it",
 		"date": "2025-07-16",
 		"title": "Mercoledì 16 luglio 2025",
@@ -77,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Jkur2d",
+		"suuid": "0b7OdQ",
 		"language": "it",
 		"date": "2025-07-15",
 		"title": "Martedì 15 luglio 2025",
@@ -88,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VxD8Fy",
+		"suuid": "zAwrBc",
 		"language": "it",
 		"date": "2025-07-14",
 		"title": "Lunedì 14 luglio 2025",
@@ -99,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yiEt8p",
+		"suuid": "CzECk9",
 		"language": "it",
 		"date": "2025-07-13",
 		"title": "Domenica 13 luglio 2025",
@@ -110,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aTZZDG",
+		"suuid": "EBR5wg",
 		"language": "it",
 		"date": "2025-07-12",
 		"title": "Sabato 12 luglio 2025",
@@ -121,7 +143,7 @@
 		"estimatedAudioSeconds": 733
 	},
 	{
-		"suuid": "5ggf5c",
+		"suuid": "UT3O25",
 		"language": "it",
 		"date": "2025-07-11",
 		"title": "Venerdì 11 luglio 2025",
@@ -132,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fBlfVB",
+		"suuid": "4nwjTr",
 		"language": "it",
 		"date": "2025-07-10",
 		"title": "Giovedì 10 luglio 2025",
@@ -143,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wDg3cB",
+		"suuid": "Q2TBKV",
 		"language": "it",
 		"date": "2025-07-09",
 		"title": "Mercoledì 9 luglio 2025",
@@ -154,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kK4pbg",
+		"suuid": "CBbVd7",
 		"language": "fr",
 		"date": "2025-07-08",
 		"title": "Mardi 8 juillet 2025",
@@ -165,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DbGlSn",
+		"suuid": "CpVbUa",
 		"language": "fr",
 		"date": "2025-07-07",
 		"title": "Lundi 7 juillet 2025",
@@ -176,7 +198,7 @@
 		"estimatedAudioSeconds": 651
 	},
 	{
-		"suuid": "mAWZiQ",
+		"suuid": "HQjVcO",
 		"language": "fr",
 		"date": "2025-07-06",
 		"title": "Dimanche 6 juillet 2025",
@@ -187,7 +209,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YBIsqr",
+		"suuid": "a0SZMf",
 		"language": "fr",
 		"date": "2025-07-05",
 		"title": "Samedi 5 juillet 2025",
@@ -198,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5OBs92",
+		"suuid": "2IOKpH",
 		"language": "fr",
 		"date": "2025-07-04",
 		"title": "Vendredi 4 juillet 2025",
@@ -209,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Ef67KC",
+		"suuid": "QFhid9",
 		"language": "fr",
 		"date": "2025-07-03",
 		"title": "Jeudi 3 juillet 2025",
@@ -220,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wvg4vS",
+		"suuid": "c5nDY7",
 		"language": "fr",
 		"date": "2025-07-02",
 		"title": "Mercredi 2 juillet 2025",
@@ -231,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7apjTt",
+		"suuid": "OcabdA",
 		"language": "fr",
 		"date": "2025-07-01",
 		"title": "Mardi 1 juillet 2025",
@@ -242,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "awFvYH",
+		"suuid": "WneHu7",
 		"language": "fr",
 		"date": "2025-06-30",
 		"title": "Lundi 30 juin 2025",
@@ -253,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HoMheO",
+		"suuid": "szg2s1",
 		"language": "nl",
 		"date": "2025-06-29",
 		"title": "Zondag 29 juni 2025",
@@ -264,7 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9rdX2M",
+		"suuid": "jTSrv5",
 		"language": "it",
 		"date": "2025-06-29",
 		"title": "Domenica 29 guigno 2025",
@@ -275,7 +297,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HOTWuK",
+		"suuid": "zgxZfN",
 		"language": "it",
 		"date": "2025-06-28",
 		"title": "Sabato 28 giugno 2025",
@@ -286,7 +308,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PvINxl",
+		"suuid": "nvqKqG",
 		"language": "it",
 		"date": "2025-06-27",
 		"title": "Venerdì 27 guigno 2025",
@@ -297,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gsK4ur",
+		"suuid": "pSUlXw",
 		"language": "it",
 		"date": "2025-06-26",
 		"title": "Giovedì 26 guigno 2025",
@@ -308,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Su3Pfr",
+		"suuid": "fbY7Od",
 		"language": "it",
 		"date": "2025-06-25",
 		"title": "Mercoledì 25 guigno 2025",
@@ -319,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LOcPtJ",
+		"suuid": "ABWY1d",
 		"language": "it",
 		"date": "2025-06-24",
 		"title": "Martedì 24 guigno 2025",
@@ -330,7 +352,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9xoWez",
+		"suuid": "KHwW2H",
 		"language": "it",
 		"date": "2025-06-23",
 		"title": "Lunedì 23 guigno 2025",
@@ -341,7 +363,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iyIF5U",
+		"suuid": "DYvIn6",
 		"language": "it",
 		"date": "2025-06-22",
 		"title": "Domenica 22 guigno 2025",
@@ -352,7 +374,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7Ti2Df",
+		"suuid": "eAXCbv",
 		"language": "it",
 		"date": "2025-06-21",
 		"title": "Sabato 21 guigno 2025",
@@ -363,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VtpFFZ",
+		"suuid": "FabCDF",
 		"language": "it",
 		"date": "2025-06-20",
 		"title": "Venerdì 20 guigno 2025",
@@ -374,7 +396,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "R3nT9C",
+		"suuid": "3VsfC1",
 		"language": "it",
 		"date": "2025-06-19",
 		"title": "Giovedì 19 guigno 2025",
@@ -385,18 +407,7 @@
 		"estimatedAudioSeconds": 564
 	},
 	{
-		"suuid": "OeTEh5",
-		"language": "it",
-		"date": "2025-06-18",
-		"title": "Mercoledì 18 guigno 2025",
-		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
-		"audioFileName": "",
-		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 551
-	},
-	{
-		"suuid": "FiMpsp",
+		"suuid": "Ormx8S",
 		"language": "nl",
 		"date": "2025-06-18",
 		"title": "Woensdag 18 juni 2025",
@@ -407,7 +418,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LbSzRK",
+		"suuid": "O4pFgp",
+		"language": "it",
+		"date": "2025-06-18",
+		"title": "Mercoledì 18 guigno 2025",
+		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 551
+	},
+	{
+		"suuid": "UUz5Bv",
 		"language": "nl",
 		"date": "2025-06-17",
 		"title": "Dinsdag 17 juni 2025",
@@ -418,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "62sN9f",
+		"suuid": "1lEvDt",
 		"language": "it",
 		"date": "2025-06-17",
 		"title": "Martedì 17 giugno 2025",
@@ -429,18 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "mtbCLc",
-		"language": "nl",
-		"date": "2025-06-16",
-		"title": "Maandag 16 juni 2025",
-		"htmlBody": "\u003ch3\u003eWandelschoenen\u003c/h3\u003e\u003cp\u003eAfgelopen dinsdag begon ik mijn dag met een wandeling. Ik had mijn wandelschoenen aan, want we zouden een lange tocht maken. Mijn vriendin en ik willen zo dikwijls mogelijk wandelen, wanneer de gelegenheid zich voordoet. Wandelen is voor ons geen alledaags moment, maar iets belangrijk. We proberen het s ochtends of 's avonds te doen, afhankelijk van ons werk.\u003c/p\u003e\u003cp\u003eOnderweg vroeg ze: \"Welk woord zei je?\"\u003c/p\u003e\u003cp\u003e\"Precies, het woord wordt uitgesproken zoals het geschreven is,\" zei ik trots.\u003c/p\u003e\u003cp\u003e\"Dat heb ik gisteren geleerd.\"\u003c/p\u003e\u003cp\u003eSoms is iets eenvoudig, soms niet, zeker in het Nederlands. Maar Nederlands is niet zo moeilijk als je elke dag oefent. Daarom houd ik elke dag minstens vijf minuten mijn dagelijkse gesprek in het Nederlands. Ik gebruik een app, maar mijn telefoon is in het Italiaans, wat het leren soms verwarrend maakt. Ik vind het niet prettig, maar ik wil het zo laten zodat ik ook Italiaans blijf oefenen.\u003c/p\u003e\u003cp\u003eTijdens de wandeling praatten we over onze plannen. Binnenkort willen we naar België gaan. We zullen leuke dorpjes zien, en hopelijk kunnen we daar met locals praten. Zodat ik met haar kan praten, oefen ik ook Frans, maar Nederlands blijft mijn focus.\u003c/p\u003e\u003cp\u003ePlotseling vroeg ze: \"Hoe vaak heb je haar ontmoet?\"\u003c/p\u003e\u003cp\u003e\"Ik dacht dat ik beide had gehoord,\" antwoordde ik, een beetje in de war. Ze bedoelde een andere vriendin die we misschien ook zouden zien in België.\u003c/p\u003e\u003cp\u003eLater die dag hadden we een vergadering tijdens de lunch, een soort lunchbijeenkomst. Ik moest wat informatie delen over een project. \"Als het gaat om Git moet je weten hoe wijzigingen kunt beheren,\" zei ik tijdens mijn uitleg.\u003c/p\u003e\u003cp\u003eEen collega was niet blij. Hij is meestal uit zijn humeur, vooral op Zaterdag, als hij liever thuis is. Dat verbaast mij, want hij heeft een goed salaris en leuk werk.\u003c/p\u003e\u003cp\u003eNa de vergadering dacht ik: Ik moet dit kopiëren en bewaren voor later. Ik moet dit onthouden. Mijn vaardigheden in uitleggen verbeteren nog steeds.\u003c/p\u003e\u003cp\u003eThuis audio opnemen van gesprekken helpt mij. Ik luister terug en denk: \"Klopt dat?\" Dan verbeter ik mezelf. Ik probeer zo dikwijls mogelijk in het Nederlands te denken. Ik blijf doorgaan, ook als ik fouten maak.\u003c/p\u003e\u003cp\u003eEen vriend zei gisteren: \"Lees je het verhaal hardop voor.\"\u003c/p\u003e\u003cp\u003e\"Ja,\" antwoordde ik, \"dat helpt me.\"\u003c/p\u003e\u003cp\u003eVandaag is het weer tijd voor mijn Nederlandse gesprek. Een momentje alstublieft, ik zoek mijn notities. Als ik de kans krijg, zal ik iets nieuws proberen te zeggen. Zonder angst, met vertrouwen.\u003c/p\u003e\u003cp\u003eIs het moeilijk of makkelijk? Soms beide. Maar ik ben nieuwsgierig, en dat helpt.\u003c/p\u003e\u003cp\u003eHet verschil tussen de twee talen — Nederlands en Italiaans — is groot, maar oefening maakt alles mogelijk. Slechts oefenen helpt je vooruit.\u003c/p\u003e\u003cp\u003eMorgen ga ik weer wandelen. Ik zal mijn wandelschoenen klaarzetten. Wie weet, misschien leer ik weer iets nieuws onderweg.\u003c/p\u003e",
-		"audioFileName": "2025-06-16-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 469,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "yCtZz5",
+		"suuid": "8j1857",
 		"language": "it",
 		"date": "2025-06-16",
 		"title": "Lunedì 16 giugno 2025",
@@ -451,18 +462,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MfLVqZ",
+		"suuid": "hBCbKg",
 		"language": "nl",
-		"date": "2025-06-15",
-		"title": "Zondag 15 juni 2025",
-		"htmlBody": "\u003ch3\u003eDe ontmoeting\u003c/h3\u003e\u003cp\u003eHet was een gewone zaterdag, ‘s ochtends vroeg, toen ik haar voor het eerst ontmoette. Herinner jij je onze eerste ontmoeting? Ik herinner me dat nog goed. Ze droeg een blauwe jas en had een boek in haar hand met de titel: “Bronbeheer voor beginners.” Ik dacht: “Dat is alledaags,” maar ik vergiste me.\u003c/p\u003e\u003cp\u003eZe zei iets tegen me, maar ik begreep haar niet helemaal. “Welk woord zei je?” vroeg ik. Ze glimlachte en herhaalde het langzaam. “Wat betekent dat?” vroeg ik opnieuw. Ze legde geduldig uit dat het over Git ging. “Als het gaat om Git,” zei ze, “moet je weten hoe wijzigingen kunt beheren.”\u003c/p\u003e\u003cp\u003eIk was meteen nieuwsgierig. Ze vervolgde: “Om er het meeste uit te halen, moet je de bijbehorende vaardigheden ontwikkelen.” Ik schreef alles op. “Ik moet dit onthouden,” dacht ik, maar later realiseerde ik me: “Ik onthoud die nooit!”\u003c/p\u003e\u003cp\u003eZe vertelde dat ze informatica studeerde. “Wat studeert ze?” vroeg mijn vriend later. “Informatica,” antwoordde ik, “en ze is briljant.”\u003c/p\u003e\u003cp\u003eToen ik vroeg waar ze woonde, zei ze: “Op welke verdieping woont ze? Op de derde, vlak boven jou.” Dat verbaasde me. “Waar woont je buurman dan?” vroeg ik mezelf af.\u003c/p\u003e\u003cp\u003eWe spraken later nog enkele keren. “Hoe vaak heb je met haar gesproken?” vroeg mijn zus. “Vijf keer misschien,” zei ik. “Wanneer was de laatste keer?” “Afgelopen dinsdag, toen ze me uitleg gaf over de rechtermuisknop in Git.”\u003c/p\u003e\u003cp\u003eZe zei: “Het is niet mogelijk dat eenvoudig te vertellen, maar Git is een uitzonderlijke tool.” Dat gezegd hebbende, gaf ze me een lijst met commando’s. Ik keek ernaar en dacht: “Ik kan mij niet meer herinneren welke ik moest gebruiken.”\u003c/p\u003e\u003cp\u003eZe vroeg waar ik binnenkort heen zou gaan. “Waar ga je wonen?” “In Utrecht, voor mijn studie.” “Wat ga je daar doen?” “Softwareontwikkeling,” zei ik trots.\u003c/p\u003e\u003cp\u003eZe glimlachte. “Wat zul je daar zien? Veel code, veel fouten, maar ook veel groei.”\u003c/p\u003e\u003cp\u003eIk zei: “Ik heb zoveel talen in mijn hoofd, en nu komt Git erbij.” Ze lachte. “Leer me wat woorden en zinnen,” zei ik speels.\u003c/p\u003e\u003cp\u003eZe vertelde dat er vaak een klein verschil in betekenis is tussen programmeertalen. “Soms is iets eenvoudig, soms niet.”\u003c/p\u003e\u003cp\u003eIs het moeilijk of gemakkelijk? vroeg ik. “Hangt ervan af,” zei ze, “maar zonder het minste problem zal jij vorderingen maken.”\u003c/p\u003e\u003cp\u003eToen zei ze: “Als je er nog niet bent, moet je oefenen totdat je eindelijk hebt wat nodig is.”\u003c/p\u003e\u003cp\u003eWe liepen naar huis. “U loopt rechtdoor tot aan het kruispunt,” zei ze vriendelijk. Ik lachte.\u003c/p\u003e\u003cp\u003eDe volgende dag zag ik haar weer. “Hij is meestal uit zijn humeur,” zei ze over haar docent. “Ik vind het niet prettig om met hem te werken.”\u003c/p\u003e\u003cp\u003eZe wilde zo dikwijls mogelijk oefenen met Git. We maakten plannen om samen te studeren.\u003c/p\u003e\u003cp\u003eWe zijn voor half negen klaar, zei ze optimistisch. Maar uiteindelijk waren we om half negen klaar.\u003c/p\u003e\u003cp\u003eHet is bijna niet te geloven hoe snel we vrienden werden.\u003c/p\u003e\u003cp\u003eEn ja… Ik dacht dat ik beide had gehoord, Git én geluk.\u003c/p\u003e",
-		"audioFileName": "2025-06-15-nl.mp3",
+		"date": "2025-06-16",
+		"title": "Maandag 16 juni 2025",
+		"htmlBody": "\u003ch3\u003eWandelschoenen\u003c/h3\u003e\u003cp\u003eAfgelopen dinsdag begon ik mijn dag met een wandeling. Ik had mijn wandelschoenen aan, want we zouden een lange tocht maken. Mijn vriendin en ik willen zo dikwijls mogelijk wandelen, wanneer de gelegenheid zich voordoet. Wandelen is voor ons geen alledaags moment, maar iets belangrijk. We proberen het s ochtends of 's avonds te doen, afhankelijk van ons werk.\u003c/p\u003e\u003cp\u003eOnderweg vroeg ze: \"Welk woord zei je?\"\u003c/p\u003e\u003cp\u003e\"Precies, het woord wordt uitgesproken zoals het geschreven is,\" zei ik trots.\u003c/p\u003e\u003cp\u003e\"Dat heb ik gisteren geleerd.\"\u003c/p\u003e\u003cp\u003eSoms is iets eenvoudig, soms niet, zeker in het Nederlands. Maar Nederlands is niet zo moeilijk als je elke dag oefent. Daarom houd ik elke dag minstens vijf minuten mijn dagelijkse gesprek in het Nederlands. Ik gebruik een app, maar mijn telefoon is in het Italiaans, wat het leren soms verwarrend maakt. Ik vind het niet prettig, maar ik wil het zo laten zodat ik ook Italiaans blijf oefenen.\u003c/p\u003e\u003cp\u003eTijdens de wandeling praatten we over onze plannen. Binnenkort willen we naar België gaan. We zullen leuke dorpjes zien, en hopelijk kunnen we daar met locals praten. Zodat ik met haar kan praten, oefen ik ook Frans, maar Nederlands blijft mijn focus.\u003c/p\u003e\u003cp\u003ePlotseling vroeg ze: \"Hoe vaak heb je haar ontmoet?\"\u003c/p\u003e\u003cp\u003e\"Ik dacht dat ik beide had gehoord,\" antwoordde ik, een beetje in de war. Ze bedoelde een andere vriendin die we misschien ook zouden zien in België.\u003c/p\u003e\u003cp\u003eLater die dag hadden we een vergadering tijdens de lunch, een soort lunchbijeenkomst. Ik moest wat informatie delen over een project. \"Als het gaat om Git moet je weten hoe wijzigingen kunt beheren,\" zei ik tijdens mijn uitleg.\u003c/p\u003e\u003cp\u003eEen collega was niet blij. Hij is meestal uit zijn humeur, vooral op Zaterdag, als hij liever thuis is. Dat verbaast mij, want hij heeft een goed salaris en leuk werk.\u003c/p\u003e\u003cp\u003eNa de vergadering dacht ik: Ik moet dit kopiëren en bewaren voor later. Ik moet dit onthouden. Mijn vaardigheden in uitleggen verbeteren nog steeds.\u003c/p\u003e\u003cp\u003eThuis audio opnemen van gesprekken helpt mij. Ik luister terug en denk: \"Klopt dat?\" Dan verbeter ik mezelf. Ik probeer zo dikwijls mogelijk in het Nederlands te denken. Ik blijf doorgaan, ook als ik fouten maak.\u003c/p\u003e\u003cp\u003eEen vriend zei gisteren: \"Lees je het verhaal hardop voor.\"\u003c/p\u003e\u003cp\u003e\"Ja,\" antwoordde ik, \"dat helpt me.\"\u003c/p\u003e\u003cp\u003eVandaag is het weer tijd voor mijn Nederlandse gesprek. Een momentje alstublieft, ik zoek mijn notities. Als ik de kans krijg, zal ik iets nieuws proberen te zeggen. Zonder angst, met vertrouwen.\u003c/p\u003e\u003cp\u003eIs het moeilijk of makkelijk? Soms beide. Maar ik ben nieuwsgierig, en dat helpt.\u003c/p\u003e\u003cp\u003eHet verschil tussen de twee talen — Nederlands en Italiaans — is groot, maar oefening maakt alles mogelijk. Slechts oefenen helpt je vooruit.\u003c/p\u003e\u003cp\u003eMorgen ga ik weer wandelen. Ik zal mijn wandelschoenen klaarzetten. Wie weet, misschien leer ik weer iets nieuws onderweg.\u003c/p\u003e",
+		"audioFileName": "2025-06-16-nl.mp3",
 		"kind": "blog",
-		"audioSeconds": 432,
+		"audioSeconds": 469,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aJSIkG",
+		"suuid": "in5wlF",
 		"language": "it",
 		"date": "2025-06-15",
 		"title": "Domenica 15 giugno 2025",
@@ -473,7 +484,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ecKNbq",
+		"suuid": "oLMpWq",
+		"language": "nl",
+		"date": "2025-06-15",
+		"title": "Zondag 15 juni 2025",
+		"htmlBody": "\u003ch3\u003eDe ontmoeting\u003c/h3\u003e\u003cp\u003eHet was een gewone zaterdag, ‘s ochtends vroeg, toen ik haar voor het eerst ontmoette. Herinner jij je onze eerste ontmoeting? Ik herinner me dat nog goed. Ze droeg een blauwe jas en had een boek in haar hand met de titel: “Bronbeheer voor beginners.” Ik dacht: “Dat is alledaags,” maar ik vergiste me.\u003c/p\u003e\u003cp\u003eZe zei iets tegen me, maar ik begreep haar niet helemaal. “Welk woord zei je?” vroeg ik. Ze glimlachte en herhaalde het langzaam. “Wat betekent dat?” vroeg ik opnieuw. Ze legde geduldig uit dat het over Git ging. “Als het gaat om Git,” zei ze, “moet je weten hoe wijzigingen kunt beheren.”\u003c/p\u003e\u003cp\u003eIk was meteen nieuwsgierig. Ze vervolgde: “Om er het meeste uit te halen, moet je de bijbehorende vaardigheden ontwikkelen.” Ik schreef alles op. “Ik moet dit onthouden,” dacht ik, maar later realiseerde ik me: “Ik onthoud die nooit!”\u003c/p\u003e\u003cp\u003eZe vertelde dat ze informatica studeerde. “Wat studeert ze?” vroeg mijn vriend later. “Informatica,” antwoordde ik, “en ze is briljant.”\u003c/p\u003e\u003cp\u003eToen ik vroeg waar ze woonde, zei ze: “Op welke verdieping woont ze? Op de derde, vlak boven jou.” Dat verbaasde me. “Waar woont je buurman dan?” vroeg ik mezelf af.\u003c/p\u003e\u003cp\u003eWe spraken later nog enkele keren. “Hoe vaak heb je met haar gesproken?” vroeg mijn zus. “Vijf keer misschien,” zei ik. “Wanneer was de laatste keer?” “Afgelopen dinsdag, toen ze me uitleg gaf over de rechtermuisknop in Git.”\u003c/p\u003e\u003cp\u003eZe zei: “Het is niet mogelijk dat eenvoudig te vertellen, maar Git is een uitzonderlijke tool.” Dat gezegd hebbende, gaf ze me een lijst met commando’s. Ik keek ernaar en dacht: “Ik kan mij niet meer herinneren welke ik moest gebruiken.”\u003c/p\u003e\u003cp\u003eZe vroeg waar ik binnenkort heen zou gaan. “Waar ga je wonen?” “In Utrecht, voor mijn studie.” “Wat ga je daar doen?” “Softwareontwikkeling,” zei ik trots.\u003c/p\u003e\u003cp\u003eZe glimlachte. “Wat zul je daar zien? Veel code, veel fouten, maar ook veel groei.”\u003c/p\u003e\u003cp\u003eIk zei: “Ik heb zoveel talen in mijn hoofd, en nu komt Git erbij.” Ze lachte. “Leer me wat woorden en zinnen,” zei ik speels.\u003c/p\u003e\u003cp\u003eZe vertelde dat er vaak een klein verschil in betekenis is tussen programmeertalen. “Soms is iets eenvoudig, soms niet.”\u003c/p\u003e\u003cp\u003eIs het moeilijk of gemakkelijk? vroeg ik. “Hangt ervan af,” zei ze, “maar zonder het minste problem zal jij vorderingen maken.”\u003c/p\u003e\u003cp\u003eToen zei ze: “Als je er nog niet bent, moet je oefenen totdat je eindelijk hebt wat nodig is.”\u003c/p\u003e\u003cp\u003eWe liepen naar huis. “U loopt rechtdoor tot aan het kruispunt,” zei ze vriendelijk. Ik lachte.\u003c/p\u003e\u003cp\u003eDe volgende dag zag ik haar weer. “Hij is meestal uit zijn humeur,” zei ze over haar docent. “Ik vind het niet prettig om met hem te werken.”\u003c/p\u003e\u003cp\u003eZe wilde zo dikwijls mogelijk oefenen met Git. We maakten plannen om samen te studeren.\u003c/p\u003e\u003cp\u003eWe zijn voor half negen klaar, zei ze optimistisch. Maar uiteindelijk waren we om half negen klaar.\u003c/p\u003e\u003cp\u003eHet is bijna niet te geloven hoe snel we vrienden werden.\u003c/p\u003e\u003cp\u003eEn ja… Ik dacht dat ik beide had gehoord, Git én geluk.\u003c/p\u003e",
+		"audioFileName": "2025-06-15-nl.mp3",
+		"kind": "blog",
+		"audioSeconds": 432,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "0uPXhf",
 		"language": "it",
 		"date": "2025-06-14",
 		"title": "Sabato 14 giugno 2025",
@@ -484,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UNqTyB",
+		"suuid": "KloMIC",
 		"language": "nl",
 		"date": "2025-06-14",
 		"title": "Zaterdag 14 juni 2025",
@@ -495,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "auPc5B",
+		"suuid": "qfsCfM",
 		"language": "it",
 		"date": "2025-06-13",
 		"title": "Venerdì 13 giugno 2025",
@@ -506,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2B9HjW",
+		"suuid": "zW7URt",
 		"language": "it",
 		"date": "2025-06-12",
 		"title": "Giovedì 12 giugno 2025",
@@ -517,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "x35gLn",
+		"suuid": "ZLZrdw",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -528,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zWVQUj",
+		"suuid": "uorov8",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -539,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0JNyRN",
+		"suuid": "I2EhVK",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -550,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "z3fgZ4",
+		"suuid": "fnVQFK",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -561,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cDT69b",
+		"suuid": "acMT3y",
 		"language": "fr",
 		"date": "2025-06-07",
 		"title": "Samedi 7 juin 2025",
@@ -572,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Jxl3Rw",
+		"suuid": "DRhSdY",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -583,7 +605,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7xVu6e",
+		"suuid": "XfACP0",
 		"language": "pl",
 		"date": "2025-06-05",
 		"title": "Zwartek, 5 czerwca 2025",
@@ -594,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XAVZVm",
+		"suuid": "3GEyZ6",
 		"language": "pl",
 		"date": "2025-06-04",
 		"title": "Środa, 4 czerwca 2025",
@@ -605,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9pIGLh",
+		"suuid": "mjaJnV",
 		"language": "pl",
 		"date": "2025-06-03",
 		"title": "Wtorek, 3 czerwca 2025",
@@ -616,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VeCe60",
+		"suuid": "zmKdXV",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Poniedziałek, 2 czerwiec 2025",
@@ -627,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "szpMjt",
+		"suuid": "WqtFB6",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -638,7 +660,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kP7xMF",
+		"suuid": "40Xr2f",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -649,7 +671,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KNgMFO",
+		"suuid": "THJPUI",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -660,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7HglMn",
+		"suuid": "EAI7Ez",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -671,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QUtENm",
+		"suuid": "5mwTrs",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -682,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tuO5zB",
+		"suuid": "CCWRzy",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -693,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sxkSAB",
+		"suuid": "sRggZc",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -704,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yngNob",
+		"suuid": "iTx6W1",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -715,7 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "voxpfm",
+		"suuid": "q4RJcJ",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -726,7 +748,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "O7WJde",
+		"suuid": "w5uJtB",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -737,7 +759,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "dKpFXA",
+		"suuid": "gMkMup",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -748,7 +770,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yoc9Hf",
+		"suuid": "V1mqY7",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -759,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BN0sAR",
+		"suuid": "pvp54m",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -770,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vhleon",
+		"suuid": "qFiFwO",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -781,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lDnXzF",
+		"suuid": "ijzkKX",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -792,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6fhgee",
+		"suuid": "e80tPb",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -803,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UrAOcp",
+		"suuid": "FAapPI",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -814,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wI6mdH",
+		"suuid": "XNbMGr",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -825,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sNNHIU",
+		"suuid": "lfbIOE",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -836,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7PhvS4",
+		"suuid": "nwqSAr",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -847,7 +869,7 @@
 		"estimatedAudioSeconds": 689
 	},
 	{
-		"suuid": "HCWDPr",
+		"suuid": "3vihqq",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -858,7 +880,7 @@
 		"estimatedAudioSeconds": 553
 	},
 	{
-		"suuid": "chsP3s",
+		"suuid": "82Ot9C",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -869,7 +891,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bN3KrU",
+		"suuid": "qmHZf0",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -880,7 +902,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "nvEMW3",
+		"suuid": "cDS1e8",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -891,7 +913,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ole3NG",
+		"suuid": "KZVurJ",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -902,7 +924,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xnSyN1",
+		"suuid": "j0pAGS",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -913,7 +935,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7NKHAo",
+		"suuid": "Ct1Wci",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -924,7 +946,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "edkG7V",
+		"suuid": "ihbQIq",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -935,7 +957,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fegF3p",
+		"suuid": "jK9hf0",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -946,7 +968,7 @@
 		"estimatedAudioSeconds": 586
 	},
 	{
-		"suuid": "kIPYbj",
+		"suuid": "J6yZus",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -957,7 +979,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ssyedF",
+		"suuid": "jy6XzF",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -968,7 +990,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Gtn7oj",
+		"suuid": "QuhSFw",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -979,7 +1001,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ho7hGx",
+		"suuid": "LYONo4",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -990,7 +1012,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1kOmTo",
+		"suuid": "kE0Kqn",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -1001,7 +1023,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wIeQfA",
+		"suuid": "QewqjU",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -1012,18 +1034,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jyI93a",
-		"language": "fr",
-		"date": "2025-04-25",
-		"title": "Vendredi 25 avril 2025",
-		"htmlBody": "\u003ch3\u003eDéveloppement logiciel moderne : un des plus grands {atouts}[ah-TOO]\u003c/h3\u003e\u003cp\u003eLe développement logiciel a beaucoup évolué par rapport à il y a dix ans. Sous le capot, les technologies sont devenues plus puissantes, ce qui veut dire que les développeurs {peuvent}[puhv] créer des applications complexes sans pour autant avoir à tout coder eux-mêmes. On va voir ensemble après à quoi il ressemble aujourd’hui, et on va aussi rappeler un point important : la collaboration. Sauf que ici, la rapidité va du coup nous forcer à être plus {agiles}[ah-JEEL-eh]. C’est assez incroyable d’avoir ça, et si on continuait ainsi, l’innovation serait sans limites.\u003c/p\u003e\u003ch3\u003e{Défis}[day-FEE] et évolutions du développement logiciel\u003c/h3\u003e\u003cp\u003eLe développement logiciel a toujours été un domaine complexe, notamment pour effectuer des tris ou assurer la gestion efficace des données. Par le passé, certains langages, fortement typés, ont engendré de coût et des difficultés {dues à son}[doo-ah-SO*N] historique. C’est en partie aussi pour répondre à ces défis qu’ils ont ensuite pris la décision d’innover et d’adopter de nouveaux outils. Aujourd’hui, on va le voir par la suite, les solutions modernes {essayent}[ess-SAY] de pallier les limitations anciennes. Dans le futur, pour pallier ça, les équipes pourraient intégrer davantage d’automatisation ainsi que la gestion intelligente des erreurs, donc il essaye de pallier continuellement les obstacles techniques.\u003c/p\u003e",
-		"audioFileName": "2025-04-25-fr.mp3",
-		"kind": "blog",
-		"audioSeconds": 167,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "FgOtpB",
+		"suuid": "QUI7CI",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -1034,7 +1045,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lx9wff",
+		"suuid": "KawuYk",
+		"language": "fr",
+		"date": "2025-04-25",
+		"title": "Vendredi 25 avril 2025",
+		"htmlBody": "\u003ch3\u003eDéveloppement logiciel moderne : un des plus grands {atouts}[ah-TOO]\u003c/h3\u003e\u003cp\u003eLe développement logiciel a beaucoup évolué par rapport à il y a dix ans. Sous le capot, les technologies sont devenues plus puissantes, ce qui veut dire que les développeurs {peuvent}[puhv] créer des applications complexes sans pour autant avoir à tout coder eux-mêmes. On va voir ensemble après à quoi il ressemble aujourd’hui, et on va aussi rappeler un point important : la collaboration. Sauf que ici, la rapidité va du coup nous forcer à être plus {agiles}[ah-JEEL-eh]. C’est assez incroyable d’avoir ça, et si on continuait ainsi, l’innovation serait sans limites.\u003c/p\u003e\u003ch3\u003e{Défis}[day-FEE] et évolutions du développement logiciel\u003c/h3\u003e\u003cp\u003eLe développement logiciel a toujours été un domaine complexe, notamment pour effectuer des tris ou assurer la gestion efficace des données. Par le passé, certains langages, fortement typés, ont engendré de coût et des difficultés {dues à son}[doo-ah-SO*N] historique. C’est en partie aussi pour répondre à ces défis qu’ils ont ensuite pris la décision d’innover et d’adopter de nouveaux outils. Aujourd’hui, on va le voir par la suite, les solutions modernes {essayent}[ess-SAY] de pallier les limitations anciennes. Dans le futur, pour pallier ça, les équipes pourraient intégrer davantage d’automatisation ainsi que la gestion intelligente des erreurs, donc il essaye de pallier continuellement les obstacles techniques.\u003c/p\u003e",
+		"audioFileName": "2025-04-25-fr.mp3",
+		"kind": "blog",
+		"audioSeconds": 167,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "43KzXJ",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -1045,7 +1067,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WHYyBo",
+		"suuid": "a7JKhz",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -1056,18 +1078,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BJk0Dm",
-		"language": "it",
-		"date": "2025-04-23",
-		"title": "Mercoledì, 23 aprile 2025",
-		"htmlBody": "\u003ch3\u003eMantenere il ritmo\u003c/h3\u003e\u003cp\u003ePenso che oggi recupererò la mia registrazione audio. Ho aggiunto un lungo post in polacco. È il mio primo lungo post in polacco. Voglio scriverne uno ogni giorno, anche se la lingua è difficile da pronunciare.\u003c/p\u003e\u003ch3\u003eHo ricominciato a studiare il polacco\u003c/h3\u003e",
-		"audioFileName": "2025-04-23-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 40,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "bJrrKo",
+		"suuid": "811kW0",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -1078,7 +1089,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "miWKGp",
+		"suuid": "rPEhda",
+		"language": "it",
+		"date": "2025-04-23",
+		"title": "Mercoledì, 23 aprile 2025",
+		"htmlBody": "\u003ch3\u003eMantenere il ritmo\u003c/h3\u003e\u003cp\u003ePenso che oggi recupererò la mia registrazione audio. Ho aggiunto un lungo post in polacco. È il mio primo lungo post in polacco. Voglio scriverne uno ogni giorno, anche se la lingua è difficile da pronunciare.\u003c/p\u003e\u003ch3\u003eHo ricominciato a studiare il polacco\u003c/h3\u003e",
+		"audioFileName": "2025-04-23-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 40,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "qXoeF4",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Ś�roda, 23 kwietnia 2025",
@@ -1089,7 +1111,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "AqK9Bs",
+		"suuid": "InbWky",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -1100,7 +1122,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kc3hzi",
+		"suuid": "gyDu3x",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -1111,7 +1133,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jaCvHu",
+		"suuid": "utBJLp",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -1122,7 +1144,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jxxYIY",
+		"suuid": "ohwjjo",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -1133,7 +1155,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lfGFBK",
+		"suuid": "MwLK86",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -1144,7 +1166,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SpUbxV",
+		"suuid": "NbkjRO",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -1155,7 +1177,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fVTujO",
+		"suuid": "A0DoPL",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -1166,7 +1188,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "IzsCph",
+		"suuid": "2XN0nP",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Ś�roda 16 kwietnia 2025",
@@ -1177,7 +1199,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9T1CCo",
+		"suuid": "zVqLGo",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -1188,18 +1210,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aOFAHm",
-		"language": "pl",
-		"date": "2025-04-15",
-		"title": "Wtorek 15 kwietnia 2025",
-		"htmlBody": "\u003ch3\u003ePolski ponownie\u003c/h3\u003e\u003cp\u003eDzisiaj uczę się języka polskiego. Przeczytałem pięć rozdziałów. Nauczyłem się kilku słów. Lubię język polski. Ale język polski jest trudny. Jutro znów się nauczę. Chcę mówić po polsku.\u003c/p\u003e",
-		"audioFileName": "2025-04-15-pl.mp3",
-		"kind": "blog",
-		"audioSeconds": 48,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "j1R5mr",
+		"suuid": "3d2sNo",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -1210,29 +1221,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ycr0pi",
-		"language": "it",
-		"date": "2025-04-14",
-		"title": "Lunedì 14 aprile 2025",
-		"htmlBody": "\u003ch3\u003eUn paragrafo con dieci frasi che usano \"via\" ma in modi diversi:\u003c/h3\u003e\u003cp\u003eHa spinto via la sedia con un piede mentre si alzava. Sono scappati via appena hanno sentito il rumore. Il vento ha portato via le foglie secche dal cortile. Ha riso così tanto che le lacrime sono venute via da sole. Hanno preso via tutto senza lasciare traccia. Devi mettere via quei libri dopo aver finito di studiare. Non riesco a mandar via quel pensiero dalla testa. Gli anni sono volati via in un attimo. Ha buttato via l’occasione di dimostrare quanto vale. Spazza via la polvere prima di iniziare a dipingere.\u003c/p\u003e\u003ch3\u003eLa lingua polacca è diversa\u003c/h3\u003e\u003cp\u003eOggi riempirò i miei 10 minuti di audio con l'italiano. Ci sarà un po' di polacco, ma questo perché Karla ha iniziato a imparare frasi in polacco. A quanto pare ha incontrato una persona che le ha insegnato frasi in polacco. Le ho detto che mia madre conosceva due frasi in polacco. Le ha imparati da suo padre, morto quando lei era piccola. Ma il polacco è una lingua molto difficile. È particolarmente difficile se confrontato con altre lingue come l'olandese o le tre lingue simili francese, spagnolo e italiano. Io, però, voglio imparare il polacco.\u003c/p\u003e\u003ch3\u003eIl futuro di questa app\u003c/h3\u003e\u003cp\u003eQuindi, la mia app mi dice che il mio audio durerà ora quattro minuti. Per questo motivo, oggi devo produrre molto più materiale. In realtà, sto preparando l'audio di ieri. Questo mi fa chiedere: potrò continuare a usare questa app quando avrò un lavoro a tempo pieno? In realtà ho integrato una funzionalità per gestire questo problema. Posso facilmente ridurre il numero di minuti necessari. Posso abbassarli da 10 a 5. Quando li abbasso a 5, non ho bisogno di dedicare così tanto tempo ogni giorno alla produzione linguistica. Ma l'aspetto importante di questo metodo è che lo si usi quotidianamente. Questa abitudine di produrre un linguaggio comprensibile, di leggerlo ad alta voce e poi di ascoltarlo e comprenderlo, è ciò che porterà a miglioramenti della fluidità nel tempo.\u003c/p\u003e\u003ch3\u003ePassare dall'italiano allo spagnolo\u003c/h3\u003e\u003cp\u003eOk, ma penso di aver prodotto abbastanza italiano oggi. Passerò allo spagnolo. Uno dei miei obiettivi in ​​spagnolo è raggiungere il livello B1 entro dicembre 2026.\u003c/p\u003e\u003ch3\u003eA quanto pare\u003c/h3\u003e\u003cp\u003eA quanto pare, Marco ha deciso di trasferirsi in Spagna per lavoro. A quanto pare, non aveva detto nulla a nessuno prima di partire. A quanto pare, aveva ricevuto un'offerta che non poteva rifiutare. A quanto pare, la città in cui si è trasferito è molto bella e piena di vita. A quanto pare, ha già trovato casa vicino al centro storico. A quanto pare, sta anche imparando lo spagnolo molto in fretta. A quanto pare, i suoi colleghi lo hanno accolto calorosamente. A quanto pare, non sente troppo la mancanza dell'Italia. A quanto pare, però, torna spesso per visitare la famiglia. A quanto pare, questa nuova avventura gli sta facendo davvero bene.\u003c/p\u003e\u003ch3\u003eSviluppo software e intelligenza artificiale\u003c/h3\u003e\u003cp\u003eIn questo corso esploreremo come l’intelligenza artificiale può supportare lo sviluppo software moderno. Per prima cosa, creerà una nuova chat con il modello selezionato per gestire richieste complesse. L'obiettivo è insegnare come interagire con strumenti avanzati in modo efficace. Useremo lo stesso prompt in contesti diversi per analizzare le risposte generate. Questo ci aiuterà a comprendere meglio la logica del modello. In questo corso verranno affrontati anche temi come il debug automatizzato e il refactoring assistito. Per prima cosa, creerà una nuova chat ogni volta che cambierà il contesto. Lo stesso prompt produrrà risultati differenti.\u003c/p\u003e",
-		"audioFileName": "2025-04-14-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 595,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "EzF0eW",
+		"suuid": "NjnoE1",
 		"language": "pl",
-		"date": "2025-04-14",
-		"title": "Wtorek, 14 kwietnia 2025",
-		"htmlBody": "\u003ch3\u003eKarla uczy się polskiego\u003c/h3\u003e\u003cp\u003eKarla poznała kogoś z Polski. Nauczyła się tego zwrotu, \"Dziękuję za wiadomość\".\u003c/p\u003e",
-		"audioFileName": "2025-04-14-pl.mp3",
+		"date": "2025-04-15",
+		"title": "Wtorek 15 kwietnia 2025",
+		"htmlBody": "\u003ch3\u003ePolski ponownie\u003c/h3\u003e\u003cp\u003eDzisiaj uczę się języka polskiego. Przeczytałem pięć rozdziałów. Nauczyłem się kilku słów. Lubię język polski. Ale język polski jest trudny. Jutro znów się nauczę. Chcę mówić po polsku.\u003c/p\u003e",
+		"audioFileName": "2025-04-15-pl.mp3",
 		"kind": "blog",
-		"audioSeconds": 29,
+		"audioSeconds": 48,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9UK5ZQ",
+		"suuid": "EjoLsJ",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -1243,29 +1243,29 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "W6B2gS",
-		"language": "es",
-		"date": "2025-04-13",
-		"title": "Domingo 13 de abril de 2025",
-		"htmlBody": "\u003ch3\u003eDesarrollo de software: desafíos y soluciones comunes\u003c/h3\u003e\u003cp\u003eEl desarrollo de software puede ser un proceso desafiante, especialmente cuando los usuarios se enfrentan a errores como \"recurso no encontrado\". Al construir aplicaciones, es importante anticipar estos problemas y ofrecer soluciones claras. Un par de cosas que quiero señalar es que la optimización del rendimiento y la experiencia del usuario son esenciales. A menudo, los desarrolladores llegan a esta página navegando a través de documentación o foros en busca de soluciones. Es crucial estar al tanto de las mejores prácticas para evitar obstáculos comunes y ofrecer un producto funcional y fácil de usar para todos los usuarios.\u003c/p\u003e",
-		"audioFileName": "2025-04-13-es.mp3",
-		"kind": "blog",
-		"audioSeconds": 117,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "mIb4P1",
+		"suuid": "F9YlIo",
 		"language": "pl",
-		"date": "2025-04-13",
-		"title": "Niedziela, 13 kwietnia 2025",
-		"htmlBody": "\u003ch3\u003ePolskie liczby\u003c/h3\u003e\u003cp\u003eChcę nauczyć się liczb jeszcze raz: jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć. Język polski jest trudnym językiem.\u003c/p\u003e\u003ch3\u003eMój projekt\u003c/h3\u003e\u003cp\u003eTworzę witrynę w Pythonie. Pracuję nad tym dzisiaj. To jest zabawne.\u003c/p\u003e",
-		"audioFileName": "2025-04-13-pl.mp3",
+		"date": "2025-04-14",
+		"title": "Wtorek, 14 kwietnia 2025",
+		"htmlBody": "\u003ch3\u003eKarla uczy się polskiego\u003c/h3\u003e\u003cp\u003eKarla poznała kogoś z Polski. Nauczyła się tego zwrotu, \"Dziękuję za wiadomość\".\u003c/p\u003e",
+		"audioFileName": "2025-04-14-pl.mp3",
 		"kind": "blog",
-		"audioSeconds": 44,
+		"audioSeconds": 29,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bO0Nxk",
+		"suuid": "ruDIll",
+		"language": "it",
+		"date": "2025-04-14",
+		"title": "Lunedì 14 aprile 2025",
+		"htmlBody": "\u003ch3\u003eUn paragrafo con dieci frasi che usano \"via\" ma in modi diversi:\u003c/h3\u003e\u003cp\u003eHa spinto via la sedia con un piede mentre si alzava. Sono scappati via appena hanno sentito il rumore. Il vento ha portato via le foglie secche dal cortile. Ha riso così tanto che le lacrime sono venute via da sole. Hanno preso via tutto senza lasciare traccia. Devi mettere via quei libri dopo aver finito di studiare. Non riesco a mandar via quel pensiero dalla testa. Gli anni sono volati via in un attimo. Ha buttato via l’occasione di dimostrare quanto vale. Spazza via la polvere prima di iniziare a dipingere.\u003c/p\u003e\u003ch3\u003eLa lingua polacca è diversa\u003c/h3\u003e\u003cp\u003eOggi riempirò i miei 10 minuti di audio con l'italiano. Ci sarà un po' di polacco, ma questo perché Karla ha iniziato a imparare frasi in polacco. A quanto pare ha incontrato una persona che le ha insegnato frasi in polacco. Le ho detto che mia madre conosceva due frasi in polacco. Le ha imparati da suo padre, morto quando lei era piccola. Ma il polacco è una lingua molto difficile. È particolarmente difficile se confrontato con altre lingue come l'olandese o le tre lingue simili francese, spagnolo e italiano. Io, però, voglio imparare il polacco.\u003c/p\u003e\u003ch3\u003eIl futuro di questa app\u003c/h3\u003e\u003cp\u003eQuindi, la mia app mi dice che il mio audio durerà ora quattro minuti. Per questo motivo, oggi devo produrre molto più materiale. In realtà, sto preparando l'audio di ieri. Questo mi fa chiedere: potrò continuare a usare questa app quando avrò un lavoro a tempo pieno? In realtà ho integrato una funzionalità per gestire questo problema. Posso facilmente ridurre il numero di minuti necessari. Posso abbassarli da 10 a 5. Quando li abbasso a 5, non ho bisogno di dedicare così tanto tempo ogni giorno alla produzione linguistica. Ma l'aspetto importante di questo metodo è che lo si usi quotidianamente. Questa abitudine di produrre un linguaggio comprensibile, di leggerlo ad alta voce e poi di ascoltarlo e comprenderlo, è ciò che porterà a miglioramenti della fluidità nel tempo.\u003c/p\u003e\u003ch3\u003ePassare dall'italiano allo spagnolo\u003c/h3\u003e\u003cp\u003eOk, ma penso di aver prodotto abbastanza italiano oggi. Passerò allo spagnolo. Uno dei miei obiettivi in ​​spagnolo è raggiungere il livello B1 entro dicembre 2026.\u003c/p\u003e\u003ch3\u003eA quanto pare\u003c/h3\u003e\u003cp\u003eA quanto pare, Marco ha deciso di trasferirsi in Spagna per lavoro. A quanto pare, non aveva detto nulla a nessuno prima di partire. A quanto pare, aveva ricevuto un'offerta che non poteva rifiutare. A quanto pare, la città in cui si è trasferito è molto bella e piena di vita. A quanto pare, ha già trovato casa vicino al centro storico. A quanto pare, sta anche imparando lo spagnolo molto in fretta. A quanto pare, i suoi colleghi lo hanno accolto calorosamente. A quanto pare, non sente troppo la mancanza dell'Italia. A quanto pare, però, torna spesso per visitare la famiglia. A quanto pare, questa nuova avventura gli sta facendo davvero bene.\u003c/p\u003e\u003ch3\u003eSviluppo software e intelligenza artificiale\u003c/h3\u003e\u003cp\u003eIn questo corso esploreremo come l’intelligenza artificiale può supportare lo sviluppo software moderno. Per prima cosa, creerà una nuova chat con il modello selezionato per gestire richieste complesse. L'obiettivo è insegnare come interagire con strumenti avanzati in modo efficace. Useremo lo stesso prompt in contesti diversi per analizzare le risposte generate. Questo ci aiuterà a comprendere meglio la logica del modello. In questo corso verranno affrontati anche temi come il debug automatizzato e il refactoring assistito. Per prima cosa, creerà una nuova chat ogni volta che cambierà il contesto. Lo stesso prompt produrrà risultati differenti.\u003c/p\u003e",
+		"audioFileName": "2025-04-14-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 595,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "8tIcE5",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -1276,7 +1276,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yUqSmU",
+		"suuid": "sEHHnR",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -1287,40 +1287,29 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LmQSIF",
-		"language": "nl",
-		"date": "2025-04-12",
-		"title": "Zaterdag 12 april 2025",
-		"htmlBody": "\u003ch3\u003eEen lekker zaterdagontbijt\u003c/h3\u003e\u003cp\u003eVandaag ben ik bij mijn nichtje gaan ontbijten. We waren er met z'n vijven. We aten allerlei soorten eten, waaronder wafels, yoghurt en broodjes. Na het ontbijt gingen we wandelen en hadden we veel gesprekken.\u003c/p\u003e\u003cp\u003eIk wist niet dat we door de tunnel konden lopen om zo op de rotonde te komen. We hebben ook een lange wandeling door het park gemaakt en zagen een heel kleurrijke eend. Ik ben blij dat het niet regende. Het was zonnig en mooi weer, al was het ook een beetje fris.\u003c/p\u003e\u003ch3\u003eSoftwareontwikkeling en het belang van flexibele benaderingen\u003c/h3\u003e\u003cp\u003eIn softwareontwikkeling kan ongelooflijk nuttig zijn om verschillende benaderingen te verkennen om een probleem op te lossen. Soms kies je voor oplossingen die snel werken, maar die op lange termijn niet altijd de beste keuze zijn. Maar dat is niet erg, zolang je bewust bent van de beperkingen. Bijvoorbeeld, bepaalde tools kunnen handig zijn, maar houd er rekening mee dat deze niet worden ondersteund in toekomstige versies van het systeem. Het is belangrijk om altijd voorbereid te zijn op veranderingen en alternatieven te overwegen die beter schaalbaar en toekomstbestendig zijn.\u003c/p\u003e",
-		"audioFileName": "2025-04-12-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 157,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "QP3Oji",
+		"suuid": "4aas9S",
 		"language": "es",
-		"date": "2025-04-12",
-		"title": "Sábado 12 de abril de 2025",
-		"htmlBody": "\u003ch3\u003eDesarrollo de software: una evolución constante\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software, vayamos viendo las grandes ventajas que tiene adoptar metodologías ágiles. Estas permiten un ciclo de vida más flexible y eficiente, lo que facilita la adaptación a cambios inesperados. Esto toma más coherencia cuando se aplican prácticas como el trabajo en equipo y la retroalimentación constante, elementos clave para el éxito. Esto se debe a que las metodologías ágiles promueven la mejora continua y la colaboración entre los miembros del equipo, lo cual resulta en productos de software más robustos y alineados con las necesidades del cliente. La agilidad es, sin duda, una ventaja fundamental.\u003c/p\u003e",
-		"audioFileName": "2025-04-12-es.mp3",
+		"date": "2025-04-13",
+		"title": "Domingo 13 de abril de 2025",
+		"htmlBody": "\u003ch3\u003eDesarrollo de software: desafíos y soluciones comunes\u003c/h3\u003e\u003cp\u003eEl desarrollo de software puede ser un proceso desafiante, especialmente cuando los usuarios se enfrentan a errores como \"recurso no encontrado\". Al construir aplicaciones, es importante anticipar estos problemas y ofrecer soluciones claras. Un par de cosas que quiero señalar es que la optimización del rendimiento y la experiencia del usuario son esenciales. A menudo, los desarrolladores llegan a esta página navegando a través de documentación o foros en busca de soluciones. Es crucial estar al tanto de las mejores prácticas para evitar obstáculos comunes y ofrecer un producto funcional y fácil de usar para todos los usuarios.\u003c/p\u003e",
+		"audioFileName": "2025-04-13-es.mp3",
 		"kind": "blog",
-		"audioSeconds": 109,
+		"audioSeconds": 117,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bttW3J",
-		"language": "it",
-		"date": "2025-04-12",
-		"title": "Sabato 12 aprile 2025",
-		"htmlBody": "\u003ch3\u003eSviluppo software e sintassi essenziale\u003c/h3\u003e\u003cp\u003eNel mondo dello sviluppo software, se sei in grado di scrivere codice in modo chiaro e conciso, diventi molto più efficace. Una parte importante della sintassi è l’uso delle parentesi graffe, che definiscono i blocchi di codice. È fondamentale saperle utilizzare correttamente per evitare errori. Inoltre, il codice può essere più corto o più lungo a seconda delle tue scelte e dell'architettura che desideri implementare. L'importante è trovare un equilibrio tra leggibilità e funzionalità, adattando la complessità del codice alle esigenze del progetto. In questo modo, il lavoro sarà più efficiente e gestibile.\u003c/p\u003e\u003ch3\u003eLo sviluppo del software moderno\u003c/h3\u003e\u003cp\u003eLo sviluppo del software è un campo vasto che si divide in un paio di categorie principali, come la programmazione front-end e back-end. In ogni caso, indipendentemente dalla specializzazione, è fondamentale conoscere alcun linguaggio di programmazione, come JavaScript, Python o Java. Ogni linguaggio ha i suoi vantaggi e le sue applicazioni specifiche, e saper scegliere quello giusto è essenziale per creare soluzioni efficienti. La continua evoluzione delle tecnologie rende fondamentale per ogni sviluppatore mantenersi aggiornato con le nuove tendenze, migliorando così la propria capacità di affrontare sfide sempre più complesse.\u003c/p\u003e",
-		"audioFileName": "2025-04-12-it.mp3",
+		"suuid": "1GPAqz",
+		"language": "pl",
+		"date": "2025-04-13",
+		"title": "Niedziela, 13 kwietnia 2025",
+		"htmlBody": "\u003ch3\u003ePolskie liczby\u003c/h3\u003e\u003cp\u003eChcę nauczyć się liczb jeszcze raz: jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć. Język polski jest trudnym językiem.\u003c/p\u003e\u003ch3\u003eMój projekt\u003c/h3\u003e\u003cp\u003eTworzę witrynę w Pythonie. Pracuję nad tym dzisiaj. To jest zabawne.\u003c/p\u003e",
+		"audioFileName": "2025-04-13-pl.mp3",
 		"kind": "blog",
-		"audioSeconds": 207,
+		"audioSeconds": 44,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Obk3Is",
+		"suuid": "eNpCtl",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -1331,7 +1320,40 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tNsQel",
+		"suuid": "xm2nCI",
+		"language": "es",
+		"date": "2025-04-12",
+		"title": "Sábado 12 de abril de 2025",
+		"htmlBody": "\u003ch3\u003eDesarrollo de software: una evolución constante\u003c/h3\u003e\u003cp\u003eEn el desarrollo de software, vayamos viendo las grandes ventajas que tiene adoptar metodologías ágiles. Estas permiten un ciclo de vida más flexible y eficiente, lo que facilita la adaptación a cambios inesperados. Esto toma más coherencia cuando se aplican prácticas como el trabajo en equipo y la retroalimentación constante, elementos clave para el éxito. Esto se debe a que las metodologías ágiles promueven la mejora continua y la colaboración entre los miembros del equipo, lo cual resulta en productos de software más robustos y alineados con las necesidades del cliente. La agilidad es, sin duda, una ventaja fundamental.\u003c/p\u003e",
+		"audioFileName": "2025-04-12-es.mp3",
+		"kind": "blog",
+		"audioSeconds": 109,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "zjXgKn",
+		"language": "nl",
+		"date": "2025-04-12",
+		"title": "Zaterdag 12 april 2025",
+		"htmlBody": "\u003ch3\u003eEen lekker zaterdagontbijt\u003c/h3\u003e\u003cp\u003eVandaag ben ik bij mijn nichtje gaan ontbijten. We waren er met z'n vijven. We aten allerlei soorten eten, waaronder wafels, yoghurt en broodjes. Na het ontbijt gingen we wandelen en hadden we veel gesprekken.\u003c/p\u003e\u003cp\u003eIk wist niet dat we door de tunnel konden lopen om zo op de rotonde te komen. We hebben ook een lange wandeling door het park gemaakt en zagen een heel kleurrijke eend. Ik ben blij dat het niet regende. Het was zonnig en mooi weer, al was het ook een beetje fris.\u003c/p\u003e\u003ch3\u003eSoftwareontwikkeling en het belang van flexibele benaderingen\u003c/h3\u003e\u003cp\u003eIn softwareontwikkeling kan ongelooflijk nuttig zijn om verschillende benaderingen te verkennen om een probleem op te lossen. Soms kies je voor oplossingen die snel werken, maar die op lange termijn niet altijd de beste keuze zijn. Maar dat is niet erg, zolang je bewust bent van de beperkingen. Bijvoorbeeld, bepaalde tools kunnen handig zijn, maar houd er rekening mee dat deze niet worden ondersteund in toekomstige versies van het systeem. Het is belangrijk om altijd voorbereid te zijn op veranderingen en alternatieven te overwegen die beter schaalbaar en toekomstbestendig zijn.\u003c/p\u003e",
+		"audioFileName": "2025-04-12-nl.mp3",
+		"kind": "blog",
+		"audioSeconds": 157,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "2X9ilr",
+		"language": "it",
+		"date": "2025-04-12",
+		"title": "Sabato 12 aprile 2025",
+		"htmlBody": "\u003ch3\u003eSviluppo software e sintassi essenziale\u003c/h3\u003e\u003cp\u003eNel mondo dello sviluppo software, se sei in grado di scrivere codice in modo chiaro e conciso, diventi molto più efficace. Una parte importante della sintassi è l’uso delle parentesi graffe, che definiscono i blocchi di codice. È fondamentale saperle utilizzare correttamente per evitare errori. Inoltre, il codice può essere più corto o più lungo a seconda delle tue scelte e dell'architettura che desideri implementare. L'importante è trovare un equilibrio tra leggibilità e funzionalità, adattando la complessità del codice alle esigenze del progetto. In questo modo, il lavoro sarà più efficiente e gestibile.\u003c/p\u003e\u003ch3\u003eLo sviluppo del software moderno\u003c/h3\u003e\u003cp\u003eLo sviluppo del software è un campo vasto che si divide in un paio di categorie principali, come la programmazione front-end e back-end. In ogni caso, indipendentemente dalla specializzazione, è fondamentale conoscere alcun linguaggio di programmazione, come JavaScript, Python o Java. Ogni linguaggio ha i suoi vantaggi e le sue applicazioni specifiche, e saper scegliere quello giusto è essenziale per creare soluzioni efficienti. La continua evoluzione delle tecnologie rende fondamentale per ogni sviluppatore mantenersi aggiornato con le nuove tendenze, migliorando così la propria capacità di affrontare sfide sempre più complesse.\u003c/p\u003e",
+		"audioFileName": "2025-04-12-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 207,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "9zhej2",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -1342,29 +1364,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ApHoJo",
-		"language": "es",
-		"date": "2025-04-11",
-		"title": "Viernes 11 de abril de 2025",
-		"htmlBody": "\u003ch3\u003eTrabajando en la aplicación compout\u003c/h3\u003e\u003cp\u003eSolo me queda una tarea más por hacer para esta aplicación y habré terminado por hoy. Terminé la última tarea. La última tarea consistía en añadir un día en blanco por cada día sin entradas.\u003c/p\u003e\u003cp\u003eMe sorprende mucho lo que la [EE-ah] IA puede lograr. A veces, el intellisense sabe exactamente lo que quiero hacer. Esto hace que programar sea más divertido. Es similar a montar en bicicleta eléctrica. Tú decides adónde quieres ir, pero es más fácil. La bicicleta se adapta a ti.\u003c/p\u003e\u003cp\u003eMi próximo proyecto será un datapod basado en React y una [say-ell-EE] CLI de Python. También quiero hacer un datapos que use Angular y Vue en el frontend. Pero creo que quiero concentrarme en React por el momento, ya que es lo que usaré en mi nuevo trabajo. Quizás para el próximo proyecto utilizaré C# para la CLI.\u003c/p\u003e\u003ch3\u003eUsando Ruby para crear una CLI\u003c/h3\u003e\u003cp\u003eRuby es un excelente lenguaje para escribir interfaces de línea de comandos (CLI) por varias razones. Primero, su sintaxis clara y concisa permite escribir scripts legibles y fáciles de mantener, incluso para desarrolladores nuevos en el lenguaje. Gracias a su enfoque (focus) orientado a objetos, es posible estructurar el código de forma limpia (clean) y reutilizable, lo cual es útil en aplicaciones CLI más complejas.\u003c/p\u003e\u003cp\u003eAdemás, Ruby tiene una amplia variedad de gemas (bibliotecas) que simplifican la creación de herramientas CLI. Por ejemplo, gemas como Thor, [*HAY-ell-ee] GLI o OptionParser permiten gestionar argumentos, comandos y mensajes de ayuda con muy poco esfuerzo (effort). Estas herramientas ofrecen una experiencia robusta y profesional al usuario final, similar a las utilidades del sistema.\u003c/p\u003e\u003cp\u003eOtra ventaja es que Ruby está presente en la mayoría de los sistemas Unix/Linux y macOS, lo que facilita la distribución de scripts sin necesidad de instalaciones adicionales. También se puede empaquetar fácilmente para otros entornos si es necesario.\u003c/p\u003e\u003cp\u003eFinalmente, la comunidad de Ruby es activa y amigable, lo que facilita encontrar ejemplos, documentación y ayuda cuando se necesita. Por todo esto, Ruby sigue siendo (remains) una opción sólida y elegante para desarrollar herramientas de línea de comandos eficientes y agradables de usar.\u003c/p\u003e\u003cp\u003eQuizás también quiera crear un Datapod con una CLI de Ruby. Creo que estos proyectos son muy útiles.\u003c/p\u003e",
-		"audioFileName": "2025-04-11-es.mp3",
-		"kind": "blog",
-		"audioSeconds": 332,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "viKsAI",
-		"language": "fr",
-		"date": "2025-04-11",
-		"title": "Vendredi 11 avril 2025",
-		"htmlBody": "\u003ch3\u003eHaskell comme langage de script\u003c/h3\u003e\u003cp\u003eHaskell est un excellent langage pour écrire des scripts de traitement et d’analyse côté backend grâce à sa nature fonctionnelle pure. Il offre une gestion robuste des types, ce qui réduit drastiquement les erreurs lors du traitement des données. Avec ses puissants outils de correspondance de motifs et son support natif pour les monades, Haskell facilite la composition de fonctions complexes de manière élégante et prévisible. De [PLOOS] plus, la langage permet de manipuler facilement de grandes structures de données. Enfin, des bibliothèques comme Parsec ou Megaparsec rendent l’écriture d’analyseurs syntaxiques claire, concise et très maintenable.\u003c/p\u003e",
-		"audioFileName": "2025-04-11-fr.mp3",
-		"kind": "blog",
-		"audioSeconds": 80,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "9j65pB",
+		"suuid": "epvJNy",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -1375,18 +1375,29 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2MMfT0",
-		"language": "it",
-		"date": "2025-04-10",
-		"title": "Giovedì 10 aprile 2025",
-		"htmlBody": "\u003ch3\u003ePulizia dei denti\u003c/h3\u003e\u003cp\u003eOggi andrò dal dentista a farmi pulire i denti. La procedura dura circa un'ora. Non è gratuito come altre procedure dal dentista, ed è piuttosto costoso. Ma ne vale la pena perché dopo avrai denti pulitissimi e l'alito avrà un odore fresco. Tra dieci minuti devo andare, quindi ora devo lavarmi i denti e andare.\u003c/p\u003e",
-		"audioFileName": "2025-04-10-it.mp3",
+		"suuid": "8i0Swl",
+		"language": "es",
+		"date": "2025-04-11",
+		"title": "Viernes 11 de abril de 2025",
+		"htmlBody": "\u003ch3\u003eTrabajando en la aplicación compout\u003c/h3\u003e\u003cp\u003eSolo me queda una tarea más por hacer para esta aplicación y habré terminado por hoy. Terminé la última tarea. La última tarea consistía en añadir un día en blanco por cada día sin entradas.\u003c/p\u003e\u003cp\u003eMe sorprende mucho lo que la [EE-ah] IA puede lograr. A veces, el intellisense sabe exactamente lo que quiero hacer. Esto hace que programar sea más divertido. Es similar a montar en bicicleta eléctrica. Tú decides adónde quieres ir, pero es más fácil. La bicicleta se adapta a ti.\u003c/p\u003e\u003cp\u003eMi próximo proyecto será un datapod basado en React y una [say-ell-EE] CLI de Python. También quiero hacer un datapos que use Angular y Vue en el frontend. Pero creo que quiero concentrarme en React por el momento, ya que es lo que usaré en mi nuevo trabajo. Quizás para el próximo proyecto utilizaré C# para la CLI.\u003c/p\u003e\u003ch3\u003eUsando Ruby para crear una CLI\u003c/h3\u003e\u003cp\u003eRuby es un excelente lenguaje para escribir interfaces de línea de comandos (CLI) por varias razones. Primero, su sintaxis clara y concisa permite escribir scripts legibles y fáciles de mantener, incluso para desarrolladores nuevos en el lenguaje. Gracias a su enfoque (focus) orientado a objetos, es posible estructurar el código de forma limpia (clean) y reutilizable, lo cual es útil en aplicaciones CLI más complejas.\u003c/p\u003e\u003cp\u003eAdemás, Ruby tiene una amplia variedad de gemas (bibliotecas) que simplifican la creación de herramientas CLI. Por ejemplo, gemas como Thor, [*HAY-ell-ee] GLI o OptionParser permiten gestionar argumentos, comandos y mensajes de ayuda con muy poco esfuerzo (effort). Estas herramientas ofrecen una experiencia robusta y profesional al usuario final, similar a las utilidades del sistema.\u003c/p\u003e\u003cp\u003eOtra ventaja es que Ruby está presente en la mayoría de los sistemas Unix/Linux y macOS, lo que facilita la distribución de scripts sin necesidad de instalaciones adicionales. También se puede empaquetar fácilmente para otros entornos si es necesario.\u003c/p\u003e\u003cp\u003eFinalmente, la comunidad de Ruby es activa y amigable, lo que facilita encontrar ejemplos, documentación y ayuda cuando se necesita. Por todo esto, Ruby sigue siendo (remains) una opción sólida y elegante para desarrollar herramientas de línea de comandos eficientes y agradables de usar.\u003c/p\u003e\u003cp\u003eQuizás también quiera crear un Datapod con una CLI de Ruby. Creo que estos proyectos son muy útiles.\u003c/p\u003e",
+		"audioFileName": "2025-04-11-es.mp3",
 		"kind": "blog",
-		"audioSeconds": 63,
+		"audioSeconds": 332,
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FDhwun",
+		"suuid": "jHDifD",
+		"language": "fr",
+		"date": "2025-04-11",
+		"title": "Vendredi 11 avril 2025",
+		"htmlBody": "\u003ch3\u003eHaskell comme langage de script\u003c/h3\u003e\u003cp\u003eHaskell est un excellent langage pour écrire des scripts de traitement et d’analyse côté backend grâce à sa nature fonctionnelle pure. Il offre une gestion robuste des types, ce qui réduit drastiquement les erreurs lors du traitement des données. Avec ses puissants outils de correspondance de motifs et son support natif pour les monades, Haskell facilite la composition de fonctions complexes de manière élégante et prévisible. De [PLOOS] plus, la langage permet de manipuler facilement de grandes structures de données. Enfin, des bibliothèques comme Parsec ou Megaparsec rendent l’écriture d’analyseurs syntaxiques claire, concise et très maintenable.\u003c/p\u003e",
+		"audioFileName": "2025-04-11-fr.mp3",
+		"kind": "blog",
+		"audioSeconds": 80,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "gKa8lL",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -1397,7 +1408,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lbeGBC",
+		"suuid": "oBpdUq",
+		"language": "it",
+		"date": "2025-04-10",
+		"title": "Giovedì 10 aprile 2025",
+		"htmlBody": "\u003ch3\u003ePulizia dei denti\u003c/h3\u003e\u003cp\u003eOggi andrò dal dentista a farmi pulire i denti. La procedura dura circa un'ora. Non è gratuito come altre procedure dal dentista, ed è piuttosto costoso. Ma ne vale la pena perché dopo avrai denti pulitissimi e l'alito avrà un odore fresco. Tra dieci minuti devo andare, quindi ora devo lavarmi i denti e andare.\u003c/p\u003e",
+		"audioFileName": "2025-04-10-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 63,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "MA0q7d",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -1408,18 +1430,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tqvvZG",
-		"language": "nl",
-		"date": "2025-04-09",
-		"title": "Woensdag 9 april 2025",
-		"htmlBody": "\u003ch3\u003eBezoek met mijn dochter\u003c/h3\u003e\u003cp\u003eGisteren bezocht ik mijn dochter. We hebben over van alles gepraat. Ik gaf haar een paar boeken om te lezen.\u003c/p\u003e",
-		"audioFileName": "2025-04-09-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 27,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "ZtCVUL",
+		"suuid": "FFwPds",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
@@ -1427,6 +1438,17 @@
 		"audioFileName": "2025-04-09-it.mp3",
 		"kind": "blog",
 		"audioSeconds": 300,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "WmWrNd",
+		"language": "nl",
+		"date": "2025-04-09",
+		"title": "Woensdag 9 april 2025",
+		"htmlBody": "\u003ch3\u003eBezoek met mijn dochter\u003c/h3\u003e\u003cp\u003eGisteren bezocht ik mijn dochter. We hebben over van alles gepraat. Ik gaf haar een paar boeken om te lezen.\u003c/p\u003e",
+		"audioFileName": "2025-04-09-nl.mp3",
+		"kind": "blog",
+		"audioSeconds": 27,
 		"estimatedAudioSeconds": 0
 	}
 ]
