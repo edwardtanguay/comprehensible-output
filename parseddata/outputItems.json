@@ -1,17 +1,28 @@
 [
 	{
-		"suuid": "mmNwBI",
+		"suuid": "XX7FcU",
+		"language": "fr",
+		"date": "2025-07-25",
+		"title": "Vendredi 24 juillet 2025",
+		"htmlBody": "\u003ch3\u003eLe mystère du site oublié\u003c/h3\u003e\u003cp\u003eAvant de rentrer dans le vif du sujet, commençons par un bref aperçu historique. Il y a dix ans, une petite équipe de développeurs passionnés travaillait sur un projet web particulièrement bien fait, avec une griffe esthétique sous-jacente qui est loin d'être étrangère au succès du site. Ce site, oublié depuis, vous propose un cadre original pour explorer les toutes sortes de mises en page, allant des boîtes de dialogues aux listes déroulants, avec la couche JavaScript bien intégrée.\u003c/p\u003e\u003cp\u003eIl est temps maintenant de démarrer notre exploration. Voilà à quoi ça va ressembler : tu as trouvé un vieux disque dur avec les fichiers dont on va se servir. À y regarder de plus près, ce ne sera peut-être pas le cas pour tous, mais ceux-ci sont globalement exploitables.\u003c/p\u003e\u003cp\u003ePlus tôt dans ce chapitre, on avait vu comment organiser un projet moderne. Il en va de même pour ce site : vous allez parfois voir des structures anciennes, au sein de chacun des dossiers, qu’il faudra ensuite combiner avec autre outils. De même, certaines sections utilisent Bootstrap, mais ce n’est pas propre à Bootstrap : les marges verticales se superposent en CSS, ce qui peut rendre certaines parties un peu piégeux.\u003c/p\u003e\u003cp\u003eOn pourrait repartir de zéro, ou carrément un autre framework, mais on va se rabattre vers une restauration partielle. Cela dit, vous devez bien sûr souscrire à ces choix si vous travaillez dans le cadre de votre métier. Il peut s’agir de choix techniques, esthétiques, ou même philosophiques.\u003c/p\u003e\u003cp\u003ePar la suite, tu décides d’intégrer un système de champs de formulaires modernes. Il faudra alors créer un composant qui serait propre à votre site, avant de monter en taille pour le rendre responsive. Grid con nuove utilities e colonne responsive pourra t’aider. Rien ne t’empêche d’utiliser Tailwind, bien que l’abandon de la prise en charge de certaines anciennes classes puisse te freiner.\u003c/p\u003e\u003cp\u003eL'équipe d’origine a également fait des choix esthétiques audacieux. Ils auraient pu choisir la facilité, mais ceux évoqués dans les commentaires du code montrent une vraie réflexion. Au détriment de la compatibilité mobile parfois, certes, mais avec un style marqué.\u003c/p\u003e\u003cp\u003eEn haut à droite de la page, une icône donne accès à le pense-bête, très utile. En cliquant, juste en dessous, on découvre une liste d’astuces, à portée de main, pour comprendre le code.\u003c/p\u003e\u003cp\u003eAvant de monter en taille, on nettoie le code en une fois, autant éviter autant que possible les doublons. Dans les grandes lignes, le projet renaît doucement. Il ne reste plus qu’à tester.\u003c/p\u003e\u003cp\u003ePour aboutir à une version stable, il faudrait aussi penser à l’accessibilité. Ton collègue, quant à lui, propose une vérification manuelle. Il n’est tout simplement pas une option pour toi de publier un site non accessible.\u003c/p\u003e\u003cp\u003eDemain, tu continueras. Et puis seulement, tu pourras dire que ce projet est terminé.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 611
+	},
+	{
+		"suuid": "LP99Nn",
 		"language": "it",
 		"date": "2025-07-24",
 		"title": "Giovedì 24 luglio 2025",
 		"htmlBody": "\u003ch3\u003eL’incontro\u003c/h3\u003e\u003cp\u003eQuesta mattina mi sono svegliato presto. Non c'era ancora nessuno qui, e non c'è ancora nessuno qui nemmeno adesso. Ho pulito il bancone della cucina, ho pulito la stufa, e ho messo la frutta congelata nel microonde, anche se la frutta congelata è fredda anche dopo trenta secondi. Ho appena sentito il segnale acustico: il microonde ha finito.\u003c/p\u003e\u003cp\u003eMentre facevo colazione con una ciotola e un piatto, e con un coltello, una forchetta e un cucchiaio, ho pensato a quello che mi aspetta oggi. Sono un po' preoccupato per il futuro, ma devo usare le mie abilità sociali perché l'incontro, infatti, è andato bene la settimana scorsa e ora mi vogliono rivedere.\u003c/p\u003e\u003cp\u003eÈ importante semplicemente presentarsi, anche se non si è sicuri. A volte quella parola è al di sopra del mio livello, o quella parola non è al mio livello, ma ho una naturale inclinazione ad imparare. Ieri, per esempio, ho dimenticato le parole per spiegare una cosa tecnica. Direi che ho fatto del mio meglio comunque.\u003c/p\u003e\u003cp\u003eAdesso farò l’ultimo video del capitolo, e poi uscirò sul balcone per prendere un po’ d’aria fresca. Spero che non stia piovendo. Più tardi, voglio iniziare con il tutorial su come farlo aprire automaticamente, e forse anche capire di cosa intendi esattamente per \"avvisi\", a seconda della versione del sistema operativo.\u003c/p\u003e\u003cp\u003ePer sopprimere gli avvisi, si può agire in diversi modi. Di seguito ti do una panoramica dei metodi, ma il metodo più affidabile resta quello tramite interfaccia web. Se vuoi definire tutto via file, puoi scrivere le regole direttamente. Scorri fino alla sezione “Impostazioni”, oppure vai nella dashboard del tuo progetto. Ottima osservazione: non tutte le versioni sono uguali, e a volte trovi une ancienne version provenant du cache oppure una cartella dist con dentro un file index.html.\u003c/p\u003e\u003cp\u003ePer pubblicare il sito, Vercel serva i file statici dalla cartella /public, oppure da /dist. Quindi, passaggi: compila, organizza i file, e questo dice a Vercel di riscrivere tutte le rotte verso index.html. Pubblicare un sito statico partendo dal file HTML è semplice, ma a seconda della versione, qualche problema può riscontrare.\u003c/p\u003e\u003cp\u003eSto riscontrando molto successo con questo metodo. Certo, a volte potremmo doverne comprare due, se il primo non funziona. Una volta al supermercato, ho visto una confezione sul nastro della cassa che sembrava interessante, ma non l’ho comprata. Veniva provenant de un’altra regione e costava troppo.\u003c/p\u003e\u003cp\u003eOra torno al lavoro. Voglio fare metà e metà oggi: mezza giornata studio, mezza giornata esercizio. Sto preparando anche una lista: quali sono i tre tipi di verbi francesi? E a quale gruppo verbale francese appartiene nnn? Alla fine, voglio anche generare una lista per i tre lingue francese, spagnolo e italiano con gli articoli.\u003c/p\u003e\u003cp\u003eAbbiamo finito? Abbiamo il nome corretto, o abbiamo il nome giusto per questo progetto? Rendilo in modo che sfumi più velocemente alla fine. Non importa se non è perfetto.\u003c/p\u003e",
-		"audioFileName": "",
+		"audioFileName": "2025-07-24-it.mp3",
 		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 603
+		"audioSeconds": 1747,
+		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SzdGyR",
+		"suuid": "wFdkOr",
 		"language": "fr",
 		"date": "2025-07-23",
 		"title": "Mercredi 23 juillet 2025",
@@ -19,10 +30,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1003
+		"estimatedAudioSeconds": 1018
 	},
 	{
-		"suuid": "ogGJi0",
+		"suuid": "8DX4Uh",
 		"language": "it",
 		"date": "2025-07-22",
 		"title": "Martedì 22 luglio 2025",
@@ -30,10 +41,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 541
+		"estimatedAudioSeconds": 549
 	},
 	{
-		"suuid": "qKj94y",
+		"suuid": "euKDXx",
 		"language": "es",
 		"date": "2025-07-21",
 		"title": "Lunes 21 de julio de 2025",
@@ -44,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yXAAzx",
+		"suuid": "vE3Izr",
 		"language": "it",
 		"date": "2025-07-20",
 		"title": "Domenica 20 luglio 2025",
@@ -55,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OJaMBU",
+		"suuid": "zutws1",
 		"language": "it",
 		"date": "2025-07-19",
 		"title": "Sabato 19 luglio 2025",
@@ -66,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "c80C9j",
+		"suuid": "1wh58P",
 		"language": "fr",
 		"date": "2025-07-18",
 		"title": "Vendredi 18 juillet 2025",
@@ -77,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pEQwZX",
+		"suuid": "J7t56U",
 		"language": "it",
 		"date": "2025-07-17",
 		"title": "Giovedì 17 luglio 2025",
@@ -88,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZVB4WH",
+		"suuid": "T9oC5a",
 		"language": "it",
 		"date": "2025-07-16",
 		"title": "Mercoledì 16 luglio 2025",
@@ -99,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0b7OdQ",
+		"suuid": "uLkEo9",
 		"language": "it",
 		"date": "2025-07-15",
 		"title": "Martedì 15 luglio 2025",
@@ -110,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zAwrBc",
+		"suuid": "Gn4pVN",
 		"language": "it",
 		"date": "2025-07-14",
 		"title": "Lunedì 14 luglio 2025",
@@ -121,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CzECk9",
+		"suuid": "GW0ucd",
 		"language": "it",
 		"date": "2025-07-13",
 		"title": "Domenica 13 luglio 2025",
@@ -132,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EBR5wg",
+		"suuid": "KF1asw",
 		"language": "it",
 		"date": "2025-07-12",
 		"title": "Sabato 12 luglio 2025",
@@ -140,10 +151,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 733
+		"estimatedAudioSeconds": 744
 	},
 	{
-		"suuid": "UT3O25",
+		"suuid": "fmsF5j",
 		"language": "it",
 		"date": "2025-07-11",
 		"title": "Venerdì 11 luglio 2025",
@@ -154,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4nwjTr",
+		"suuid": "tpYgo3",
 		"language": "it",
 		"date": "2025-07-10",
 		"title": "Giovedì 10 luglio 2025",
@@ -165,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Q2TBKV",
+		"suuid": "fGtG91",
 		"language": "it",
 		"date": "2025-07-09",
 		"title": "Mercoledì 9 luglio 2025",
@@ -176,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CBbVd7",
+		"suuid": "1DUem3",
 		"language": "fr",
 		"date": "2025-07-08",
 		"title": "Mardi 8 juillet 2025",
@@ -187,7 +198,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CpVbUa",
+		"suuid": "WMSHV8",
 		"language": "fr",
 		"date": "2025-07-07",
 		"title": "Lundi 7 juillet 2025",
@@ -195,10 +206,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 651
+		"estimatedAudioSeconds": 661
 	},
 	{
-		"suuid": "HQjVcO",
+		"suuid": "cS0zbE",
 		"language": "fr",
 		"date": "2025-07-06",
 		"title": "Dimanche 6 juillet 2025",
@@ -209,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a0SZMf",
+		"suuid": "32ln7E",
 		"language": "fr",
 		"date": "2025-07-05",
 		"title": "Samedi 5 juillet 2025",
@@ -220,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2IOKpH",
+		"suuid": "Wl5ypn",
 		"language": "fr",
 		"date": "2025-07-04",
 		"title": "Vendredi 4 juillet 2025",
@@ -231,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QFhid9",
+		"suuid": "dFr6ty",
 		"language": "fr",
 		"date": "2025-07-03",
 		"title": "Jeudi 3 juillet 2025",
@@ -242,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "c5nDY7",
+		"suuid": "iV29FY",
 		"language": "fr",
 		"date": "2025-07-02",
 		"title": "Mercredi 2 juillet 2025",
@@ -253,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "OcabdA",
+		"suuid": "RQq3Bx",
 		"language": "fr",
 		"date": "2025-07-01",
 		"title": "Mardi 1 juillet 2025",
@@ -264,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WneHu7",
+		"suuid": "F9bWEc",
 		"language": "fr",
 		"date": "2025-06-30",
 		"title": "Lundi 30 juin 2025",
@@ -275,18 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "szg2s1",
-		"language": "nl",
-		"date": "2025-06-29",
-		"title": "Zondag 29 juni 2025",
-		"htmlBody": "\u003ch3\u003eEen avontuur op de heuvel\u003c/h3\u003e\u003cp\u003eOp een ochtend besloot ik een wandeling te maken, voor het geval je denkt dat ik altijd binnen zit. Het was een goede manier om met mezelf in contact te blijven en mijn vaardigheden te testen. De zon scheen zwak door de wolken, en de lucht voelde fris. Ik liep richting de heuvel bij het oude huurcomplex, waar ik vroeger vaak speelde als kind.\u003c/p\u003e\u003cp\u003eOnderweg zag ik een reeks kinderen spelen. Ik zag ze opduiken achter bomen en struiken, schreeuwend van plezier. Zeker weten, ze genoten van het moment. Het herinnerde me eraan hoe waardevol eenvoudige momenten kunnen zijn. Jammer zeg dat we als volwassenen vaak zulke dingen vergeten.\u003c/p\u003e\u003cp\u003eIk bereikte de top van de heuvel, waar het uitzicht prachtig was. Daar begon ik te denken over hoe je dit kunt oplossen: hoe kun je meer genieten van het leven, ondanks werk en stress? Blijf eerlijk tegenover jezelf, dacht ik. Soms is het nodig om even stil te staan bij wat echt belangrijk is.\u003c/p\u003e\u003cp\u003ePlots hoorde ik iemand roepen. Een vrouw stond beneden en zwaaide naar me. Ze was een toerist, verdwaald. Ze vroeg of ik Engels sprak, of ik kan ook Nederlands spreken, zei ze aarzelend. Als je wilt, kun je met mij mee terug naar het dorp lopen, stelde ik voor. Onderweg begon ze over haar werk te vertellen. Ze was programmeur, net als ik. We spraken over functies, en ik zei: \"In andere talen wordt dit vaak null genoemd, maar in JavaScript is dat anders.\" Ze lachte. “Hoe zit het met Java dan?” vroeg ze. “De eerste functie die ik ooit schreef, drukte in principe waarden af,” antwoordde ik.\u003c/p\u003e\u003cp\u003eWe praatten over variabelen, waarvan de naam hun waarde is, en opdrachten die moeilijk waren. “Misschien ken ik de woorden niet in het Nederlands,” zei ze, “maar ik begrijp de concepten.” “Ik heb dit al een paar keer gezegd,” antwoordde ik, “taal is maar een hulpmiddel.”\u003c/p\u003e\u003cp\u003eToen we het dorp bereikten, namen we afscheid. Ik denk dat het eerste zal zijn dat ik vanavond een verslag schrijf over vandaag. Dit is een test van Papa, grapte ik tegen mezelf terwijl ik begon te typen. Ik bekeek de pagina van mijn dagboek, waar ik alles opschreef, in de volgorde waarin ik het had meegemaakt.\u003c/p\u003e\u003cp\u003eLater die avond, tijdens het coderen, merkte ik een fout op. Een waarde zat er nog niet bij. Het probleem is dat het systeem ervan uitgaande dat alles correct wordt ingevuld. Af en toe gebeurt het nog. Nu zou dit eenvoudig te vervangen zijn met een paar andere aanvullende commits.\u003c/p\u003e\u003cp\u003eJe zult merken dat sommige bugs terugkeren. Dat ding was er niet toen ik daar was, maar ineens is het er weer. Duwen en trekken, dat is programmeren soms. Let met name op je logica.\u003c/p\u003e\u003cp\u003eIk dronk koffie, zoals altijd. Mijn vriendin zegt altijd: “Ze heeft mij veel melk gekocht, maar hij vergeet het altijd.” Ze weet dat ik van koffie hou, maar ook dat ik koffie maak zoals een wetenschapper.\u003c/p\u003e\u003cp\u003eWant zonder deze kleine rituelen, zou mijn dag niet compleet zijn.\u003c/p\u003e",
-		"audioFileName": "2025-06-29-nl.mp3",
-		"kind": "blog",
-		"audioSeconds": 1515,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "jTSrv5",
+		"suuid": "3bLVAs",
 		"language": "it",
 		"date": "2025-06-29",
 		"title": "Domenica 29 guigno 2025",
@@ -297,7 +297,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zgxZfN",
+		"suuid": "7kXRAe",
+		"language": "nl",
+		"date": "2025-06-29",
+		"title": "Zondag 29 juni 2025",
+		"htmlBody": "\u003ch3\u003eEen avontuur op de heuvel\u003c/h3\u003e\u003cp\u003eOp een ochtend besloot ik een wandeling te maken, voor het geval je denkt dat ik altijd binnen zit. Het was een goede manier om met mezelf in contact te blijven en mijn vaardigheden te testen. De zon scheen zwak door de wolken, en de lucht voelde fris. Ik liep richting de heuvel bij het oude huurcomplex, waar ik vroeger vaak speelde als kind.\u003c/p\u003e\u003cp\u003eOnderweg zag ik een reeks kinderen spelen. Ik zag ze opduiken achter bomen en struiken, schreeuwend van plezier. Zeker weten, ze genoten van het moment. Het herinnerde me eraan hoe waardevol eenvoudige momenten kunnen zijn. Jammer zeg dat we als volwassenen vaak zulke dingen vergeten.\u003c/p\u003e\u003cp\u003eIk bereikte de top van de heuvel, waar het uitzicht prachtig was. Daar begon ik te denken over hoe je dit kunt oplossen: hoe kun je meer genieten van het leven, ondanks werk en stress? Blijf eerlijk tegenover jezelf, dacht ik. Soms is het nodig om even stil te staan bij wat echt belangrijk is.\u003c/p\u003e\u003cp\u003ePlots hoorde ik iemand roepen. Een vrouw stond beneden en zwaaide naar me. Ze was een toerist, verdwaald. Ze vroeg of ik Engels sprak, of ik kan ook Nederlands spreken, zei ze aarzelend. Als je wilt, kun je met mij mee terug naar het dorp lopen, stelde ik voor. Onderweg begon ze over haar werk te vertellen. Ze was programmeur, net als ik. We spraken over functies, en ik zei: \"In andere talen wordt dit vaak null genoemd, maar in JavaScript is dat anders.\" Ze lachte. “Hoe zit het met Java dan?” vroeg ze. “De eerste functie die ik ooit schreef, drukte in principe waarden af,” antwoordde ik.\u003c/p\u003e\u003cp\u003eWe praatten over variabelen, waarvan de naam hun waarde is, en opdrachten die moeilijk waren. “Misschien ken ik de woorden niet in het Nederlands,” zei ze, “maar ik begrijp de concepten.” “Ik heb dit al een paar keer gezegd,” antwoordde ik, “taal is maar een hulpmiddel.”\u003c/p\u003e\u003cp\u003eToen we het dorp bereikten, namen we afscheid. Ik denk dat het eerste zal zijn dat ik vanavond een verslag schrijf over vandaag. Dit is een test van Papa, grapte ik tegen mezelf terwijl ik begon te typen. Ik bekeek de pagina van mijn dagboek, waar ik alles opschreef, in de volgorde waarin ik het had meegemaakt.\u003c/p\u003e\u003cp\u003eLater die avond, tijdens het coderen, merkte ik een fout op. Een waarde zat er nog niet bij. Het probleem is dat het systeem ervan uitgaande dat alles correct wordt ingevuld. Af en toe gebeurt het nog. Nu zou dit eenvoudig te vervangen zijn met een paar andere aanvullende commits.\u003c/p\u003e\u003cp\u003eJe zult merken dat sommige bugs terugkeren. Dat ding was er niet toen ik daar was, maar ineens is het er weer. Duwen en trekken, dat is programmeren soms. Let met name op je logica.\u003c/p\u003e\u003cp\u003eIk dronk koffie, zoals altijd. Mijn vriendin zegt altijd: “Ze heeft mij veel melk gekocht, maar hij vergeet het altijd.” Ze weet dat ik van koffie hou, maar ook dat ik koffie maak zoals een wetenschapper.\u003c/p\u003e\u003cp\u003eWant zonder deze kleine rituelen, zou mijn dag niet compleet zijn.\u003c/p\u003e",
+		"audioFileName": "2025-06-29-nl.mp3",
+		"kind": "blog",
+		"audioSeconds": 1515,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "7sx20w",
 		"language": "it",
 		"date": "2025-06-28",
 		"title": "Sabato 28 giugno 2025",
@@ -308,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "nvqKqG",
+		"suuid": "pJhH2B",
 		"language": "it",
 		"date": "2025-06-27",
 		"title": "Venerdì 27 guigno 2025",
@@ -319,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pSUlXw",
+		"suuid": "WDxh2x",
 		"language": "it",
 		"date": "2025-06-26",
 		"title": "Giovedì 26 guigno 2025",
@@ -330,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fbY7Od",
+		"suuid": "cUxdIt",
 		"language": "it",
 		"date": "2025-06-25",
 		"title": "Mercoledì 25 guigno 2025",
@@ -341,7 +352,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ABWY1d",
+		"suuid": "z7IdeV",
 		"language": "it",
 		"date": "2025-06-24",
 		"title": "Martedì 24 guigno 2025",
@@ -352,7 +363,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KHwW2H",
+		"suuid": "tY4qbu",
 		"language": "it",
 		"date": "2025-06-23",
 		"title": "Lunedì 23 guigno 2025",
@@ -363,7 +374,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DYvIn6",
+		"suuid": "C5yARn",
 		"language": "it",
 		"date": "2025-06-22",
 		"title": "Domenica 22 guigno 2025",
@@ -374,7 +385,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "eAXCbv",
+		"suuid": "yQexyg",
 		"language": "it",
 		"date": "2025-06-21",
 		"title": "Sabato 21 guigno 2025",
@@ -385,7 +396,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FabCDF",
+		"suuid": "cWh3EN",
 		"language": "it",
 		"date": "2025-06-20",
 		"title": "Venerdì 20 guigno 2025",
@@ -396,7 +407,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3VsfC1",
+		"suuid": "UNo3hX",
 		"language": "it",
 		"date": "2025-06-19",
 		"title": "Giovedì 19 guigno 2025",
@@ -404,10 +415,21 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 564
+		"estimatedAudioSeconds": 573
 	},
 	{
-		"suuid": "Ormx8S",
+		"suuid": "kU9ut0",
+		"language": "it",
+		"date": "2025-06-18",
+		"title": "Mercoledì 18 guigno 2025",
+		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 560
+	},
+	{
+		"suuid": "sDc7Fn",
 		"language": "nl",
 		"date": "2025-06-18",
 		"title": "Woensdag 18 juni 2025",
@@ -418,18 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "O4pFgp",
-		"language": "it",
-		"date": "2025-06-18",
-		"title": "Mercoledì 18 guigno 2025",
-		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
-		"audioFileName": "",
-		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 551
-	},
-	{
-		"suuid": "UUz5Bv",
+		"suuid": "r8ofKm",
 		"language": "nl",
 		"date": "2025-06-17",
 		"title": "Dinsdag 17 juni 2025",
@@ -440,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1lEvDt",
+		"suuid": "DhbCGH",
 		"language": "it",
 		"date": "2025-06-17",
 		"title": "Martedì 17 giugno 2025",
@@ -451,18 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8j1857",
-		"language": "it",
-		"date": "2025-06-16",
-		"title": "Lunedì 16 giugno 2025",
-		"htmlBody": "\u003ch3\u003eIl mistero del gioco ombra\u003c/h3\u003e\u003cp\u003eEccomi qui nel mio spazio, pronto a raccontarvi una storia che mi ha cambiato. Non so su quale ramo della mia mente sia nata questa memoria, ma lo incollerò comunque, perché in qualche modo lo tormenta ancora.\u003c/p\u003e\u003cp\u003ePer cominciare, bisogna sapere che, nella mia vita, i videogiochi hanno sempre avuto un ruolo importante. Ma ce n’era uno, il gioco ombra, che mi colpì in modo diverso. Lo trovai per caso in una vecchia cartuccia. Era un po’ ingombrante, danneggiata, ma non vuoi buttarlo via qualcosa che manda onde d’urto nel cuore appena lo tocchi.\u003c/p\u003e\u003cp\u003eAppena lanciai il gioco, mi trovai in un mondo ludico, pieno di suoni metallici e rintocchi videoludichi. Il mio personaggio raccoglieva gettoni, e premendo il tasto Q, si apriva un menù misterioso con alcune bandiere.\u003c/p\u003e\u003cp\u003e\"Perché si chiama così?\" mi chiesi. Ogni livello era diverso, e spesso ti permette di tornare in cima o ti permette di tornare in fondo, ma solo se risolvevi degli enigmi. Il gioco era una grande astrazione della realtà, ma qui non è così: ogni mossa aveva una conseguenza.\u003c/p\u003e\u003cp\u003eTi rendi subito conto che non era un gioco come gli altri. Il giudice del mondo digitale, un’entità senza volto, sembrava osservarti. Una volta mi disse: \"mi sta dicendo che non sei pronto\". Rimasi sbalordito. Era solo un gioco? Non ho avuto tempo per capirlo del tutto.\u003c/p\u003e\u003cp\u003eDa quando ho scoperto il gioco ombra, voglio apportare una modifica al mio modo di vivere. Ho capito che voglio fare i miei corsi, migliorarmi, crescere. Ma le altre cose, come il lavoro, mi prendono troppo tempo. A volte è difficile svegliarsi, ma so che serve impegno.\u003c/p\u003e\u003cp\u003eOra se faccio questo, se torno a quel gioco, costeranno più tempo le mie giornate, ma forse ne vale la pena. Lasciate che vi mostri cosa intendo. C'era un livello in cui dovevi scartare dei ricordi per andare avanti. Ma ogni volta che ne scartavi uno, ne tornava un altro. Come se non vuoi buttarlo via, ma sai che devi.\u003c/p\u003e\u003cp\u003eIn preda alla curiosità, ho deciso di eseguire un’analisi del codice. Volevo rilevare qualcosa di strano. E alla fine, il segreto è stato svelato a tutti: il gioco ombra non era un gioco. Era un test psicologico interattivo.\u003c/p\u003e\u003cp\u003eCercheresti di evitarlo se lo sapessi? Forse. Ma io no. Lo rifarei. Se potessi, farei ancora quella scelta, anche se costeranno più tempo le mie giornate.\u003c/p\u003e\u003cp\u003eE domani? Parlare di un argomento così profondo con gli amici sarà difficile. Ma voglio provarci. Grazie mille per aver ascoltato questa storia. In fondo, è anche vostra.\u003c/p\u003e\u003cp\u003ePer concludere, voglio solo dire: inizia dalla prima riga, anche se sembra tutto vorticoso. In un paio di secondi, la vita può cambiare. Riscrivila, se serve. Serve solo il coraggio di premere \"Start\".\u003c/p\u003e",
-		"audioFileName": "2025-06-16-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 445,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "hBCbKg",
+		"suuid": "wqurfS",
 		"language": "nl",
 		"date": "2025-06-16",
 		"title": "Maandag 16 juni 2025",
@@ -473,7 +473,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "in5wlF",
+		"suuid": "8YJDMO",
+		"language": "it",
+		"date": "2025-06-16",
+		"title": "Lunedì 16 giugno 2025",
+		"htmlBody": "\u003ch3\u003eIl mistero del gioco ombra\u003c/h3\u003e\u003cp\u003eEccomi qui nel mio spazio, pronto a raccontarvi una storia che mi ha cambiato. Non so su quale ramo della mia mente sia nata questa memoria, ma lo incollerò comunque, perché in qualche modo lo tormenta ancora.\u003c/p\u003e\u003cp\u003ePer cominciare, bisogna sapere che, nella mia vita, i videogiochi hanno sempre avuto un ruolo importante. Ma ce n’era uno, il gioco ombra, che mi colpì in modo diverso. Lo trovai per caso in una vecchia cartuccia. Era un po’ ingombrante, danneggiata, ma non vuoi buttarlo via qualcosa che manda onde d’urto nel cuore appena lo tocchi.\u003c/p\u003e\u003cp\u003eAppena lanciai il gioco, mi trovai in un mondo ludico, pieno di suoni metallici e rintocchi videoludichi. Il mio personaggio raccoglieva gettoni, e premendo il tasto Q, si apriva un menù misterioso con alcune bandiere.\u003c/p\u003e\u003cp\u003e\"Perché si chiama così?\" mi chiesi. Ogni livello era diverso, e spesso ti permette di tornare in cima o ti permette di tornare in fondo, ma solo se risolvevi degli enigmi. Il gioco era una grande astrazione della realtà, ma qui non è così: ogni mossa aveva una conseguenza.\u003c/p\u003e\u003cp\u003eTi rendi subito conto che non era un gioco come gli altri. Il giudice del mondo digitale, un’entità senza volto, sembrava osservarti. Una volta mi disse: \"mi sta dicendo che non sei pronto\". Rimasi sbalordito. Era solo un gioco? Non ho avuto tempo per capirlo del tutto.\u003c/p\u003e\u003cp\u003eDa quando ho scoperto il gioco ombra, voglio apportare una modifica al mio modo di vivere. Ho capito che voglio fare i miei corsi, migliorarmi, crescere. Ma le altre cose, come il lavoro, mi prendono troppo tempo. A volte è difficile svegliarsi, ma so che serve impegno.\u003c/p\u003e\u003cp\u003eOra se faccio questo, se torno a quel gioco, costeranno più tempo le mie giornate, ma forse ne vale la pena. Lasciate che vi mostri cosa intendo. C'era un livello in cui dovevi scartare dei ricordi per andare avanti. Ma ogni volta che ne scartavi uno, ne tornava un altro. Come se non vuoi buttarlo via, ma sai che devi.\u003c/p\u003e\u003cp\u003eIn preda alla curiosità, ho deciso di eseguire un’analisi del codice. Volevo rilevare qualcosa di strano. E alla fine, il segreto è stato svelato a tutti: il gioco ombra non era un gioco. Era un test psicologico interattivo.\u003c/p\u003e\u003cp\u003eCercheresti di evitarlo se lo sapessi? Forse. Ma io no. Lo rifarei. Se potessi, farei ancora quella scelta, anche se costeranno più tempo le mie giornate.\u003c/p\u003e\u003cp\u003eE domani? Parlare di un argomento così profondo con gli amici sarà difficile. Ma voglio provarci. Grazie mille per aver ascoltato questa storia. In fondo, è anche vostra.\u003c/p\u003e\u003cp\u003ePer concludere, voglio solo dire: inizia dalla prima riga, anche se sembra tutto vorticoso. In un paio di secondi, la vita può cambiare. Riscrivila, se serve. Serve solo il coraggio di premere \"Start\".\u003c/p\u003e",
+		"audioFileName": "2025-06-16-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 445,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "yrW7tm",
 		"language": "it",
 		"date": "2025-06-15",
 		"title": "Domenica 15 giugno 2025",
@@ -484,7 +495,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "oLMpWq",
+		"suuid": "zprxEG",
 		"language": "nl",
 		"date": "2025-06-15",
 		"title": "Zondag 15 juni 2025",
@@ -495,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0uPXhf",
+		"suuid": "uKyXC2",
 		"language": "it",
 		"date": "2025-06-14",
 		"title": "Sabato 14 giugno 2025",
@@ -506,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KloMIC",
+		"suuid": "W1eZtU",
 		"language": "nl",
 		"date": "2025-06-14",
 		"title": "Zaterdag 14 juni 2025",
@@ -517,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qfsCfM",
+		"suuid": "ISggOb",
 		"language": "it",
 		"date": "2025-06-13",
 		"title": "Venerdì 13 giugno 2025",
@@ -528,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zW7URt",
+		"suuid": "YTfqhf",
 		"language": "it",
 		"date": "2025-06-12",
 		"title": "Giovedì 12 giugno 2025",
@@ -539,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZLZrdw",
+		"suuid": "youe7S",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -550,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uorov8",
+		"suuid": "8qZP8c",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -561,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "I2EhVK",
+		"suuid": "OjV2iy",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -572,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fnVQFK",
+		"suuid": "5eJ0jF",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -583,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "acMT3y",
+		"suuid": "CbakKg",
 		"language": "fr",
 		"date": "2025-06-07",
 		"title": "Samedi 7 juin 2025",
@@ -594,7 +605,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DRhSdY",
+		"suuid": "KyX6YK",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -605,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XfACP0",
+		"suuid": "B8VE3w",
 		"language": "pl",
 		"date": "2025-06-05",
 		"title": "Zwartek, 5 czerwca 2025",
@@ -616,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3GEyZ6",
+		"suuid": "TZQwRb",
 		"language": "pl",
 		"date": "2025-06-04",
 		"title": "Środa, 4 czerwca 2025",
@@ -627,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "mjaJnV",
+		"suuid": "gXJ3Jo",
 		"language": "pl",
 		"date": "2025-06-03",
 		"title": "Wtorek, 3 czerwca 2025",
@@ -638,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zmKdXV",
+		"suuid": "Rk3elx",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Poniedziałek, 2 czerwiec 2025",
@@ -649,7 +660,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WqtFB6",
+		"suuid": "reyHqw",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -660,7 +671,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "40Xr2f",
+		"suuid": "1sdIz4",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -671,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "THJPUI",
+		"suuid": "A67tq3",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -682,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EAI7Ez",
+		"suuid": "yZQeCO",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -693,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5mwTrs",
+		"suuid": "ALhDBQ",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -704,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CCWRzy",
+		"suuid": "q1qmWG",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -715,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sRggZc",
+		"suuid": "6GpkP2",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -726,7 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iTx6W1",
+		"suuid": "bNEsEq",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -737,7 +748,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "q4RJcJ",
+		"suuid": "Ge1y9Z",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -748,7 +759,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "w5uJtB",
+		"suuid": "LyOwNH",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -759,7 +770,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gMkMup",
+		"suuid": "qlZ4kg",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -770,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "V1mqY7",
+		"suuid": "8GUmck",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -781,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pvp54m",
+		"suuid": "a0Gt1j",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -792,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qFiFwO",
+		"suuid": "jWxqqK",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -803,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ijzkKX",
+		"suuid": "9t4MDG",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -814,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "e80tPb",
+		"suuid": "z5lPf7",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -825,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FAapPI",
+		"suuid": "SuXDSX",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -836,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XNbMGr",
+		"suuid": "IIiPrr",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -847,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lfbIOE",
+		"suuid": "BkfxYN",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -858,7 +869,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "nwqSAr",
+		"suuid": "rRHgZw",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -866,10 +877,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 689
+		"estimatedAudioSeconds": 700
 	},
 	{
-		"suuid": "3vihqq",
+		"suuid": "rVzg2L",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -877,10 +888,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 553
+		"estimatedAudioSeconds": 562
 	},
 	{
-		"suuid": "82Ot9C",
+		"suuid": "WGcjpD",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -891,7 +902,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qmHZf0",
+		"suuid": "eFtew5",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -902,7 +913,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cDS1e8",
+		"suuid": "b1wvyE",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -913,7 +924,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KZVurJ",
+		"suuid": "yiNqNs",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -924,7 +935,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j0pAGS",
+		"suuid": "YaPiO4",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -935,7 +946,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Ct1Wci",
+		"suuid": "pbUdkC",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -946,7 +957,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ihbQIq",
+		"suuid": "ddrIIZ",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -957,7 +968,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jK9hf0",
+		"suuid": "hyix6J",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -965,10 +976,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 586
+		"estimatedAudioSeconds": 596
 	},
 	{
-		"suuid": "J6yZus",
+		"suuid": "4hSwja",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -979,7 +990,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jy6XzF",
+		"suuid": "YQL8TL",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -990,7 +1001,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QuhSFw",
+		"suuid": "KNfNvN",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -1001,7 +1012,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LYONo4",
+		"suuid": "jToXXU",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -1012,7 +1023,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kE0Kqn",
+		"suuid": "UhXiEm",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -1023,7 +1034,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QewqjU",
+		"suuid": "Y4Ht8H",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -1034,7 +1045,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QUI7CI",
+		"suuid": "ueW4dC",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -1045,7 +1056,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KawuYk",
+		"suuid": "N4VEfJ",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -1056,7 +1067,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "43KzXJ",
+		"suuid": "3OmmT6",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -1067,7 +1078,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "a7JKhz",
+		"suuid": "2Vf1cx",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -1078,7 +1089,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "811kW0",
+		"suuid": "M7zAdj",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -1089,7 +1100,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "rPEhda",
+		"suuid": "bqdbqW",
 		"language": "it",
 		"date": "2025-04-23",
 		"title": "Mercoledì, 23 aprile 2025",
@@ -1100,7 +1111,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qXoeF4",
+		"suuid": "Kz6NIP",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Ś�roda, 23 kwietnia 2025",
@@ -1111,7 +1122,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "InbWky",
+		"suuid": "UulizA",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -1122,7 +1133,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gyDu3x",
+		"suuid": "0UufeZ",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -1133,7 +1144,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "utBJLp",
+		"suuid": "rWxpfX",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -1144,7 +1155,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ohwjjo",
+		"suuid": "41TaG7",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -1155,7 +1166,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MwLK86",
+		"suuid": "HdGXCh",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -1166,7 +1177,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NbkjRO",
+		"suuid": "gDZSvO",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -1177,7 +1188,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "A0DoPL",
+		"suuid": "B9hrkD",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -1188,7 +1199,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2XN0nP",
+		"suuid": "o8v3Mz",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Ś�roda 16 kwietnia 2025",
@@ -1199,7 +1210,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zVqLGo",
+		"suuid": "QA4wIB",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -1210,7 +1221,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3d2sNo",
+		"suuid": "ArLQir",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -1221,7 +1232,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NjnoE1",
+		"suuid": "AoR4E6",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -1232,7 +1243,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EjoLsJ",
+		"suuid": "XoNIUV",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -1243,7 +1254,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "F9YlIo",
+		"suuid": "lt1iHx",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -1254,7 +1265,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ruDIll",
+		"suuid": "8mkQ98",
 		"language": "it",
 		"date": "2025-04-14",
 		"title": "Lunedì 14 aprile 2025",
@@ -1265,7 +1276,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8tIcE5",
+		"suuid": "EwBwND",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -1276,7 +1287,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sEHHnR",
+		"suuid": "WXTubE",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -1287,7 +1298,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4aas9S",
+		"suuid": "c2ZGSL",
 		"language": "es",
 		"date": "2025-04-13",
 		"title": "Domingo 13 de abril de 2025",
@@ -1298,7 +1309,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1GPAqz",
+		"suuid": "JkgpKx",
 		"language": "pl",
 		"date": "2025-04-13",
 		"title": "Niedziela, 13 kwietnia 2025",
@@ -1309,7 +1320,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "eNpCtl",
+		"suuid": "VPEzUN",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -1320,7 +1331,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xm2nCI",
+		"suuid": "KCWs7u",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -1331,7 +1342,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zjXgKn",
+		"suuid": "pX9nKs",
 		"language": "nl",
 		"date": "2025-04-12",
 		"title": "Zaterdag 12 april 2025",
@@ -1342,7 +1353,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2X9ilr",
+		"suuid": "cT5UCM",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -1353,7 +1364,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9zhej2",
+		"suuid": "9bTXq0",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -1364,7 +1375,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "epvJNy",
+		"suuid": "I3Avsl",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -1375,7 +1386,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8i0Swl",
+		"suuid": "FzENRW",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -1386,7 +1397,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jHDifD",
+		"suuid": "BLae3e",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -1397,7 +1408,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gKa8lL",
+		"suuid": "CFVN5k",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -1408,7 +1419,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "oBpdUq",
+		"suuid": "86CYJG",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -1419,7 +1430,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MA0q7d",
+		"suuid": "PQb5Jb",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -1430,7 +1441,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FFwPds",
+		"suuid": "h4iJTS",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
@@ -1441,7 +1452,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WmWrNd",
+		"suuid": "xwxkA7",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",

@@ -1,3 +1,27 @@
+2025-07-25 xvendredi 24 juillet 2025
+
+>> Le mystère du site oublié
+
+Avant de rentrer dans le vif du sujet, commençons par un bref aperçu historique. Il y a dix ans, une petite équipe de développeurs passionnés travaillait sur un projet web particulièrement bien fait, avec une griffe esthétique sous-jacente qui est loin d'être étrangère au succès du site. Ce site, oublié depuis, vous propose un cadre original pour explorer les toutes sortes de mises en page, allant des boîtes de dialogues aux listes déroulants, avec la couche JavaScript bien intégrée.
+
+Il est temps maintenant de démarrer notre exploration. Voilà à quoi ça va ressembler : tu as trouvé un vieux disque dur avec les fichiers dont on va se servir. À y regarder de plus près, ce ne sera peut-être pas le cas pour tous, mais ceux-ci sont globalement exploitables.
+
+Plus tôt dans ce chapitre, on avait vu comment organiser un projet moderne. Il en va de même pour ce site : vous allez parfois voir des structures anciennes, au sein de chacun des dossiers, qu’il faudra ensuite combiner avec autre outils. De même, certaines sections utilisent Bootstrap, mais ce n’est pas propre à Bootstrap : les marges verticales se superposent en CSS, ce qui peut rendre certaines parties un peu piégeux.
+
+On pourrait repartir de zéro, ou carrément un autre framework, mais on va se rabattre vers une restauration partielle. Cela dit, vous devez bien sûr souscrire à ces choix si vous travaillez dans le cadre de votre métier. Il peut s’agir de choix techniques, esthétiques, ou même philosophiques.
+
+Par la suite, tu décides d’intégrer un système de champs de formulaires modernes. Il faudra alors créer un composant qui serait propre à votre site, avant de monter en taille pour le rendre responsive. Grid con nuove utilities e colonne responsive pourra t’aider. Rien ne t’empêche d’utiliser Tailwind, bien que l’abandon de la prise en charge de certaines anciennes classes puisse te freiner.
+
+L'équipe d’origine a également fait des choix esthétiques audacieux. Ils auraient pu choisir la facilité, mais ceux évoqués dans les commentaires du code montrent une vraie réflexion. Au détriment de la compatibilité mobile parfois, certes, mais avec un style marqué.
+
+En haut à droite de la page, une icône donne accès à le pense-bête, très utile. En cliquant, juste en dessous, on découvre une liste d’astuces, à portée de main, pour comprendre le code.
+
+Avant de monter en taille, on nettoie le code en une fois, autant éviter autant que possible les doublons. Dans les grandes lignes, le projet renaît doucement. Il ne reste plus qu’à tester.
+
+Pour aboutir à une version stable, il faudrait aussi penser à l’accessibilité. Ton collègue, quant à lui, propose une vérification manuelle. Il n’est tout simplement pas une option pour toi de publier un site non accessible.
+
+Demain, tu continueras. Et puis seulement, tu pourras dire que ce projet est terminé.
+
 2025-07-23 xmercredi 23 juillet 2025
 
 >> Un projet, une mission

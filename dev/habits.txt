@@ -1,1 +1,3 @@
-general; speak to LLMs in your target language
+all; speak to LLMs in your target language
+it,fr; I separate each syllable with staccato
+all; I speak as if I mean it, as if I am in a real conversation speaking to someone
