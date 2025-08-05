@@ -1,11 +1,7 @@
 - recording
-	- use pronouns often
-	- use challenging vocabulary
-	- use challenging grammatical structures
 	- resolve anything unclear about the language, e.g. record all verbs and other grammar concepts
+	- keep empty audio to a minimum, stop before lookup
+	- as much commentary in target language as possible, this is good learning content
 - reading
 	- exaggerate the accent
 	- listen to a model accent beforehand
-- ideas to get texts for stores
-	- prompts
-		- 20 B2 French phrases
