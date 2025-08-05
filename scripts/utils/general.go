@@ -4,6 +4,8 @@ import (
 	"crypto/rand"
 	"math/big"
 	"strings"
+	"fmt"
+	"time"
 )
 
 /*
@@ -43,4 +45,15 @@ func CapitalizeFirstLetter(s string) string {
 	} else {
 		return strings.ToUpper(s[:1]) + s[1:]
 	}
+}
+
+func PadZerosLeft(input int, totalLength int) string {
+    return fmt.Sprintf("%0*d", totalLength, input)
+}
+
+func GetTimeStamp() string {
+	// 2025-08-05 08:29:17
+	return fmt.Sprintf("%04d-%02d-%02d %02d:%02d:%02d",
+		time.Now().Year(), time.Now().Month(), time.Now().Day(),
+		time.Now().Hour(), time.Now().Minute(), time.Now().Second())
 }

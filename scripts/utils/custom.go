@@ -5,6 +5,7 @@ import (
 	"os"
 	"fmt"
 	"path/filepath"
+	"encoding/json"
 )
 
 /*
@@ -43,3 +44,52 @@ func GetAudioFileName(date string, language string) string {
 	}
 	return ""
 }
+
+type CompoutPhrase struct {
+	SourcePhrase   string `json:"source_phrase"`
+	TargetPhrase   string `json:"target_phrase"`
+	TargetLanguage string `json:"target_language"`
+	WhenRecorded   string `json:"when_recorded"`
+	WhenUsed       string `json:"when_used"`
+}
+
+func GetLanguageCode(language string) string {
+	switch language {
+	case "English":
+		return "en"
+	case "German":
+		return "de"
+	case "French":
+		return "fr"
+	case "Spanish":
+		return "es"
+	case "Italian":
+		return "it"
+	case "Dutch":
+		return "nl"
+	case "Polish":
+		return "pl"
+	case "Russian":
+		return "ru"
+	case "Greek":
+		return "el"
+	case "Icelandic":
+		return "is"
+	default:
+		return "unknown"
+	}
+}
+
+func GetCompoutPhrasesPathAndFileName() string {
+	return "../../../parseddata/compoutPhrases.json"
+}
+
+func GetCompoutPhrases() []CompoutPhrase {
+	existingPhrases := []CompoutPhrase{}
+	phrasesFile := GetCompoutPhrasesPathAndFileName()
+	if data, err := os.ReadFile(phrasesFile); err == nil {
+		_ = json.Unmarshal(data, &existingPhrases)
+	}
+	return existingPhrases
+}
+

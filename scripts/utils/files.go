@@ -92,3 +92,21 @@ func FileExists(path string) bool {
 	_, err := os.Stat(path)
 	return err == nil || !os.IsNotExist(err)
 }
+
+func AppendToBeginningOfFile(fileName string, text string) error {
+	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0644)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	// Read existing content
+	content, err := os.ReadFile(fileName)
+	if err != nil {
+		return err
+	}
+
+	// Write new content at the beginning
+	_, err = file.WriteAt([]byte(text+"\n"+string(content)), 0)
+	return err
+}	
