@@ -36468,5 +36468,404 @@
     "target_language": "it",
     "when_recorded": "2025-08-05 06:29:58",
     "when_used": ""
+  },
+  {
+    "source_phrase": "but both fall within the logic",
+    "target_phrase": "ma entrambe rientrano nella logica",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "If you want to be more precise",
+    "target_phrase": "Se vuoi essere più preciso",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "what else could you put here besides \"len\"",
+    "target_phrase": "cos'altro potresti mettere qui oltre a \"len\"",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "you know you won't change the values and want more secure code",
+    "target_phrase": "sai che non cambierai i valori e vuoi un codice più sicuro",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "However, the choice of tuple makes sense for some practical reasons.",
+    "target_phrase": "La scelta della tuple però ha senso per alcuni motivi pratici",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "and it would work the same",
+    "target_phrase": "e funzionerebbe lo stesso",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "you could use a list instead of a tuple",
+    "target_phrase": "potresti usare una lista al posto di una tuple",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "Each key must be unique and immutable, but values can be duplicated and changed.",
+    "target_phrase": "Ogni chiave deve essere unica e immutabile, ma i valori possono essere duplicati e modificabili",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "for example, data in forms",
+    "target_phrase": "ad esempio, dati nei moduli",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "Do you want to search for a value based on a key quickly?",
+    "target_phrase": "Vuoi cercare un valore in base a una chiave in modo rapido",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "You need a key → value mapping",
+    "target_phrase": "Ti serve una mappatura chiave → valore",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "You want to take advantage of fast set operations (union, intersection, difference).",
+    "target_phrase": "Vuoi sfruttare le operazioni insiemistiche veloci (unione, intersezione, differenza).",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "You don't care about the order of the elements",
+    "target_phrase": "Non ti interessa l’ordine degli elementi",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "fixed records",
+    "target_phrase": "record fissi",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "It can be used as a dictionary key",
+    "target_phrase": "Può essere usata come chiave di un dizionario",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "Shopping list, transaction history, task queue",
+    "target_phrase": "Lista della spesa, cronologia delle operazioni, coda di attività",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "You often need to add/remove/edit items in specific locations",
+    "target_phrase": "Devi spesso aggiungere/rimuovere/modificare elementi in posizioni specifiche",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "The order of insertion is important",
+    "target_phrase": "l’ordine di inserimento è importante",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I thought about the reasons for choosing",
+    "target_phrase": "ho ragionato sui motivi per cui scegliere",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "Here is a brief comparison",
+    "target_phrase": "Ecco un confronto sintetico",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "a realistic and minimal example for each of the four types of collection",
+    "target_phrase": "un esempio realistico e minimo per ciascuno dei quattro tipi di collezione",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "returns the entire string without errors",
+    "target_phrase": "restituisce l’intera stringa senza errori",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "indicates that you start from the third-to-last character to the end",
+    "target_phrase": "indica che parti dal terzultimo carattere fino alla fine",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "how to get the last three characters in a string",
+    "target_phrase": "come ottenere gli ultimi tre caratteri in una stringa",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "sorry that was confusing",
+    "target_phrase": "scusa, è stato confusionario",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I asked them and I asked him",
+    "target_phrase": "Ho chiesto a loro e ho chiesto a lui",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I want to look up the word",
+    "target_phrase": "Voglio cercare la parola",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I have taken",
+    "target_phrase": "Ho preso",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I poured it in",
+    "target_phrase": "L'ho versato dentro",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I have too many words in my head",
+    "target_phrase": "Ho troppe parole nella mia testa",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "Let me know if you want a version with pointers",
+    "target_phrase": "Fammi sapere se vuoi una versione con puntatori",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "it can write",
+    "target_phrase": "può scrivere",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "soap and toothpaste",
+    "target_phrase": "sapone e dentifricio",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I don't know how much time the process takes",
+    "target_phrase": "Non so quanto tempo ci vuole per completare il processo",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "the program has stopped working again",
+    "target_phrase": "il programma ha smesso di funzionare di nuovo",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "and now I have a good tool to do it",
+    "target_phrase": "e ora ho un buon strumento per farlo",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I am able to learn languages quickly",
+    "target_phrase": "Sono in grado di imparare le lingue velocemente",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "to pour the coffee into the cup",
+    "target_phrase": "versare il caffè nella tazza",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "we only have eightteen phrases",
+    "target_phrase": "abbiamo solo diciotto frasi",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "for me it is not a problem",
+    "target_phrase": "per me non è un problema",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "how can I temporarily turn off auto-complete",
+    "target_phrase": "come posso disattivare temporaneamente il completamento automatico",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "create function to padded zeros",
+    "target_phrase": "crea una funzione per riempire gli zeri",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "we came through the mountains",
+    "target_phrase": "siamo passati attraverso le montagne",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "my muscles hardly hurt after doing a workout",
+    "target_phrase": "i miei muscoli non mi fanno quasi male dopo l'allenamento",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "there are nine people in our group",
+    "target_phrase": "ci sono nove persone nel nostro gruppo",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "we do gymnastics",
+    "target_phrase": "facciamo ginnastica",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "he has taken",
+    "target_phrase": "lui ha preso",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "in Go, create function to padded zeros",
+    "target_phrase": "in Go, crea una funzione per riempire gli zeri",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "what is the two-character code for Portuguese",
+    "target_phrase": "qual è il codice di due caratteri per il portoghese?",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I have two interviews coming up",
+    "target_phrase": "Ho due colloqui in arrivo",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "you have to constantly look up language",
+    "target_phrase": "devi cercare costantemente la lingua",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "my brain works too slow",
+    "target_phrase": "il mio cervello lavora troppo lentamente",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "I was not missed",
+    "target_phrase": "Non mi sono perso",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "describe this company",
+    "target_phrase": "descrivi questa azienda",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "the approval of training bodies",
+    "target_phrase": "l'approvazione di enti formativi",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "AZAV certified training courses",
+    "target_phrase": "le formazioni certificate AZAV",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
+  },
+  {
+    "source_phrase": "what exactly are",
+    "target_phrase": "cosa sono esattamente",
+    "target_language": "it",
+    "when_recorded": "2025-08-05 21:42:51",
+    "when_used": ""
   }
 ]
