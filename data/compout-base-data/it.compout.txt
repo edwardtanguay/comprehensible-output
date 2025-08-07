@@ -1,3 +1,42 @@
+2025-08-07 - giovedì 7 agosto 2025
+
+>> Una giornata particolare
+
+Abito a Milano da venticinque anni, ma nonostante ciò ogni tanto mi sembra di vivere in una città nuova. È sempre caotico, e c’è troppo rumore fuori. Scusa, devo andare a chiudere la finestra. Ok. Ora possiamo continuare.
+
+Stamattina, mentre camminavo verso il parco, ho visto qualcosa di strano: il cane continua ad annusare l’aria con insistenza. Sembrava che avesse trovato qualcosa. Mi piace sentire il profumo delle rose e, proprio vicino a lui, c’era un cespuglio in fiore. C’è un grande spazio aperto qui, perfetto per pensare. Da tre mesi aggiungo parole italiane alla mia mente, e oggi mi sono promesso di usare almeno venti verbi diversi.
+
+Mi sono seduto sulla panchina. Accanto a me, un uomo anziano con un cappello elegante: sembra il padre di un mio amico. Poiché sei della Sardegna, ho pensato, "forse anche lui ama stare al sole". Ho letto da qualche parte che il sole migliora l’umore.
+
+Mentre scrivevo sul mio taccuino — Ho scritto “è meglio avere la telecamera accesa?” — mi sono ricordato di ieri: Ho trovato la telecamera nella stanza, ma era spenta. Strano. È strano quanto poco lavori, ho pensato del mio collega: ha di nuovo una giornata corta.
+
+A proposito di lavoro, mi converrebbe fare almeno quattro ore di sviluppo al giorno, ma oggi non ce la faccio. Ieri l'incontro è andato meglio di quanto pensassi. Tutti erano attenti, motivati, e erano tutti d'accordo con il nuovo status. Una nota veloce: non si pronuncia nnn ma bbb — me l’ha detto il mio collega linguista. Naturalmente si pronuncia così.
+
+Ieri pomeriggio, feci un viaggio veloce in treno per Bologna. Ho attraversato di corsa il gruppo di turisti alla stazione, e il gruppo si è aperto come per magia. Sono contento di non aver fatto la domanda per quel lavoro lì: mi avrebbe costretto a trasferirmi. È la soluzione migliore per continuare a fare le cose che so fare bene, rimanere a Milano.
+
+Nel treno, ho ragionato sui motivi per cui scegliere una lista o una tuple. Ecco un confronto sintetico:
+– potresti usare una lista al posto di una tuple se devi spesso aggiungere/rimuovere/modificare elementi in posizioni specifiche;
+– la scelta della tuple però ha senso per alcuni motivi pratici, ad esempio quando vuoi cercare un valore in base a una chiave in modo rapido o può essere usata come chiave di un dizionario;
+– ogni chiave deve essere unica e immutabile, ma i valori possono essere duplicati e modificabili;
+– record fissi funzionano bene con le tuple;
+– l’ordine di inserimento è importante per le liste;
+– non ti interessa l’ordine degli elementi se usi set o dizionari;
+– vuoi sfruttare le operazioni insiemistiche veloci (unione, intersezione, differenza).
+– Lista della spesa, cronologia delle operazioni, coda di attività: perfette per le liste.
+
+Quindi la seguente differenza è importante: mutabilità. Se vuoi essere più preciso, devi scegliere il tipo di collezione giusto.
+
+Questa mattina, in ufficio, abbiamo discusso in termini di MVP, di cosa abbiamo bisogno. Tornerò subito dopo pranzo per finire il prototipo. Non siamo in ritardo, ma devo risolvere questa disconnessione tra il frontend e l’API. Come hai fatto?, mi ha chiesto Carlo ieri, sorpreso che tutto funzionasse. E funzionerebbe lo stesso con un approccio diverso, ma sai che non cambierai i valori e vuoi un codice più sicuro? Allora meglio la tuple.
+
+Probabilmente ne avrò più di duecento esempi di codice simile. Cos'altro potresti mettere qui oltre a "len"? Mi ha chiesto il mio capo durante una revisione. Vuoi ottenere gli ultimi tre caratteri in una stringa? Facile: stringa[-3:] indica che parti dal terzultimo carattere fino alla fine e restituisce l’intera stringa senza errori.
+
+Un mese fa, aveva degli occhiali nuovi. Adesso non li porta più. Forse li ha persi? Non sono sicuro di quando tornerà, ma loro andranno avanti anche senza di lui. Questo è tutto da parte mia, ho detto al team prima di uscire.
+
+Domani tornerò a scrivere un nuovo racconto. Avrò scritto abbastanza per pubblicare qualcosa, forse. Entro la prossima settimana, avrò scritto più di trenta pagine e avrò continuato a migliorare il mio italiano.
+
+Se potessi scegliere, avrei preferito scrivere oggi tutto il giorno. Ma sebbene piova, continuerò a camminare nel parco.
+Scusa, è stato confusionario. Ma ok, il passato remoto sembra abbastanza importante da imparare.
+
 2025-08-06 - mercoledì 6 agosto 2025
 
 >> Il viaggio di Anna e Bruno
