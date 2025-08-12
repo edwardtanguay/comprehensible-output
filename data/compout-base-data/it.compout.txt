@@ -1,3 +1,43 @@
+2025-08-11 - lunedì 11 agosto 2025
+
+>> Python e conda: strumenti per il lavoro scientifico
+
+Marco è un ragazzo che studia informatica all’università. Da bambino, amava i computer, ma ora vuole imparare a usarli per il lavoro scientifico. Un giorno, il suo professore spiega questo comando:
+
+"Questo comando consente di specificare la versione di Python da usare," dice il professore. Marco è confuso, ma prende appunti.
+
+A casa, Marco cerca su Internet e scopre che sia Python che Conda sono utili. Un suo amico gli dice: "Entrambi convivono tranquillamente nello stesso ambiente." Marco sorride, perché vuole creare un ambiente multiutente che consente a più persone di utilizzarlo.
+
+Prima di continuare, Marco si chiede: "Posso installare sia Jupyter Notebook che JupyterLab?" Legge online e scopre che sì, può. Ma poi pensa: "Vuoi sapere quale conviene usare in un contesto specifico?"
+
+Decide di provare entrambi, ognuna con il proprio spazio. Dopo averli installati, si rende conto che JupyterLab è più flessibile e potente.
+
+Il giorno dopo, Marco chiede al professore: "Qual è la differenza tra pip e conda?" Il professore risponde: "Conda è più comodo per gestione ambienti scientifici." Marco annuisce.
+
+Poi, Marco vuole avviare Jupyter. Ricorda: "E per avviare Jupyter, assicurati di avere Python e pip installati." Segue le istruzioni e ora caricherà il file.
+
+Mentre lavora, Marco nota che mancano alcune librerie. "Dipendenze richieste," sospira. "In caso ti manchino, ecco i metodi principali per farlo:" cerca online e risolve tutto.
+
+Una settimana dopo, un amico gli chiede: "È possibile installare Jupyter su Linux?" Marco risponde: "Sì, ecco i metodi principali per farlo:"
+
+Mentre parla, Marco si ricorda di quando da sera studiava fino a tardi. Ma sebbene piova, lui continua a lavorare. A un certo punto, trova un errore e pensa: "Oh, sono contento di aver controllato!"
+
+Poi, Marco inizia a pensare all’italiano. "Voglio imparare a parlare fluentemente italiano in un anno," dice a sé stesso. Ricorda che queste due pronunce hanno due significati diversi, quindi vuole essere sicuro di pronunciarlo correttamente.
+
+Un giorno, mentre legge, trova una parola difficile. "Un attimo per favore, questa è una parola complicata," dice. Cerca online e scopre: "Non si pronuncia così, ma così!"
+
+Poi, trova un acronimo. "Ho bisogno di sapere come si pronuncia questo acronimo," pensa. Dopo averlo cercato, esclama: "Ecco, questa è la frase giusta qui!" Ma poi si corregge: "Un attimo, quella era la frase sbagliata!"
+
+Marco continua a studiare. "Se potessi scegliere, preferirei stare al sole invece che al computer," scherza. Ma sa che deve finire il lavoro fino alla fine.
+
+Alla fine, Marco guarda il suo progetto completato e sorride. "Poiché sei della Sardegna, aggiungo che hai ragione," dice a un amico. Poi, vede un cespuglio fuori dalla finestra e pensa alla natura.
+
+Prima di chiudere il computer, Marco trova un verbo complicato. "Un attimo, devo cercare che tipo di parola è 'avesse'," dice. Dopo averlo capito, esclama: "Quindi ricominciamo!"
+
+Infine, Marco chiude tutto e pensa: "Forse posso raccontarti la storia in italiano." E così fa, sorridendo mentre ricorda le lumache che vedeva da piccolo.
+
+Fammi sapere se è questo il tuo caso!
+
 2025-08-10 - domenica 10 agosto 2025
 
 >> Il viaggio di Luca e il mistero della casa in vendita
