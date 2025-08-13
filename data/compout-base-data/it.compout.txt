@@ -1,3 +1,45 @@
+2025-08-12 - martedì 12 agosto 2025
+
+>> Un viaggio pieno di sorprese
+
+Stanotte ho dormito molto, e questo è già un buon inizio. A volte mi sveglio stanco, ma oggi mi sento abbastanza riposato. Ho deciso che andrò a fare un giro in città appena mi consegnano l’auto nuova. È da tre anni che desideravo comprarla e oggi finalmente arriva.
+
+Mentre aspetto, penso a una conversazione di ieri: un mio collega mi ha parlato freddamente quando gli ho chiesto di aiutarmi con un progetto. Forse era stressato, e non potevamo fare altrimenti che rimandare tutto.
+
+La città dove vivo è piuttosto lontana dalla costa, ma qui si vivono meglio che altrove. C’è meno rumore, più tranquillità. Stamattina, mentre preparavo il caffè, ho quasi fatto un disastro: ho versato acqua bollente troppo vicino al bordo del tavolo e i piedi sono sott’acqua. Sì, hai capito bene, c’era una piccola perdita che aveva allagato il pavimento.
+
+Alle undici ci siamo dati appuntamento con Marco. «Ci vediamo alle undici circa» mi aveva detto. Lui cammina sempre veloce, e io gli ricordo: «Marco, cammini troppo veloce!». Ma lui ride e mi dice che hai solo bisogno di riposare e che dobbiamo solo riposarci quando arriviamo al parco.
+
+Beviamo questa bibita fresca e parliamo di viaggi. Marco mi racconta che ci sono già stato sei mesi fa a Napoli e che ci siamo perfino divertiti. Poi iniziamo a discutere di informatica, perché entrambi lavoriamo nel settore. A un certo punto mi chiede: «Ma in SQL, i nomi delle tabelle dovrebbero essere singolari o plurali?» e io rispondo che dipende dallo stile, che non sono raccolti in un unico posto tutti i pareri.
+
+Mi fa anche altre domande strane: «Quando le f-string sono entrate in Python?» e «Vuoi che te lo preparo un piccolo esempio di codice?». Io annuisco e sto per digitare sul portatile. La mia lingua è già impostata su italiano, ma ho scelto di utilizzare un ambiente in inglese. Apro una pagina che assomiglia che questa che ho visto ieri, e spiego in ordine dall’inizio alla fine come si scrive un ciclo for.
+
+Gli dico: «Imparerai qualcosa lungo la strada e vedrai che ha senso che impari anche a lavorare con iteratori. Per esempio, L’oggetto stesso è un iteratore, quindi ritorna self». Gli do anche un esempio di iteratore sincrono in Python e spiego che restituisce il prossimo valore della sequenza.
+
+Ci spostiamo su Jupyter Notebook e lui mi chiede: «In Jupyter, come comprimere tutte le celle?», «Quale tasto devo premere per duplicare la cella?», «Qual è il modo più semplice per aggiungere una nuova cella in Jupyter?», «Come faccio a eliminare una cella?», «Come faccio ad espandere una cella in Jupyter?». Io gli mostro le scorciatoie e dico: «Puoi cliccare sulla freccia a sinistra della cella per comprimerla. In più, per copiare e incollare usa la scorciatoia da tastiera per copiare e incollare le celle».
+
+Poi mi chiede anche: «Come rimuovere un elemento dalla fine dell’elenco?» e io gli spiego la funzione pop(). Aggiungo che dovrebbe apparire qui da un momento all’altro il risultato.
+
+Parlando del più e del meno, Marco dice: «Spero che tu possa capirmi più o meno, ma quali linguaggi informatici sono i più utilizzati al mondo?». Io rispondo che JavaScript, Python e Java sono tra i primi.
+
+Ripenso al passato: un anno fa eravamo in vacanza, ma poi non hanno fatto più niente per organizzare un’altra gita. Io non ci sono nemmeno andato alla festa di Anna, e lui non ci va nemmeno se lo obbligano. «Neanche io», dico ridendo. Una volta persino se n’è andato senza neppure salutare.
+
+Nonostante tutto, pure voi mi avete detto una bugia quella volta. Ma va bene, non ho neanche pensato una cosa simile per vendicarmi. Anzi, ci siamo perfino divertiti quando abbiamo fatto un picnic.
+
+Guardo l’orologio e mi rendo conto che un’ora fa stavo lavorando, ma adesso il sole è già più alto. Fra un mese ci sarà la maratona in città, e fra dieci giorni comincerò gli allenamenti seri.
+
+Il cielo si copre di nuvole e scende un po’ di ghiaccio dalla collina. Non è pericoloso, ma ci spinge a muoverci. Arrivati a casa di Marco, lui mi mostra la proprietà che ha comprato, con tutte le proprietà elencate nel contratto. Mi chiede: «Come posso elencare tutte le proprietà qui?». Gli rispondo che può usare un ciclo for o una tabella riassuntiva.
+
+Sul computer di Marco compare un errore: «Ricevo questo errore» mi dice, e io penso che ha a che fare con l’intelligenza artificiale che stiamo usando.
+
+Parlando di file, mi chiede: «Come dovrebbe essere scritto il nome del file di classe?». Gli dico con iniziale maiuscola e senza spazi. Poi chiede: «Cosa significa ipynb?» e io spiego che è il formato dei file di Jupyter Notebook.
+
+Mentre il fuoco è fuori nel camino, discutiamo di eccezioni in Python. Marco dice che questa è la mia parola preferita al momento: “eccezioni”, perché ricorda che non serve essere perfetti per programmare bene.
+
+Quando arriva sera, ci salutiamo. È venuto lui a portarmi un libro che mi serviva. Io non ho fatto neanche in tempo a farlo leggere che già devo restituirlo. Poco fa mi sono ricordato di aver lasciato aperta la finestra, ma ormai è tardi.
+
+Non ho sbagliato questa volte nel prendere il treno giusto, e anzi non ho sbagliato neanche questa volte a scegliere un giorno di sole per viaggiare. Tornando a casa, penso che questa giornata, con tutte le sue stranezze e conversazioni, mi ha insegnato qualcosa: che tra ricordi passati, presente e progetti futuri, la vita è un po’ come programmare in Python… imparerai qualcosa lungo la strada, e non finirai mai davvero di imparare.
+
 2025-08-11 - lunedì 11 agosto 2025
 
 >> Python e conda: strumenti per il lavoro scientifico
