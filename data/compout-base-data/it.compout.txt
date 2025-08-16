@@ -1,3 +1,39 @@
+2025-08-15 - venerdì 15 agosto 2025
+
+>> Il viaggio
+
+Un giorno Marco si sveglia presto e decide di scrivere una storia. Dice a sé stesso: “Lo strutturerò così: dovrà intrecciare tutti i frammenti che mi hai dato.” Non sa ancora da dove cominciare, ma pensa che, per ora è tutto ciò di cui abbiamo bisogno.
+
+Marco è uno studente di informatica, e mentre scrive ricorda che il suo professore aveva detto: “Mantengono coerenza con altre enumerazioni, cioè tutto maiuscolo, seguono di solito lo stesso stile delle costanti globali, ed è una buona pratica di programmazione.” Marco ride e pensa: “Ne creerò uno adesso, mostrami un esempio di enum in Python.”
+
+Scrivendo, si rende conto che non è vero che abbiamo quattro tipi, ma che abbiamo quattro tipi di eventi. Dice: “Non conosco la differenza tra i due, ma è nella mia lista.” Subito dopo esclama: “Non mi interessa, sono sicuro di averlo registrato.”
+
+Mentre lavora, riceve una notifica sul telefono: “Non ho nuove email.” Allora pensa: “Posso anche finire il lavoro, Devo pulire via queste macchie sul tavolo.” Ma proprio in quel momento esclama: “Ho premuto il pulsante!” e ride da solo.
+
+Il confronto è apparso davanti ai suoi occhi come un segnale, e Marco scrive: “E ora torniamo al testo, E ora continuiamo con la storia.” All’improvviso, è comparso un annuncio misterioso sullo schermo. Marco ricorda che dopo giorni di ricerche, il gatto scomparso è finalmente comparso davanti alla porta di casa. Quella volta tutta la famiglia aveva pianto di gioia.
+
+Ma oggi Marco pensa al passato: “Pensavo di averlo cambiato, ma invece non l’ho fatto.” Riceve questo errore nel codice: “Non sono sicuro che l’evento funzionerà.” Sta provando a creare un ramo nel progetto, ma il sistema non collabora.
+
+Mentre scrive, dice: “Quello che intendo dire è che è la mia cosa, quello che voglio fare. Potrebbe rallentarmi un po’, ma va bene.” Poi sospira: “Ho cambiato la mia decisione, ho cambiato idea.” Non sa esattamente cosa deve fare, ma dice: “Allora andiamo qui.”
+
+Intanto fuori piove forte. La settimana scorsa, infatti, una piccola perdita dal tetto aveva allagato la cucina. Era una perdita che veniva da un punto piuttosto lontano, e si era diffusa altrove. Se non l’avessero riparata, la casa sarebbe stata rovinata. Ora invece tutto è calmo.
+
+Marco annuisce e pensa: “Gli dico con iniziale maiuscola e senza spazi.” Ma subito dopo si distrae: “Non so perché qui pronunci la ‘s’, ma chi lo sa.”
+
+Il tempo passa, e lui si rende conto che ormai non può più tornare indietro. Sta scrivendo da ore, mi rendo conto che la storia cresce come un fiume. Una volta, persino suo fratello se n’è andato senza neppure salutare, ma lui non porta rancore.
+
+Fuori compare il sole, e ci spinge a pensare positivo. Marco pensa: “Da un momento all’altro potrei ricevere buone notizie.” Poi vede il ghiaccio sciogliersi nel bicchiere e dice: “Devo lasciarli sciogliere un po’.”
+
+Domani Marco continuerà il progetto. Lo abbiamo rimandato e restiamo qui, ma per ora è tutto ciò di cui abbiamo bisogno. In futuro avrà finito di scrivere il racconto e avrà continuato a programmare per mesi.
+
+Forse, se tutto andrà bene, potrà comprare la spesa senza preoccupazioni. E pensa: “Le scorciatoie non aiutano sempre, ma a volte sì.” Poi ride: “Se sbali, impari dai tuoi errori, ecco quindi un rapido confronto di parole.”
+
+Alla fine, mentre chiude il quaderno, dice: “Mi consegnano tutti i pareri, e io annuisco.” È apparso un senso nuovo: scrivere non è solo un dovere, è un piacere.
+
+E così Marco conclude: “Va nemmeno se lo obbligano, io continuerò. Più niente mi fermerà.”
+
+La storia è finita, ma l’avventura della scrittura continuerà per sempre.
+
 2025-08-14 - giovedì 14 agosto 2025
 
 >> Viaggio tra le isole e i segreti
