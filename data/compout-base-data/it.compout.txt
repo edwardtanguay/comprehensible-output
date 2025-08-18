@@ -1,3 +1,33 @@
+2025-08-17 - domenica 17 agosto 2025
+
+>> Il viaggio di Marco
+
+Marco è un ragazzo curioso e pieno di energia. Ama imparare cose nuove e viaggiare. Io indosso una cintura elegante mentre lo incontro in stazione, perché voglio apparire ordinato. Io dico, tu dici: la nostra conversazione è sempre viva, spontanea.
+
+Si dice che viaggiare arricchisca l’anima, e lui lo sa bene: per due anni di fila è andato all’estero in estate. Io vado spesso, ma di solito va lei, la sorella, che è appassionata di lingue. Marco, invece, ha deciso di studiare informatica. Sta spiegando questo test che ha fatto ieri: scorre ogni carattere della stringa con attenzione, poi spiega l’ultima riga del codice.
+
+— “Se aggiungo questo, ricevo quello,” dice, trascinando e rilasciando dei file sul suo portatile. Però si rende conto che non è sempre semplice: ma per impostazione predefinita pytest nasconde l’output a meno che il test non fallisca, e qualche volta ma non stampa proprio niente.
+
+Mi mostra come funziona: “Se vuoi vedere dove effettivamente punta il file, puoi usare una funzione che lavora senza sporcare il filesystem. Quella cartella viene creata all’avvio del test e cancellata alla fine. Ogni test riceve la propria cartella vuota, che punta a una directory temporanea. Pytest riconosce il nome e inietta un oggetto per gestirla.”
+
+Io penso che sia stupido farsi tanti problemi con i dettagli, ma lui sospira e insiste. Fare un confronto tra nnn e bbb, secondo lui, è essenziale.
+
+La conversazione si sposta: vuole mettere in contatto due colleghi che hanno idee simili. Poiché sei della Sardegna, mi dice, potresti avere un punto di vista interessante su certe tradizioni. Lui racconta di quando, ieri, sarebbe andato in piscina, ma pioveva troppo.
+
+Io ricordo: se tu fossi stato qui la scorsa settimana, avresti potuto prendere l’autobus con me. Se avessi avuto tempo, sarei venuto alla tua festa. Se avessi avuto soldi, forse avrei comprato quella macchina. Senza macchina potresti prendere l’autobus, o meglio, senza macchina prenderesti l’autobus. Con una macchina nuova sentirei più sicuro.
+
+Il discorso diventa filosofico. “Se lui fosse un vero amico, mi aiuterebbe,” dice Marco. “Lei sarebbe molta colta se leggesse di più.” Io rispondo che non dovresti mangiare tanto gelato, e lui ride. Mi piacerebbe avere più tempo libero, e lui confessa che lo coniughi così in italiano: il desiderio espresso al condizionale.
+
+Parliamo di grammatica: I termini vengono usati soprattutto nella grammatica tedesca, ma li applichiamo anche per spiegare l’italiano.
+
+Poi, in cucina, troviamo la teiera antica di sua nonna. Sul tavolo ci sono un piattino, un cucchiaio e del ghiaccio da mettere nel tè freddo. Ogni oggetto è abbinato con cura.
+
+Marco racconta che negli ultimi anni ha viaggiato molto, ma ora sta lavorando fino a tardi. Sta preparando un esame difficile e dice: “Vorrei chiederti un favore: puoi aiutarmi a spiegare questi concetti?”
+
+Io penso al futuro: domani studieremo ancora insieme. Tra una settimana avremo finito il progetto. In due mesi avremo già lavorato così tanto che saremo stanchi. Fra un anno avremo studiato per mille ore, e avremo continuato ad allenarci.
+
+Il viaggio di Marco, dunque, non è solo fatto di luoghi, ma anche di parole, ricordi e speranze.
+
 2025-08-16 - sabato 16 agosto 2025
 
 >> Un viaggio speciale
