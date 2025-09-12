@@ -1,3 +1,35 @@
+2025-09-12 - vrijdag 12 augustus 2025
+
+>> Het avontuur van leren programmeren
+
+Ik zit vandaag achter mijn bureau en ik begin een verhaal te schrijven. We zijn allemaal klaar om te beginnen, want leren programmeren is een ontzagwekkend avontuur. In mijn geval hier probeer ik een opdracht te maken die zowel taal als technologie combineert.
+
+Ik zeg vaak: "Het is een mooi woord", wanneer ik een nieuw Nederlands begrip tegenkom. Soms denk ik: "Het is grammaticaal onjuist" of "waarschijnlijk een tikfout", maar dat hoort erbij. Ik denk dat fouten maken een belangrijk onderdeel van leren is.
+
+Gisteren las ik in een krant een artikel over programmeurs die met succes een groot project hebben afgerond. Gefeliciteerd, dacht ik meteen. Zij hebben indrukwekkende documentatie geschreven en iedereen kon zien hoe magisch dit ook klinkt, maar het was echt.
+
+Tijdens de les zegt mijn docent: "Als we python --version typen, zien we het resultaat aan de rechterkant van het scherm. Aan de linkerkant staat de code." Hij voegde eraan toe: "Als je er bekend mee bent, gaat het snel. Als je er niet uitkomt, maak je geen zorgen."
+
+Vandaag oefen ik in deze veilige ontwikkelomgeving. Dus deze opdracht maakt twee dingen: ik oefen de taal en leer tegelijk programmeren. Met behulp van een paar voorbeelden probeer ik vertrouwd mee te raken. Het klinkt misschien gek, maar ik gebruik dit verhaal om een taak te voltooien.
+
+Gisteren werkte ik urenlang. Ik was bezig en ik merkte dat het pictogram draait maar door en door. Ik vraag me af wat het doet. Ik vind tien minuten te lang. Ik hoop dat het snel klaar is. Ik wacht nog steeds. Uiteindelijk besefte ik: mijn computer was opnieuw opgestart. Dat was de reden dat het heeft nog nooit zo lang geduurd.
+
+In het verleden had ik al geprobeerd om een kleine app te bouwen. Terwijl ik ermee bezig was, was ik aan het leren hoe functies en variabelen werkten. Ik had de hele dag geoefend en ik voelde dat ik vooruitgang maakte.
+
+Morgen zal ik een nieuwe oefening doen. Overmorgen zal ik nog steeds bezig zijn met verbeteren. Binnen een maand zal ik veel sneller zijn geworden. En na een jaar zal ik al die tijd geoefend hebben. Dat is mijn plan.
+
+Maar nu, vandaag, wil ik vijftig zinnen opnemen. Misschien lukt het niet, maar ik probeer het. Als ik genoeg tijd had, zou ik meer verhalen schrijven. Als mijn computer sneller was, zou ik nog meer voorbeelden testen.
+
+Soms gebruik ik de subjunctief, zoals in: "Als dat waar zij, zou ik gelukkig zijn." Het klinkt ouderwets, maar nuttig.
+
+Ik herinner me dat iemand me een bericht heeft gestuurd: "Je kunt ons komen bezoeken als je wilt." Ik antwoordde: "Dank je, maar ik moet nog even wachten. Ik wil nog een kopje koffie."
+
+Programmeren is eigenlijk niet zo moeilijk. Heel weinig code kan een groot verschil maken. We behandelen de essentie van begin tot eind, en en tot slot zie ik: dit zijn de belangrijkste vaardigheden die je in uw voordeel kunt benutten.
+
+Wie wil er nu niet supersnel applicaties bouwen?
+
+Zo eindigt mijn verhaal, met succes, van begin tot eind.
+
 2025-06-29 - zondag 29 juni 2025
 
 >> Een avontuur op de heuvel
