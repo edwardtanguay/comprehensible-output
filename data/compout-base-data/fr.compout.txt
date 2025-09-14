@@ -1,3 +1,29 @@
+2025-09-14 xdimanche 14 août 2025
+
+>> L’apprentissage d’un projet numérique
+
+Dans cette leçon, nous allons construire cela ensemble. Nous voulons apprendre les bases de la programmation tout en créant une petite histoire réaliste, et c’est parti. La première chose qui fallait faire, c’était de définir un objectif clair. On devait mettre en place les attributs d’un projet, puis réfléchir à la structure.
+
+En tant que développeur, je me dis souvent qu’il va falloir mettre des règles précises dès le début : c’est comme ça qu’il faudra procéder. Cette fois-ci, j’ai commencé par organiser mes fichiers. Pour cela, il fallait tout simplement se rendre dans le dossier principal, puis vérifier l’information qui ont été modifiées par d’autres utilisateurs. Là, c’est fait, et je n’ai pas eu de soucis.
+
+À partir de maintenant, je peux me connecter à mon environnement de travail. Tu as dû remarquer que les points-virgules posent toujours des problèmes, mais du coup nous allons procéder à la correction ensemble. Il ne me reste plus qu’à les utiliser correctement. On va essayer d’énumérer chacune d’elles afin de comprendre leur rôle.
+
+Pendant que j’écrivais le code, je me souvenais qu’on avait mis des commentaires entre les lignes pour expliquer tout ce qu’il y a entre la lignes 3 et 10. Plus tard, je ferai de même pour d’autres parties : c’est nickel. On va faire de même pour les fonctions principales.
+
+Mais ça ne marche pas encore, et je me demande : que pensez-vous qu’il se passe quand le programme s’arrête ? Le point d’exclamation signifie le contraire de ce que l’on croit, et cela complique parfois la logique. À cet endroit-là du fichier, en dessous d’une fonction, on devait mettre en place une vérification.
+
+Si je continue ainsi, dans une semaine j’aurai fini. Dans deux semaines, j’aurai déjà utilisé ces méthodes sur une durée plus longue, et dans trois mois, j’aurai été en train de pratiquer de manière régulière. Pendant que j’apprenais, j’avais déjà passé plusieurs heures chaque jour ; j’étais fatigué, mais je continuais, car j’avais plein de données à tester.
+
+Un jour, je me suis dit : “Je peux te montrer à quel point c’est aussi réaliste de créer un projet éducatif.” Niveau scolaire est lycée, et la présentation devra être en public. Bon courage pour relever ce premier défi !
+
+Le futur du projet est clair : ça va être la division des tâches entre plusieurs personnes. Il va rester la dernière méthode à corriger, et après on ne pourra pas le faire sans travail en équipe. Nous allons corriger les détails ensemble : à toi de jouer.
+
+Pour voir ce qui va se passer, nous allons simuler l’utilisation du site. Les utilisateurs dépensent le plus de temps sur l’interface principale. Je peux me connecter, je navigue, et plus tard je dirai : “c’est nickel, le système fonctionne.”
+
+J’avais déjà expliqué que, quand nous écrivions du code, nous avions mis des exemples concrets ; et tandis que j’écrivais, j’étais conscient qu’il restait des erreurs. Plus tard, j’aurai corrigé tout cela, et j’aurai été en train de perfectionner les détails depuis longtemps.
+
+Et voilà : nous avons raconté l’histoire d’un apprentissage technique. Du coup, ce texte montre comment un projet se construit pas à pas, ou du chose de genres.
+
 2025-07-25 xvendredi 25 juillet 2025
 
 >> Le mystère du site oublié

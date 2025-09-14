@@ -1,6 +1,17 @@
 [
 	{
-		"suuid": "ONoFGM",
+		"suuid": "nwwuj6",
+		"language": "fr",
+		"date": "2025-09-14",
+		"title": "Dimanche 14 août 2025",
+		"htmlBody": "\u003ch3\u003eL’apprentissage d’un projet numérique\u003c/h3\u003e\u003cp\u003eDans cette leçon, nous allons construire cela ensemble. Nous voulons apprendre les bases de la programmation tout en créant une petite histoire réaliste, et c’est parti. La première chose qui fallait faire, c’était de définir un objectif clair. On devait mettre en place les attributs d’un projet, puis réfléchir à la structure.\u003c/p\u003e\u003cp\u003eEn tant que développeur, je me dis souvent qu’il va falloir mettre des règles précises dès le début : c’est comme ça qu’il faudra procéder. Cette fois-ci, j’ai commencé par organiser mes fichiers. Pour cela, il fallait tout simplement se rendre dans le dossier principal, puis vérifier l’information qui ont été modifiées par d’autres utilisateurs. Là, c’est fait, et je n’ai pas eu de soucis.\u003c/p\u003e\u003cp\u003eÀ partir de maintenant, je peux me connecter à mon environnement de travail. Tu as dû remarquer que les points-virgules posent toujours des problèmes, mais du coup nous allons procéder à la correction ensemble. Il ne me reste plus qu’à les utiliser correctement. On va essayer d’énumérer chacune d’elles afin de comprendre leur rôle.\u003c/p\u003e\u003cp\u003ePendant que j’écrivais le code, je me souvenais qu’on avait mis des commentaires entre les lignes pour expliquer tout ce qu’il y a entre la lignes 3 et 10. Plus tard, je ferai de même pour d’autres parties : c’est nickel. On va faire de même pour les fonctions principales.\u003c/p\u003e\u003cp\u003eMais ça ne marche pas encore, et je me demande : que pensez-vous qu’il se passe quand le programme s’arrête ? Le point d’exclamation signifie le contraire de ce que l’on croit, et cela complique parfois la logique. À cet endroit-là du fichier, en dessous d’une fonction, on devait mettre en place une vérification.\u003c/p\u003e\u003cp\u003eSi je continue ainsi, dans une semaine j’aurai fini. Dans deux semaines, j’aurai déjà utilisé ces méthodes sur une durée plus longue, et dans trois mois, j’aurai été en train de pratiquer de manière régulière. Pendant que j’apprenais, j’avais déjà passé plusieurs heures chaque jour ; j’étais fatigué, mais je continuais, car j’avais plein de données à tester.\u003c/p\u003e\u003cp\u003eUn jour, je me suis dit : “Je peux te montrer à quel point c’est aussi réaliste de créer un projet éducatif.” Niveau scolaire est lycée, et la présentation devra être en public. Bon courage pour relever ce premier défi !\u003c/p\u003e\u003cp\u003eLe futur du projet est clair : ça va être la division des tâches entre plusieurs personnes. Il va rester la dernière méthode à corriger, et après on ne pourra pas le faire sans travail en équipe. Nous allons corriger les détails ensemble : à toi de jouer.\u003c/p\u003e\u003cp\u003ePour voir ce qui va se passer, nous allons simuler l’utilisation du site. Les utilisateurs dépensent le plus de temps sur l’interface principale. Je peux me connecter, je navigue, et plus tard je dirai : “c’est nickel, le système fonctionne.”\u003c/p\u003e\u003cp\u003eJ’avais déjà expliqué que, quand nous écrivions du code, nous avions mis des exemples concrets ; et tandis que j’écrivais, j’étais conscient qu’il restait des erreurs. Plus tard, j’aurai corrigé tout cela, et j’aurai été en train de perfectionner les détails depuis longtemps.\u003c/p\u003e\u003cp\u003eEt voilà : nous avons raconté l’histoire d’un apprentissage technique. Du coup, ce texte montre comment un projet se construit pas à pas, ou du chose de genres.\u003c/p\u003e",
+		"audioFileName": "2025-09-14-fr.mp3",
+		"kind": "blog",
+		"audioSeconds": 1642,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "WYReWp",
 		"language": "nl",
 		"date": "2025-09-13",
 		"title": "Zaterdag 13 augustus 2025",
@@ -11,7 +22,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PtsxhZ",
+		"suuid": "PfaC7G",
 		"language": "nl",
 		"date": "2025-09-12",
 		"title": "Vrijdag 12 augustus 2025",
@@ -22,7 +33,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Yzivf5",
+		"suuid": "BtT6OD",
 		"language": "it",
 		"date": "2025-08-31",
 		"title": "Domingo 31 agosto 2025",
@@ -33,7 +44,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "tZpxOt",
+		"suuid": "cGjFWD",
 		"language": "it",
 		"date": "2025-08-30",
 		"title": "Sabato 30 agosto 2025",
@@ -44,7 +55,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cJHsry",
+		"suuid": "86dHPt",
 		"language": "it",
 		"date": "2025-08-29",
 		"title": "Venerdì 29 agosto 2025",
@@ -55,7 +66,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YIRv2b",
+		"suuid": "bIUHdp",
 		"language": "it",
 		"date": "2025-08-28",
 		"title": "Giovedì 28 agosto 2025",
@@ -66,7 +77,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aNhZ7Z",
+		"suuid": "Fa7fU2",
 		"language": "it",
 		"date": "2025-08-27",
 		"title": "Mercoledì 27 agosto 2025",
@@ -77,7 +88,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "jGRqHz",
+		"suuid": "8i67li",
 		"language": "it",
 		"date": "2025-08-26",
 		"title": "Martedì 26 agosto 2025",
@@ -88,7 +99,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WNJ61H",
+		"suuid": "4Tuev2",
 		"language": "it",
 		"date": "2025-08-25",
 		"title": "Lunedì 25 agosto 2025",
@@ -99,7 +110,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2iSwWh",
+		"suuid": "zFNqtK",
 		"language": "it",
 		"date": "2025-08-24",
 		"title": "Domenica 24 agosto 2025",
@@ -110,7 +121,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0ZeiFU",
+		"suuid": "PgQZ1u",
 		"language": "it",
 		"date": "2025-08-23",
 		"title": "Sabato 23 agosto 2025",
@@ -121,7 +132,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Tfjwml",
+		"suuid": "4R0cDv",
 		"language": "it",
 		"date": "2025-08-22",
 		"title": "Venerdì 22 agosto 2025",
@@ -132,7 +143,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wnE9A2",
+		"suuid": "pvaVmB",
 		"language": "it",
 		"date": "2025-08-21",
 		"title": "Giovedì 21 agosto 2025",
@@ -143,7 +154,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "xAL0Id",
+		"suuid": "chOq17",
 		"language": "it",
 		"date": "2025-08-20",
 		"title": "Mercoledì 20 agosto 2025",
@@ -154,7 +165,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZLiQbd",
+		"suuid": "zxhWqj",
 		"language": "it",
 		"date": "2025-08-19",
 		"title": "Martedì 19 agosto 2025",
@@ -165,7 +176,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "aXjLQP",
+		"suuid": "TKO3Wn",
 		"language": "it",
 		"date": "2025-08-18",
 		"title": "Lunedì 18 agosto 2025",
@@ -176,7 +187,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PoVaDK",
+		"suuid": "6Prteq",
 		"language": "it",
 		"date": "2025-08-17",
 		"title": "Domenica 17 agosto 2025",
@@ -187,7 +198,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "z6UhX4",
+		"suuid": "IrHRhF",
 		"language": "it",
 		"date": "2025-08-16",
 		"title": "Sabato 16 agosto 2025",
@@ -198,7 +209,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YdMxNE",
+		"suuid": "izzpxX",
 		"language": "it",
 		"date": "2025-08-15",
 		"title": "Venerdì 15 agosto 2025",
@@ -209,7 +220,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "201l9D",
+		"suuid": "eN6rsx",
 		"language": "it",
 		"date": "2025-08-14",
 		"title": "Giovedì 14 agosto 2025",
@@ -220,7 +231,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "PfOEPv",
+		"suuid": "PH0owF",
 		"language": "it",
 		"date": "2025-08-13",
 		"title": "Mercoledì 13 agosto 2025",
@@ -231,7 +242,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "88d6SM",
+		"suuid": "bmuDC5",
 		"language": "it",
 		"date": "2025-08-12",
 		"title": "Martedì 12 agosto 2025",
@@ -242,7 +253,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1EF5NY",
+		"suuid": "tGdKPO",
 		"language": "it",
 		"date": "2025-08-11",
 		"title": "Lunedì 11 agosto 2025",
@@ -253,7 +264,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "A36qxJ",
+		"suuid": "otCL92",
 		"language": "it",
 		"date": "2025-08-10",
 		"title": "Domenica 10 agosto 2025",
@@ -264,7 +275,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FR47Jn",
+		"suuid": "nEUax5",
 		"language": "it",
 		"date": "2025-08-09",
 		"title": "Sabato 9 agosto 2025",
@@ -275,18 +286,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Gfo9x6",
-		"language": "ru",
-		"date": "2025-08-08",
-		"title": "-Пятница, 8 августа 2025 г.",
-		"htmlBody": "\u003ch3\u003e Моя неделя с семьёй\u003c/h3\u003e\u003cp\u003eМеня зовут Анна. Мне двадцать два года. Я живу в маленьком доме с моей семьёй. У меня есть мама, папа, младший брат и бабушка. Мы живём вместе уже тридцать лет, потому что этот дом построил мой дедушка.\u003c/p\u003e\u003cp\u003eСегодня понедельник, первый день недели. Я просыпаюсь в семь часов утра. Моя мама встаёт в шесть часов и готовит завтрак. На завтрак мы едим хлеб, сыр и пьём чай. Папа читает газету, бабушка поливает цветы на кухне, а мой брат рисует синим карандашом.\u003c/p\u003e\u003cp\u003eВ восемь часов я иду на работу пешком. Дорога занимает двадцать минут. Я работаю в магазине. В магазине я продаю яблоки, хлеб, молоко, сахар и красные помидоры. Сегодня в магазине немного покупателей. Одна женщина покупает пять зелёных яблок, один батон и шесть бананов.\u003c/p\u003e\u003cp\u003eВо вторник я встаю тоже в семь часов. На завтрак у нас каша и кофе. После завтрака я помогаю брату с уроками. Он учит цифры от одного до десяти и цвета: красный, жёлтый, зелёный, чёрный и белый.\u003c/p\u003e\u003cp\u003eВ среду утром я иду в магазин в девять часов. Сегодня приходит много людей, потому что в четверг будет праздник. Один мужчина покупает тридцать яиц, два килограмма сахара и четыре бутылки сока.\u003c/p\u003e\u003cp\u003eВ четверг мы всей семьёй идём к тёте Оле. Ей сорок два года. Она живёт в большом жёлтом доме. В двенадцать часов дня мы сидим за столом и едим суп, салат и мясо. После обеда мы пьём чай и едим торт. Мой брат получает от тёти десять конфет.\u003c/p\u003e\u003cp\u003eВ пятницу я обычно убираю дом. В девять часов утра я пылесошу комнаты. В десять часов я мою пол. Моя мама стирает бельё, а папа чинит стул в гараже. Бабушка печёт пирог с яблоками. К обеду в доме чисто и вкусно пахнет.\u003c/p\u003e\u003cp\u003eВ субботу мы идём на рынок. Там много цветов, овощей и фруктов. Мы покупаем двенадцать красных роз для бабушки, семь апельсинов, три килограмма картошки и один килограмм клубники. На рынке шумно и весело.\u003c/p\u003e\u003cp\u003eВ воскресенье мы отдыхаем. Я встаю в девять часов. Мы вместе завтракаем и смотрим телевизор. Папа любит смотреть новости, а брат — мультфильмы. После обеда мы идём гулять в парк. В парке много зелёных деревьев и синих цветов. Мы делаем фотографии и кормим пять белых голубей.\u003c/p\u003e\u003cp\u003eСейчас август, лето тёплое. Солнце светит каждый день. Вечером в семь часов мы сидим на балконе, пьём чай и разговариваем. Моя бабушка рассказывает истории о своём детстве. Она говорит, что в её деревне было только три улицы и один магазин.\u003c/p\u003e\u003cp\u003eТак проходит моя неделя. Каждый день я вижу свою семью, работаю, помогаю дома и радуюсь маленьким вещам. Я люблю, когда мы вместе, когда в доме тепло и спокойно. Я думаю, что это самое важное.\u003c/p\u003e",
-		"audioFileName": "",
-		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1326
-	},
-	{
-		"suuid": "Rvd7AU",
+		"suuid": "MHNfT8",
 		"language": "it",
 		"date": "2025-08-08",
 		"title": "Venerdì 8 agosto 2025",
@@ -297,7 +297,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kyVHz0",
+		"suuid": "JzM8Km",
+		"language": "ru",
+		"date": "2025-08-08",
+		"title": "-Пятница, 8 августа 2025 г.",
+		"htmlBody": "\u003ch3\u003e Моя неделя с семьёй\u003c/h3\u003e\u003cp\u003eМеня зовут Анна. Мне двадцать два года. Я живу в маленьком доме с моей семьёй. У меня есть мама, папа, младший брат и бабушка. Мы живём вместе уже тридцать лет, потому что этот дом построил мой дедушка.\u003c/p\u003e\u003cp\u003eСегодня понедельник, первый день недели. Я просыпаюсь в семь часов утра. Моя мама встаёт в шесть часов и готовит завтрак. На завтрак мы едим хлеб, сыр и пьём чай. Папа читает газету, бабушка поливает цветы на кухне, а мой брат рисует синим карандашом.\u003c/p\u003e\u003cp\u003eВ восемь часов я иду на работу пешком. Дорога занимает двадцать минут. Я работаю в магазине. В магазине я продаю яблоки, хлеб, молоко, сахар и красные помидоры. Сегодня в магазине немного покупателей. Одна женщина покупает пять зелёных яблок, один батон и шесть бананов.\u003c/p\u003e\u003cp\u003eВо вторник я встаю тоже в семь часов. На завтрак у нас каша и кофе. После завтрака я помогаю брату с уроками. Он учит цифры от одного до десяти и цвета: красный, жёлтый, зелёный, чёрный и белый.\u003c/p\u003e\u003cp\u003eВ среду утром я иду в магазин в девять часов. Сегодня приходит много людей, потому что в четверг будет праздник. Один мужчина покупает тридцать яиц, два килограмма сахара и четыре бутылки сока.\u003c/p\u003e\u003cp\u003eВ четверг мы всей семьёй идём к тёте Оле. Ей сорок два года. Она живёт в большом жёлтом доме. В двенадцать часов дня мы сидим за столом и едим суп, салат и мясо. После обеда мы пьём чай и едим торт. Мой брат получает от тёти десять конфет.\u003c/p\u003e\u003cp\u003eВ пятницу я обычно убираю дом. В девять часов утра я пылесошу комнаты. В десять часов я мою пол. Моя мама стирает бельё, а папа чинит стул в гараже. Бабушка печёт пирог с яблоками. К обеду в доме чисто и вкусно пахнет.\u003c/p\u003e\u003cp\u003eВ субботу мы идём на рынок. Там много цветов, овощей и фруктов. Мы покупаем двенадцать красных роз для бабушки, семь апельсинов, три килограмма картошки и один килограмм клубники. На рынке шумно и весело.\u003c/p\u003e\u003cp\u003eВ воскресенье мы отдыхаем. Я встаю в девять часов. Мы вместе завтракаем и смотрим телевизор. Папа любит смотреть новости, а брат — мультфильмы. После обеда мы идём гулять в парк. В парке много зелёных деревьев и синих цветов. Мы делаем фотографии и кормим пять белых голубей.\u003c/p\u003e\u003cp\u003eСейчас август, лето тёплое. Солнце светит каждый день. Вечером в семь часов мы сидим на балконе, пьём чай и разговариваем. Моя бабушка рассказывает истории о своём детстве. Она говорит, что в её деревне было только три улицы и один магазин.\u003c/p\u003e\u003cp\u003eТак проходит моя неделя. Каждый день я вижу свою семью, работаю, помогаю дома и радуюсь маленьким вещам. Я люблю, когда мы вместе, когда в доме тепло и спокойно. Я думаю, что это самое важное.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 1331
+	},
+	{
+		"suuid": "Y8fwKq",
 		"language": "it",
 		"date": "2025-08-07",
 		"title": "Giovedì 7 agosto 2025",
@@ -308,7 +319,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YE5Exr",
+		"suuid": "Q0Cu1a",
 		"language": "it",
 		"date": "2025-08-06",
 		"title": "Mercoledì 6 agosto 2025",
@@ -319,7 +330,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7fCBe8",
+		"suuid": "NhjFSd",
 		"language": "it",
 		"date": "2025-08-05",
 		"title": "Martedì 5 agosto 2025",
@@ -330,7 +341,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iYt0QB",
+		"suuid": "1zL6lU",
 		"language": "it",
 		"date": "2025-08-04",
 		"title": "Lunedì 4 agosto 2025",
@@ -341,7 +352,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "qgjDxz",
+		"suuid": "s9iXZt",
 		"language": "it",
 		"date": "2025-08-03",
 		"title": "Domenica 3 agosto 2025",
@@ -352,7 +363,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XgOpgD",
+		"suuid": "90C3zh",
 		"language": "it",
 		"date": "2025-08-02",
 		"title": "Sabato 2 agosto 2025",
@@ -363,7 +374,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "WhGJE3",
+		"suuid": "tsNbtv",
 		"language": "it",
 		"date": "2025-08-01",
 		"title": "Venerdì 1 agosto 2025",
@@ -371,10 +382,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1018
+		"estimatedAudioSeconds": 1022
 	},
 	{
-		"suuid": "06OAet",
+		"suuid": "RgZeUC",
 		"language": "it",
 		"date": "2025-07-31",
 		"title": "Giovedì 31 luglio 2025",
@@ -382,10 +393,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 759
+		"estimatedAudioSeconds": 762
 	},
 	{
-		"suuid": "umzjfD",
+		"suuid": "YAOmyQ",
 		"language": "it",
 		"date": "2025-07-30",
 		"title": "Mercoledì 30 luglio 2025",
@@ -396,7 +407,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ao3r5m",
+		"suuid": "W8QdY8",
 		"language": "it",
 		"date": "2025-07-29",
 		"title": "Martedì 29 luglio 2025",
@@ -407,7 +418,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "zR9Hkt",
+		"suuid": "h0vKcV",
 		"language": "it",
 		"date": "2025-07-28",
 		"title": "Lunedì 28 luglio 2025",
@@ -418,7 +429,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0Glgw4",
+		"suuid": "SyjNL7",
 		"language": "it",
 		"date": "2025-07-27",
 		"title": "Domenica 27 luglio 2025",
@@ -429,7 +440,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "vncTw8",
+		"suuid": "KsPpKG",
 		"language": "it",
 		"date": "2025-07-26",
 		"title": "Sabato 26 luglio 2025",
@@ -440,7 +451,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cGkrn2",
+		"suuid": "GY0bOT",
 		"language": "fr",
 		"date": "2025-07-25",
 		"title": "Vendredi 25 juillet 2025",
@@ -451,7 +462,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0asUWQ",
+		"suuid": "rAwWhE",
 		"language": "it",
 		"date": "2025-07-24",
 		"title": "Giovedì 24 luglio 2025",
@@ -462,7 +473,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "J7lG3X",
+		"suuid": "LiO03m",
 		"language": "fr",
 		"date": "2025-07-23",
 		"title": "Mercredi 23 juillet 2025",
@@ -470,10 +481,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1463
+		"estimatedAudioSeconds": 1469
 	},
 	{
-		"suuid": "oZfJDi",
+		"suuid": "JnwGh8",
 		"language": "it",
 		"date": "2025-07-22",
 		"title": "Martedì 22 luglio 2025",
@@ -484,7 +495,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1g4PoW",
+		"suuid": "6k1uUl",
 		"language": "es",
 		"date": "2025-07-21",
 		"title": "Lunes 21 de julio de 2025",
@@ -495,7 +506,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Mo2AvZ",
+		"suuid": "mo6gu1",
 		"language": "it",
 		"date": "2025-07-20",
 		"title": "Domenica 20 luglio 2025",
@@ -506,7 +517,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "x0SzpL",
+		"suuid": "ivwteh",
 		"language": "it",
 		"date": "2025-07-19",
 		"title": "Sabato 19 luglio 2025",
@@ -517,7 +528,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4BSoMQ",
+		"suuid": "AXugJd",
 		"language": "fr",
 		"date": "2025-07-18",
 		"title": "Vendredi 18 juillet 2025",
@@ -528,7 +539,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "q6mnFl",
+		"suuid": "M1FK3G",
 		"language": "it",
 		"date": "2025-07-17",
 		"title": "Giovedì 17 luglio 2025",
@@ -539,7 +550,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "f7eE0j",
+		"suuid": "nCyeSr",
 		"language": "it",
 		"date": "2025-07-16",
 		"title": "Mercoledì 16 luglio 2025",
@@ -550,7 +561,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "IqDUaD",
+		"suuid": "1AEpvs",
 		"language": "it",
 		"date": "2025-07-15",
 		"title": "Martedì 15 luglio 2025",
@@ -561,7 +572,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0JnaIH",
+		"suuid": "PbWLbR",
 		"language": "it",
 		"date": "2025-07-14",
 		"title": "Lunedì 14 luglio 2025",
@@ -572,7 +583,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RUDaHe",
+		"suuid": "DSFKBF",
 		"language": "it",
 		"date": "2025-07-13",
 		"title": "Domenica 13 luglio 2025",
@@ -583,7 +594,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "W85pcJ",
+		"suuid": "M6AvuR",
 		"language": "it",
 		"date": "2025-07-12",
 		"title": "Sabato 12 luglio 2025",
@@ -591,10 +602,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1069
+		"estimatedAudioSeconds": 1073
 	},
 	{
-		"suuid": "mHWTlQ",
+		"suuid": "S0jv4w",
 		"language": "it",
 		"date": "2025-07-11",
 		"title": "Venerdì 11 luglio 2025",
@@ -605,7 +616,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "iKarRw",
+		"suuid": "Haw2dC",
 		"language": "it",
 		"date": "2025-07-10",
 		"title": "Giovedì 10 luglio 2025",
@@ -616,7 +627,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "w7p2Le",
+		"suuid": "aAyofv",
 		"language": "it",
 		"date": "2025-07-09",
 		"title": "Mercoledì 9 luglio 2025",
@@ -627,7 +638,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5bSoEb",
+		"suuid": "ItoBJG",
 		"language": "fr",
 		"date": "2025-07-08",
 		"title": "Mardi 8 juillet 2025",
@@ -638,7 +649,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7H7e3K",
+		"suuid": "Ln7ldw",
 		"language": "fr",
 		"date": "2025-07-07",
 		"title": "Lundi 7 juillet 2025",
@@ -646,10 +657,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 949
+		"estimatedAudioSeconds": 953
 	},
 	{
-		"suuid": "Od2cRT",
+		"suuid": "QkbDmo",
 		"language": "fr",
 		"date": "2025-07-06",
 		"title": "Dimanche 6 juillet 2025",
@@ -660,7 +671,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6y8uce",
+		"suuid": "9NKFnB",
 		"language": "fr",
 		"date": "2025-07-05",
 		"title": "Samedi 5 juillet 2025",
@@ -671,7 +682,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3FQQkB",
+		"suuid": "t4SkyR",
 		"language": "fr",
 		"date": "2025-07-04",
 		"title": "Vendredi 4 juillet 2025",
@@ -682,7 +693,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YpQeBp",
+		"suuid": "T4w5Qa",
 		"language": "fr",
 		"date": "2025-07-03",
 		"title": "Jeudi 3 juillet 2025",
@@ -693,7 +704,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MaA8bD",
+		"suuid": "wxqHGQ",
 		"language": "fr",
 		"date": "2025-07-02",
 		"title": "Mercredi 2 juillet 2025",
@@ -704,7 +715,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EnN32E",
+		"suuid": "m2Wn0g",
 		"language": "fr",
 		"date": "2025-07-01",
 		"title": "Mardi 1 juillet 2025",
@@ -715,7 +726,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "B6yL4a",
+		"suuid": "qKNjyP",
 		"language": "fr",
 		"date": "2025-06-30",
 		"title": "Lundi 30 juin 2025",
@@ -726,18 +737,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8cI5h6",
-		"language": "it",
-		"date": "2025-06-29",
-		"title": "Domenica 29 guigno 2025",
-		"htmlBody": "\u003ch3\u003eIl sogno di un linguista curioso\u003c/h3\u003e\u003cp\u003eEra un fine settimana tranquillo e il sole entrava dolcemente dalla finestra. Ho spento la luce della mia stanza per risparmiare energia e mi sono seduto davanti al computer. “Penso di avere tempo adesso,” ho detto a me stesso, “e voglio fare altre due cose prima di uscire.”\u003c/p\u003e\u003cp\u003eSono uno sviluppatore, ma in realtà sono un linguista. Parlo fluentemente molte lingue e voglio sviluppare delle abitudini migliori per studiare ogni giorno. Voglio avere una visione forte per il futuro, pertanto ho deciso di iniziare un nuovo progetto linguistico sui miei siti web.\u003c/p\u003e\u003cp\u003eDando un'occhiata alla mia scrivania, ho trovato un vecchio quaderno. Era nuovo di zecca e sembrava perfetto per scrivere appunti. “Devo radermi,” ho pensato, guardandomi nello specchio, “ma prima prendo una tazza con i cuori e preparo un tè.”\u003c/p\u003e\u003cp\u003ePoi ho aperto il frigo e ho visto la mia frutta congelata. “La metto nella ciotola,” ho detto, “e poi la mangio mentre studio.”\u003c/p\u003e\u003cp\u003eD'ora in poi, ho deciso che ogni giorno imparerò almeno una parola nuova. “È bene imparare questa parola,” ho detto ad alta voce mentre scrivevo: “Conoscerò la parola per sempre.”\u003c/p\u003e\u003cp\u003eAll'improvviso, il mio computer ha fatto un suono strano. Il sistema si è sbarazzato di tutti i file! “Questo non è un problema,” ho pensato con calma. “Stiamo ottenendo questo, apriamolo, e poi lo stamperemo semplicemente, senza dover definire tutto da capo.”\u003c/p\u003e\u003cp\u003eMi sono seduto di nuovo e ho detto: “Ti sfiderò a usare tutte queste parole in una sola frase.” Mi chiedo quanto velocemente posso imparare questo.\u003c/p\u003e\u003cp\u003eMentre lavoravo, sto ancora aspettando la sua chiamata, ma lei non ha chiamato. “È una bella frase,” ho scritto per esercitarmi.\u003c/p\u003e\u003cp\u003ePoi ho sentito il bisogno: “Devo andare in bagno.” Tornando, ho trovato un bigliettino sul tavolo. È in una borsa, lasciato da mia sorella, con scritto: “Ci vogliono solo tre minuti per trovare la lavastoviglie.”\u003c/p\u003e\u003cp\u003e“Questa è una bella domanda,” ho detto ironicamente. “Dove sono i piatti? Devo metterli qui?”\u003c/p\u003e\u003cp\u003eQuelle battute non sono divertenti, ho pensato, sorridendo.\u003c/p\u003e\u003cp\u003eVerso sera, ho rivisto i miei appunti e ho pensato: “Posso dire quella frase.” All'interno di ognuna di queste definizioni, ho visto come le parole prendono vita.\u003c/p\u003e\u003cp\u003eCi sono un paio di modi per imparare meglio, oltre ai metodi tradizionali. Altrimenti, lo studio diventa noioso.\u003c/p\u003e\u003cp\u003eAlla fine della giornata, si addormentò con un sorriso, felice per tutto quello che aveva imparato. È stato bello vedere i risultati, è stato un bel momento.\u003c/p\u003e\u003cp\u003ePosso consigliare il bar vicino alla piazza per chi vuole studiare in tranquillità.\u003c/p\u003e\u003cp\u003eCome potete vedere, farò del mio meglio per continuare questo viaggio.\u003c/p\u003e",
-		"audioFileName": "2025-06-29-it.mp3",
-		"kind": "blog",
-		"audioSeconds": 1287,
-		"estimatedAudioSeconds": 0
-	},
-	{
-		"suuid": "cf804V",
+		"suuid": "mMZPrb",
 		"language": "nl",
 		"date": "2025-06-29",
 		"title": "Zondag 29 juni 2025",
@@ -748,7 +748,18 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VKeqLH",
+		"suuid": "clMxh4",
+		"language": "it",
+		"date": "2025-06-29",
+		"title": "Domenica 29 guigno 2025",
+		"htmlBody": "\u003ch3\u003eIl sogno di un linguista curioso\u003c/h3\u003e\u003cp\u003eEra un fine settimana tranquillo e il sole entrava dolcemente dalla finestra. Ho spento la luce della mia stanza per risparmiare energia e mi sono seduto davanti al computer. “Penso di avere tempo adesso,” ho detto a me stesso, “e voglio fare altre due cose prima di uscire.”\u003c/p\u003e\u003cp\u003eSono uno sviluppatore, ma in realtà sono un linguista. Parlo fluentemente molte lingue e voglio sviluppare delle abitudini migliori per studiare ogni giorno. Voglio avere una visione forte per il futuro, pertanto ho deciso di iniziare un nuovo progetto linguistico sui miei siti web.\u003c/p\u003e\u003cp\u003eDando un'occhiata alla mia scrivania, ho trovato un vecchio quaderno. Era nuovo di zecca e sembrava perfetto per scrivere appunti. “Devo radermi,” ho pensato, guardandomi nello specchio, “ma prima prendo una tazza con i cuori e preparo un tè.”\u003c/p\u003e\u003cp\u003ePoi ho aperto il frigo e ho visto la mia frutta congelata. “La metto nella ciotola,” ho detto, “e poi la mangio mentre studio.”\u003c/p\u003e\u003cp\u003eD'ora in poi, ho deciso che ogni giorno imparerò almeno una parola nuova. “È bene imparare questa parola,” ho detto ad alta voce mentre scrivevo: “Conoscerò la parola per sempre.”\u003c/p\u003e\u003cp\u003eAll'improvviso, il mio computer ha fatto un suono strano. Il sistema si è sbarazzato di tutti i file! “Questo non è un problema,” ho pensato con calma. “Stiamo ottenendo questo, apriamolo, e poi lo stamperemo semplicemente, senza dover definire tutto da capo.”\u003c/p\u003e\u003cp\u003eMi sono seduto di nuovo e ho detto: “Ti sfiderò a usare tutte queste parole in una sola frase.” Mi chiedo quanto velocemente posso imparare questo.\u003c/p\u003e\u003cp\u003eMentre lavoravo, sto ancora aspettando la sua chiamata, ma lei non ha chiamato. “È una bella frase,” ho scritto per esercitarmi.\u003c/p\u003e\u003cp\u003ePoi ho sentito il bisogno: “Devo andare in bagno.” Tornando, ho trovato un bigliettino sul tavolo. È in una borsa, lasciato da mia sorella, con scritto: “Ci vogliono solo tre minuti per trovare la lavastoviglie.”\u003c/p\u003e\u003cp\u003e“Questa è una bella domanda,” ho detto ironicamente. “Dove sono i piatti? Devo metterli qui?”\u003c/p\u003e\u003cp\u003eQuelle battute non sono divertenti, ho pensato, sorridendo.\u003c/p\u003e\u003cp\u003eVerso sera, ho rivisto i miei appunti e ho pensato: “Posso dire quella frase.” All'interno di ognuna di queste definizioni, ho visto come le parole prendono vita.\u003c/p\u003e\u003cp\u003eCi sono un paio di modi per imparare meglio, oltre ai metodi tradizionali. Altrimenti, lo studio diventa noioso.\u003c/p\u003e\u003cp\u003eAlla fine della giornata, si addormentò con un sorriso, felice per tutto quello che aveva imparato. È stato bello vedere i risultati, è stato un bel momento.\u003c/p\u003e\u003cp\u003ePosso consigliare il bar vicino alla piazza per chi vuole studiare in tranquillità.\u003c/p\u003e\u003cp\u003eCome potete vedere, farò del mio meglio per continuare questo viaggio.\u003c/p\u003e",
+		"audioFileName": "2025-06-29-it.mp3",
+		"kind": "blog",
+		"audioSeconds": 1287,
+		"estimatedAudioSeconds": 0
+	},
+	{
+		"suuid": "qKacDO",
 		"language": "it",
 		"date": "2025-06-28",
 		"title": "Sabato 28 giugno 2025",
@@ -759,7 +770,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GK19da",
+		"suuid": "TXD79i",
 		"language": "it",
 		"date": "2025-06-27",
 		"title": "Venerdì 27 guigno 2025",
@@ -770,7 +781,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "FOxUz7",
+		"suuid": "8TJUGg",
 		"language": "it",
 		"date": "2025-06-26",
 		"title": "Giovedì 26 guigno 2025",
@@ -781,7 +792,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "f1RnhS",
+		"suuid": "R0E0S0",
 		"language": "it",
 		"date": "2025-06-25",
 		"title": "Mercoledì 25 guigno 2025",
@@ -792,7 +803,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Jhs0U5",
+		"suuid": "skc2nf",
 		"language": "it",
 		"date": "2025-06-24",
 		"title": "Martedì 24 guigno 2025",
@@ -803,7 +814,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wfRFmm",
+		"suuid": "w1MCm3",
 		"language": "it",
 		"date": "2025-06-23",
 		"title": "Lunedì 23 guigno 2025",
@@ -814,7 +825,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fjCshb",
+		"suuid": "Pkwvdp",
 		"language": "it",
 		"date": "2025-06-22",
 		"title": "Domenica 22 guigno 2025",
@@ -825,7 +836,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "v892pi",
+		"suuid": "LOKLPm",
 		"language": "it",
 		"date": "2025-06-21",
 		"title": "Sabato 21 guigno 2025",
@@ -836,7 +847,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BzRCzG",
+		"suuid": "ZlJNdG",
 		"language": "it",
 		"date": "2025-06-20",
 		"title": "Venerdì 20 guigno 2025",
@@ -847,7 +858,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Vh9Jyv",
+		"suuid": "zQ6MRa",
 		"language": "it",
 		"date": "2025-06-19",
 		"title": "Giovedì 19 guigno 2025",
@@ -855,10 +866,21 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 824
+		"estimatedAudioSeconds": 827
 	},
 	{
-		"suuid": "AnuOJe",
+		"suuid": "Tl8h4B",
+		"language": "it",
+		"date": "2025-06-18",
+		"title": "Mercoledì 18 guigno 2025",
+		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
+		"audioFileName": "",
+		"kind": "blog",
+		"audioSeconds": 0,
+		"estimatedAudioSeconds": 808
+	},
+	{
+		"suuid": "hSsgGs",
 		"language": "nl",
 		"date": "2025-06-18",
 		"title": "Woensdag 18 juni 2025",
@@ -869,18 +891,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SYpyfG",
-		"language": "it",
-		"date": "2025-06-18",
-		"title": "Mercoledì 18 guigno 2025",
-		"htmlBody": "\u003ch3\u003eUn'avventura quasi normale\u003c/h3\u003e\u003cp\u003eOggi voglio parlare di un argomento che mi è venuto in mente ieri sera, ma non ho avuto tempo di scrivere nulla prima di oggi. Il problema principale era di quale argomento parlare: ho bisogno di un argomento, devo trovare un argomento, ma ne ho già diciannove sulla mia lista! Posso farlo comunque, ho pensato, e così inizia dalla prima riga la mia nuova storia.\u003c/p\u003e\u003cp\u003eLa scorsa settimana, sono andato al negozio per comprare delle cose utili per un progetto che sto preparando da quando ho iniziato a studiare game design. Mentre cercavo i materiali, ho incontrato un amico che mi ha detto: “Forse posso mostrare il mio progetto a scuola la prossima settimana”. Quella frase mi ha ispirato molto. Ho deciso che cercheresti sempre di mostrare qualcosa, anche se non è perfetto.\u003c/p\u003e\u003cp\u003eIl progetto è un test psicologico interattivo con elementi ludici. Ogni decisione manda onde d’urto nel sistema, modificando le opzioni successive. “Ma come riesci a inviare queste onde d’urto?”, mi ha chiesto il mio professore. Ho risposto: “Basta premendo il tasto Q nel menu principale”. Lui ha sorriso, ma poi ha aggiunto: “È troppo lunga, questa sequenza. Quindi fai attenzione lì”.\u003c/p\u003e\u003cp\u003eNel gioco, si può digitare una riga per scegliere cosa dire a un altro personaggio. A volte mi blocco e mi chiedo: “Qual è la parola che voglio dire?”. Altre volte ti rendi subito conto che la scelta è quella giusta.\u003c/p\u003e\u003cp\u003eIl gioco ha anche enigmi da risolvere. Più ci giochi, meglio sarai in grado di trovare le soluzioni. Alcune sfide richiedono solo un paio di secondi, altre serve impegno. In un livello, si devono raccogliere gettoni sotto la pressione di rintocchi videoludichi, mentre tutto intorno gira in un ritmo vorticoso.\u003c/p\u003e\u003cp\u003eUn giorno, mentre testavo il gioco, ho dimenticato di mettere la lozione prima di uscire e ho corso abbastanza veloce oggi, così la pelle ha iniziato a prudere. Ma ora abbiamo solo trenta minuti per finire il livello, quindi non potevo fermarmi.\u003c/p\u003e\u003cp\u003eA volte mi sveglio presto per lavorare al progetto, ma è difficile svegliarsi quando hai dormito solo quattro ore. Tuttavia, le mie giornate sono piene di idee. Un ragazzo mi ha chiesto: “C’è una parte in cui il gioco rilevare bugie?” Ho risposto che ci sto lavorando, e che presto sarà ancora più potente.\u003c/p\u003e\u003cp\u003eDomani stiamo andando a vedere uno spettacolo teatrale, e dopo forse posso mostrare il mio progetto a un pubblico più grande. Uno mi ha chiesto: “Perché si chiama così?” Ho risposto che il nome si traduce come “La Mente e il Caos”.\u003c/p\u003e\u003cp\u003eIn preda a un dubbio, mi sono chiesto se farei ancora quella scelta di iniziare questo progetto. Ma la risposta è sì. Quindi proviamo un po’ di più.\u003c/p\u003e",
-		"audioFileName": "",
-		"kind": "blog",
-		"audioSeconds": 0,
-		"estimatedAudioSeconds": 805
-	},
-	{
-		"suuid": "qCkUKV",
+		"suuid": "yli9xO",
 		"language": "it",
 		"date": "2025-06-17",
 		"title": "Martedì 17 giugno 2025",
@@ -891,7 +902,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Leuosu",
+		"suuid": "CXikhR",
 		"language": "nl",
 		"date": "2025-06-17",
 		"title": "Dinsdag 17 juni 2025",
@@ -902,7 +913,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "sGVnqp",
+		"suuid": "a8MByb",
 		"language": "it",
 		"date": "2025-06-16",
 		"title": "Lunedì 16 giugno 2025",
@@ -913,7 +924,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kNQin7",
+		"suuid": "HEyJ2P",
 		"language": "nl",
 		"date": "2025-06-16",
 		"title": "Maandag 16 juni 2025",
@@ -924,7 +935,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XZdl2J",
+		"suuid": "aImhOI",
 		"language": "it",
 		"date": "2025-06-15",
 		"title": "Domenica 15 giugno 2025",
@@ -935,7 +946,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6wB1n5",
+		"suuid": "0MblR3",
 		"language": "nl",
 		"date": "2025-06-15",
 		"title": "Zondag 15 juni 2025",
@@ -946,7 +957,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Kc1f1j",
+		"suuid": "Xaxcej",
 		"language": "it",
 		"date": "2025-06-14",
 		"title": "Sabato 14 giugno 2025",
@@ -957,7 +968,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "APEmcK",
+		"suuid": "EiHkPX",
 		"language": "nl",
 		"date": "2025-06-14",
 		"title": "Zaterdag 14 juni 2025",
@@ -968,7 +979,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZeXlUe",
+		"suuid": "KZmZWc",
 		"language": "it",
 		"date": "2025-06-13",
 		"title": "Venerdì 13 giugno 2025",
@@ -979,7 +990,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "TXrm2R",
+		"suuid": "fSe8b7",
 		"language": "it",
 		"date": "2025-06-12",
 		"title": "Giovedì 12 giugno 2025",
@@ -990,7 +1001,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "9kWIAm",
+		"suuid": "CuiHd2",
 		"language": "it",
 		"date": "2025-06-11",
 		"title": "Mercoledì 11 giugno 2025",
@@ -1001,7 +1012,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bJTfzn",
+		"suuid": "QFuvtQ",
 		"language": "fr",
 		"date": "2025-06-10",
 		"title": "Mardi 10 juin 2025",
@@ -1012,7 +1023,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "G24GI2",
+		"suuid": "7lbeHt",
 		"language": "fr",
 		"date": "2025-06-09",
 		"title": "Lundi 9 juin 2025",
@@ -1023,7 +1034,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "i09iQt",
+		"suuid": "Agzfd3",
 		"language": "it",
 		"date": "2025-06-08",
 		"title": "Domenica 8 giugno 2025",
@@ -1034,7 +1045,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j12eF4",
+		"suuid": "2d67GJ",
 		"language": "fr",
 		"date": "2025-06-07",
 		"title": "Samedi 7 juin 2025",
@@ -1045,7 +1056,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "UvK2aQ",
+		"suuid": "nW12Nt",
 		"language": "nl",
 		"date": "2025-06-06",
 		"title": "Vrijdag 6 juni 2025",
@@ -1056,7 +1067,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "kjCSdB",
+		"suuid": "QsrHVi",
 		"language": "pl",
 		"date": "2025-06-05",
 		"title": "Zwartek, 5 czerwca 2025",
@@ -1067,7 +1078,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "U7O8x2",
+		"suuid": "GJYxD6",
 		"language": "pl",
 		"date": "2025-06-04",
 		"title": "Środa, 4 czerwca 2025",
@@ -1078,7 +1089,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Dsnf7P",
+		"suuid": "WNeCNz",
 		"language": "pl",
 		"date": "2025-06-03",
 		"title": "Wtorek, 3 czerwca 2025",
@@ -1089,7 +1100,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fUZbkA",
+		"suuid": "WHe5MY",
 		"language": "pl",
 		"date": "2025-06-02",
 		"title": "Poniedziałek, 2 czerwiec 2025",
@@ -1100,7 +1111,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lxZdVB",
+		"suuid": "bfvyZC",
 		"language": "fr",
 		"date": "2025-06-01",
 		"title": "Dimanche 1er juin 2025",
@@ -1111,7 +1122,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ysYkdA",
+		"suuid": "XiKEHp",
 		"language": "fr",
 		"date": "2025-05-31",
 		"title": "Samedi 31 mai 2025",
@@ -1122,7 +1133,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "1jflm2",
+		"suuid": "Icp9nq",
 		"language": "fr",
 		"date": "2025-05-30",
 		"title": "Vendredi 30 mai 2025",
@@ -1133,7 +1144,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "lO9ezR",
+		"suuid": "K6mZRb",
 		"language": "fr",
 		"date": "2025-05-29",
 		"title": "Jeudi 29 mai 2025",
@@ -1144,7 +1155,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uYKZ35",
+		"suuid": "jyOhPs",
 		"language": "fr",
 		"date": "2025-05-28",
 		"title": "Mercredi 28 mai 2025",
@@ -1155,7 +1166,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Onhfha",
+		"suuid": "Ze1Skz",
 		"language": "fr",
 		"date": "2025-05-27",
 		"title": "Mardi 27 mai 2025",
@@ -1166,7 +1177,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "uFxYUK",
+		"suuid": "DQXCI2",
 		"language": "fr",
 		"date": "2025-05-26",
 		"title": "Lundi 26 mai 2025",
@@ -1177,7 +1188,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "YdTOhV",
+		"suuid": "uy2BWM",
 		"language": "fr",
 		"date": "2025-05-25",
 		"title": "Dimanche 25 mai 2025",
@@ -1188,7 +1199,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ZquPh5",
+		"suuid": "2BMkLy",
 		"language": "fr",
 		"date": "2025-05-24",
 		"title": "Samedi 24 mai 2025",
@@ -1199,7 +1210,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "4ql4EF",
+		"suuid": "e7HrOV",
 		"language": "fr",
 		"date": "2025-05-23",
 		"title": "Vendredi 23 mai 2025",
@@ -1210,7 +1221,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2tKJdZ",
+		"suuid": "mj5V2A",
 		"language": "fr",
 		"date": "2025-05-22",
 		"title": "Jeudi 22 mai 2025",
@@ -1221,7 +1232,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "VwhZvs",
+		"suuid": "yMbkaC",
 		"language": "fr",
 		"date": "2025-05-21",
 		"title": "Mercredi 21 mai 2025",
@@ -1232,7 +1243,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0m6NHK",
+		"suuid": "8sZCKH",
 		"language": "fr",
 		"date": "2025-05-20",
 		"title": "Mardi 20 mai 2025",
@@ -1243,7 +1254,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "pt8NHR",
+		"suuid": "wwmSSG",
 		"language": "fr",
 		"date": "2025-05-19",
 		"title": "Lundi 19 mai 2025",
@@ -1254,7 +1265,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "04zoGZ",
+		"suuid": "QNcWHR",
 		"language": "fr",
 		"date": "2025-05-18",
 		"title": "Dimanche 18 mai 2025",
@@ -1265,7 +1276,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Mp06CZ",
+		"suuid": "OEDgs7",
 		"language": "fr",
 		"date": "2025-05-17",
 		"title": "Samedi 17 mai 2025",
@@ -1276,7 +1287,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Q21Pql",
+		"suuid": "lj21o5",
 		"language": "fr",
 		"date": "2025-05-16",
 		"title": "Vendredi 16 mai 2025",
@@ -1287,7 +1298,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "8aZOzP",
+		"suuid": "GUiH5O",
 		"language": "fr",
 		"date": "2025-05-15",
 		"title": "Jeudi 15 mai 2025",
@@ -1298,7 +1309,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "TvvpMG",
+		"suuid": "JIMn9L",
 		"language": "fr",
 		"date": "2025-05-14",
 		"title": "Mercredi 14 mai 2025",
@@ -1309,7 +1320,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "3xVgB1",
+		"suuid": "ERja6w",
 		"language": "es",
 		"date": "2025-05-13",
 		"title": "Martes 13 de mayo de 2025",
@@ -1317,10 +1328,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 1005
+		"estimatedAudioSeconds": 1009
 	},
 	{
-		"suuid": "zfqDWU",
+		"suuid": "IaHirP",
 		"language": "it",
 		"date": "2025-05-12",
 		"title": "Lunedí 12 maggio 2025",
@@ -1331,7 +1342,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "dM1fXI",
+		"suuid": "OmOqTz",
 		"language": "fr",
 		"date": "2025-05-11",
 		"title": "Dimanche 11 mai 2025",
@@ -1342,7 +1353,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "DComoH",
+		"suuid": "SrnTOd",
 		"language": "nl",
 		"date": "2025-05-10",
 		"title": "Zaterdag 10 mei 2025",
@@ -1353,7 +1364,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bROWmR",
+		"suuid": "9fcQ3n",
 		"language": "fr",
 		"date": "2025-05-09",
 		"title": "Vendredi 9 mai 2025",
@@ -1364,7 +1375,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "2Xco79",
+		"suuid": "ctvmN5",
 		"language": "fr",
 		"date": "2025-05-08",
 		"title": "Jeudi 8 mai 2025",
@@ -1375,7 +1386,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "TRynE3",
+		"suuid": "AoBGnO",
 		"language": "fr",
 		"date": "2025-05-07",
 		"title": "Mercredi 7 mai 2025",
@@ -1386,7 +1397,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "QNktsY",
+		"suuid": "q8iDSh",
 		"language": "fr",
 		"date": "2025-05-06",
 		"title": "Mardi 6 mai 2025",
@@ -1397,7 +1408,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RGzxzF",
+		"suuid": "D6xTsz",
 		"language": "fr",
 		"date": "2025-05-05",
 		"title": "Lundi 5 mai 2025",
@@ -1408,7 +1419,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wmC0ao",
+		"suuid": "kXvrin",
 		"language": "fr",
 		"date": "2025-05-04",
 		"title": "Dimanche 4 mai 2025",
@@ -1416,10 +1427,10 @@
 		"audioFileName": "",
 		"kind": "blog",
 		"audioSeconds": 0,
-		"estimatedAudioSeconds": 856
+		"estimatedAudioSeconds": 859
 	},
 	{
-		"suuid": "BHyXwq",
+		"suuid": "tDaqiA",
 		"language": "fr",
 		"date": "2025-05-03",
 		"title": "Samedi 3 mai 2025",
@@ -1430,7 +1441,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "rSiEJ0",
+		"suuid": "kbgQSp",
 		"language": "it",
 		"date": "2025-05-03",
 		"title": "Sabato 3 maggio 2025",
@@ -1441,7 +1452,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "B2MGxa",
+		"suuid": "PL3a91",
 		"language": "fr",
 		"date": "2025-05-02",
 		"title": "Vendredi 2 mai 2025",
@@ -1452,7 +1463,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "G71gKS",
+		"suuid": "MUEqEC",
 		"language": "it",
 		"date": "2025-04-29",
 		"title": "Martedì 29 aprile 2025",
@@ -1463,7 +1474,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "cuk0RD",
+		"suuid": "MppoVa",
 		"language": "fr",
 		"date": "2025-04-27",
 		"title": "Dimanche 27 avril 2025",
@@ -1474,7 +1485,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ixt9AU",
+		"suuid": "CPaQB7",
 		"language": "fr",
 		"date": "2025-04-26",
 		"title": "Samedi 26 avril 2025",
@@ -1485,7 +1496,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5gNhJf",
+		"suuid": "fDxBuH",
 		"language": "de",
 		"date": "2025-04-25",
 		"title": "Freitag, 25. April 2025",
@@ -1496,7 +1507,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HlZC1B",
+		"suuid": "c8h85L",
 		"language": "fr",
 		"date": "2025-04-25",
 		"title": "Vendredi 25 avril 2025",
@@ -1507,7 +1518,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EAyGvd",
+		"suuid": "4Ob7Jo",
 		"language": "fr",
 		"date": "2025-04-24",
 		"title": "Jeudi 24 avril 2025",
@@ -1518,7 +1529,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "EPYW5L",
+		"suuid": "FEf0va",
 		"language": "it",
 		"date": "2025-04-24",
 		"title": "Giovedì 24 aprile 2025",
@@ -1529,7 +1540,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SuXEjz",
+		"suuid": "8CFEJe",
 		"language": "fr",
 		"date": "2025-04-23",
 		"title": "Mercredi 23 avril 2025",
@@ -1540,7 +1551,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "GdoPiL",
+		"suuid": "NE4GBF",
 		"language": "it",
 		"date": "2025-04-23",
 		"title": "Mercoledì, 23 aprile 2025",
@@ -1551,7 +1562,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "rm8IuM",
+		"suuid": "BLsIx5",
 		"language": "pl",
 		"date": "2025-04-23",
 		"title": "Ś�roda, 23 kwietnia 2025",
@@ -1562,7 +1573,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "HBxAAP",
+		"suuid": "tqJWGW",
 		"language": "it",
 		"date": "2025-04-22",
 		"title": "Martedì, 22 aprile 2025",
@@ -1573,7 +1584,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "hzwHed",
+		"suuid": "8rS6Sp",
 		"language": "it",
 		"date": "2025-04-21",
 		"title": "Lunedì, 21 aprile 2025",
@@ -1584,7 +1595,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "LREG6S",
+		"suuid": "pKKkQ4",
 		"language": "it",
 		"date": "2025-04-20",
 		"title": "Domenica, 20 aprile 2025",
@@ -1595,7 +1606,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "hPpEUs",
+		"suuid": "WuBVRF",
 		"language": "it",
 		"date": "2025-04-19",
 		"title": "Sabato, 19 aprile 2025",
@@ -1606,7 +1617,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "D8J6Iv",
+		"suuid": "rvVYop",
 		"language": "nl",
 		"date": "2025-04-18",
 		"title": "Vrijdag 18 april 2025",
@@ -1617,7 +1628,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "gY0sVR",
+		"suuid": "14y62L",
 		"language": "it",
 		"date": "2025-04-17",
 		"title": "Giovedì, 17 aprile 2025",
@@ -1628,7 +1639,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "yVj8Lz",
+		"suuid": "jLWW2U",
 		"language": "fr",
 		"date": "2025-04-16",
 		"title": "Mercredi 15 avril 2025",
@@ -1639,7 +1650,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "5RdUvc",
+		"suuid": "WEOzJg",
 		"language": "pl",
 		"date": "2025-04-16",
 		"title": "Ś�roda 16 kwietnia 2025",
@@ -1650,7 +1661,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "bcN7g5",
+		"suuid": "IKgf0Q",
 		"language": "it",
 		"date": "2025-04-16",
 		"title": "Mercoledì, 16 aprile 2025",
@@ -1661,7 +1672,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "NijRgM",
+		"suuid": "gSed6E",
 		"language": "es",
 		"date": "2025-04-15",
 		"title": "Martes 15 de abril de 2025",
@@ -1672,7 +1683,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "j2erTY",
+		"suuid": "Vu8GLn",
 		"language": "pl",
 		"date": "2025-04-15",
 		"title": "Wtorek 15 kwietnia 2025",
@@ -1683,7 +1694,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "13yr4c",
+		"suuid": "P48DiU",
 		"language": "es",
 		"date": "2025-04-14",
 		"title": "Lunes 14 de abril de 2025",
@@ -1694,7 +1705,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "wVhZBc",
+		"suuid": "tRG7KC",
 		"language": "pl",
 		"date": "2025-04-14",
 		"title": "Wtorek, 14 kwietnia 2025",
@@ -1705,7 +1716,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "ULnjJx",
+		"suuid": "E87VJh",
 		"language": "it",
 		"date": "2025-04-14",
 		"title": "Lunedì 14 aprile 2025",
@@ -1716,7 +1727,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "CKQuRa",
+		"suuid": "ML04Ns",
 		"language": "fr",
 		"date": "2025-04-13",
 		"title": "Dimanche 13 avril 2025",
@@ -1727,7 +1738,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "Iu5yj3",
+		"suuid": "iVRYUF",
 		"language": "pl",
 		"date": "2025-04-13",
 		"title": "Niedziela, 13 kwietnia 2025",
@@ -1738,7 +1749,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "RxIok6",
+		"suuid": "0uvq9A",
 		"language": "es",
 		"date": "2025-04-13",
 		"title": "Domingo 13 de abril de 2025",
@@ -1749,7 +1760,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MM8jnn",
+		"suuid": "L4H7NN",
 		"language": "it",
 		"date": "2025-04-13",
 		"title": "Domenica 13 aprile 2025",
@@ -1760,7 +1771,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "XY9kIl",
+		"suuid": "omVqQZ",
 		"language": "es",
 		"date": "2025-04-12",
 		"title": "Sábado 12 de abril de 2025",
@@ -1771,7 +1782,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "SyQJuC",
+		"suuid": "NiqkKm",
 		"language": "nl",
 		"date": "2025-04-12",
 		"title": "Zaterdag 12 april 2025",
@@ -1782,7 +1793,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "MIBrv2",
+		"suuid": "gWuVlf",
 		"language": "fr",
 		"date": "2025-04-12",
 		"title": "Samedi 12 avril 2025",
@@ -1793,7 +1804,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "fce7ml",
+		"suuid": "3lONhr",
 		"language": "it",
 		"date": "2025-04-12",
 		"title": "Sabato 12 aprile 2025",
@@ -1804,7 +1815,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "7My5J9",
+		"suuid": "Gnz7IS",
 		"language": "fr",
 		"date": "2025-04-11",
 		"title": "Vendredi 11 avril 2025",
@@ -1815,7 +1826,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "BWFYI6",
+		"suuid": "F4gcFn",
 		"language": "it",
 		"date": "2025-04-11",
 		"title": "Venerdì 11 aprile 2025",
@@ -1826,7 +1837,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0yThLq",
+		"suuid": "pe7r1E",
 		"language": "es",
 		"date": "2025-04-11",
 		"title": "Viernes 11 de abril de 2025",
@@ -1837,7 +1848,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "L6mqbF",
+		"suuid": "oZy3BV",
 		"language": "de",
 		"date": "2025-04-11",
 		"title": "Freitag, 11. April 2025",
@@ -1848,7 +1859,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "0IP7X6",
+		"suuid": "8gsGA0",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": "Giovedì 10 aprile 2025",
@@ -1859,7 +1870,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "6Ym74v",
+		"suuid": "4GMEQG",
 		"language": "de",
 		"date": "2025-04-10",
 		"title": "Donnerstag, 10. April 2025",
@@ -1870,7 +1881,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "APTqRf",
+		"suuid": "q315fy",
 		"language": "it",
 		"date": "2025-04-10",
 		"title": " Per Sembre",
@@ -1881,7 +1892,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "l3nqXZ",
+		"suuid": "TJFCID",
 		"language": "nl",
 		"date": "2025-04-09",
 		"title": "Woensdag 9 april 2025",
@@ -1892,7 +1903,7 @@
 		"estimatedAudioSeconds": 0
 	},
 	{
-		"suuid": "KhvRWj",
+		"suuid": "gyyPfc",
 		"language": "it",
 		"date": "2025-04-09",
 		"title": "Mercoledì 9 aprile 2025",
