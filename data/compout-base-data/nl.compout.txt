@@ -1,3 +1,37 @@
+2025-09-10 - woensdag 10 augustus 2025
+
+>> Het verhaal van de cursus
+
+Ik begin met een inleiding, waarin het onderwerp wordt geïntroduceerd: het gaat over een jonge student die leert hoe men webapplicaties bouwt. Deze cursus bestaat uit drie delen, en hij zegt: “ik wacht er al lang op.”
+
+De docent vraagt: “Ben je er zeker van dat je dit wilt volgen?” De student knikt. Hij heeft al een tijdje niets van je gehoord, zegt de docent, maar nu is hij er weer.
+
+In deze videoles zegt de docent: “Welkom bij de webapplicatie. Zoals je kunt zien openen we de console. We hebben nu toegang tot de console en ten slotte is er een sectie om ons te helpen in tijden van nood. Nu moet ik de volgende tutorial doen, dus let goed op.”
+
+De student klikt, letterlijk: “Klikken, door op deze knop te drukken, laten we op maken drukken, en het is klaar.” Hij glimlacht: “Laten we naar de show gaan.”
+
+De docent vraagt: “Gaat het goed met je? Hoe is het met je?” De student antwoordt: “Goed. Maar ik ben een beetje moe. Het was een goedkoop koffiezetapparaat, en later merkte ik dat het was geen duur koffiezetapparaat, maar ik heb te veel koffie gedronken.”
+
+De docent vervolgt: “Kijk, deze cursus gebruikt beproefde benaderingen. Met behulp van de huidige infrastructuur van een groot technologiebedrijf, want daar ben ik gevestigd, leer je veel. Je leert wat er beschikbaar is, zoals cloud-diensten, zoals rekenkracht, opslag, enzovoort. Van daaruit leren we patronen. Ten slotte leren we hoe je onderhoudbare code schrijft.”
+
+De student schrijft mee en hield een telling bij van de namen van alle functies. Hij merkt: “Er is een combinatie van eenvoudige en moeilijke onderwerpen. Met een beetje moeite kan ik dit begrijpen.”
+
+Toen hij jonger was, las hij een heleboel informatie zonder echt te begrijpen. Hij was aan het lezen terwijl zijn vrienden buiten speelden. Zijn vader zei dat hij al een uur had gelezen, en soms zelfs dat hij al drie uur aan het lezen was geweest. Nu begrijpt hij dat beter.
+
+De docent zegt: “Aan de andere kant, sommige concepten zijn moeilijk. Anderzijds, je hebt al ervaring. Als je er al bekend mee bent, kun je overslaan. Als je dat wilt opfrissen, kun je de extra video bekijken.”
+
+De student denkt: “In de toekomst zal ik dit goed kunnen gebruiken.” Hij weet dat hij morgen zal werken aan een project. Tegen het einde van de maand zal hij drie modules hebben voltooid. Over een jaar zal hij al lange tijd hebben geoefend.
+
+Hij denkt ook in mogelijkheden: “Het zou ook goed zijn als je mij extra oefeningen geeft.” Hij stelt zich voor hoe het zou zijn als ik meer tijd had. De docent antwoordt: “Het is belangrijk dat je dat denkt, want de verwijdering van fouten kost altijd tijd. Je moet leren om tussen de twee te schakelen, theorie en praktijk.”
+
+In deze tijd is alles online. De student denkt: “Straks ga ik naar facturering, en dan heb ik een abonnement.” Hij zegt tegen zichzelf: “We kunnen schatten dat dit vrij eenvoudig zal zijn.”
+
+Hij lacht: “En misschien, ooit, zal ik al tien jaar lang hebben gewerkt in dit vak.”
+
+De docent eindigt: “Goed gedaan. Deze lessen zijn gemaakt om ons te helpen in tijden van nood. En onthoud: er zijn altijd nieuwe stappen. Laten we op maken drukken en doorgaan.”
+
+Zo eindigt het verhaal van de student en zijn cursus.
+
 2025-09-17 - woensdag 17 augustus 2025
 
 >> Een dag vol verrassingen
