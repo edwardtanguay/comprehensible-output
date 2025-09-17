@@ -250,3 +250,13 @@ es; -g; guión, [ch]ee-ONG-[ch]ay; hyphen g
 es; pantalla; pahn-TIGH-ya; screen
 es; gema escondida; [ch]AY-mah; hidden gem
 es; tecnológica; tek-noh-LOH-[ch]ee-kah; technology
+nl; moeite; MOO-ee-tah; effort
+nl; uitgesteld; OUT-/g/eh-stellt; postponed
+nl; enige; AYH-nih-ga;only; het enige onderdeel; the only part
+nl; landingspagina; lan-dings-pah-/g/ee-NAH; landing page
+nl; zeventien; ZAH-veh-teen; seventeen
+nl; schrijf ; s-/ch/-RIGHF; write
+nl; ik besefte; eek beh-SEFF-teh ("s" not "z"); I realized
+nl; fluisteren; FLOU (as in "flower")-stair-reh; to whisper; hoorde ik iemand fluisteren
+nl; notities; noh-TEE-seez; een kijkje nemen in mijn notities?
+nl; Ik verheug me erop.; fair-HOO-/ch/; look forward to it
