@@ -269,5 +269,8 @@ nl; Excu­seer me; eks-koo-SEHR-mah; excuse me
 nl; bezig met regels, de wet en naleving; NAH-lay-ving; compliance
 nl; een puinhoop; POW-en-hohp; a mess
 nl; de frustratie; froo-STRAT-see; frustration
+nl; en luister tegelijk; teh-/g/eh-LIGHK; at the same time
+nl; fruit; FRAUT; fruit
+nl; Soms heb ik vermeden ruzie; ROO-zee; avoided arguing
 
 
