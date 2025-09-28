@@ -1,4 +1,9 @@
 ======================================================================================
+2025-09-28 07:47:00
+Prompt in Dutch to create a story with 50 phrases and 550 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Dutch, using the informal 'you', with 550 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "het onderwerp", "van dit onderwerp", "pas wel op", "er zijn zoveel woorden", "ermee", "hierdoor", "daarom", "waaruit", "daarmee", "hierin", "erover", "waaronder", "erop", "daarin", "dichtbij of ver weg", "vier vingers", "tot volgende keer, doei", "tot volgende week, doei", "voorzetsels", "ze is gewend", "uiterlijk", "budget", "het bad", "dan zeggen we doei", "ik houde van", "zoals", "slagen voor", "we gaan vluchten voor", "behoefte", "je hebt een ziekte", "je went", "je went eraan", "hekel", "Ik haat spinazie", "de klok of de vlag", "bijvoorbeeld", "ik was het doel", "als ik jou was, zou ik hem later opbellen", "wij zouden dat huis niet kopen", "Hij zou graag thuis blijven.", "Voorlopig", "Hij had een week lang gehuild", "Hij had een bericht over het rapport.", "spoorwegen", "ruisen van de rivier", "puinhoop", "de Italiaanse woorden", "klinkt het ruisen van de rivier", "op kantoor aan zijn bureau", "Zaterdag".
+======================================================================================
 2025-09-27 06:55:50
 Prompt in Dutch to create a story with 59 phrases and 649 words...
 ======================================================================================
