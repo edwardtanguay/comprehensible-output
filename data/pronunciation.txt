@@ -294,3 +294,4 @@ nl; naar mijn mening; MAY-ning; in my opinion
 nl; in paniek te raken; pah-NEEK; to panic
 nl; het is inderdaad noodzakelijk; nohd-TSAH-kil-ik; it is indeed necessary
 nl; potentieel; poh-ten-SHAYL; potential
+nl; nauwer geïntegreerd; NOW-where; more closely integrated
