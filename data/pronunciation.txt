@@ -212,31 +212,17 @@ es; gema escondida; [ch]AY-mah; hidden gem
 es; tecnológica; tek-noh-LOH-[ch]ee-kah; technology
 nl; typ; teep
 nl; tot slot; toht SLOHT; finally
-nl; foutgevoelig; F(OW)T; error-prone
 nl; druk op Control + Spatie; ploos SPAHT-see; space
-nl; proces; PRO-sess
-nl; voer de waarde in; VOO-ur; enter the value
-nl; jaloezieën; yah-loh-ZEE-ah
-nl; en de geur; *oor; and the smell
-nl; van verse koffie; FAIR-sah; fresh coffee
-nl; je moet weten hoe je wijzigingen moet aanbrengen; WIGH-zeh-*ing-ah; know how to make changes
-nl; de ontmoeting; ont-MOO-ting; the meeting
-nl; nieuwsgierig; news-*EER-*ugh; curious
+nl; het is een lang proces; proh-SESS; it is a long process
+nl; gedachten aan verse koffie; FAIR-sah; thoughts of fresh coffee
 nl; dat is briljant; brill-YANT; that's brilliant
-nl; soms is het eenvoudig, soms niet; ayn-VOW-du*; sometimes it's simple, sometimes not
-nl; kruispunt; german:(kraus); intersection
+nl; kruispunt; german:(KRAUS)-poont; intersection
 nl; docent; doh-SENT
-nl; wijzigingen ; WIGH-zeh-*ing-eh; changes
-nl; vaardigheden; FAR-dih-hey-duh; skills
-nl; bedankt voor de uitleg; OUT-le*, thanks for the explanation
 nl; hardop ; hard-OHP; out loud
-nl; notities; noh-TEE-sees; notes
 nl; Italiaans; ee-tahl-YAWNS; Italian
-nl; speciaal; spay-shee-AL
 nl; route; ROOT-eh
 nl; valse vrienden; FAHL-seh
 nl; vals; fahls
-nl; produceren; proh-do-SEER-ah
 nl; success; sook-SESS
 nl; wat is jouw motivatie; moh-tee-VAH-tsee
 nl; politie; poh-LEE-tsee
@@ -245,61 +231,80 @@ nl; drieënzeventig; dree-en-ZAY-ven-ti*
 nl; typ; TEEP
 nl; wat zijn mijn opties;AHP-seez; what are my options
 nl; actie; AHK-see
-nl; engageren; ahn-gah-JAIR-eh
-nl; revolutie; ray-voh-LOO-see
-nl; Zeker weten; ZAY-ker-VAY-tah; you bet
+nl; revolutie; ray-voh-LOO-tsee
 nl; pagina; PAH-*ee-nah; page
 nl; afscheid ; OFF-s*ight; parting (Abschied)
 nl; de eerste functie; FOONK-see; the first function
 nl; moeite; MOO-ee-tah; effort
-nl; uitgesteld; OUT-/g/eh-stellt; postponed
-nl; enige; AYH-nih-ga;only; het enige onderdeel; the only part
+nl; uitgesteld; OUT-*eh-stellt; postponed
+nl; enige; AYH-nih-*a;only; het enige onderdeel; the only part
 nl; landingspagina; lan-dings-pah-/g/ee-NAH; landing page
 nl; zeventien; ZAH-veh-teen; seventeen
 nl; schrijf ; s-/ch/-RIGHF; write
 nl; ik besefte; eek beh-SEFF-teh ("s" not "z"); I realized
 nl; fluisteren; FLOU (as in "flower")-stair-reh; to whisper; hoorde ik iemand fluisteren
 nl; notities; noh-TEE-seez; een kijkje nemen in mijn notities?
-nl; Ik verheug me erop.; fair-HOO-/ch/; look forward to it 
-nl; huidige infrastructuur ; HOW-dig-ah; current
+nl; huidige infrastructuur ; HOW-dih-*ah; current
 nl; van alle functies; FOONK-seez; functions
-nl; De docent zegt; doh-SENT; teacher
+nl; de docent zegt; doh-SENT; teacher
 nl; een abonnement; ah-boh-nah-MENT; subscription
-nl; Sommigen waren aan het typen ; ("s" not "z" sound) SOH-mih-*eh; some were typing
-nl; Excu­seer me; eks-koo-SEHR-mah; excuse me
-nl; bezig met regels, de wet en naleving; NAH-lay-ving; compliance
+nl; bezig met regels, de wet en naleving; NAH-lay-ving; concerned with rules, the law and compliance
 nl; een puinhoop; POW-en-hohp; a mess
-nl; de frustratie; froo-STRAT-see; frustration
-nl; en luister tegelijk; teh-/g/eh-LIGHK; at the same time
 nl; fruit; FRAUT; fruit
-nl; Soms heb ik vermeden ruzie; ROO-zee; avoided arguing
 nl; in een keuken; KÖ-keh; in a kitchen 
-nl; ik heb gehuild; /g/eh-HAHLT; I have cried
-nl; heeft gedacht aan haar jeugd; YOH/G/T; has thought about her youth
-nl; Op een dag komt er een vreemdeling.; FRAYM-deh-ling; one day a stranger comes
 nl; omdat de docent zegt; doh-SENT; because the teacher says
 nl; omdat het belangrijk is; iss; because it is important
-nl; maar voelde ook de frustratie; fruh-STRAH-see; but also felt the frustration
 nl; Je wist niet welke kant je moest kiezen; KEE-zeh; you didn't know which side to choose
 nl; alle functies; FOONK-sees; all functions
 nl; hoe je een heleboel informatie ordent; in-for-MAHT-see; how to organize a lot of information
-nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
 nl; de rivier stroomde sterk; ree-VEER; the river was flowing strongly
 nl; je werd wakker in een puinhoop; POWN-hohp; you woke up in a mess
-nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
 nl; onderhoudt; OHN-der-howt;maintains
 nl; een bredere context; BRAY-der-eh; a broader context
 nl; die machine; mah-SHEE-nah; the machine
 nl; naar mijn mening; MAY-ning; in my opinion
 nl; in paniek te raken; pah-NEEK; to panic
-nl; het is inderdaad noodzakelijk; nohd-TSAH-kil-ik; it is indeed necessary
-nl; potentieel; poh-ten-SHAYL; potential
 nl; nauwer geïntegreerd; NOW-where; more closely integrated
 nl; zeven; ZAY-veh; seven
 nl; en in ruil; R/OW/L (rhymes with now); and in exchange
 nl; inefficiëntie; in-eff-ee-SHEN-see; inefficiency
 nl; was te lunchen; LOON-chah; what to have for lunch
-nl; essentieel ; ess-sen-CHELL; essential
 nl; carrière; kar-ee-AIR-eh; career
 nl; beschouw; beh-S/*/OW (as in now, no "v" at end); consider
 nl; een schone lei; LAYEE; a clean slate
+nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
+nl; potentieel; poh-ten-SHAYL; potential
+nl; Op een dag komt er een vreemdeling.; FRAYM-deh-ling; one day a stranger comes
+nl; heeft gedacht aan haar jeugd; YOH/G/T; has thought about her youth
+nl; essentieel ; ess-sen-CHELL; essential
+nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
+nl; het is inderdaad noodzakelijk; nohd-TSAH-kil-ik; it is indeed necessary
+nl; ik heb gehuild; /g/eh-HAHLT; I have cried
+nl; Soms heb ik vermeden ruzie; ROO-zee; sometimes I'ved avoided arguing
+nl; en luister tegelijk; teh-/g/eh-LIGHK; and listen at the same time
+nl; de frustratie; froo-STRAT-see; frustration
+nl; Excu­seer me; eks-koo-ZAIHR-mah; excuse me
+nl; Sommigen waren aan het typen ; ("s" not "z" sound) SOH-mih-*eh; some were typing
+nl; Ik verheug me erop.; fair-HOO*; look forward to it 
+nl; Zeker weten; ZAY-ker-VAY-tah; you bet
+nl; engageren; AHN-*ah-ZHAIR-eh
+nl; produceren; proh-do-SEER-ah
+nl; speciaal; spay-shee-(OWL)
+nl; vaardigheden; FAR-dih-hey-duh; skills
+nl; bedankt voor de uitleg; OUT-le*, thanks for the explanation
+nl; wijzigingen ; WIGH-zeh-*ing-eh; changes
+nl; soms is het eenvoudig, soms niet; ayn-VOW-du*; sometimes it's simple, sometimes not
+nl; nieuwsgierig; news-*EER-*ugh; curious
+nl; de ontmoeting; ont-MOO-ting; the meeting
+nl; je moet weten hoe je wijzigingen moet aanbrengen; WIGH-zeh-*ing-ah; you need to know how to make changes
+nl; en de geur; *ur; and the smell
+nl; jaloezieën; yah-loo-ZEE-ah
+nl; voer de waarde in; VOO-ur; enter the value
+nl; foutgevoelig; F(OW)T; error-prone
+nl; Sedert vorige week; SAY-dirt; since last week
+nl; het artikel; ahr-TEE-kel; the article
+nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
+nl; De sfeer hier bevalt me goed; SFEER; I like the atmosphere here
+nl; Je knikt ; KNIKT; you nod
+nl; sociale media ; soh-shee-AHL-ah; social media
+nl; het toneelstuk ; toh-NAIL-stook; the play
