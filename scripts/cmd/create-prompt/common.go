@@ -8,6 +8,7 @@ import (
 	"os"
 	"strings"
 	"time"
+	"sort"
 )
 
 func getPhrasesForPrompt(language string, numberOfPhrases int) []string {
@@ -22,6 +23,12 @@ func getPhrasesForPrompt(language string, numberOfPhrases int) []string {
 func getNewPhrases(language string, numberOfPhrases int) []string {
 	newPhrases := []string{}
 	phraseItems := utils.GetCompoutPhrases()
+
+	// reverse sort on WhenRecorded
+	sort.Slice(phraseItems, func(i,j int) bool {
+		return phraseItems[i].WhenRecorded > phraseItems[j].WhenRecorded;
+	})
+
 	index := 0
 	for _, phraseItem := range phraseItems {
 		if phraseItem.TargetLanguage == language && len(phraseItem.WhenUsed) == 0 {

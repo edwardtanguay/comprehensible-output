@@ -314,3 +314,4 @@ nl; kapot; kah-POHT; broken
 nl; moest je ruim een uur wachten; (german:Raum); you had to wait more than an hour
 nl; Je bewondert haar discipline; dee-see-PLEE-nah; You admire her discipline
 nl; Mijn excuses; ek-SKOO-zess; my apologies
+nl; Ik beschouw dit boek als; bay-S*(OW|as in cow); I consider this book as
