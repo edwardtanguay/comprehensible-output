@@ -288,6 +288,13 @@ nl; Sommigen waren aan het typen ; ("s" not "z" sound) SOH-mih-*eh; some were ty
 nl; Ik verheug me erop.; fair-HOO*; look forward to it 
 nl; Zeker weten; ZAY-ker-VAY-tah; you bet
 nl; engageren; AHN-*ah-ZHAIR-eh
+nl; Sedert vorige week; SAY-dirt; since last week
+nl; het artikel; ahr-TEE-kel; the article
+nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
+nl; De sfeer hier bevalt me goed; SFEER; I like the atmosphere here
+nl; Je knikt ; KNIKT; you nod
+nl; sociale media ; soh-shee-AHL-ah; social media
+nl; het toneelstuk ; toh-NAIL-stook; the play
 nl; produceren; proh-do-SEER-ah
 nl; speciaal; spay-shee-(OWL)
 nl; vaardigheden; FAR-dih-hey-duh; skills
@@ -300,11 +307,10 @@ nl; je moet weten hoe je wijzigingen moet aanbrengen; WIGH-zeh-*ing-ah; you need
 nl; en de geur; *ur; and the smell
 nl; jaloezieën; yah-loo-ZEE-ah
 nl; voer de waarde in; VOO-ur; enter the value
-nl; foutgevoelig; F(OW)T; error-prone
-nl; Sedert vorige week; SAY-dirt; since last week
-nl; het artikel; ahr-TEE-kel; the article
-nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
-nl; De sfeer hier bevalt me goed; SFEER; I like the atmosphere here
-nl; Je knikt ; KNIKT; you nod
-nl; sociale media ; soh-shee-AHL-ah; social media
-nl; het toneelstuk ; toh-NAIL-stook; the play
+nl; foutgevoelig; F(OW)T-*eh-FOOL-i*; error-prone
+nl; Je pakt je agenda en bladert erin; ah-*EN-dah; You grab your calendar and leaf through it
+nl; Vorige week had je spoed; SPOOT; Last week you had an emergency
+nl; kapot; kah-POHT; broken
+nl; moest je ruim een uur wachten; (german:Raum); you had to wait more than an hour
+nl; Je bewondert haar discipline; dee-see-PLEE-nah; You admire her discipline
+nl; Mijn excuses; ek-SKOO-zess; my apologies
