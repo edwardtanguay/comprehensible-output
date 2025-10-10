@@ -237,9 +237,9 @@ nl; afscheid ; OFF-s*ight; parting (Abschied)
 nl; de eerste functie; FOONK-see; the first function
 nl; moeite; MOO-ee-tah; effort
 nl; uitgesteld; OUT-*eh-stellt; postponed
-nl; enige; AYH-nih-*a;only; het enige onderdeel; the only part
-nl; landingspagina; lan-dings-pah-/g/ee-NAH; landing page
-nl; zeventien; ZAH-veh-teen; seventeen
+nl; het enige onderdeel; AYH-nih-*a; the only part
+nl; landingspagina; lan-dings-pah-*ee-NAH; landing page
+nl; zeventien; ZAY-veh-teen; seventeen
 nl; schrijf ; s-/ch/-RIGHF; write
 nl; ik besefte; eek beh-SEFF-teh ("s" not "z"); I realized
 nl; fluisteren; FLOU (as in "flower")-stair-reh; to whisper; hoorde ik iemand fluisteren
@@ -271,47 +271,52 @@ nl; inefficiëntie; in-eff-ee-SHEN-see; inefficiency
 nl; was te lunchen; LOON-chah; what to have for lunch
 nl; carrière; kar-ee-AIR-eh; career
 nl; beschouw; beh-S/*/OW (as in now, no "v" at end); consider
-nl; een schone lei; LAYEE; a clean slate
-nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
 nl; potentieel; poh-ten-SHAYL; potential
 nl; Op een dag komt er een vreemdeling.; FRAYM-deh-ling; one day a stranger comes
 nl; heeft gedacht aan haar jeugd; YOH/G/T; has thought about her youth
-nl; essentieel ; ess-sen-CHELL; essential
-nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
 nl; het is inderdaad noodzakelijk; nohd-TSAH-kil-ik; it is indeed necessary
 nl; ik heb gehuild; /g/eh-HAHLT; I have cried
 nl; Soms heb ik vermeden ruzie; ROO-zee; sometimes I'ved avoided arguing
 nl; en luister tegelijk; teh-/g/eh-LIGHK; and listen at the same time
 nl; de frustratie; froo-STRAT-see; frustration
-nl; Excu­seer me; eks-koo-ZAIHR-mah; excuse me
 nl; Sommigen waren aan het typen ; ("s" not "z" sound) SOH-mih-*eh; some were typing
 nl; Ik verheug me erop.; fair-HOO*; look forward to it 
 nl; Zeker weten; ZAY-ker-VAY-tah; you bet
-nl; engageren; AHN-*ah-ZHAIR-eh
-nl; Sedert vorige week; SAY-dirt; since last week
 nl; het artikel; ahr-TEE-kel; the article
-nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
 nl; De sfeer hier bevalt me goed; SFEER; I like the atmosphere here
 nl; Je knikt ; KNIKT; you nod
 nl; sociale media ; soh-shee-AHL-ah; social media
-nl; het toneelstuk ; toh-NAIL-stook; the play
-nl; produceren; proh-do-SEER-ah
-nl; speciaal; spay-shee-(OWL)
-nl; vaardigheden; FAR-dih-hey-duh; skills
 nl; bedankt voor de uitleg; OUT-le*, thanks for the explanation
-nl; wijzigingen ; WIGH-zeh-*ing-eh; changes
 nl; soms is het eenvoudig, soms niet; ayn-VOW-du*; sometimes it's simple, sometimes not
-nl; nieuwsgierig; news-*EER-*ugh; curious
-nl; de ontmoeting; ont-MOO-ting; the meeting
 nl; je moet weten hoe je wijzigingen moet aanbrengen; WIGH-zeh-*ing-ah; you need to know how to make changes
-nl; en de geur; *ur; and the smell
-nl; jaloezieën; yah-loo-ZEE-ah
+nl; er hangt hier een slechte geur; *ur; there is a bad smell here
 nl; voer de waarde in; VOO-ur; enter the value
 nl; foutgevoelig; F(OW)T-*eh-FOOL-i*; error-prone
 nl; Je pakt je agenda en bladert erin; ah-*EN-dah; You grab your calendar and leaf through it
 nl; Vorige week had je spoed; SPOOT; Last week you had an emergency
 nl; kapot; kah-POHT; broken
 nl; moest je ruim een uur wachten; (german:Raum); you had to wait more than an hour
-nl; Je bewondert haar discipline; dee-see-PLEE-nah; You admire her discipline
-nl; Mijn excuses; ek-SKOO-zess; my apologies
 nl; Ik beschouw dit boek als; bay-S*(OW|as in cow); I consider this book as
+nl; Je bewondert haar discipline; dee-see-PLEE-nah; You admire her discipline
+nl; jaloezieën; yah-loo-ZEE-ah
+nl; de ontmoeting; ont-MOO-ting; the meeting
+nl; nieuwsgierig; news-*EER-*ugh; curious
+nl; wijzigingen ; WIGH-zeh-*ing-eh; changes
+nl; vaardigheden; FAR-dih-hey-duh; skills
+nl; speciaal; spay-shee-(OWL)
+nl; produceren; proh-do-SEER-ah
+nl; het toneelstuk ; toh-NAIL-stook; the play
+nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
+nl; engageren; AHN-*ah-ZHAIR-eh
+nl; Excu­seer me; eks-koo-ZAIHR-mah; excuse me
+nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
+nl; essentieel ; ay-sen-CHAYLL; essential
+nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
+nl; een schone lei; LAYEE; a clean slate
+nl; Mijn excuses; ek-SKOO-zess; my apologies
+nl; tegelijk; teh-*el-LIGHK; at the same time
+nl; Uiteindelijk ; out-EYEn-deh-lik; in the end
+nl; elk detail; day-TIGH-ee; every detail
+nl; formulier; form-oo-LEER; form
+nl; proces; proh-SESS; process
+nl; ga je joggen; JOH-ghah; you go jogging
