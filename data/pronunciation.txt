@@ -310,7 +310,7 @@ nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation lett
 nl; engageren; AHN-*ah-ZHAIR-eh
 nl; Excu­seer me; eks-koo-ZAIHR-mah; excuse me
 nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
-nl; essentieel ; ay-sen-CHAYLL; essential
+nl; essentieel ; ehs-en-SHAYLL; essential
 nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
 nl; een schone lei; LAYEE; a clean slate
 nl; Mijn excuses; ek-SKOO-zess; my apologies
@@ -319,4 +319,8 @@ nl; Uiteindelijk ; out-EYEn-deh-lik; in the end
 nl; elk detail; day-TIGH-ee; every detail
 nl; formulier; form-oo-LEER; form
 nl; proces; proh-SESS; process
+nl; succes; sook-SESS; success
 nl; ga je joggen; JOH-ghah; you go jogging
+nl; ontdekking; ohnt-DEHK-ing; discovery
+nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time
+nl; archief; ahr-*EEF; archive
