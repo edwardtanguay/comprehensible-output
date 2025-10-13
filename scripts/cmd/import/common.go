@@ -143,7 +143,7 @@ func calculatePhraseStats() []LanguageStatsItem {
 	}
 	// Sort stats by TotalPhrases descending
 	sort.Slice(stats, func(i, j int) bool {
-		return stats[i].TotalPhrases > stats[j].TotalPhrases
+		return stats[i].NewPhrases > stats[j].NewPhrases
 	})
 	return stats
 }

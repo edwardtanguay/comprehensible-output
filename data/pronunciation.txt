@@ -324,3 +324,4 @@ nl; ga je joggen; JOH-ghah; you go jogging
 nl; ontdekking; ohnt-DEHK-ing; discovery
 nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time
 nl; archief; ahr-*EEF; archive
+nl; formulier; form-oo-LEER; form
