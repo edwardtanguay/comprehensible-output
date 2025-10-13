@@ -325,3 +325,4 @@ nl; ontdekking; ohnt-DEHK-ing; discovery
 nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time
 nl; archief; ahr-*EEF; archive
 nl; formulier; form-oo-LEER; form
+it; schermo; SKAIR-moh; screen
