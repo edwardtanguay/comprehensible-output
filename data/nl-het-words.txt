@@ -1,10 +1,10 @@
-het adres 
-het afscheid 
-het antwoord 
-het bed
-het bedrag
-het been 
-het begin 
+het adres; 4.3
+het afscheid; 4.4 
+het antwoord; 4.9 
+het bed; 4.9
+het bedrag; 4.8
+het been; 4.9 
+het begin; 4.9
 het bericht 
 het beroep 
 het besluit 

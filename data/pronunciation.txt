@@ -31,6 +31,7 @@ ta; make clear, crisp ends appear on the front and back of each word
 nl; g's in back of throat
 
 ``flashcards
+it; schermo; SKAIR-moh; screen
 it; ciò; choh; that is
 it; righe; REE-gah; lines
 il; tu spieghi; too spYEGG-ee
@@ -325,4 +326,13 @@ nl; ontdekking; ohnt-DEHK-ing; discovery
 nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time
 nl; archief; ahr-*EEF; archive
 nl; formulier; form-oo-LEER; form
-it; schermo; SKAIR-moh; screen
+nl; vijftien; VIGHF-teen; fifteen
+nl; gevoel; *eh-VOOL; feeling
+nl; vijf; VIGHF; five
+nl; het huwelijk; HYOO-ih-lik; the wedding
+nl; garage; *ah-RAH-zheh; garage
+nl; de jack; en(JACK); jacket
+nl; kuikens; KOW-kens; chicks
+nl; de jeugd; YOHgt; the youth
+nl; de raket; rah-KETT; the rocket
+nl; het gewicht van je lichaam ; LEE-*am; the weight of your body

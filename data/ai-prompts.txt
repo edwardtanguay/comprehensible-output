@@ -1,1 +1,3 @@
 make an interactive quiz site to test advanced Dutch grammar, 20 questions with explanations for each correct or incorrect answer, scramble the answers so that the correct answer is not always the first
+
+create a story with nnn words in which you give examples of zetten, staan, leggen, liggen, stoppen, zitten, doen, plaatsen, hangen
