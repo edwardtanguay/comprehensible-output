@@ -336,3 +336,7 @@ nl; kuikens; KOW-kens; chicks
 nl; de jeugd; YOHgt; the youth
 nl; de raket; rah-KETT; the rocket
 nl; het gewicht van je lichaam ; LEE-*am; the weight of your body
+nl; snel ideeën uit te gooien; *OH-ee-yah; quickly throw out ideas
+nl; je typt; TEEPT; you type
+nl; voor deze keuze; DAY-zeh; for this choice
+nl; dus beschouw dit als een familiekwestie; bay-s*OW; so consider this a family matter
