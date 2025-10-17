@@ -340,3 +340,5 @@ nl; snel ideeën uit te gooien; *OH-ee-yah; quickly throw out ideas
 nl; je typt; TEEPT; you type
 nl; voor deze keuze; DAY-zeh; for this choice
 nl; dus beschouw dit als een familiekwestie; bay-s*OW; so consider this a family matter
+nl; automatisch; ow-toh-MAH-tees-*; automatic; 4.8
+nl; uitvoeren; OWT-foo-reh; execute
