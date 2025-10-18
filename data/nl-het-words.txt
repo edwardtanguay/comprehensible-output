@@ -251,6 +251,7 @@ het sap
 het schaap 
 het scheerapparaat 
 het schema 
+het scherm
 het schilderij 
 het schip 
 het schoolbord 

@@ -307,38 +307,51 @@ nl; vaardigheden; FAR-dih-hey-duh; skills
 nl; speciaal; spay-shee-(OWL)
 nl; produceren; proh-do-SEER-ah
 nl; het toneelstuk ; toh-NAIL-stook; the play
-nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter
-nl; engageren; AHN-*ah-ZHAIR-eh
-nl; Excu­seer me; eks-koo-ZAIHR-mah; excuse me
-nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information
-nl; essentieel ; ehs-en-SHAYLL; essential
-nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose 
-nl; een schone lei; LAYEE; a clean slate
-nl; Mijn excuses; ek-SKOO-zess; my apologies
-nl; tegelijk; teh-*el-LIGHK; at the same time
-nl; Uiteindelijk ; out-EYEn-deh-lik; in the end
-nl; elk detail; day-TIGH-ee; every detail
-nl; formulier; form-oo-LEER; form
-nl; proces; proh-SESS; process
-nl; succes; sook-SESS; success
-nl; ga je joggen; JOH-ghah; you go jogging
-nl; ontdekking; ohnt-DEHK-ing; discovery
-nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time
-nl; archief; ahr-*EEF; archive
-nl; formulier; form-oo-LEER; form
-nl; vijftien; VIGHF-teen; fifteen
-nl; gevoel; *eh-VOOL; feeling
-nl; vijf; VIGHF; five
-nl; het huwelijk; HYOO-ih-lik; the wedding
-nl; garage; *ah-RAH-zheh; garage
-nl; de jack; en(JACK); jacket
-nl; kuikens; KOW-kens; chicks
-nl; de jeugd; YOHgt; the youth
-nl; de raket; rah-KETT; the rocket
-nl; het gewicht van je lichaam ; LEE-*am; the weight of your body
-nl; snel ideeën uit te gooien; *OH-ee-yah; quickly throw out ideas
-nl; je typt; TEEPT; you type
-nl; voor deze keuze; DAY-zeh; for this choice
-nl; dus beschouw dit als een familiekwestie; bay-s*OW; so consider this a family matter
-nl; automatisch; ow-toh-MAH-tees-*; automatic; 4.8
-nl; uitvoeren; OWT-foo-reh; execute
+nl; toen ik mijn motivatiebrief schreef; s*rayf; when I wrote my motivation letter; 4.3
+nl; engageren; AHN-*ah-ZHAIR-eh; 4.9
+nl; excu­seer me; eks-koo-ZAIHR-mah; excuse me; 4.92
+nl; hoe je een heleboel informatie ordent; HAY-leh-bool; how to organize a lot of information;4.6
+nl; essentieel ; ehs-en-SHAYLL; essential; 4.99
+nl; het dient vrijwel hetzelfde doel; het-SELF-teh; it serves much the same purpose; 4.89
+nl; een schone lei; LAYEE; a clean slate; 4.3
+nl; mijn excuses; ek-SKOO-zess; my apologies;4.98
+nl; tegelijkertijd; teh-*el-LIGH-ker-tight; at the same time; 4.92
+nl; uiteindelijk ; out-EYEn-deh-lik; in the end;4.92
+nl; elk detail; day-TIGH-ee; every detail;4.9
+nl; formulier; form-oo-LEER; form;4.9
+nl; proces; proh-SESS; process;4.7
+nl; succes; sook-SESS; success;4.6
+nl; ga je joggen; (en:jogging); you go jogging;3.7
+nl; ontdekking; ohnt-DEHK-ing; discovery;4.9
+nl; tegelijkertijd ; teh-*geh-LIGHK-er-tight; at the same time;4.4
+nl; archief; ahr-*EEF; archive;4.2
+nl; vijftien; VIGHF-teen; fifteen;4.92
+nl; gevoel; *eh-VOOL; feeling;4.8
+nl; vijf; VIGHF; five;4.887
+nl; het huwelijk; HYOO-ih-lik; the wedding;4.7
+nl; garage; *ah-RAH-zheh; garage;4.1
+nl; de jack; en(JACK); jacket; 2.8
+nl; kuikens; KOW-kens; chicks;4.8
+nl; de jeugd; YOH*t; the youth; 4.93
+nl; de raket; rah-KETT; the rocket;2.3
+nl; het gewicht van je lichaam ; LEE-*am; the weight of your body; 3.5
+nl; snel ideeën uit te gooien; *OH-ee-yah; quickly throw out ideas; 3.9
+nl; je typt; TEEPT; you type; 4.1
+nl; voor deze keuze; DAY-zeh; for this choice; 4.9
+nl; dus beschouw dit als een familiekwestie; bay-s*OW; so consider this a family matter; 4.9
+nl; automatisch; ow-toh-MAH-tees-*; automatic; 4.9
+nl; uitvoeren; OWT-foo-reh; execute; 4.8
+nl; De trui vol stof; TROWL; 4.92
+nl; onder je voeten; FOO-teh; 4.92
+nl; ik moet toch het vuilnis buiten zetten; voo-OW-nis; I have to take the trash out anyway; 4.94
+nl; Je hele jeugd lang; HAY-leh; throughout your childhood
+nl; een documentaire; doh-koo-mon-TAIR-eh;a documentary
+nl; wat een bijvoeglijke bepaling is; bigh-FOO*-lick-eh; what an adjective is
+nl; dat automatisch fouten corrigeert; kor-ee-ZHEERT; that automatically corrects errors
+nl; in mijn volgende versie; vair-SEE;in my next version 
+nl; het ene bedekt, het andere maakt vuil; FOWl; one covers, the other makes dirt
+nl; de ene bedekt, de andere onthult; AY-neh; one covers, the other reveals
+nl; Dat is vreemd; FRAYMt; that's strange
+nl; Dat is vreemd, maar heus wel logisch; höss; That's strange, but it makes sense
+nl; maar het is logisch; LOH-*ees; but it makes sense
+nl; zwijgen ; ZVIGH-*eh; silence
