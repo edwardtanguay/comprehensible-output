@@ -343,15 +343,21 @@ nl; automatisch; ow-toh-MAH-tees-*; automatic; 4.9
 nl; uitvoeren; OWT-foo-reh; execute; 4.8
 nl; De trui vol stof; TROWL; 4.92
 nl; onder je voeten; FOO-teh; 4.92
-nl; ik moet toch het vuilnis buiten zetten; voo-OW-nis; I have to take the trash out anyway; 4.94
+nl; ik moet toch het vuilnis buiten zetten; VOWL-nis; I have to take the trash out anyway; 4.94
+nl; Je hele jeugd lang; HAY-leh; throughout your childhood;4.98
+nl; een documentaire; doh-koo-mon-TAIR-eh;a documentary; 4.91
+nl; wat een bijvoeglijke bepaling is; bigh-FOO*-lick-eh; what an adjective clause is
+nl; dat automatisch fouten corrigeert; kor-ee-ZHEERT; that automatically corrects errors;4.98
+nl; in mijn volgende versie; vair-SEE;in my next version; 4.8
+nl; het ene bedekt, het andere maakt vuil; FOWl; one covers, the other makes dirt; 4.89
+nl; de ene bedekt, de andere onthult; AY-neh; one covers, the other reveals;4.91
+nl; Dat is vreemd; FRAYMt; that's strange;4.95
+nl; Dat is vreemd, maar heus wel logisch; höss; That's strange, but it makes sense; 4.6
+nl; maar het is logisch; LOH-*ees; but it makes sense;4.7
+nl; zwijgen ; ZVIGH-*eh; silence;4.8
+nl; zoals ik al zei; ZAY-ee; as I said; 4.99
+
 nl; Je hele jeugd lang; HAY-leh; throughout your childhood
-nl; een documentaire; doh-koo-mon-TAIR-eh;a documentary
-nl; wat een bijvoeglijke bepaling is; bigh-FOO*-lick-eh; what an adjective is
-nl; dat automatisch fouten corrigeert; kor-ee-ZHEERT; that automatically corrects errors
-nl; in mijn volgende versie; vair-SEE;in my next version 
-nl; het ene bedekt, het andere maakt vuil; FOWl; one covers, the other makes dirt
-nl; de ene bedekt, de andere onthult; AY-neh; one covers, the other reveals
-nl; Dat is vreemd; FRAYMt; that's strange
-nl; Dat is vreemd, maar heus wel logisch; höss; That's strange, but it makes sense
-nl; maar het is logisch; LOH-*ees; but it makes sense
-nl; zwijgen ; ZVIGH-*eh; silence
+nl; De perfecte correctie; ko-REHK-zee; the perfect correction
+nl; maar technisch correct ; TEK-nees; but technically correct
+nl; mijn volgende versie ; FAIR-see; my next version
