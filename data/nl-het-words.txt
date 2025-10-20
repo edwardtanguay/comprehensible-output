@@ -1,6 +1,7 @@
 het adres; 4.3
 het afscheid; 4.4 
 het antwoord; 4.9 
+het archief; 4.6
 het bed; 4.9
 het bedrag; 4.8
 het been; 4.9 

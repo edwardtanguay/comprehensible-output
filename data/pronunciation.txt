@@ -357,7 +357,11 @@ nl; maar het is logisch; LOH-*ees; but it makes sense;4.7
 nl; zwijgen ; ZVIGH-*eh; silence;4.8
 nl; zoals ik al zei; ZAY-ee; as I said; 4.99
 
-nl; Je hele jeugd lang; HAY-leh; throughout your childhood
-nl; De perfecte correctie; ko-REHK-zee; the perfect correction
-nl; maar technisch correct ; TEK-nees; but technically correct
-nl; mijn volgende versie ; FAIR-see; my next version
+nl; je hele jeugd lang; HAY-leh; throughout your childhood; 4.7
+nl; de perfecte correctie; ko-REHK-zee; the perfect correction; 4.89
+nl; maar technisch correct ; TEK-nees; but technically correct; 4.98
+nl; mijn volgende versie ; FAIR-see; my next version; 4.99
+
+nl; De geur van vers brood; *OOer; the smell of fresh bread
+nl; Tot gauw; *OW; see you soon
+nl; naar het plafond; PLAH-fohn; to the ceiling
