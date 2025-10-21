@@ -365,3 +365,4 @@ nl; mijn volgende versie ; FAIR-see; my next version; 4.99
 nl; De geur van vers brood; *OOer; the smell of fresh bread
 nl; Tot gauw; *OW; see you soon
 nl; naar het plafond; PLAH-fohn; to the ceiling
+nl; want onthoud; ohnt-HOW; because remember

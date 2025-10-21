@@ -294,11 +294,12 @@ het succes
 het symbool 
 het systeem 
 t 
+het tandweil; gear;4.8
 het tapijt 
 het tarief 
 het team 
 het tegoed 
-het teken 
+het teken; sign; 4.9
 het tekort 
 het telefoongesprek 
 het telefoonnummer 
