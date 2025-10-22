@@ -348,7 +348,6 @@ nl; Je hele jeugd lang; HAY-leh; throughout your childhood;4.98
 nl; een documentaire; doh-koo-mon-TAIR-eh;a documentary; 4.91
 nl; wat een bijvoeglijke bepaling is; bigh-FOO*-lick-eh; what an adjective clause is
 nl; dat automatisch fouten corrigeert; kor-ee-ZHEERT; that automatically corrects errors;4.98
-nl; in mijn volgende versie; vair-SEE;in my next version; 4.8
 nl; het ene bedekt, het andere maakt vuil; FOWl; one covers, the other makes dirt; 4.89
 nl; de ene bedekt, de andere onthult; AY-neh; one covers, the other reveals;4.91
 nl; Dat is vreemd; FRAYMt; that's strange;4.95
@@ -362,7 +361,13 @@ nl; de perfecte correctie; ko-REHK-zee; the perfect correction; 4.89
 nl; maar technisch correct ; TEK-nees; but technically correct; 4.98
 nl; mijn volgende versie ; FAIR-see; my next version; 4.99
 
-nl; De geur van vers brood; *OOer; the smell of fresh bread
-nl; Tot gauw; *OW; see you soon
-nl; naar het plafond; PLAH-fohn; to the ceiling
-nl; want onthoud; ohnt-HOW; because remember
+nl; De geur van vers brood; *OOer; the smell of fresh bread;4.99
+nl; Tot gauw; *OW; see you soon;4.97
+nl; naar het plafond; PLAH-fohn; to the ceiling; 4.8
+nl; want onthoud; ohnt-HOW; because remember; 4.7
+
+nl; het vereist ook discipline; dee-see-PLEE-nah; it also requires discipline
+nl; chaos; *AH-ohs; chaos
+nl; technologie; tek-noh-loh-*EE; technology
+nl; charme; SHAR-mah; charm
+nl; ouderwets; OW-der-vets; old-fashioned
