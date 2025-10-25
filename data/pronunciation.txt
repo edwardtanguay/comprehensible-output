@@ -377,3 +377,6 @@ nl; de module en de modules; moh-DOO-less; the modules and the modules
 nl; Als je beter had opgelet; OH-*eh-lett; if you had paid more attention
 nl; Je schrijft in je technische logboek; TEK-nees-*eh; you write in your technical log book
 nl; Ze lijken symbolisch; sim-BOH-lees; they seem symbolic
+
+nl; de ergste leugen; LUUR-*eh; the worst lie
+nl; Engeland; ENG-ah-land; England
