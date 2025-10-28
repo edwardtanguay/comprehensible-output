@@ -380,3 +380,11 @@ nl; Ze lijken symbolisch; sim-BOH-lees; they seem symbolic
 
 nl; de ergste leugen; LUUR-*eh; the worst lie
 nl; Engeland; ENG-ah-land; England
+
+es; En la pantalla brilla; pan-TIGH-yah; on the screen shines
+es; En la pantalla brilla; BREE-yah; on the screen shines
+nl; gekscherend; hex-HAIR-ent; jokingly
+es; los tutoriales en línea que sigues ;SEE-gay(s) ; the online tutorials you follow
+nl; om de fijne kneepjes te begrijpen; KNAYP-yas; to understand the intricacies
+es; La lluvia cae más fuerte ; KAH-ee; the rain falls harder
+nl; je hebt al honger; HOONG-er; you are already hungry
