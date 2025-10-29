@@ -388,3 +388,12 @@ es; los tutoriales en línea que sigues ;SEE-gay(s) ; the online tutorials you f
 nl; om de fijne kneepjes te begrijpen; KNAYP-yas; to understand the intricacies
 es; La lluvia cae más fuerte ; KAH-ee; the rain falls harder
 nl; je hebt al honger; HOONG-er; you are already hungry
+
+nl; Houd er rekening mee dat; HOW; please note that
+nl; Houd er rekening mee dat; RAY-kay-ning; please note that
+es;hasta que lo logres; LOH-grays; until you achieve it
+nl; naast het toetsenbord; TOOTS-eh-bort; near the keyboard
+es; Te guía; GEE-ah ("G" as in go); it guides you
+nl; je weet dat logica erfelijk is; AIR-feh-lik; you know that logic is hereditary
+es; con la mente despejada, todo encaja; days-pay-*AH-dah; with a clear mind, everything falls into place
+es; con la mente despejada, todo encaja; ayn-KAH-*ah; with a clear mind, everything falls into place
