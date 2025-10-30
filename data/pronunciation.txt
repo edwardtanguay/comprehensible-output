@@ -397,3 +397,6 @@ es; Te guía; GEE-ah ("G" as in go); it guides you
 nl; je weet dat logica erfelijk is; AIR-feh-lik; you know that logic is hereditary
 es; con la mente despejada, todo encaja; days-pay-*AH-dah; with a clear mind, everything falls into place
 es; con la mente despejada, todo encaja; ayn-KAH-*ah; with a clear mind, everything falls into place
+
+nl; de standaardindeling; in-DAY-ling; the standard layout
+nl; details; DAY-tighs; details
