@@ -1,4 +1,14 @@
 ======================================================================================
+2025-11-01 07:09:34
+Prompt in Dutch to create a story with 41 phrases and 451 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Dutch, using the informal 'you', with 451 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "het programma en het project", "wandelen", "tot nu toe", "ik verander het meteen", "wat stom van me", "opeens", "sjaals", "met verse vis", "afzeggingen", "weten", "zijn broek", "die stomme jurk", "van een duur merk", "ern zoen", "wegstrepen", "ze is gestruikeld", "scheuren", "streepjes", "intussen", "inleveren", "inschenken", "tot zo", "hoewel", "kwijt", "handdoeken", "nu is het zover", "reuma", "noem maar op", "Gefeliciteerd", "zus", "wij kunnen Nederlands spreken", "omdat het heeft", "Ik moet ermee omgaan", "bovendien", "gemakkelijk te begrijpen", "staat hij te appen", "ze verstaan", "begrijpen", "versta", "dit audiobestand zal kleiner zijn", "vergt concentratie van me".
+======================================================================================
+2025-11-01 07:09:17
+Prompt in Unknown to create a story with 50 phrases and 550 words...
+======================================================================================
+Create a 550 word story about any topic in A1 Unknown that uses numbers between 1 and 100, days of the week, basic colors, month names, telling time, family members, vocabulary from everyday life and common daily routines, using only the present tense. Spell out all numbers and times. And precede the story with an appropriate title.
+======================================================================================
 2025-10-31 06:55:10
 Prompt in Spanish to create a story with 59 phrases and 649 words...
 ======================================================================================

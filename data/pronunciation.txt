@@ -402,3 +402,6 @@ nl; de standaardindeling; in-DAY-ling; the standard layout
 nl; details; DAY-tighs; details
 nl; een vage herinnering; FAH-*eh; a vague memory
 nl; aanzienlijk veel tijd; ahn-ZEEN-lik; a considerable amount of time
+
+nl; het is praktisch; PRAK-tees;it is practical
+nl; opgeruimd; OHP-*eh-(gr:raumt); cleaned up
