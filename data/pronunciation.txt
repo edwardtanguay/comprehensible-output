@@ -405,3 +405,7 @@ nl; aanzienlijk veel tijd; ahn-ZEEN-lik; a considerable amount of time
 
 nl; het is praktisch; PRAK-tees;it is practical
 nl; opgeruimd; OHP-*eh-(gr:raumt); cleaned up
+
+es; con la mente despejada; day(s)-pay-*AHDA; with a clear mind
+nl; technische uitdaging; TEK-nees-ah; techical challenge
+nl; De tabel waarin; tah-BELL; the table where

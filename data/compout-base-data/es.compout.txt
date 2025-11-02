@@ -1,3 +1,13 @@
+2025-11-02 - domingo 2 de noviembre de 2025
+
+>> El desafío del programador
+
+Llevas horas frente a la pantalla. Son las tres de la mañana y estás trabajando por esta madrugada en un proyecto importante. Has estado programando sin parar desde ayer, pero algo falla en tu código y no entiendes qué es. "No vas a parar hasta resolverlo", te dices a ti mismo con determinación. Llevas treinta y uno minutos mirando la misma función, pero tampoco has encontrado el error. Esta función tampoco va a recibir parámetros, lo cual debería hacerla más simple, sin embargo el problema persiste. Te levantas para tomar café. Necesitas trabajar con la mente despejada. Antes de llegar a la solución, debes entender qué has estado haciendo mal. Has estado revisando el código durante tres horas continuas y, a pesar de tu esfuerzo, la respuesta parece lejana. Regresas a tu escritorio. Aún así, no te rindes. Has trabajado en proyectos más difíciles antes. Cabe mencionar que esta no es tu primera vez enfrentando un desafío técnico complejo.
+
+Empiezas a revisar desde el principio. Vamos a retornar una cadena de texto desde la función principal, pero este va a ser de tipo String. Ya hemos definido las variables necesarias, por lo tanto debemos importar una librería estándar que son las que usamos comúnmente. Miras la base de datos. La tabla que va a almacenar el objeto del modelo tiene datos o registros de esa table que necesitas revisar. Esta tiene los atributos id y nombre, seguido del apellido. Es el conjunto de operaciones para transferir información desde y hacia la base de datos. De repente, lo ves. La función está fuera de la función main y necesita una clave primaria o foránea para funcionar correctamente. ¡Ese es justo lo que hace que falle! Y a este le vamos a llamar el "error oculto".
+
+Corriges el código rápidamente. Para que quede aislado, decides borrar las líneas innecesarias. Seguido a esto, las operaciones tomarán menos tiempo para ser ejecutadas. Habrás terminado el proyecto antes del amanecer si todo funciona ahora. Para cuando llegue tu jefe a la oficina, tú ya habrás estado durmiendo por dos horas. Si hubieras encontrado el error antes, habrías dormido más. El programa funciona perfectamente. No puedes aprovechar esta función sin que el usuario esté logueado, pero sí te daré la satisfacción de haber resuelto el problema. Ya que los decoradores nos permiten extender las funcionalidades, decides implementar uno más. Mañana a esta hora estarás presentando tu trabajo. Te sentirás orgulloso porque habrás superado este desafío con dedicación y paciencia.
+
 2025-10-31 - viernes, 31 de octubre de 2025
 
 >> El desafío del código
