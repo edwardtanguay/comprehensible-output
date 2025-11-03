@@ -409,3 +409,6 @@ nl; opgeruimd; OHP-*eh-(gr:raumt); cleaned up
 es; con la mente despejada; day(s)-pay-*AHDA; with a clear mind
 nl; technische uitdaging; TEK-nees-ah; techical challenge
 nl; De tabel waarin; tah-BELL; the table where
+
+nl; vijf talen tegelijk leer; te*-ehl-LIGHK; learn five languages at once
+il; quando leggo la documentazione; LEG-oh; when I read the documentation

@@ -1,3 +1,13 @@
+2025-11-03 - lunedì 3 novembre 2025
+
+>> Un viaggio attraverso le lingue
+
+Sono seduto al tavolo del caffè e sto guardando lo schermo del mio laptop. È un bel tavolo, di legno antico, perfetto per lavorare. Sto scrivendo un programma che è stato creato per lavorare con Bun, il nuovo runtime JavaScript. Hai mai usato Elysia? È un framework interessante, anche se a volte confondo sempre lo spagnolo e l'italiano quando leggo la documentazione. Io viaggio molto per lavoro. Proprio ieri è stata una bella passeggiata con voi ragazzi nel parco di Berlino. Stavamo parlando di fotografie quando qualcuno ha suggerito: "Potreste incorniciare questa vostra foto a Berlino se toglieste il tizio a sinistra." Poi un altro ha aggiunto: "Potresti incorniciare la vostra foto a Berlino se togliessi il ragazzo a sinistra." Alla fine abbiamo riso tutti. Il problema è che imparo cinque lingue contemporaneamente. Stamattina, mentre stavo studiando, ho dimenticato parole semplici come "pagina" e "schermo". 
+
+Non ho capito quella parola che il mio insegnante aveva scritto con due "e" - con due "e", proprio come aveva detto. Non so quale sia corretto in questo contesto. Non ho nessuno con cui parlare in italiano qui a Berlino, quindi pratico da solo. Spesso mi alzo presto e corro. Sei proprio dove incontro i Fondatori quando corro con loro il sabato. Loro stavano correndo da un'ora quando li ho raggiunti la scorsa settimana. Prima di quella mattina, avevo corso solo tre volte in tutta la mia vita. Ora sono in sbahn, la metro di superficie, e sto pensando a lui e lei, i miei amici che mi hanno aiutato. Domani alle ventitré avrò finito il progetto che sto sviluppando da marzo. Se il 1° maggio cade di giovedì, avremo lavorato per esattamente cinquecento ore. Si spera che domani tutto filerà liscio. Giovedì scorso mi sono svegliato tardi. 
+
+Devo mettere insieme questi paragrafi che ho scritto nelle bozza. È un metodo abbastanza efficace, anche se richiede pazienza. Facciamo un passo indietro e rivediamo alcune linee del codice. Hai detto: "Hai detto che paghi per Claude Code, giusto?" Sì, pago subito ogni mese. L'ho fatto apposta per migliorare il mio lavoro. Seguo uno schema preciso quando programmo. Mentre il treno si muove, guardo fuori. È quasi il tramonto, l'ultima spiaggia della giornata prima che arrivi la notte. Quando arriverò a casa, avrò viaggiato per due ore. Mi siedo e penso: "Ora possiamo iniziare" davvero a vivere questa avventura linguistica. Domani recevi... no, aspetta, quella parola non esiste. Vedi? È lo stesso problema di sempre. Ma continuerò a provare, giorno dopo giorno.
+
 2025-10-27 - lunedì 27 ottobre 2025
 
 >> Un pomeriggio tra le montagne
