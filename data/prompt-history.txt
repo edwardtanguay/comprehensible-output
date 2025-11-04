@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-04 06:42:44
+Prompt in Italian to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "impegnativo", "pur avendo", "il sistema", "presso", "Dopo la riunione", "Ti sei tolto le cuffie", "che pescava", "colta alle spunta", "devi essere un masochista", "normalmente è già aperto", "nei mesi scorsi", "uno sviluppatore", "sindaco", "scherza", "ventisette", "di colpo", "allo stesso modo", "Venerdì", "Domenica", "ormai", "defunta figlia", "dal menu a discesa dei rami", "sopra la "e"", "sfuggiva", "molti lavori di costruzione", "siamo lì tra cinque ore", "ora stiamo viaggiando in treno verso Monaco", "andasse presto", "Non ne ho proprio uno.", "quello che stai dicendo è improbabile".
+======================================================================================
 2025-11-03 05:14:24
 Prompt in Italian to create a story with 41 phrases and 451 words...
 ======================================================================================
