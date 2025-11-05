@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-05 06:00:03
+Prompt in Spanish to create a story with 32 phrases and 352 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 352 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "me gustó", "almuerzo", "¿Qué comiste para el almuerzo?", "tus papás", "El problema es que no tengo con quién hablar.", "El problema es que no tengo mucha gente", "El idioma es muy similar a", "lo pasamos súper", "Ya hemos terminado casi tres cuartas partes.", "esta mañana", "¿Jugaste a algún juego?", "charlaste", "con la mudanza", "con el movimiento", "Fuiste a un museo", "Pasé mis vacaciones allí.", "en mi bolso", "¿Encontraste las llaves?", "¿Llegaste al trabajo a tiempo?", "¿Tomaste fotos?", "en el estante", "pusiste", "trajiste", "vine en metro", "le diste el regalo", "conduje", "la semana pasada", "por la mañana", "anoche", "que te presté", "mi comida favorita", "mi sopa favorita".
+======================================================================================
 2025-11-04 06:42:44
 Prompt in Italian to create a story with 30 phrases and 330 words...
 ======================================================================================
