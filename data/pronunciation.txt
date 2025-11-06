@@ -412,3 +412,9 @@ nl; De tabel waarin; tah-BELL; the table where
 
 nl; vijf talen tegelijk leer; te*-ehl-LIGHK; learn five languages at once
 il; quando leggo la documentazione; LEG-oh; when I read the documentation
+
+es; justo; HOOS-toh; just
+es; jugué; hoo-GAY; I played
+es; juegan; hooWAY-gawn; they play
+es; llegué ; yay-GAY; I arrived
+es; cuando tú llegues; YAY-gay(s); when you arrive
