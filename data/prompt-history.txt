@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-07 07:08:54
+Prompt in Spanish to create a story with 38 phrases and 418 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 418 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "justo", "podemos hablar por mensajes", "no podía contestar", "lo hice por disciplino", "entrevista", "Jueves", "llegué", "nadie se dio cuenta", "cuenta", "llaves", "jugué", "no valoró lo que hiciste por ella", "se hizo pasar", "en horario laboral", "vas a pasar por el supermercado", "una pastilla", "Ellos juegan un juego nuevo todos los jueves, y esa vez fue muy divertido", "Ellas jugaran un juego distinto si tuvieran más tiempo", "Pensé en ti.", "aprovecha", "desayuno", "qué tierna pregunta", "por cansancio", "voy para la casa", "Yo puse y él puso", "pide otro para mi", "por falta de tiempo", "es para llevar", "no lo gastes", "lo hizo para", "si fuera", "si fuera por mí", "solo por 30 minutos", "seguiré buscando", "seguiré comprando.", "Compré y seguiré comprando.", "pasaste por la", "ahorré".
+======================================================================================
 2025-11-06 07:03:05
 Prompt in Spanish to create a story with 31 phrases and 341 words...
 ======================================================================================

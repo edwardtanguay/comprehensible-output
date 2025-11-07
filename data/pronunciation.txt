@@ -418,3 +418,7 @@ es; jugué; hoo-GAY; I played
 es; juegan; hooWAY-gawn; they play
 es; llegué ; yay-GAY; I arrived
 es; cuando tú llegues; YAY-gay(s); when you arrive
+
+nl; aan mijn horloge te frunniken; hor-LOHZH-ah; fiddling with my watch
+es; enseguida ; en-say-[G]EE-dah (G as in good); immediately
+nl; de eeuw was een eeuwigheid; ay-OO-ih-*ight; the century was an eternity
