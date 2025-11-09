@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-09 08:03:59
+Prompt in Spanish to create a story with 40 phrases and 440 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 440 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "tu oído", "acerca", "Tienes que hacerlo", "torpeza", "preguntaste", "Olvidé hacer tres párrafos.", "no lo gastes", "cenemos", "es un placer", "tanto", "ahora mismo", "caja", "para avisarle", "cumplir", "agarren", "pobre", "desde muy pequeña", "en los trenes", "se fue a vivir", "cuidaba", "cuidó", "alegría", "golpe", "asesinado", "queridos", "lo que digo", "enseguida", "seguido", "pereza", "ella te llama seguido", "cuando", "de vez en cuando", "Lo hago a menudo", "las entradas", "Compramos algunos boletos", "Hemos comprado algunas entradas", "Intento crear", "la palabra", "esta tarde", "esta mañana o esta tarde".
+======================================================================================
 2025-11-07 07:08:54
 Prompt in Spanish to create a story with 38 phrases and 418 words...
 ======================================================================================
