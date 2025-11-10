@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-10 06:15:38
+Prompt in Dutch to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Dutch, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "zonder duidelijke reden", "Ik ruim mijn spullen op, en hij ruimde ze op terwijl we over werk praatten", "zetten", "opruimen", "ik blijf ze kopen als aandenken", "Ik bespaarde wat geld omdat de bloemist me korting gaf", "Ze nodigden me uit, maar ik was doodop", "Als ik minder verlegen was", "iemand niet waardeerde wat je voor haar deed", "Als het aan mij lag", "hoe ik blijf zoeken", "Haal het meeste uit je tijd, maar verspil hem niet", "de eeuw was een eeuwigheid", "ze is uitgeput van het werk", "het loket", "de enkele reis", "hij houdt op met werken", "uitstappen", "insteppen", "oversteppen", "opstappen", "afstappen", "ze staan in het station te wachten", "ze zit aan tafel te schrijven", "hij staat zich altijd uren te wassen", "hij ligt elke zaterdag tot elf uur te slapen", "het weekend", "jullie zitten elk weekend te vervelen", "vervelen", "aan mijn horloge te frunniken".
+======================================================================================
 2025-11-09 08:03:59
 Prompt in Spanish to create a story with 40 phrases and 440 words...
 ======================================================================================
