@@ -432,3 +432,6 @@ es; seguido ; say [G]ee-doh (G as in good); continued
 nl; zo vol vreugde ondanks alles; FRÖ*-deh;so full of joy despite everything
 nl; steeds met genegenheid; *eh-NAY-geh-hight; always with affection
 nl; je personages; pair-sohn-AHZH-es; your characters (in a book)
+
+es; Si alguien ; AHL-[g]ee-en (hard g as in goat); if anyone
+es; sabrá que no exagero; egg-ZAH*-*air-oh; he'll know I'm not exaggerating

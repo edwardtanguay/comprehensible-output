@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-11 06:47:55
+Prompt in Spanish to create a story with 35 phrases and 385 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 385 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "entender", "¿Has buscado la palabra?", "Busqué esa palabra una vez.", "Voy a hacerlo y tengo que hacerlo", "enseguida", "entradas", "Yo lo hago a menudo, él lo hace a veces.", "mirabas", "suroeste", "te diste cuenta de", "para darse cuenta", "que se acerque a lo que digo", "con pereza", "se acerque", "seguido", "deseos", "Sí, se pronuncia así:", "Me gusta la música", "¿Jugáis a las cartas juntos?", "¿Jugáis a las cartas juntos?", "se acostó", "que les encantó", "vieron", "fuimos", "sudeste", "Él es de Italia.", "por su culpa", "en tu lugar", "a tu favor", "relajarme", "por culpa tuya", "por mi culpa", "detrás de mi", "aquellas señoras", "el día".
+======================================================================================
 2025-11-10 06:15:38
 Prompt in Dutch to create a story with 30 phrases and 330 words...
 ======================================================================================
