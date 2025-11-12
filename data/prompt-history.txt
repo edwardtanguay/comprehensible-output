@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-12 07:20:02
+Prompt in Spanish to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "bolsillo", "donde el sol cae con pereza", "No se me ocurre qué palabra sería.", "demasiados kilómetros", "quinientos", "cuatrocientos", "seiscientos", "yo sí lo sé", "salgo con la bici", "además", "No se me ocurre qué palabra sería.", "duda", "no lo veo claro", "le diste", "en tu mochila", "te prestó", "los alimentos", "tú das", "tener en cuenta algo", "que íbamos a ganar", "está mintiendo", "crear y creer", "Yo lo creo, él lo creía.", "Creo que él lo creó.", "cuando ella estaba tomando medicamentos", "tuve que llevarla al médico", "muy feo o aterrador", "pesadilla", "no salgas solo", "risas y arroz".
+======================================================================================
 2025-11-11 06:47:55
 Prompt in Spanish to create a story with 35 phrases and 385 words...
 ======================================================================================

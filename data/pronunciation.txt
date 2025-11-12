@@ -435,3 +435,6 @@ nl; je personages; pair-sohn-AHZH-es; your characters (in a book)
 
 es; Si alguien ; AHL-[g]ee-en (hard g as in goat); if anyone
 es; sabrá que no exagero; egg-ZAH*-*air-oh; he'll know I'm not exaggerating
+
+nl;bijna een nachtmerrie; NA*T-mehr-REE; almost a nightmare
+nl; Maar uiteindelijk; out-IGHN-del-ik; but in the end
