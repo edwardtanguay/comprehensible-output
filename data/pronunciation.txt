@@ -440,3 +440,9 @@ nl;bijna een nachtmerrie; NA*T-mehr-REE; almost a nightmare
 nl; Maar uiteindelijk; out-IGHN-del-ik; but in the end
 
 es; cuidado; koo-ee-DAH-doh; careful
+
+es; exagero; eg-zah-*AIR-oh; I'm exaggering
+nl; reiziger; RIGH-zih-*er; traveler
+nl; Het lukt me niet; lookt; I can't do it
+es; mejor; may-*or; better
+es; anochecer; ah-noh-chay-SAIR; dusk
