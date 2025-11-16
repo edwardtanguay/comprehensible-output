@@ -446,3 +446,6 @@ nl; reiziger; RIGH-zih-*er; traveler
 nl; Het lukt me niet; lookt; I can't do it
 es; mejor; may-*or; better
 es; anochecer; ah-noh-chay-SAIR; dusk
+
+es; muchos siguen usando ; SEE-gain; many still use
+es; Descargue ; des-KAR-gay; download

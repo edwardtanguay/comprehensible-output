@@ -1,0 +1,104 @@
+Spanish,English,apuntas,you point
+Spanish,English,te apuntas,Are you in?
+Spanish,English,con dolor de garganta,with a sore throat
+Spanish,English,con dolor de cabeza,with a headache
+Spanish,English,vale la pena,it's worth it
+Spanish,English,madrugada,early morning
+Spanish,English,de pereza,laziness
+Spanish,English,yo hace tiempo que no voy,I haven't been there in a long time.
+Spanish,English,el ingreso,the income
+Spanish,English,por suerte,luckily
+Spanish,English,pantallas,screens
+Spanish,English,no me digas,Don't tell me
+Spanish,English,de hecho,in fact
+Spanish,English,has ido alguna vez,Have you ever gone?
+Spanish,English,así debe ser,That's how it should be.
+Spanish,English,cómo te va por allá,How are things going over there?
+Spanish,English,qué lindo,how nice
+Spanish,English,bodas,wedding
+Spanish,English,ni siquiera se puede hablar,you can't even talk
+Spanish,English,antes iba a todas,I used to go everywhere
+Spanish,English,abarrotada,crowded
+Spanish,English,amistades,friendships
+Spanish,English,cuidado,careful
+Spanish,English,la instrucción,the instruction
+Spanish,English,requeridos,required
+English,Italian,"one, two, three",uno due tre
+Italian,English,soprattutto se il Dockerfile è complesso,especially if the Dockerfile is complex
+Italian,English,"non è obbligatorio, ma è altamente consigliato","It is not mandatory, but it is highly recommended"
+English,Italian,do not forget to correct my Italian,non dimenticare di correggere il mio italiano
+English,Italian,I wanted to say,Volevo dire
+Italian,English,Prima però devo vedere il contenuto del tuo Dockerfile,But first I need to see the contents of your Dockerfile
+Italian,English,perché magari vuoi avere già disponibili più pacchetti di sistema per facilità di sviluppo,because maybe you want to have more system packages already available for ease of development
+Italian,English,Per produzione conviene usare,For production it is advisable to use
+Italian,English,Questo riduce molte vulnerabilità note,This reduces many known vulnerabilities
+English,Italian,sixty-nine,sessantanove
+English,Italian,twelve,dodici
+Spanish,English,ejecución,execution
+English,Spanish,a hash symbol,un símbolo de almohadilla
+Spanish,English,muchos siguen usando,Many still use
+Spanish,English,muchos siguen usando checkout por costumbre,Many still use checkout out of habit.
+Spanish,English,más limpio y semántico,cleaner and more semantic
+Spanish,English,para quien lo domina,for those who master it
+Spanish,English,más “peligroso”,more “dangerous”
+Spanish,English,para no romper flujos de trabajo,to avoid disrupting workflows
+Spanish,English,Los desarrolladores prefieren seguir,Developers prefer to continue
+Spanish,English,no se hizo de golpe,It wasn't done all at once.
+Spanish,English,restaurar,restore
+Spanish,English,lleva años existiendo,It has existed for years
+English,Italian,why do so many people use,perché così tante persone usano
+Spanish,English,a medida que avanza en el curso,as you progress through the course
+English,Spanish,we are solving one problem after another,Estamos resolviendo un problema tras otro.
+Italian,English,Finché non ne hai una,Until you have one
+Italian,English,Devi selezionare la scheda “SSH” nella finestra che si apre.,You need to select the “SSH” tab in the window that opens.
+Italian,English,modificare la scorciatoia,change the shortcut
+Spanish,English,navegue,browse
+Spanish,English,en el siguiente enlace,in the following link
+Spanish,English,y echar un vistazo,and take a look
+English,Spanish,the pop-up menu,el menú emergente
+Spanish,English,ramas,branches
+Italian,English,"Se hai dubbi sul contesto, posso verificare anche quello","If you have any doubts about the context, I can check that too"
+Spanish,English,descargue,download
+Italian,English,Container da NON eliminare,Containers NOT to be deleted
+Italian,English,"Se non ti serve, puoi eliminarlo dopo averlo fermato.","If you don't need it, you can delete it after stopping it."
+Italian,English,"Valuta tu: se non sai perché esiste, probabilmente era un container di test.","You decide: if you don't know why it exists, it was probably a test container."
+Italian,English,"Fermo, mai più usato","Stopped, never used again"
+Italian,English,Motivo: appartengono chiaramente a vecchi test o a un ambiente ELK non più attivo.,Reason: These are clearly from old tests or a defunct ELK environment.
+English,Italian,eight,otto
+Italian,English,"Ecco quali dei tuoi container puoi eliminare senza rischi, e perché.","Here's which of your containers you can safely delete, and why."
+English,Italian,that is a good idea,è una buona idea
+Italian,English,"Se vuoi, posso dirti quali container puoi rimuovere in sicurezza tra quelli vecchi.","If you want, I can tell you which containers you can safely remove from the old ones."
+Italian,English,quelli fermati mesi fa,those stopped months ago
+Italian,English,quelli avviati ora,those started now
+Italian,English,spiegazione diretta,direct explanation
+English,Italian,why does docker ps show more than,perché docker ps mostra più di
+English,Spanish,I'm constantly learning,Estoy aprendiendo constantemente.
+Italian,English,una voce,a voice
+Italian,English,non li elenca,he doesn't list them
+English,Italian,that was very good,è stato molto bello
+English,Italian,what do I do if I don't have a numeric pad,cosa faccio se non ho un tastierino numerico
+English,Italian,how to make the font size smaller in terminal,come ridurre la dimensione del carattere nel terminale
+Spanish,English,empecemos,Let's begin
+Spanish,English,y eso es todo,And that's all
+Spanish,English,a lo largo de este curso,throughout this course
+Spanish,English,una hoja de trucos,a cheat sheet
+Spanish,English,una hoja,a sheet
+Spanish,English,para almacenar nuestra imagenes,to store our images
+English,Spanish,the programming framework,el marco de programación
+Spanish,English,para seguir,to continue
+Spanish,English,es liviano,It is lightweight
+English,Dutch,have fun while shopping,veel plezier tijdens het winkelen
+English,Spanish,make a clearer table and include the prices,Crea una tabla más clara e incluye los precios.
+French,English,"leurs puces, triés du plus puissant au moins puissant","their chips, sorted from most powerful to least powerful"
+Spanish,English,llueve,it's raining
+Spanish,English,miras el reloj,You look at your watch
+Dutch,English,"Als je het me had verteld, had ik je de auto zonder aarzelen geleend","If you had told me, I would have lent you the car without hesitation"
+Dutch,English,Ik heb het opgelost,I solved it
+Dutch,English,ik kopieer het,I copy it
+Spanish,English,sigues,you follow
+English,Dutch,you did it well,je hebt het goed gedaan
+Dutch,English,Vandaag neem je aantekeningen op,Today you take notes
+Spanish,English,lo has recorrido,You've traveled it
+Dutch,English,om ze niet kwijt te raken,so as not to lose them
+English,Dutch,"today I see, yesterday I saw","vandaag zie ik, gisteren zag ik"
+Spanish,English,por el mismo sendero,along the same path
