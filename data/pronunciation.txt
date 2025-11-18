@@ -451,3 +451,9 @@ es; muchos siguen usando ; SEE-gain; many still use
 es; Descargue ; des-KAR-gay; download
 
 nl; details; DAY-tighs; details
+
+it; cioè; choh-AY; that is
+
+it; tra righe; REE-geh; between lines
+it; segnalate; sen-ya-LAHT-ay; reported
+nl; met een praktische gedachte; PRAK-tees-*eh; with a practical thought
