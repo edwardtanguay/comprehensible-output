@@ -1,3 +1,13 @@
+2025-11-19 - miércoles 19 de noviembre de 2025
+
+>> Encuentro inesperado
+
+Estás en la parada del bus pensando en tus proyectos cuando escuchas a alguien hablar de tecnología. Te acercas y dices: “No conozco palabras como esas.” Él sonríe y responde que tampoco conoce tantas palabras como tú, pero que trabaja en el despliegue y entrega de aplicaciones. Mientras tú lo escuchas, intentas aprender, comprender, escuchar todo del mismo modo, porque por entender mejor el tema quieres mejorar en el ámbito laboral. Te propone: “Empecemos con algo simple.” Te pregunta si has visto ofertas de trabajos de puestos relacionados con contenedores. Le dices que no, y él comenta: “Pues te comento que, por otra parte, muchas empresas usan contenedores para evitar aislamiento. 
+
+O mejor dicho, para crearlo cuando hace falta, estando completamente en lados entre sí, separados entre sí, por lo que nos permiten asegurarnos de que una aplicación no falla por culpa de otra. Él continúa explicando que los contenedores usan paquetes livianos, y que iniciar uno es cuestión de segundos, lo que acelera el tiempo de comercialización, así como mejora el flujo de trabajo. Te muestra un ejemplo y dice: “Tienes que verterlo en un archivo especial, y luego ejecutarlo por medio de los contenedores que estos nos brindan.” Le cuentas que has estado estudiando el tema y que incluso has estado aprendiendo sobre rendimiento. 
+
+Él te felicita y tú le dices que, una vez que haya probado esa tecnología, podrás evaluar su rendimientro (sic) y el hecho de que ayuda al negocio gracias al aumento del retorno de la inversión. Recuerdas que hace años no sabías nada. Habías estado buscando información cuando un amigo te amenazó en broma diciendo que debías aprender sí o sí. En aquel tiempo tú habías estado pensando en cambiar de trabajo. Mañana aprenderás más, y pasado estarás estudiando conceptos nuevos. En unas semanas habrás entendido casi todo, y dentro de un mes habrás estado aprendiendo tanto que podrás aplicar a nuevas posiciones. Si tuvieras tiempo, viajarías para hacer un curso intensivo. Ojalá que continúes avanzando.
+
 2025-11-17 - lunes 17 de noviembre de 2025
 
 >> Caminos compartidos

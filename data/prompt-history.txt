@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-19 07:14:30
+Prompt in Spanish to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "en la parada del bus", "No conozco palabras como esas.", "amenazó", "No conozco tantas palabras como tú.", "despliegue y entrega de aplicaciones", "por entender", "aprender, comprender, escuchar", "del mismo modo", "además", "el ámbito laboral", "empecemos", "has visto ofertas de trabajos de puestos", "pues te comento que", "por otra parte", "aislamiento", "estando completamente en lados entre sí", "entre sí", "por lo que nos permiten asegurarnos", "falla", "paquetes livianos", "es cuestión de segundos", "acelera el tiempo de comercialización", "así como", "Tienes que verterlo en", "por medio de los contenedores", "que estos nos brindan", "una vez que haya probado", "rendimientro", "el hecho de que", "del retorno de la inversión".
+======================================================================================
 2025-11-18 06:34:30
 Prompt in Italian to create a story with 40 phrases and 440 words...
 ======================================================================================
