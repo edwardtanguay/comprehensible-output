@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-20 07:38:34
+Prompt in Spanish to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Docker le permite ejecutar", "Docker te permite ejecutar", "se ha vuelto tan importante", "El parque se ha vuelto un lugar muy tranquilo", "se ha vuelto mucho más responsable con los años", "Ese asunto se ha vuelto demasiado complicado", "se ha vuelto indispensable", "denunciando el robo", "ladrón", "empujó", "delgados", "se acerque", "pero le pido que", "una patrulla", "quince, dieciséis", "garganta", "Afuera llueve", "Sigues tosiendo", "Lo siento, esa era la frase equivocada.", "Para seguir, navegue en el siguiente enlace".
+======================================================================================
 2025-11-19 07:14:30
 Prompt in Spanish to create a story with 30 phrases and 330 words...
 ======================================================================================
