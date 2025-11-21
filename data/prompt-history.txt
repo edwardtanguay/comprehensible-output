@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-21 07:04:56
+Prompt in Spanish to create a story with 28 phrases and 308 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 308 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Y echar un vistazo al menú emergente", "Descargue", "si te apuntas", "me apuntas", "te has rendido", "el pastel ha ganado otra vez", "pálida", "calavera", "ha disfrazado", "ha asustado", "diecisiete", "tu mirada", "restaurar", "siguen", "cuidado", "apuntas", "te apuntas", "semejante", "demás", "demasiado", "de forma predeterminada", "todas las capas", "por suerte", "Ya es tan tarde", "La reunión ha terminado.", "Cada pocos minutos, necesito grabar una frase.", "Olvidé mi teléfono", "Incluso las frases cortas son útiles".
+======================================================================================
 2025-11-20 07:38:34
 Prompt in Spanish to create a story with 20 phrases and 220 words...
 ======================================================================================
