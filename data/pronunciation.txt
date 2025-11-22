@@ -466,3 +466,7 @@ nl; met de lepel; LAY-pel; with the spoon
 es; restaurar ; res-t(ow)-RAR (sounds like "town"); to restore
 es; una estrategia; ah-strah-TAY-*ee-ah; a strategy
 es; Descargue ; des-KAR-gay; download
+
+nl; Het is daar een chaos; *AH-ohs; it's chaos there
+nl; een zeef; ZAYF; a sieve
+nl; een wens; VENS; a wish 
