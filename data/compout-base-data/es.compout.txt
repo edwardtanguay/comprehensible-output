@@ -1,3 +1,13 @@
+2025-11-23 - domingo 23 de noviembre 2025
+
+>> El despliegue de tu vida
+
+Comencemos por el principio, tu vida en este conjunto residencial. Ahora mismo estás pensando en tu próximo gran proyecto. Siempre has estado planeando algo grande, ¿verdad? Tengo que poner un filtro aquí para entender qué estás haciendo, pues tu rutina consta de un ciclo complejo de trabajo y descanso. Tú te levantas temprano y te estás preparando para empezar cada jornada. Tú te habías estado preguntando cómo mejorar todo el proceso. Tu carrera está centrada en el despliegue de nuevas ideas y servicios. Tú no eres un desarrollador, pero que trabaja en el despliegue y entrega de aplicaciones es tu función principal. Imagina que cada vecino es una unidad estándar, y una aplicación no falla por culpa de otra gracias al aislamiento que brindan las paredes y las fronteras claras. 
+
+O mejor dicho, gracias a la filosofía de microservicios que aplicas: la independencia total. El rendimiento general de tu vida digital podría ser mañana un modelo de eficiencia. Ayer, cuando hace falta una nueva versión de tu sitio web personal (el que usas para alojar imágenes), algo falló. ¿Qué habías estado esperando pacientemente? La aprobación final. Mientras estabas mirando el progreso, el sistema colapsó de repente. Ya habías visto esa inestabilidad antes. El sistema de subida y descarga de imágenes colapsó justo antes de la puesta en producción. Fue un desastre lamentable. Por otra parte, ahora sabes que debes usar a otros proveedores para almacenar y compartir tus ideas en alta calidad. No, no tienes que preocuparte. No es un idioma difícil de aprender, solo requiere práctica y organización. 
+
+Tengo que esperar aquí un rato hasta que el sistema de compilaciones termine y que luego pueden ser transferidas. Tú habrás logrado la estabilidad que buscas para el próximo trimestre. Tu nuevo plan de envío exitoso a producción cuenta con imágenes de respaldo y un plan de contingencia. Espero que cuente conmigo para revisar la plantilla de solo lectura del proyecto, la que estarás escribiendo durante las vacaciones. Y por último, me pregunto si la puesta en producción de esta nueva versión de tu vida será mañana. Para entonces, tú te habrás dado cuenta de que la clave para un buen rendimiento siempre fue el aislamiento de los componentes.
+
 2025-11-21 - viernes 21 de noviembre de 2025
 
 >> La calavera en el pastel

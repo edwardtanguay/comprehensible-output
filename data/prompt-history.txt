@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-23 10:29:13
+Prompt in Spanish to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "despliegue", "pero que trabaja en el despliegue y entrega de aplicaciones", "por otra parte", "O mejor dicho", "una aplicación no falla por culpa de otra", "cuando hace falta", "brindan", "aislamiento", "rendimiento", "Tengo que poner un filtro aquí.", "Tengo que esperar aquí un rato.", "No es un idioma difícil.", "comencemos por", "una unidad estándar", "podría ser mañana", "la puesta en producción", "consta de un", "alojar imágenes", "almacenar y compartir", "subida y descarga de imágenes", "en alta calidad", "cuenta con imágenes", "cuenta conmigo", "proveedores", "cuenta con compilaciones", "que luego pueden ser", "envío exitoso a", "plantilla de solo lectura", "conjunto residencial", "y por último".
+======================================================================================
 2025-11-22 08:16:52
 Prompt in Dutch to create a story with 50 phrases and 550 words...
 ======================================================================================

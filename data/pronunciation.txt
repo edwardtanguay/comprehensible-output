@@ -470,3 +470,6 @@ es; Descargue ; des-KAR-gay; download
 nl; Het is daar een chaos; *AH-ohs; it's chaos there
 nl; een zeef; ZAYF; a sieve
 nl; een wens; VENS; a wish 
+
+nl; versie; FAIR-see; version
+es; para alojar imágenes; ah-loh-*AR; to host images
