@@ -473,3 +473,8 @@ nl; een wens; VENS; a wish
 
 nl; versie; FAIR-see; version
 es; para alojar imágenes; ah-loh-*AR; to host images
+
+nl; mysterie; mis-TAIR-ee; mystery
+es; estrategia genial; es-trah-TAY-*ee-ah; strategy
+nl; detail; day-TIGH-ee; detail
+nl; een doos vol brieven; BREE-fah; letters
