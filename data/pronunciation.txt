@@ -478,3 +478,6 @@ nl; mysterie; mis-TAIR-ee; mystery
 es; estrategia genial; es-trah-TAY-*ee-ah; strategy
 nl; detail; day-TIGH-ee; detail
 nl; een doos vol brieven; BREE-fah; letters
+
+nl; de vuurtoren; FOOR-tor-eh; the lighthouse
+nl; Het is een overzicht van de routes; ROO-tes; routes
