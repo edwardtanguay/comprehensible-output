@@ -481,3 +481,5 @@ nl; een doos vol brieven; BREE-fah; letters
 
 nl; de vuurtoren; FOOR-tor-eh; the lighthouse
 nl; Het is een overzicht van de routes; ROO-tes; routes
+
+nl; in de gootsteen; GOHT-steen; in the sink
