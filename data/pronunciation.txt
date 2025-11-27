@@ -483,3 +483,8 @@ nl; de vuurtoren; FOOR-tor-eh; the lighthouse
 nl; Het is een overzicht van de routes; ROO-tes; routes
 
 nl; in de gootsteen; GOHT-steen; in the sink
+
+nl; het sjabloon uit te vouwen; shah-BLOHN; to unfold the template
+nl; het sjabloon uit te vouwen; FOW-wah (sounds like "cow"); to unfold the template
+es; vamos a escoger un tema fácil; es-koh-*AIR; let's choose an easy topic
+es; Si bajamos el ritmo; ba-HAH-mohs; if we slow down the pace
