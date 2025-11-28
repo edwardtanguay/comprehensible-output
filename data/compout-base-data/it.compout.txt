@@ -1,3 +1,12 @@
+2025-11-28 - venerdì 28 novembre 2025
+
+>> Cursor, il mago dei siti web
+Ieri sera, mentre stavi cercando di finire un progetto per il lavoro, hai pensato: “È difficile fare tutto da solo!”. Avevi già perso due ore solo per sistemare un errore stupido: il sito non si avviava e tu continuavi a ripetere: “Manca il prefisso!”. In quel momento, il tuo amico ti ha scritto: “Cursor ha creato questo in 5 minuti.” Tu, scettico, hai risposto: “Come puoi fare con Cursor?”. Lui ti ha spiegato: “Ecco cosa significa avere uno strumento che ascolta davvero. Ho detto a Cursor ‘dare al sito un tema di Star Wars’ e in cinque minuti aveva finito tutto: pagine, icone, perfino i suoni!”. Tu hai sospirato: “ccc è finalmente finito, ma ora il suo sito non si avvia… e io sto ancora lavorando sulla stessa attività dopo 5 minuti!”.
+
+Il giorno dopo, hai deciso di provare. Hai aperto Cursor e hai detto: “Voglio un sito per la mia palestra”. In meno di un minuto, avevi già due pagine pronte. Hai pensato: “Anche nnn può fare lo stesso, creando siti per te semplicemente chiedendoti di farlo?”. Ti sei detto: “Mi piacerebbe avere più tempo per le cose importanti, senza dover sempre ricorrere al cloud”. Poi, hai provato a chiedere: “Mostra tutti i remoti configurati, di solito origin, con gli URL per fetch e push”. Cursor ha risposto subito, senza farti aspettare come il copilota che starebbe ancora pensando. Al lavoro utilizzate Copilot, ma sembra lento e poco utile. Con Cursor, invece, tutto funziona subito.
+
+Hai chiesto al tuo amico: “Quanto costa?”. Lui ha detto: “Sì, senza fretta, giovedì va bene, o quando vuoi”. Tu hai aggiunto: “Sì, se hai tempo”. Lui ha riso: “A chi serve davvero spingere? Provalo e vedrai”.  Ora, mentre stai pensando a tutti i progetti che potrai finire, ti chiedi: “Tra quelli vecchi, quale deve avere la priorità?”. Hai capito che, a volte, la tecnologia può davvero aiutarti, se sai come usarla. E con Cursor, sembra tutto più semplice: fidati, questa proprietà non è né null né undefined!
+
 2025-11-18 - martedì 18 novembre 2025
 
 >> Viaggio nel container
