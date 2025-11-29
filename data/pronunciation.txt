@@ -493,3 +493,9 @@ it; scettico; SHEH-tee-koh; skeptical
 nl; sceptisch; SKEP-tees; skeptical
 it; pagine; PAH-gee-neh; pages
 nl; twee pagina's; PAH-*ee-nahs; two pages
+
+nl; kopieer dit script; koh-pee-AIR; copy this script
+nl; computer; comp-PYOO-ter; computer
+nl; om anderen te waarschuwen; VAR-s*oo-wah; to warn others
+nl; ojalá; oh-hah-LA ; hopefully
+nl; dat je langs de rivier komt; rih-VEER; that you come along the river

@@ -1,4 +1,9 @@
 ======================================================================================
+2025-11-29 08:32:04
+Prompt in Spanish to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "en francés, español e italiano", "El problema es", "abastecer", "la ballena", "que será inolvidable", "computadora", "asomarse", "la sede", "destacan", "No lo sé exactamente", "El papel del papel en la historia es importante", "guardaba todo en la nube", "no temas", "bandera", "gigante", "avergonzado", "cómo te costaba recordar las palabras", "costaba", "Vamos a escoger un tema fácil", "colocarla", "Que sigue", "Si bajamos el ritmo", "copia este script", "de manera exitosa", "No sé qué está pasando", "el refrigerador y el fregadero", "gestionen", "acceso", "y fíjate que ahora se refiere a ambos", "ahora fíjate que lo que hice".
+======================================================================================
 2025-11-28 07:10:26
 Prompt in Italian to create a story with 30 phrases and 330 words...
 ======================================================================================
