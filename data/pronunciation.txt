@@ -499,3 +499,7 @@ nl; computer; comp-PYOO-ter; computer
 nl; om anderen te waarschuwen; VAR-s*oo-wah; to warn others
 nl; ojalá; oh-hah-LA ; hopefully
 nl; dat je langs de rivier komt; rih-VEER; that you come along the river
+
+nl; hij ging met pensioen; pen-SYOON; he retired
+nl; en had nauwelijks warme kleren meegenomen; NOW-eh-licks; and had hardly brought any warm clothes
+nl; Argentinië; ahr-*en-TEE-nee-ah; Argentina
