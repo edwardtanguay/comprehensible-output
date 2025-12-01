@@ -1,4 +1,9 @@
 ======================================================================================
+2025-12-01 05:43:36
+Prompt in Spanish to create a story with 30 phrases and 330 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 330 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "No sé qué está diciendo.", "No importa lo popular que sea", "No quiero ir", "Espero que podamos", "Es increíble que no puedas entender las películas.", "Hay demasiadas palabras", "que no entiendo", "Me pregunto dónde vive en la ciudad.", "Él elegirá el restaurante", "una falta de certeza, lo que exige", "acaba de llamar", "por lo tanto", "rige", "te llemaré", "ropa de abrigo", "la obra", "suele", "anda costando", "panaderia", "cerraran", "rechazara", "a pesar de que", "ya que", "de ahi que", "llevar trabajando", "ponerse a trabajar", "en sí mismo", "dejar de trabajar", "dañada", "prisa".
+======================================================================================
 2025-11-30 08:11:07
 Prompt in Spanish to create a story with 40 phrases and 440 words...
 ======================================================================================
