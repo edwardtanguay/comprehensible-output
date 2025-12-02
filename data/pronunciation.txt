@@ -503,3 +503,6 @@ nl; dat je langs de rivier komt; rih-VEER; that you come along the river
 nl; hij ging met pensioen; pen-SYOON; he retired
 nl; en had nauwelijks warme kleren meegenomen; NOW-eh-licks; and had hardly brought any warm clothes
 nl; Argentinië; ahr-*en-TEE-nee-ah; Argentina
+
+nl; de sieraden zijn handgemaakt; SEE-rah-deh; the jewelry is handmade
+es; las joyas; HOY-yass; the jewelry
