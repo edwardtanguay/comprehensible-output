@@ -506,3 +506,5 @@ nl; Argentinië; ahr-*en-TEE-nee-ah; Argentina
 
 nl; de sieraden zijn handgemaakt; SEE-rah-deh; the jewelry is handmade
 es; las joyas; HOY-yass; the jewelry
+
+nl; logisch; LOH-*ees; logical

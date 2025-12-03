@@ -1,3 +1,9 @@
 Make a quiz in Spanish with 20 questions at a B1 level, give explanations for right and wrong answers and a hint, make it so one learns as one takes the quiz, the subject of the quiz should test skills of making nouns like aprendizaje.
 Make a quiz in Spanish with 20 questions at a B1 level, give explanations for right and wrong answers and a hint, make it so one learns as one takes the quiz, the subject of the quiz should test skills of using the phrase "se dio cuenta" in various tenses and situations.
 Make a quiz in Italian with 20 questions at a B1 level, give explanations for right and wrong answers and a hint, make it so one learns as one takes the quiz, the subject of the quiz should test skills knowing the difference between "in" and "nel/nello" etc.
+
+- Cómo saber cuánto vs como and cuanto, por qúe vs porque
+- qué vs. cual
+- many uses of quedes 
+
+nl; wordt vs ward vs werd etc.

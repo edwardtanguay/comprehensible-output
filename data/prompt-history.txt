@@ -1,4 +1,9 @@
 ======================================================================================
+2025-12-03 07:15:21
+Prompt in Spanish to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "la caja fuerte", "sustraer algo", "en el colegio", "gerencia", "Ahora tengo que empezar con mi tutorial.", "También quiero registrar mi tiempo.", "Su español es difícil de entender", "Necesito el informe lo antes posible", "detenemos", "Tengo que esperar a que empiece", "la camisa que te lleva puesta hoy", "lleva esta solicitud al departamento de Recursos Humanos ahora", "tu suegra", "te llevarías mejor con tu suegra", "el tenista llevaró perdidos solo dos partidos", "su almuerzo", "viendo", "Ella viene", "por otro lado", "Ojalá no te quedes muy delgado", "como si todo tuviera sentido", "Apaga la alarma", "ropa de abrigo", "Por lo tanto", "el contenedor que acabamos de crear".
+======================================================================================
 2025-12-02 06:50:14
 Prompt in Spanish to create a story with 30 phrases and 330 words...
 ======================================================================================
