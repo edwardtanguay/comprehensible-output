@@ -1,0 +1,36 @@
+- para
+	- finalidad (purpose), destinatario (adressee), objetivo
+		- para eso vamos a abrir la ventana
+			- vamos a abrir la ventana con la finalidad de lograr eso
+		- para obtener la versión, vamos a ejecutar el comando
+			- el objetivo de ejecutar es obtener la versión
+		- para estudiar, necesito silencio
+			- la finalidad de necesitar silencio es poder estudiar
+		- para ti compré este regalo
+			- el destinatario del regalo eres tú
+	- fecha límite (deadline)
+		- el gerente dijo que el proyecto debe estar completado para el martes de la próxima semana
+			- la fecha límite es el martes de la próxima semana
+	-  destino, dirección
+		- el avión sale a las 3 de la tarde para Madrid
+			- el destino final del vuelo es Madrid
+		- mis amigos y yo vamos para la playa este fin de semana
+			- la playa es el destino de su viaje
+		- qué andén es el que va para Barcelona
+			- Barcelona es el destino al que se dirige el tren
+		- ella salió corriendo para su casa después del trabajo
+			- se dirigió en dirección a su casa
+		- el coche giró en la esquina para el parque central
+			- tomó la dirección del parque
+		- mañana temprano partimos para el norte
+			- inician su viaje en dirección al norte
+- por
+	- causa, motivo
+		- la obra de teatro fue cancelada por problemas técnicos de último minuto
+			- la razón fueron problemas técnicos
+	- medio (means), via (way), instrumento
+		- conseguimos comunicarnos con el equipo de soporte técnico por un chat en línea
+			- el medio con el que hablamos con el equipo de soporte fue un chat en línea.
+	- duración
+		- estuvimos viajando en tren por más de doce horas seguidas
+			- la duración del tiempo que viajamos en el tren fue de más de doce horas
