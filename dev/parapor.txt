@@ -1,11 +1,14 @@
 - para
-	- finalidad (purpose), destinatario (adressee), beneficiario,  objetivo
+	- finalidad (purpose), objetivo, el propósito (purpose) de una acción 
 		- para eso vamos a abrir la ventana
 			- vamos a abrir la ventana con la finalidad de lograr eso
 		- para obtener la versión, vamos a ejecutar el comando
 			- el objetivo de ejecutar es obtener la versión
 		- para estudiar, necesito silencio
 			- la finalidad de necesitar silencio es poder estudiar
+		- necesitamos conseguir un visado para entrar en el país asiático
+			- el propósito de obtener una visa es ingresar al país
+	- destinatario (adressee), beneficiario
 		- para ti compré este regalo
 			- el destinatario del regalo eres tú
 		- eliminar para mí
@@ -13,7 +16,7 @@
 	- fecha límite (deadline)
 		- el gerente dijo que el proyecto debe estar completado para el martes de la próxima semana
 			- la fecha límite es el martes de la próxima semana
-	-  destino, dirección
+	- destino, dirección
 		- el avión sale a las 3 de la tarde para Madrid
 			- el destino final del vuelo es Madrid
 		- mis amigos y yo vamos para la playa este fin de semana
@@ -35,15 +38,23 @@
 			- la razón fueron problemas técnicos
 		- me disculpé con mi vecina por el ruido que hicimos anoche
 			- la razón por la que me disculpo es porque hicimos demasiado ruido 
+	- el impedimento
+		- no logramos ver las montañas por la niebla tan densa
+			- el impedimento para ver era la niebla
 	- medio (means), via (way), instrumento
 		- conseguimos comunicarnos con el equipo de soporte técnico por un chat en línea
 			- el medio con el que hablamos con el equipo de soporte fue un chat en línea
 	- duración
 		- estuvimos viajando en tren por más de doce horas seguidas
 			- la duración del tiempo que viajamos en el tren fue de más de doce horas
+		- el gerente sustituto trabajará aquí por un periodo de dos semanas
+			- la duración de la sustitución será de dos semanas.
 	- intercambio (exchange), el precio, el costo de algo 	
 		- pagué cinco euros por eso
 			- el precio es cinco euros
 	- el movimiento a través de un lugar, el tránsito o el camino que se sigue 
 		- tuvimos que cruzar el campo por llegar al río
 			- el cruce fue del campo al río
+	- sustitución, el reemplazo o la ayuda que se realiza en lugar de otra persona 
+		- podrías abrir la puerta por mí, por favor, tengo las manos ocupadas
+			- la sustitución eres tú por mí para poder abrir la puerta
