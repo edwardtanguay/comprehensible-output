@@ -1,5 +1,5 @@
 - para
-	- finalidad (purpose), destinatario (adressee), objetivo
+	- finalidad (purpose), destinatario (adressee), beneficiario,  objetivo
 		- para eso vamos a abrir la ventana
 			- vamos a abrir la ventana con la finalidad de lograr eso
 		- para obtener la versión, vamos a ejecutar el comando
@@ -8,6 +8,8 @@
 			- la finalidad de necesitar silencio es poder estudiar
 		- para ti compré este regalo
 			- el destinatario del regalo eres tú
+		- eliminar para mí
+			- la persona para la cual se está haciendo la eliminación soy yo
 	- fecha límite (deadline)
 		- el gerente dijo que el proyecto debe estar completado para el martes de la próxima semana
 			- la fecha límite es el martes de la próxima semana
@@ -24,13 +26,24 @@
 			- tomó la dirección del parque
 		- mañana temprano partimos para el norte
 			- inician su viaje en dirección al norte
+	-  comparación de adecuación ('too X for Y')
+		- no es demasiado mayor para correr un maratón
+			- se comparan la edad y la capacidad física
 - por
-	- causa, motivo
+	- causa, motivo, razón
 		- la obra de teatro fue cancelada por problemas técnicos de último minuto
 			- la razón fueron problemas técnicos
+		- me disculpé con mi vecina por el ruido que hicimos anoche
+			- la razón por la que me disculpo es porque hicimos demasiado ruido 
 	- medio (means), via (way), instrumento
 		- conseguimos comunicarnos con el equipo de soporte técnico por un chat en línea
-			- el medio con el que hablamos con el equipo de soporte fue un chat en línea.
+			- el medio con el que hablamos con el equipo de soporte fue un chat en línea
 	- duración
 		- estuvimos viajando en tren por más de doce horas seguidas
 			- la duración del tiempo que viajamos en el tren fue de más de doce horas
+	- intercambio (exchange), el precio, el costo de algo 	
+		- pagué cinco euros por eso
+			- el precio es cinco euros
+	- el movimiento a través de un lugar, el tránsito o el camino que se sigue 
+		- tuvimos que cruzar el campo por llegar al río
+			- el cruce fue del campo al río
