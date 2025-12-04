@@ -58,3 +58,6 @@
 	- sustitución, el reemplazo o la ayuda que se realiza en lugar de otra persona 
 		- podrías abrir la puerta por mí, por favor, tengo las manos ocupadas
 			- la sustitución eres tú por mí para poder abrir la puerta
+	- el movimiento o el tránsito a través de un lugar o una zona  
+		- el autobús pasa por la plaza central cada quince minutos
+			- el movimiento ha pasado la plaza
