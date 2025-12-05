@@ -1,3 +1,13 @@
+2025-12-05 - viernes 5 de diciembre 2025
+
+>> La Caja Fuerte de los Recuerdos
+
+Hace un año, encontraste una vieja Caja Fuerte en el ático de tu abuela. Al abrirla, descubriste cartas, fotos y un guión de una película que nunca se filmó. Estabas tan emocionado que has pasado los últimos meses tratando de entender su historia. Por otro lado, tu abuela estuvo apagado el tema cada vez que le preguntabas. Esta tristeza tiene una función valiosa, similar a la que discutimos antes: te fuerza a reevaluar y a buscar un camino más auténtico. Para esto vamos a ir a hablar con tu tío, quien sabe más de lo que dice. Él ha vivido en esa casa toda su vida y conocía a tu abuela mejor que nadie.
+
+En el caso de contar con su ayuda, podrías armar el rompecabezas. Es un conocido sistema: las familias guardan secretos bajo una capa de aislamiento, pero tú quieres romperla. A menudo, las respuestas están donde menos las buscas. Para verificar el estado de las cartas, debiste concentrarte en la fila que tenía fechas borrosas. Para que sepas cuánto espacio tienes, revisaste cada rincón de la caja. Para instalar MySQL en tu computadora y organizar la información, seguiste un tutorial, pero La Ausencia de la Contraseña Generada fue un poco confusa. 
+
+Para esto podemos agregar un programa más sencillo, como Excel. Son mantenidas directamente por la Comunidad Docker, pero se prefiere la imagen de arriba para producción y desarrollo general. Al final, supiste que el guión era de una película sobre una mujer expuesta al mundo por sus decisiones. Es correcto pensar que tu abuela hubiera querido que lo leyeras. Ahora, estarás escribiendo tu propia versión, para poner nuestro contenedor a correr y compartirla con el mundo.
+
 2025-12-04 - jueves 4 de diciembre 2025
 
 >> El día que encontré un martillo oxidado
