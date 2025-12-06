@@ -508,3 +508,6 @@ nl; de sieraden zijn handgemaakt; SEE-rah-deh; the jewelry is handmade
 es; las joyas; HOY-yass; the jewelry
 
 nl; logisch; LOH-*ees; logical
+
+es; lección; lek-thee-OWN; lesson
+nl; toen het plotseling begon te sneeuwen; SNAY-oh-wah; when it suddenly started snowing
