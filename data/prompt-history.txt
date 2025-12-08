@@ -1,4 +1,9 @@
 ======================================================================================
+2025-12-08 06:18:02
+Prompt in Spanish to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Si no hubieras llegado tarde", "sucursal", "El problema y el tema", "a pesar de que", "cuando termines de hacer la cena", "este asunto", "llevar a cabo", "de repente, el viento", "abramos nuestra consola", "sacar", "sequidamente de colocar", "ella se fue", "muy barato", "cortés", "Corto y cortés", "entregar los examenes", "exige", "cláusula subordinada", "no contesta", "solía ir", "juicio", "sin ser hechos", "el sufijo", "el sufijo", "el jefe".
+======================================================================================
 2025-12-06 19:07:27
 Prompt in Spanish to create a story with 25 phrases and 275 words...
 ======================================================================================
