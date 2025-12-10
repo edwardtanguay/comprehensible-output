@@ -511,3 +511,5 @@ nl; logisch; LOH-*ees; logical
 
 es; lección; lek-thee-OWN; lesson
 nl; toen het plotseling begon te sneeuwen; SNAY-oh-wah; when it suddenly started snowing
+
+es; aire fresco ; EYE-ee-ray; fresh air
