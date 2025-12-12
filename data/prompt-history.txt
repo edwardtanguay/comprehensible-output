@@ -1,4 +1,9 @@
 ======================================================================================
+2025-12-12 07:30:51
+Prompt in Spanish to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "cajas", "cómo se hizo algo", "ponerse muy contento", "mi recurso de gramática española", "bombillas", "volverse", "me alegra", "de repente la luz se fue", "detuvo", "Por fin está terminado", "palabras", "Comencé a aprender italiano en abril de este año.", "No está tan profundo en mi mente como el español.", "Yo empecé", "Por esta razón", "Fue una familiaridad que nunca olvidé.", "He aprendido", "enamora", "renacimiento", "teteria", "encanto", "estrechas", "merece", "He empezado", "Ya tenemos más de cincuenta".
+======================================================================================
 2025-12-11 07:46:45
 Prompt in Spanish to create a story with 25 phrases and 275 words...
 ======================================================================================
