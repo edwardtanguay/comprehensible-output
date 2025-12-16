@@ -1,57 +1,124 @@
-Italian,English,ma entrambe rientrano nella logica,but both fall within the logic
-Italian,English,Se vuoi essere più preciso,If you want to be more precise
-English,Italian,"what else could you put here besides ""len""","cos'altro potresti mettere qui oltre a ""len"""
-English,Italian,you know you won't change the values and want more secure code,sai che non cambierai i valori e vuoi un codice più sicuro
-Italian,English,La scelta della tuple però ha senso per alcuni motivi pratici,"However, the choice of tuple makes sense for some practical reasons."
-Italian,English,e funzionerebbe lo stesso,and it would work the same
-Italian,English,potresti usare una lista al posto di una tuple,you could use a list instead of a tuple
-Italian,English,"Ogni chiave deve essere unica e immutabile, ma i valori possono essere duplicati e modificabili","Each key must be unique and immutable, but values can be duplicated and changed."
-English,Italian,"for example, data in forms","ad esempio, dati nei moduli"
-Italian,English,Vuoi cercare un valore in base a una chiave in modo rapido,Do you want to search for a value based on a key quickly?
-Italian,English,Ti serve una mappatura chiave → valore,You need a key → value mapping
-Italian,English,"Vuoi sfruttare le operazioni insiemistiche veloci (unione, intersezione, differenza).","You want to take advantage of fast set operations (union, intersection, difference)."
-Italian,English,Non ti interessa l’ordine degli elementi,You don't care about the order of the elements
-Italian,English,record fissi,fixed records
-Italian,English,Può essere usata come chiave di un dizionario,It can be used as a dictionary key
-Italian,English,"Lista della spesa, cronologia delle operazioni, coda di attività","Shopping list, transaction history, task queue"
-Italian,English,Devi spesso aggiungere/rimuovere/modificare elementi in posizioni specifiche,You often need to add/remove/edit items in specific locations
-Italian,English,l’ordine di inserimento è importante,The order of insertion is important
-Italian,English,ho ragionato sui motivi per cui scegliere,I thought about the reasons for choosing
-Italian,English,Ecco un confronto sintetico,Here is a brief comparison
-Italian,English,un esempio realistico e minimo per ciascuno dei quattro tipi di collezione,a realistic and minimal example for each of the four types of collection
-Italian,English,restituisce l’intera stringa senza errori,returns the entire string without errors
-Italian,English,indica che parti dal terzultimo carattere fino alla fine,indicates that you start from the third-to-last character to the end
-English,Italian,how to get the last three characters in a string,come ottenere gli ultimi tre caratteri in una stringa
-English,Italian,sorry that was confusing,"scusa, è stato confusionario"
-English,Italian,I asked them and I asked him,Ho chiesto a loro e ho chiesto a lui
-English,Italian,I want to look up the word,Voglio cercare la parola
-English,Italian,I have taken,Ho preso
-English,Italian,I poured it in,L'ho versato dentro
-English,Italian,I have too many words in my head,Ho troppe parole nella mia testa
-Italian,English,Fammi sapere se vuoi una versione con puntatori,Let me know if you want a version with pointers
-English,Italian,it can write,può scrivere
-English,Italian,soap and toothpaste,sapone e dentifricio
-English,Italian,I don't know how much time the process takes,Non so quanto tempo ci vuole per completare il processo
-English,Italian,the program has stopped working again,il programma ha smesso di funzionare di nuovo
-English,Italian,and now I have a good tool to do it,e ora ho un buon strumento per farlo
-English,Italian,I am able to learn languages quickly,Sono in grado di imparare le lingue velocemente
-English,Italian,to pour the coffee into the cup,versare il caffè nella tazza
-English,Italian,we only have eightteen phrases,abbiamo solo diciotto frasi
-English,Italian,for me it is not a problem,per me non è un problema
-English,Italian,how can I temporarily turn off auto-complete,come posso disattivare temporaneamente il completamento automatico
-English,Italian,create function to padded zeros,crea una funzione per riempire gli zeri
-English,Italian,we came through the mountains,siamo passati attraverso le montagne
-English,Italian,my muscles hardly hurt after doing a workout,i miei muscoli non mi fanno quasi male dopo l'allenamento
-English,Italian,there are nine people in our group,ci sono nove persone nel nostro gruppo
-English,Italian,we do gymnastics,facciamo ginnastica
-English,Italian,he has taken,lui ha preso
-English,Italian,"in Go, create function to padded zeros","in Go, crea una funzione per riempire gli zeri"
-English,Italian,what is the two-character code for Portuguese,qual è il codice di due caratteri per il portoghese?
-English,Italian,I have two interviews coming up,Ho due colloqui in arrivo
-English,Italian,you have to constantly look up language,devi cercare costantemente la lingua
-English,Italian,my brain works too slow,il mio cervello lavora troppo lentamente
-English,Italian,I was not missed,Non mi sono perso
-English,Italian,describe this company,descrivi questa azienda
-Italian,English,l'approvazione di enti formativi,the approval of training bodies
-Italian,English,le formazioni certificate AZAV,AZAV certified training courses
-English,Italian,what exactly are,cosa sono esattamente
+English,Spanish,opposite,"opuesta
+opuesto"
+English,Spanish,a useful word,una palabra útil
+English,Spanish,I develop fluency,desarrollo fluidez
+English,Spanish,but I need to look it up,pero necesito buscarlo
+English,Spanish,the correct word,la palabra correcta
+English,Spanish,i must,Debo
+English,Spanish,thank you for the compliment,Gracias por el cumplido
+Dutch,English,het vierkant,the square
+Dutch,English,het gebergte,the mountain range
+Dutch,English,het ongedierte,the vermin
+Dutch,English,het raadsel,the riddle
+Dutch,English,de verkoop,the sale
+Dutch,English,lettergrepen,syllables
+Dutch,English,het verdriet,the sadness
+Dutch,English,het herstel,the recovery
+Dutch,English,het bestuur,the board
+English,Dutch,"the skin, the wood","de huid, het hout"
+Dutch,English,het boompje,the little tree
+Dutch,English,het mannetje,the male
+Dutch,English,de wetenschap,science
+Dutch,English,de verzekering,the insurance
+Dutch,English,de maatschappij,society
+Dutch,English,de moskee,the mosque
+Dutch,English,de alinea,the paragraph
+Dutch,English,de droogte,the drought
+Dutch,English,de garage,the garage
+Dutch,English,zelfstandige naamwoorden,nouns
+Dutch,English,die eindigen op,which end with
+Dutch,English,mogelijk,possible
+Dutch,English,het sinaasappelsap,the orange juice
+Dutch,English,de benzine,the gasoline
+Dutch,English,het vlot,the raft
+English,Dutch,six,zes
+Dutch,English,de kranten,the newspapers
+Dutch,English,de eik,the oak
+Dutch,English,bepaalde,certain
+Dutch,English,onaardig,unkind
+Dutch,English,het wijf,the woman
+Dutch,English,voornaamwoord,pronoun
+Dutch,English,bijvoeglijk,adjective
+Dutch,English,aanduidingen,indications
+English,Spanish,I wonder how many tokens I still have,Me pregunto cuántas fichas tengo todavía
+English,Spanish,it is amazing what this program can do,Es increíble lo que este programa puede hacer
+English,Spanish,this has freed up much time,Esto me ha liberado mucho tiempo.
+English,Spanish,sometimes it is difficult to think of phrases,A veces es difícil pensar en frases
+English,Spanish,my accuracy is improving,Mi precisión está mejorando
+English,Spanish,"during this time, I can write phrases","Durante este tiempo, puedo escribir frases"
+English,Spanish,almost,casi
+English,Spanish,I Will leave in about thirty minutes,Saldré en unos treinta minutos.
+English,Spanish,I only have a half hour left,Sólo me queda media hora
+English,Spanish,I finished that part,Terminé esa parte
+English,Spanish,I hope it works this time,Espero que funcione esta vez.
+English,Spanish,I already have seventy.,Ya tengo setenta.
+English,Spanish,I need more time,Necesito más tiempo
+Spanish,English,Estoy casi terminado,I'm almost finished.
+English,Spanish,the images move from left to right,Las imágenes se mueven de izquierda a derecha
+English,Spanish,I deleted the block of code,Eliminé el bloque de código
+English,Spanish,the electricity went back on,La electricidad volvió
+English,Spanish,the monitors will turn off,Los monitores se apagarán
+English,Spanish,the monitors turned off,los monitores se apagaron
+English,Spanish,the electricity went off,Se fue la electricidad
+English,Spanish,with that kind of explanation,con ese tipo de explicación
+English,Spanish,at this time,En este momento
+English,Spanish,he was speaking to himself,Estaba hablando consigo mismo
+English,Spanish,right in our street,justo en nuestra calle
+English,Spanish,she went on the same day,ella se fue el mismo dia
+Spanish,English,Es del mismo autor,It's by the same author
+English,Spanish,you can go with any train,Puedes ir con cualquier tren
+English,Spanish,I will do it in any case,Lo haré de todos modos
+English,Spanish,you can come anytime,Puedes venir en cualquier momento
+English,Spanish,do it again,hazlo de nuevo
+English,Spanish,give me another fork,dame otro tenedor
+English,Spanish,last night I drank too much,Anoche bebí demasiado
+English,Spanish,he brought some postcards,trajo algunas postales
+English,Spanish,the rest is not here,El resto no está aquí
+Spanish,English,Los otros no están aquí todavía,The others are not here yet
+Spanish,English,alcanza,reaches
+English,Spanish,I tried to read the book many times,Intenté leer el libro muchas veces.
+English,Spanish,many times,muchas veces
+English,Spanish,it was a bit complicated,Fue un poco complicado
+English,Spanish,a bit more sugar,un poco más de azúcar
+English,Spanish,I saw a truck,Vi un camión
+English,Spanish,i would like,me gustaría
+English,Spanish,i don't want,No quiero
+English,Spanish,I am going to take a walk for an hour,Voy a dar un paseo durante una hora.
+English,Spanish,I'm starting to get hungry,Estoy empezando a tener hambre
+English,Spanish,now for the next thing,"Ahora, lo siguiente"
+English,Spanish,"I often confuse words between Spanish, Italian and French","A menudo confundo palabras entre español, italiano y francés."
+English,Spanish,"a year ago, I could not speak Spanish",Hace un año no podía hablar español
+English,Spanish,give it to him,dáselo
+English,Spanish,I have completed four tasks,He completado cuatro tareas
+English,Spanish,I am going to eat this,Voy a comer esto
+English,Spanish,there are so many things that I don't know how they work,Hay tantas cosas que no sé cómo funcionan.
+English,Spanish,is Spanish for you like a native language,¿Es el español para ti como una lengua materna?
+English,Spanish,can I help you with that,¿Puedo ayudarte con eso?
+English,Spanish,I hope that he didn't come,Espero que no haya venido
+English,Spanish,I have to remember my goals,Tengo que recordar mis objetivos.
+English,Spanish,there is an error in this component,Hay un error en este componente
+English,Spanish,the task,la tarea
+English,Spanish,I will start with this task,Comenzaré con esta tarea.
+English,Spanish,it can't be that hard,No puede ser tan difícil
+English,Spanish,that would mean one hundred and twenty one,eso significaría ciento veintiuno
+English,Spanish,my goal is one hundred phrases,Mi meta son cien frases
+English,Spanish,that was important to undestand,Eso era importante entender
+English,Italian,my goal is one hundred phrases,il mio obiettivo è cento frasi
+English,Italian,that was important to undestand,era importante capire
+English,Spanish,maybe,tal vez
+English,Spanish,she and he,ella y él
+English,Spanish,the floor,el suelo
+Spanish,English,suele,usually
+English,Spanish,I have to go to the bathroom,Tengo que ir al baño
+Spanish,English,adecuación,adequacy
+Dutch,English,de oversteek,the crossing
+Spanish,English,cómo te habías rendido,How had you given up?
+Spanish,English,Mientras leía,While I was reading
+Dutch,English,Dus besloot je er abrupt te stoppen,So you decided to quit abruptly
+Dutch,English,zonder om te kijken,without looking back
+Dutch,English,Je had er maandenlang van gedroomd om het af te maken,You had been dreaming of finishing it for months
+Dutch,English,en schetste je ideeën op je slaapkamermuur,and sketched your ideas on your bedroom wall
+Dutch,English,enthousiast,enthusiastic
+Dutch,English,afgemaakt,finished
+English,Spanish,fifteen,quince
+English,Spanish,"you got a lot done, but not that","Has hecho muchas cosas, pero no tanto"
