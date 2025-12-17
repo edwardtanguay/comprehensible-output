@@ -1,3 +1,5 @@
+- technical
+	- amplify: 20, 8
 - recording
 	- resolve anything unclear about the language, e.g. record all verbs and other grammar concepts
 	- keep empty audio to a minimum, stop before lookup

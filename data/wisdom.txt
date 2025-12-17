@@ -6,4 +6,5 @@ it; Hai passato molte ore davanti allo schermo, ma ti fa sentire come se avessi 
 nl; Op een bruiloft wens je, in een huwelijk leer je. 
 it; Non perché sei dotato, ma perché vuoi capire il mondo, anche quando lui va sulle terra bruciata e tu, ancora, non smetti.
 nl; Vaak is de beste oplossing om even uit te rusten.
-nl; Haal het meeste uit je tijd, maar verspil hem niet
+nl; Haal het meeste uit je tijd, maar verspil hem niet.
+nl; Maar ik kan het verleden niet veranderen, ik kan alleen de toekomst verbeteren.
