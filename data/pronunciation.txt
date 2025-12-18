@@ -517,3 +517,5 @@ es; aire fresco ; EYE-ee-ray; fresh air
 nl; essentieel; es-sen-SHAYL; essential
 
 nl; humeur; hoo-MUUR; humor
+
+nl; details; day-TICE; details
