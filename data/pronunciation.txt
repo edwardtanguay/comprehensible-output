@@ -519,3 +519,7 @@ nl; essentieel; es-sen-SHAYL; essential
 nl; humeur; hoo-MUUR; humor
 
 nl; details; day-TICE; details
+
+nl; Een lawaaierige week; la-VAH-ee-air-ih-*eh; a noisy week
+il; Ojalá llueva mañana; you-AY-vah; I hope it rains tomorrow
+nl; Dan aarzel je; AHR-zel; then you hesitate
