@@ -523,3 +523,6 @@ nl; details; day-TICE; details
 nl; Een lawaaierige week; la-VAH-ee-air-ih-*eh; a noisy week
 il; Ojalá llueva mañana; you-AY-vah; I hope it rains tomorrow
 nl; Dan aarzel je; AHR-zel; then you hesitate
+
+nl; dat ik ze moet onthouden; ont-HOW-dah; that I have to remember them
+nl; dat is fantastisch; fan-TASS-tees; that's fantastic
