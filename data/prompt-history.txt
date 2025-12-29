@@ -1,4 +1,9 @@
 ======================================================================================
+2025-12-29 07:23:33
+Prompt in Spanish to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Spanish, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Los artículos no siempre son los mismos", "Él se rió y me dijo", "Él sonrió y me dijo.", "juegas", "Cambié mi método en base a algo que dijo", "ayer se lo di", "Ahora, estoy esperando que termine el proceso", "archivo de audio", ", pero tengo que practicar más los números, de lo contrario, me confundiré", "Me pregunto qué significa esa palabra.", "Eso está claro, eso se esperaba.", "No estaba en lo cierto", "Esa es una palabra que nunca usaría", "un problema", "Es el artículo y la palabra correctos", "No entendí eso.", "Eso sólo tiene sentido en español", "pero te lo estoy diciendo ahora", "Y tenga en cuenta que son dos palabras, no una.", "cuando aprendes un idioma", "Tengo que decir que", "Entonces lo que quiero decir es", "ambos son masculinos", "Esa es una frase que estoy aprendiendo lentamente.", "y encima".
+======================================================================================
 2025-12-28 12:13:07
 Prompt in Spanish to create a story with 25 phrases and 275 words...
 ======================================================================================
