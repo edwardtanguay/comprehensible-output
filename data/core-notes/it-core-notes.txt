@@ -1,0 +1,985 @@
+- typed in chore branch333
+LETTER PRONUNCIATION
+	A = ah
+	B = bee ***
+	C = chee ***
+	D = dee
+	E = ay ***
+	F = EFF-eh
+	G = gee ***
+	H = AH-kah ***
+	I = ee
+	L = ELL-eh ***
+	M = EMM-eh
+	N = ENN-eh
+	O = oh
+	P = pee
+	Q = koo
+	R = EHR-eh
+	S = ESS-eh
+	T = tee
+	U = oo
+	V = vee
+	Z = ZEH-deh
+	---
+	J = ee-LOON-gah
+	K = KAH-pah
+	W = DOH-PYA-VEE
+	X = iks
+	Y = EEP-see-lon		
+
+	*/---------------------------------------------------------------------------------*
+	PRES: Presente
+	PAPR: Passato prossimo - ho/hai/ha/abbiamo/avete/hanno, sono/sei/è/siamo/siete/sono
+	IMPE: Imperfetto
+	PARE: Passato remoto
+	FUTU: Futuro semplice
+	COND: Condizionale presente
+	*/
+
+=== FALSE FRIENDS =========================================================
+si è rivolto a lei; he has addressed her | gli studenti si sono ribellati alle nuove regole; students rebelled against the new rules
+
+		
+		
+
+CONJUGATION OVERVIEW
+================================================================
+-ARE
+	PRES: -o, -i, -a, -iamo, -ate, -ano
+	IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+	PAPR: ho/sono -ato
+	FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+	COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+	PARE: -ai, -asti, -ò, -ammo, -aste, -arono		
+	
+- ERE
+	PRES: -o, -i, -e, -iamo, -ete, -ono
+	IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+	PAPR: ho/sono -uto
+	FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+	COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+	PARE: -ei, -esti, -é, -emmo, -este, -erono (etti, -, ette, -, -, ettero)
+
+- IRE
+	PRES: -o, -i, -e, -iamo, -ite, -ono
+	IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+	PAPR: ho/sono -ito
+	FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+	COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
+	PARE: -ii, -isti, -ì, -immo, -iste, -irono
+================================================================		
+
+	</pre>
+	<h3>=== -ARE ===========</h3>
+	<pre>
+
+		PRES: -o, -i, -a, -iamo, -ate, -ano
+		IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+		PAPR: ho/sono -ato
+		FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		PARE: -ai, -asti, -ò, -ammo, -aste, -arono
+
+		--- ARE special (mnemonic: AREA 51)----------------------------------------------------------------------------
+		stare: *, stai, *, *, *, stanno, * // to stay ; sto ancora aspettando il treno ; I am still waiting for the train (gerundio presente) ; stavi male ieri ; you were unwell yesterday (imperfetto) ; stettero zitti per ore ; they stayed silent for hours (passato remoto) ; starà qui domani ; he will be here tomorrow (futuro semplice) ; siamo stati fortunati ; we were lucky (passato prossimo) ; staresti meglio a casa ; you would be better at home (condizionale presente) ; stai attento! ; be careful! (imperativo) ; lei sta con noi ; she is with us (presente)
+		fare: faccio, fai, *, facciamo, *, fanno, ho fatto // to do, to make; facemmo tutto con calma ; we did everything calmly (passato remoto) ; sto facendo una torta al limone ; I am making a lemon cake (gerundio presente); faremo il possibile per aiutarti ; we will do our best to help you (futuro semplice); lei fa yoga ogni mattina ; she does yoga every morning (presente) ; avete fatto bene a parlare ; you all did well to speak (passato prossimo) ; se facesse freddo, resterei a casa ; if it were cold, I would stay home (condizionale presente) ; facevi sempre rumore in classe ; you always made noise in class (imperfetto) ; fai attenzione alla strada ; be careful with the road (imperativo)
+		andare: vado, vai, va, *, *, vanno, * // to go; andammo al mare insieme ; we went to the sea together (passato remoto) ; sto andando a casa ora ; I am going home now (gerundio presente); lei andrebbe volentieri con te ; she would gladly go with you (condizionale presente) ; andavi spesso in biblioteca ; you often went to the library (imperfetto) ; voi andrete domani a Roma ; you all will go to Rome tomorrow ; vada subito dal medico ; (Lei) go to the doctor immediately ; sono andato via tardi ; I left late (passato prossimo) ; lui va a scuola ogni giorno ; he goes to school every day
+		dare: *, dai, dà, *, *, danno, ho dato // to give; diedi il libro a Maria ; I gave the book to Maria (passato remoto) ; dando il massimo, otteniamo risultati ; by giving our best, we get results (gerundio presente) ; noi daremo una mano domani ; we will give a hand tomorrow (futuro semplice) ; davo spesso consigli ai miei amici ; I often gave advice to my friends (imperfetto) ; tu daresti tutto per lei ; you would give everything for her (condizionale presente) ; date subito il documento! ; (you guys) give the document immediately! (imperativo) ; lei ha dato una risposta gentile ; she gave a kind reply (passato prossimo) ; Lei dà sempre buoni esempi ; you (formal) always give good examples (presente)
+
+		--- ARE regular (mnemonic: Nevada trailer)-----------------------------------------------------------------------
+		parlare // to speak; parla con il professore ; He talks with the professor (presente) ; parlerai con i tuoi amici ; You will talk with your friends (futuro semplice) ; abbiamo parlato di molti argomenti ; We talked about many topics (passato prossimo) ; parlavate sempre al telefono ; you guys used to talk on the phone all the time (imperfetto) ; parlerebbero con piacere ; They would gladly talk (condizionale presente) ; Lei parlò con grande saggezza ; You (formal) spoke with great wisdom (passato remoto) ; stai parlando troppo velocemente ; You're talking too fast (gerundio presente) ; parla con chiarezza! ; Speak clearly! (imperativo)
+		ascoltare# // to listen; ascolto la musica ogni mattina ; I listen to music every morning ; ascoltava sempre i consigli della nonna ; she always listened to her grandmother’s advice (imperfetto) ; ascoltarono attentamente il discorso ; they listened carefully to the speech (passato remoto) ; ascolteremo il concerto stasera ; we will listen to the concert tonight ; hai ascoltato la lezione con interesse ; you listened to the lesson with interest (passato prossimo) ; ascoltereste la mia richiesta, per favore ; would you all listen to my request, please ; Lei sta ascoltando la radio in cucina ; you (formal) are listening to the radio in the kitchen ; ascolta bene quello che dico! ; listen carefully to what I’m saying!
+		chiamare // to call
+		pensare // to think
+		creare // to create
+		mostrare# // to show; mostravo il libro a Marco;I was showing the book to Marco; ha mostrato interesse per il progetto;she showed interest in the project; mostreremo le foto domani;we will show the photos tomorrow
+		aspettare // to wait, to expect
+		guardare# // to look, to watch; guarda cosa c'è sulla schermata; look what's on the screen
+		incollare# // to paste
+		tirare# // to pull
+		controllare## // to check, to inspect
+		assicurare // to ensure, to assure, to make sure; ti assicuro che farò del mio meglio per risolvere il problema;I assure you that I will do my best to solve the problem
+		passare // to pass
+		girare## // to turn, to spin; gira a destra al semaforo;turn right at the traffic light; girava sempre intorno alla verità senza mai dirla;he always circled around the truth without saying it; girò il mondo in cerca di fortuna;he traveled the world in search of fortune; girerò il video appena arrivo a casa;i’ll shoot the video as soon as I get home; ha girato il film in soli due mesi;he shot the film in just two months; girerei volentieri con te per la città;i would gladly walk around the city with you; gira subito quel foglio!;turn that sheet over right now!
+		saltare## // to skip, to jump; per ora salteremo questo; we'll skip this for now
+		sperare## // to hope
+		impostare#ff#4.9# // to set, to set up; imposto la password del database; set the database password
+		reimpostare## // to reset
+		ricordare // to remember
+		portare# // to bring
+		apportare# // to bring about, to cause; l'aggiornamento apporta miglioramenti significativi; the update brings significant improvements
+		esportare# // to export
+		importare // to import
+		spostare## // to move; abbiamo spostato il file di testo; we moved the text file
+		aggiornare## // to update
+		analizzare // to analyze
+		salvare# // to save; tu salvi la password nel browser; you save the password in the browser
+		tornare## // to return; quindi ora torniamo al nostro progetto; so now let's get back to our project
+		rappresentare; to represent
+		ospitare## // to host
+		arrivare // to arrive
+		evitare## // to prevent
+		fermare# // to stop, to halt, to end; fermeremo l'esecuzione del progetto; we will stop the execution of the project
+		provare# // to try; proveremo scorrere verso l'alto; we will try to scroll up
+		continuare // to continue
+		testare // to test
+		interessare // to interest; la nuova versione di React interesserà molti sviluppatori; the new version of React will interest many developers
+		eliminare // to eliminate
+		cancellare // to cancel
+		completare // to complete
+		guidare // to drive, to guide, to lead
+		utilizzare // to utilize
+		notare // to note
+		entrare // to enter
+		funzionare // to function
+		incorporare // to incorporate
+		envitare# // to avoid
+		apprezzare // to appreciate
+		trattare# // to treat, to handle, to cover; gli argomenti che tratteremo; the topics we will cover
+		ritrattare# // to recant, to withdraw
+		regolare# // to adjust
+		esaminare // to examine
+		affermare // to affirm
+		diventare# // to become
+		contattare // to contact
+		impegnare // to engage, to commit; che ti sei impegnato con; that you have committed to
+		sognare## // to dream
+		sposare# // to marry
+		presentare // to present
+		ballare# // to dance
+		telefonare // to telephone
+		affittare## // to rent
+		afferrare## // to grab, to grasp (an idea); afferrare questa linea; grab this line; se non riesci ad afferrare questa linea di codice; se non riesci ad afferrare questa linea di codice
+		segnalare // to signal
+		valutare // to assess, evaluate
+		orderare // to order
+		buttare // to throw into, to dump, to throw away
+		alzare## // to raise, to lift 
+		sembrare# // to seem
+		lottare## // to fight, to struggle
+		trascinare## // to drag 
+		incontrare# // to meet
+		rientrare# // to return (home)
+		impiegare## // to take; il treno impiega quarantacinque minuti per arrivare; the train takes forty-five minutes to arrive
+		cenare# // to dine
+		spaventare## // to frighten; l'ho spaventato; I frightened him
+		affascinare // to fascinate
+		dichiarare## // to state, to declare, to claim 
+		pranzare## // to have lunch
+		bussare## // to knock
+		gironzolare## // to wander, hang out
+		addormentare## // to go to sleep
+		allineare# // to align
+		sbarazzare## // to get rid of
+		lavare# // to wash
+		lavorare# // to work
+		cantare# // to sing
+		desiderare## // to want, to wish
+		liberare# // to free, to release
+		visitare // to visit
+		dubitare# // to doubt
+		abitare# // to live, to dwell
+		nevicare# // to snow
+		avvisare# // to warn, to alert
+		riscontrare## // to encounter, to find, to experience
+		spolverare## // to sprinkle dust
+		rispolverare## // to dust off, to brush up on
+		stampare## // to print, print out
+		accettare# // to accept
+		affrontare# // to address, to face, to confront
+		affinare# // to refine, to hone (skills)
+		abituare# // to get used to, to habituate
+		manipolare // to manipulate
+		automatizzare // to automate
+		dimostrare // to demonstrate
+		trovare# // to find
+		digitare# // to type
+		usare // to use
+		fissare // to fix, to set, to stare
+		superare# // to overcome
+		scartare## // to discard
+		optare# // to opt
+		costare // to cost
+		svuotare## // to empty, to clear
+		addotare# // to adopt
+		rilevare## // to detect
+		segnare## // to mark, to record
+		contrassegnare## // to mark, to flag
+		riportare## // to restore, to bring back
+		svelare## // to reveal, to unveil
+		aggiustare## // to fix, to adjust, to repair
+		sistemare## // to fix, to settle, to arrange
+		riparare## // to repair, to fix, to mend
+		sussurrare## // to whisper, to breathe
+		capitare## // to happen, to occur
+		fondare## // to found, to establish
+		allenare## // to train, to coach
+		rallentare## // to delay, to slow down
+		bastare## // to be enough, to suffice
+		
+		
+
+
+
+		-- ARE /i (mnemonic: Nevada dump canyon) ---------------------------------------------------------------------------------------------------
+		lasciare: *, /i, *, /iamo, *, *, * // to leave, to let
+		tralasciare##: *, /i, *, /iamo, *, *, * // to forget, to leave out
+		rilasciare##: *, /i, *, /iamo, *, *, * // to release/issue
+		tagliare#: *, /i, *, /iamo, *, *, * // to cut
+		copiare: *, /i, *, /iamo, *, *, *  // to copy 
+		incoraggiare: *, /i, *, /iamo, *, *, * // to encourage
+		pronunciare: *, /i, *, /iamo, *, *, *  // to pronounce
+		baciare##: *, /i, *, /iamo, *, *, * // to kiss
+		cominciare##: *, /i, *, /iamo, *, *, * // to begin
+		incominciare##: *, /i, *, /iamo, *, *, * // to start, to begin
+		assomigliare#: *, /i, *, /iamo, *, *, * // to resemble
+		ricambiare#ff#: *, /i, *, /iamo, *, *, * // to reciprocate
+		sbadigliare##: *, /i, *, /iamo, *, *, * // to yawn
+		conciliare##: *, /i, *, /iamo, *, *, * // to combine, to reconcile
+		assaggiare##: *, /i, *, /iamo, *, *, * // to taste
+		passaggiare##: *, /i, *, /iamo, *, *, * // to walk, to stroll
+		mangiare##: *, /i, *, /iamo, *, *, * // to eat
+		iniziare##: *, /i, *, /iamo, *, *, * // to initialize, to start
+		ritagliare##: *, /i, *, /iamo, *, *, * // to cut out
+		risparmiare##: *, /i, *, /iamo, *, *, * // to save, to conserve
+		rintracciare##: *, /i, *, /iamo, *, *, * // to track down; il bug è difficile da rintracciare [CHAR-ay]; the bug is difficult to trace
+		cambiare: *, /i, *, /iamo, *, *, * // to change
+		consigliare##: *, /i, *, /iamo, *, *, * // to recommend
+		uguagliare##: *, /i, *, /iamo, *, *, * // to equal	
+		schiacciare##: *, /i, *, /iamo, *, *, * // to squash, to crush
+		
+		-- ARE ii (mnemonic: Nevada dump canyon in eyes emoji) ----------------------------------------------
+		archiviare#: *, *, *, /iamo, *, *, * // to store
+		inviare#: *, *, *, /iamo, *, *, * // to send
+		avviare##: *, /i, *, /iamo, *, *, * // to start, to boot
+		riavviare##: *, /i, *, /iamo, *, *, * // to restart, to reboot	
+		
+		 
+		
+		-- ARE chi/ghi (mnemonic: Las Vegas casino) ---------------------------------------------------------------
+		cercare#: *, -hi, *, -hiamo, *, *, * // to search
+		applicare: *, -hi, *, -hiamo, *, *, *  // to apply
+		caricare##: *, -hi, *, -hiamo, *, *, * // to load, to upload
+		recaricare##: *, -hi, *, -hiamo, *, *, * // to reload, to recharge
+		scaricare##: *, -hi, *, -hiamo, *, *, * // to download
+		sovraccaricare##: *, -hi, *, -hiamo, *, *, * // to overload
+		dimenticare: *, -hi, *, -hiamo, *, *, * // to forget
+		cliccare: *, -hi, *, -hiamo, *, *, * // to click
+		pubblicare: *, -hi, *, -hiamo, *, *, * // to publish
+		modificare: *, -hi, *, -hiamo, *, *, * // to modify
+		specificare: *, -hi, *, -hiamo, *, *, * // to specify
+		collegare##: *, -hi, *, -hiamo, *, *, * // to connect, to link
+		mancare##: *, -hi, *, -hiamo, *, *, * // be missing, to lack
+		vagare##: *, -hi, *, -hiamo, *, *, * // to wander, to roam
+		pagare: *, -hi, *, -hiamo, *, *, * // to pay
+		spiegare##: *, -hi, *, -hiamo, *, *, * // to explain
+		sbrigare##: *, -hi, *, -hiamo, *, *, * // to hurry (si), to attend ; sbrighiamoci prima che chiuda il negozio ; let’s hurry before the store closes (imperativo) ; sto sbrigando alcune pratiche urgenti ; I am handling some urgent paperwork (gerundio presente) ; sbrigò tutto in un’ora ; he took care of everything in an hour (passato remoto) ; sbrigherò questa faccenda domani ; I will take care of this matter tomorrow (futuro semplice) ; ci siamo sbrigati troppo tardi ; we were too late (passato prossimo) ; sbrigava sempre tutto con calma ; she always handled everything calmly (imperfetto) ; vi sbrighereste se vi impegnaste ; you would hurry up if you made an effort (condizionale presente) ; sbriga questa faccenda subito! ; take care of this matter right now! (imperativo)
+
+
+	</pre>
+	<h3>=== -ERE =========</h3>
+	<pre>
+		PRES: -o, -i, -e, -iamo, -ete, -ono
+		IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+		PAPR: ho/sono -uto
+		FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		PARE: -ei, -esti, -é, -emmo, -este, -erono (etti, -, ette, -, -, ettero)
+
+		-- ERE special (mnemonic: living room) -----------------------------------------------------------------
+		avere: ho, hai, ha, abbiamo, *, hanno, * // to have
+		essere: sono, sei, è, siamo, siete, sono, è stato // to be; il sistema è stato aggiornato ieri; il sistema è stato aggiornato ieri
+		volere: voglio, vuoi, vuole, vogliamo, *, vogliono, * // to want
+		dovere: devo, devi, deve, dobbiamo, *, devono, * // to have to (must)
+		potere: posso, puoi, può, possiamo, *, possono, * // to be able to (can)
+		sapere: so, sai, sa, sappiamo, *, sanno, * // to know
+
+		-- ERE regular (mnemonic: Lackner) -----------------------------------------------------------------
+		credere# // to believe
+		vendere# // to sell
+		accedere# // to access, to log in; l'utente può accedere alla dashboard solo dopo aver effettuato il login; The user can access the dashboard only after logging in
+		cedere## // to give in
+		accadere# // to happen, to occur; qualcosa che accadrà a breve; something that will happen soon
+		ricevere# // to receive; quando ricevi una notifica sul tuo dispositivo; when you receive a notification on your device
+		cadere## // to fall
+		scadere## // to expire
+		piovere## // to rain
+		premere## // to press, to push, to hit; e poi premerò il tasto; and then I'll press the button
+
+		-- ERE regular with i in pp (mnemonic: Morgans past apartment) -----------------------------------------------------------------
+		conoscere##: *, *, *, *, *, *, ho conosciuto // to meet
+		crescere##: *, *, *, *, *, *, ho cresciuto // to grow, to raise
+
+		-- ERE +pp (mnemonic: Albrecht/Brandenburgische/Buhrow) -------------------------------------------------
+		vedere##: *, *, *, *, *, *, ho visto // to sell
+		scrivere: *, *, *, *, *, *, ho scritto // to write
+		rescrivere: *, *, *, *, *, *, ho rescritto // to rewrite
+		descrivere: *, *, *, *, *, *, ho descritto // to describe
+		discutere: *, *, *, *, *, *, ho discusso // to discuss
+		spingere##: *, *, *, *, *, *, ho spinto // to push
+		rendere: *, *, *, *, *, *, ho reso // to make, to render
+		prendere: *, *, *, *, *, *, ho preso // to take
+		apprendere#: *, *, *, *, *, *, ho appreso // to learn, to apprehend
+		scendere: *, *, *, *, *, *, ho sceso // to move down
+		ascendere: *, *, *, *, *, *, ho asceso // to ascend
+		discendere: *, *, *, *, *, *, ho disceso // to descend
+		leggere#: *, *, *, *, *, *, ho letto // to read
+		nascere##: *, *, *, *, *, *, ho nato // to be born; lei è nata nel 1995; she was born in 1995
+		mettere#: *, *, *, *, *, *, ho messo // to put, to get, to place
+		smettere##: *, *, *, *, *, *, ho smesso // to stop, to cease 
+		emettere: *, *, *, *, *, *, ho emesso // to issue, to emit		
+		permettere: *, *, *, *, *, *, ho permesso // to permit
+		ridere##: *, *, *, *, *, *, ho riso // to laugh
+		sorridere##: *, *, *, *, *, *, ho sorriso // to smile; poi ha sorriso; then he smiled
+		connettere: *, *, *, *, *, *, ho connesso // to connect
+		chiudere##: *, *, *, *, *, *, ho chiuso // to close
+		aggiungere##: *, *, *, *, *, *, ho aggiunto // to add
+		muovere#: *, *, *, *, *, *, ho mosso // to move
+		rimuovere#: *, *, *, *, *, *, ho rimosso // to remove
+		risolvere: *, *, *, *, *, *, ho risolto // to solve, to resolve
+		rispondere: *, *, *, *, *, *, ho risposto // to respond
+		corrispondere: *, *, *, *, *, *, ho corrisposto // to correspond
+		succedere##: *, *, *, *, *, *, ho successo // to happen; quello che sta succedendo è che; what's happening is that; la casa; the house
+		coinvolgere##: *, *, *, *, *, *, ho coinvolto // to involve
+		raggiungere##: *, *, *, *, *, *, ho raggiunto // to reach, to achieve
+		dividere: *, *, *, *, *, *, ho diviso // to divide
+		esistere: *, *, *, *, *, *, sono esistito // to exist
+		correggere: *, *, *, *, *, *, ho corretto // to correct
+		rompere##: *, *, *, *, *, *, ho rotto // to break
+		vincere#: *, *, *, *, *, *, ho vinto // to win
+		decidere: *, *, *, *, *, *, ho deciso // to decide
+		chiedere: *, *, *, *, *, *, ho chiesto // to ask
+		richiedere: *, *, *, *, *, *, ho richiesto // to require, to request, to take (time)
+		sottintendere: *, *, *, *, *, *, ho sottinteso // to imply
+		intendere: *, *, *, *, *, *, ho inteso // to suggest
+		pedere: *, *, *, *, *, *, ho perso // to lose
+		correre: *, *, *, *, *, *, ho corso // to run
+		scorrere: *, *, *, *, *, *, ho scorso // to scroll
+		trascorrere: *, *, *, *, *, *, ho trascorso // to spend, to enjoy
+		riflettere##: *, *, *, *, *, *, ho riflesso // to reflect
+		dipingere##: *, *, *, *, *, *, ho dipinto // to paint
+		protegere#: *, *, *, *, *, *, ho protetto // to protect
+		avvolgere#: *, *, *, *, *, *, ho avvolto // to wrap
+		racchiudere#: *, *, *, *, *, *, ho racchiuso // to enclose
+		piangere#: *, *, *, *, *, *, ho pianto // to cry
+		esprimere#: *, *, *, *, *, *, ho espresso // to express, voice
+		vivere#: *, *, *, *, *, *, ho vissuto // to live, to experience
+		tingere##: *, *, *, *, *, *, ho tinto // to dye, to stain
+		immergere#: *, *, *, *, *, *, ho immerso // to immerse
+		nascondere##: *, *, *, *, *, *, ho nascosto // to hide
+		dipendere: *, *, *, *, *, *, ho dipeso // to depend
+		restringere: *, *, *, *, *, *, ho restretto // to restrict, to narrow
+		rivolgere: *, *, *, *, *, *, ho rivolto // to address; usata quando ti rivolgi a una sola persona con cui dai del tu; used when you are addressing just one person using the informal tu
+		arrendere: *, *, *, *, *, *, ho arreso // to give up, to surrender
+		accorgere: *, *, *, *, *, *, ho accorto // to notice
+		smettere: *, *, *, *, *, *, ho smesso // to stop, to quit
+		spegnere: *, *, *, *, *, *, ho spento // to turn off, to shut down
+		riavvolgere: *, *, *, *, *, *, ho riavvolo // to rewind
+		
+
+		-- ERE go (mnemonic: Dönerladen) ---------------------------------------------------------------------------------------------------
+		tenere#: -go, tieni, tiene, *, *, -gono, * // to take, to keep, to hold
+		ritenere##: -go, ritieni, ritiene, *, *, -gono, * // to believe, to consider; Ritengo che sia importante ascoltare tutte le opinioni prima di prendere una decisione.; I believe it is important to listen to all opinions before making a decision.
+		ottenere#: -go, ottieni, ottiene, *, *, -gono, * // to obtain; Ottengo buoni risultati quando mi impegno seriamente.; I get good results when I apply myself seriously.
+		mantenere: -go, mantieni, mantiene, *, *, -gono, * // to maintain
+		contenere: -go, contieni, contiene, *, *, -gono, * // to contain
+		sostenere#: -go, tieni, tiene, *, *, -gono, * // to support, to argue
+		rimanere#: -go, *, *, *, *, -gono, ho remasto // to remain
+
+		-- ERE go2 ---------------------------------------------------------------------------------------------------
+		scegliere#: scelgo, scegli, *, scegliamo, *, scelgono, ho scelto // to choose
+		togliere: tolgo, togli, *, togliamo, *, tolgono, ho tolto // to remove
+
+		-- ERE cio ---------------------------------------------------------------------------------------------------
+		piacere: -cio, *, *, -ciamo, *, -ciono, ho piaciuto // to like; mi piace; I like
+		giacere: -cio, *, *, -ciamo, *, -ciono, ho giaciuto // to lie (rest/recline); il libro giace sul tavolo; the book lies on the table
+		nuocere##: -cio, *, *, -ciamo, *, -ciono, ho nociuto // to harm
+		tacere##: -cio, *, *, -ciamo, *, -ciono, ho taciuto // to be silent, to shut up
+
+		-- ERE root ---------------------------------------------------------------------------------------------------
+		bere: (bev-) // to drink
+
+		-- ERE -urre ---------------------------------------------------------------------------------------------------
+		produrre: -uco, -uci, -uce, -uciamo, -ucete, -ucono, ho prodotto // to produce
+		tradurre: (traduc-) -uco, -uci, -uce, -uciamo, -ucete, -ucono, ho tradotto // to translate 
+		condurre: -uco, -uci, -uce, -uciamo, -ucete, -ucono, ho condotto // to conduct, to lead, to carry out
+		ridurre: -uco, -uci, -uce, -uciamo, -ucete, -ucono, ho ridotto // to reduce, to minimize
+
+		-- ERE -orre ---------------------------------------------------------------------------------------------------
+		porre##: (pon-) -go, *, *, *, *, -gono, posto // to put, to place; devi porre più attenzione ai dettagli; you have to pay more attention to details
+		proporre##: (propon-) -go, *, *, *, *, -gono, -posto // to suggest
+		supporre##: (suppon-) -go, *, *, *, *, -gono, -posto // to suppose
+		comporre##: (compon-) -go, *, *, *, *, -gono, -posto // to compose
+		deporre##: (depon-) -go, *, *, *, *, -gono, -posto // to depose
+		imporre##: (impon-) -go, *, *, *, *, -gono, -posto // to impose
+		esporre##: (espon-) -go, *, *, *, *, -gono, -posto // to expose
+		riporre##: (ripon-) -go, *, *, *, *, -gono, -posto // to put back
+		disporre##: (dispon-) -go, *, *, *, *, -gono, -posto // to arrange
+		preporre##: (prepon-) -go, *, *, *, *, -gono, -posto // to put before
+		interporre##: (interpon-) -go, *, *, *, *, -gono, -posto // to interpose
+		sottoporre##: (sottopon-) -go, *, *, *, *, -gono, -posto // to subject
+		contrapporre##: (contrapon-) -go, *, *, *, *, -gono, -posto // to contrast
+
+		-- ERE -arre ---------------------------------------------------------------------------------------------------
+		trarre##: (tra-) -ggo, *, *, *, *, -ggono, tratto // to draw, to take		
+		
+		-- ERE /i with past participle -----------------------------------------
+		accogliere##: accolgo, /i, *, /iamo, *, accolgono, accolto // to welcome
+		raccogliere##: raccolgo, /i, *, /iamo, *, raccolgono, raccolto // to gather, to collect		
+
+	</pre>
+	<h3>=== -IRE =========</h3>
+	<pre>
+		PRES: -o, -i, -e, -iamo, -ite, -ono
+		IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+		PAPR: ho/sono -ito
+		FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+		COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
+		PARE: -ii, -isti, -ì, -immo, -iste, -irono
+
+		-- IRE special (mnemonic: Ireland pub) ---------------------------------------------------------------------------------------
+		venire: vengo, vieni, viene, *, *, vengono, è venuto // to come
+		prevenire: vengo, vieni, viene, *, *, vengono, è venuto // to prevent, to avoid
+		dire: dico, dici, dice, diciamo, *, dicono, ho detto // to say
+		uscire##: esco, esci, esce, *, *, escono, * // to go out
+		riuscire##: riesco, riesci, riesce, *, *, riescono, * // to be able to, to manage, to succeed;  sono riuscito a risolvere; I managed to solve it
+
+		-- IRE regular (mnemonic: Ireland pub patio) -------------------------------------------------------------------------------
+		partire // to start
+		dormire // to sleep
+		convertire // to convert
+		eseguire# // to execute, to run; lo script esegue cinque volte al giorno; the script runs five times a day
+		consentire#ff# // to allow; questa applicazione consente di gestire i dati in tempo reale; this application allows you to manage data in real time
+		sentire## // to hear; ho sentito parlare di un nuovo aggiornamento per il framework Vue.js; I heard about a new update for the Vue.js framework
+		divertire## // to entertain, to amuse
+		fuggire## // to run away, to escape, to flee
+
+		-- IRE regular + pp erto (mnemonic: under Ireland pub patio) -------------------------------------------------------
+		coprire##: *, *, *, *, *, *, coperto, // to cover; lo copriremo in questo corso; we will cover it in this course
+		scoprire##: *, *, *, *, *, *, scoperto, // to discover, to find out
+		offrire: *, *, *, *, *, *, offerto // to offer
+		aprire#: *, *, *, *, *, *, aperto // to open
+
+		-- IRE isco (mnemonic: Ireland central conference) ---------------------------------------------------------------------------------------------------
+		capire: -isco, -isci, -isce, *, *, -iscono, * // to undertand
+		finire: -isco, -isci, -isce, *, *, -iscono, * // to finish
+		definire: -isco, -isci, -isce, *, *, -iscono, * // to define
+		pulire##: -isco, -isci, -isce, *, *, -iscono, * // to clean
+		ripulire##: -isco, -isci, -isce, *, *, -iscono, * // to clean up
+		fornire##: -isco, -isci, -isce, *, *, -iscono, * // to provide
+		inserire: -isco, -isci, -isce, *, *, -iscono, * // to insert
+		restituire##: -isco, -isci, -isce, *, *, -iscono, * // to return (a value)
+		sostituire##: -isco, -isci, -isce, *, *, -iscono, * // to replace
+		distribuire: -isco, -isci, -isce, *, *, -iscono, * // to deploy
+		ridistribuire: -isco, -isci, -isce, *, *, -iscono, * // to redeploy
+		impedire#: -isco, -isci, -isce, *, *, -iscono, * // to prevent
+		svanire##: -isco, -isci, -isce, *, *, -iscono, * // to vanish
+		interagire##: -isco, -isci, -isce, *, *, -iscono, * // to interact
+		preferire##: -isco, -isci, -isce, *, *, -iscono, * // to prefer
+		rapire##: -isco, -isci, -isce, *, *, -iscono, * // to abduct, to kidnap
+		colpire##: -isco, -isci, -isce, *, *, -iscono, * // to hit, to affect, to strike, to impress; la cosa che mi ha colpito di più; the thing that struck me the most
+		costruire##: -isco, -isci, -isce, *, *, -iscono, * // to build, to construct
+		tossire##: -isco, -isci, -isce, *, *, -iscono, * // to cough
+		riferire##: -isco, -isci, -isce, *, *, -iscono, * // to refer, to report
+		sbalordire##: -isco, -isci, -isce, *, *, -iscono, * // to amaze
+		annuire##: -isco, -isci, -isce, *, *, -iscono, * // to nod
+		unire##: -isco, -isci, -isce, *, *, -iscono, * // to unite
+		suggerire##: -isco, -isci, -isce, *, *, -iscono, * // to suggest
+
+		-- IRE -io, -iono ---------------------------------------------------------------------
+		riempire##: -io, *, *, *, *, -iono, * // to fill
+		
+		-- IRE /io, /iono ---------------------------------------------------------------------
+		apparire: /io, *, *, *, *, /iono, apparso // to appear
+		scomparire##: /io, *, *, *, *, /iono, scomparso // to disappear
+
+		-- IRE other ---------------------------------------------------------------------
+		morire: muoio, muori, muore, *, *, muiono, é morto // to die
+		salire#ff#: -go, *, *, *, *, -gono, * // to climb, to get on (a train)
+		avvenire##: -go, avvieni, avviene, *, *, -gono, * // to take place, to happen
+
+
+
+		=== REFLEXIVE (mnemonic: mirror) =============================
+		- ARE
+		assicurarsi: // to make sure; ci assicureremo che tutto sia pronto ; we will make sure everything is ready (futuro semplice) ; assicurati di chiudere la porta ; (informal) make sure you close the door (imperativo) ; lei si stava assicurando di avere tempo ; she was making sure she had time (imperfetto) ; mi sono assicurato che fosse chiuso ; I made sure it was locked (passato prossimo) ; ci saremmo assicurati della sua presenza ; we would have made sure of his presence (condizionale presente) ; loro si assicurarono che fosse vero ; they made sure it was true (passato remoto) ; lei si sta assicurando del numero corretto ; she is making sure of the correct number (gerundio presente) ; voi vi assicurate che funzioni tutto ; you all make sure everything works (presente)
+		concentrarsi: // to concentrate; è meglio concentrarsi sui verbi più comuni; it's better to focus on the most common verbs
+		adattarsi: // to adapt oneself; il software si adatta automaticamente alle diverse risoluzioni dello schermo; the software automatically adapts to different screen resolutions
+		alzarsi: // to get up; mi alzo presto ogni giorno;I get up early every day; mi sono alzato tardi ieri;I got up late yesterday; mi alzerei volentieri più tardi;I would gladly get up later
+		lavarsi: // to wash yourself
+		prepararsi: // to get ready
+		ribellarsi: // to revolt
+		aspettarsi: // to expect
+		
+		- ERE (less common than -are and -ire reflexive verbs)
+		mettersi: // to put on clothes
+		muoversi: // to move oneself
+		
+		- IRE
+		unirsi // to join; si unirono alla protesta senza esitazione ; they joined the protest without hesitation (remoto); mi unisco al gruppo domani mattina ; I’ll join the group tomorrow morning (presente) ; ti uniresti volentieri alla discussione ; you would gladly join the discussion (condizionale presente) ; Lei si unirà al consiglio la prossima settimana ; you (formal) will join the board next week (futuro semplice) ; si univa spesso a noi per cena ; she often joined us for dinner (imperfetto) ; ci siamo uniti alla folla in piazza ; we joined the crowd in the square (prossimo) ; unendosi al coro, lui migliorava il tono ; joining the choir, he improved his tone (gerundio presente) ; unitevi a noi per il brindisi ; join us for the toast (imperativo)
+		vestirsi // to get dressed
+		divertirsi // to have fun
+		sentirsi // to feel emotionally; mi sento stanco oggi; I feel tired today
+		
+		
+
+
+	</pre>
+	<h2>=== NOUNS ========</h2>
+	<pre>
+		il caso, i casi
+		il prodotto, i prodotti
+		il vino, i vini
+		il treno, i treni
+		il museo, i musei
+		il verbo, i verbi
+
+		l'argumento, gli argumenti
+		l'oggetto, gli oggetti
+
+		lo studente, gli studenti
+		lo snodo, gli snodi (joint, junction)
+		lo zaino, gli zaini
+		lo gnocco, gli gnocchi (dumpling)
+		lo psicologo, gli psicologi
+		lo xenofobo, gli xenofobi [kay-NOH-foh-boh]
+
+		-------------
+		-- a-e
+		la permanenza, le permanenze
+		la cosa, le cose
+		la spiaggia, le spiagge
+		la birra, le birre
+		la vacanza, le vacanze
+
+		-- a-ghe
+		la riga, le righe
+
+		-- same
+		la spedizione, le spedizione
+
+		-- e-i
+		la frase, le frasi
+
+		--
+		la speaker, le speaker
+		la città, le città
+
+		----
+		l'operazione, le operazioni
+
+
+	</pre>
+	<h2>=== STARTERS ======</h2>
+	<pre>
+		In effect... ------------------ In effetti...
+		So once again... ------------------ Quindi ancora una volta...
+		Anyway... ------------------ E comunque...
+		Essentially... ------------------ In sostanza...
+		Alright... ------------------ D'accordo...
+		Besides that... ------------------ Oltre a ciò... [chah]
+		After that... ------------------ Dopodichè... [keh]
+		Here we are... ------------------ Eccoci qui...
+		There you have it... ------------------ Ecco fatto...
+		And in fact... ------------------ E di fatto...
+		Furthermore... ------------------ Inoltre...
+		And as I said... ------------------ E come ho detto...
+		So to speak... ------------------ ...per così dire...
+		First of all... ------------------ Innanzitutto...
+		Now... ----------------------------------- Adesso...
+		Before... ----------------------------------- Prima...
+		After... ----------------------------------- Dopo...
+		Therefore... ------------------------ Quindi...
+		So, Then... ----------------------------------- Allora...
+		Finally... ----------------------------------- Infine...
+		Besides... ----------------------------------- Inoltre...
+		However... ----------------------------------- Tuttavia...
+		However... ----------------------------------- Però...
+		Anyway... ----------------------------------- Comunque...
+		Therefore... ------------------------------- Dunque...
+		Since... ----------------------------------- Poiché...
+		Yet... ----------------------------------- Eppure...
+		Nevertheless... ------------------------- Ciononostante...
+		Despite... ----------------------------------- Nonostante...
+		While... ----------------------------------- Mentre...
+		Then... ------------------------ Quindi...
+		Honestly... ------------------------- Onestament...
+		With all that said... ------------------------- Detto questo...
+		To begin... ------------------------- Per iniziare...
+		A little tip... ------------------------- Piccolo consiglio...
+		Quindi, visto que siamo noi... --------------------------- So, because it's us...
+		The bad news is... ------------------------- La cattiva notizia è...
+		The good news is... ------------------------- La buona notizia è...
+		As long as you have this message... ------------------------- Finchè hai questo messaggio...
+		Feel free to... ------------------------- Sentiti libero di...
+		If you think about it... -------------------------- Se ci pensi....
+		Sometimes... ------------------------- A volte...
+		Another thing... ------------------------- Altra cosa...
+		Well it depends... ------------------------- Ma dipende...
+		I remember when... ------------------------- Io mi recordo quando...
+
+
+
+	</pre>
+	<h2>=== PRONUNCIATION ========</h2>
+	<pre>
+
+		riescono ------------------------- [ree-ESS-koh-noh]
+
+
+	</pre>
+	<h2>=== OPPOSITES ========</h2>
+	<pre>
+
+		slow and fast ----------------------- lenti e veloci
+		large and small ----------------------- grande e piccolo
+		old and new ----------------------- vecchio e nuovo
+		hot and cold ----------------------- caldo e freddo
+		long and short ----------------------- lungo e corto
+		light and heavy ----------------------- leggero e pesante
+		easy and difficult ----------------------- facile e difficile
+		true and false ----------------------- vero e falso
+		quick and slow ----------------------- rapido e lento
+		simple and complex ----------------------- semplice e complesso
+		good and bad ----------------------- buono e cattivo
+		happy and unhappy ----------------------- felice e infelice
+		rich and poor ----------------------- ricco e povero
+		full and empty ----------------------- pieno e vuoto
+		healthy and sick ----------------------- sano e malato
+		young and old ----------------------- giovane e anziano
+		alive and dead ----------------------- vivo e morto
+		secure and insecure ----------------------- sicuro e insicuro
+		organized and disorganized ----------------------- ordinato e disordinato
+		clean and dirty ----------------------- pulito e sporco
+		relaxed and stressed ----------------------- rilassato e stressato
+		sincere and insincere ----------------------- sincero e insincero
+		friend and enemy ----------------------- amico e nemico
+		rare and common ----------------------- raro e comune
+		strong and weak ----------------------- forte e debole
+		complete and incomplete ----------------------- completo e incompleto
+		precise and imprecise ----------------------- preciso e impreciso
+		concrete and abstract ----------------------- concreto e astratto
+		open and closed ----------------------- aperto e chiuso
+		wet and dry ----------------------- bagnato e asciutto
+		loud and quiet ----------------------- rumoroso e silenzioso
+		high and low ----------------------- alto e basso
+		wide and narrow ----------------------- largo e stretto
+		hard and soft ----------------------- duro e morbido
+		thick and thin ----------------------- spesso e sottile
+		deep and shallow ----------------------- profondo e superficiale
+		bright and dark ----------------------- luminoso e buio
+		early and late ----------------------- presto e tardi
+		near and far ----------------------- vicino e lontano
+		beginning and end ----------------------- inizio e fine
+		first and last ----------------------- primo e ultimo
+		front and back ----------------------- davanti e dietro
+		right and wrong ----------------------- giusto e sbagliato
+		expensive and cheap ----------------------- costoso e economico
+		brave and cowardly ----------------------- coraggioso e codardo
+		smooth and rough ----------------------- liscio e ruvido
+		sweet and sour ----------------------- dolce e acido
+		straight and curved ----------------------- dritto e curvo
+		generous and stingy ----------------------- generoso e avaro
+		optimistic and pessimistic ----------------------- ottimista e pessimista
+		awake and asleep ----------------------- sveglio e addormentato
+		wise and foolish ----------------------- saggio e sciocco
+		calm and agitated ----------------------- calmo e agitato
+		polite and rude ----------------------- educato e maleducato
+		interesting and boring ----------------------- interessante e noioso
+		necessary and unnecessary ----------------------- necessario e superfluo
+		possible and impossible ----------------------- possibile e impossibile
+		temporary and permanent ----------------------- temporaneo e permanente
+
+	</pre>
+	<h2>=== USEFUL WORDS ========</h2>
+	<pre>
+		usually --------------- di solito
+		last --------------- scorso - (l'anno scorso)
+		except for -------------- tranne
+		really -------------------------------------- veramente
+		just now -------------------------------------- proprio ora
+		almost -------------------------------------- quasi
+		completely -------------------------------------- completamente
+		totally -------------------------------------- totalmente
+		absolutely -------------------------------------- assolutamente
+		certainly -------------------------------------- certamente
+		definitely -------------------------------------- sicuramente
+		obviously -------------------------------------- ovviamente
+		clearly -------------------------------------- chiaramente
+		evidently -------------------------------------- evidentemente
+		apparently -------------------------------------- apparentemente
+		naturally -------------------------------------- naturalmente
+		undoubtedly -------------------------------------- indubbiamente
+		with maybe your hands -------------------------------------- con magari le mani
+
+
+
+
+	</pre>
+	<h2>=== POSITIVE WORDS =======</h2>
+	<pre>
+		ottimo
+		bello
+		va bene
+		fantastico
+		bene
+		figo - cool
+		geniale
+		splendido
+		buono
+		magnifico
+		meraviglioso - [ozo]
+		Cha fa! --------------------- it is what it is
+
+
+
+	</pre>
+	<h2>=== PUNCTUATION =======</h2>
+	<pre>
+		" " double quotation marks -------------------- virgolette doppie
+		' ' single quotation marks -------------------- virgolette singole
+		« » guillemets -------------------- caporali
+		. period / full stop -------------------- punto
+		, comma -------------------- virgola
+		; semicolon -------------------- punto e virgola
+		: colon -------------------- due punti
+		... ellipsis -------------------- puntini di sospensione
+		! exclamation mark -------------------- punto esclamativo
+		? question mark -------------------- punto interrogativo
+		- hyphen -------------------- trattino
+		/ slash -------------------- barra
+		\ backslash -------------------- barra inversa
+		| vertical bar / pipe -------------------- barra verticale
+		@ at symbol -------------------- chiocciola
+		hash / pound sign -------------------- cancelletto
+		& ampersand -------------------- e commerciale / ampersand
+		% percent sign -------------------- percento
+		€ euro sign -------------------- simbolo dell’euro
+		$ dollar sign -------------------- dollaro
+		^ caret -------------------- accento circonflesso
+		~ tilde -------------------- tilde
+		` backtick -------------------- accento grave
+		' apostrophe -------------------- apostrofo
+		è ------------------------- e accento grave
+		é ------------------------- e accento acuto
+		( ) round brackets / parentheses -------------------- parentesi tonde
+		[ ] square brackets -------------------- parentesi quadre
+		{ } curly brackets / braces -------------------- parentesi graffe
+		<> angle brackets -------------------- parentesi angolari
+
+	</pre>
+	<h2>=== REGIONS =======</h2>
+	<pre>
+		1. Valle d'Aosta - Aosta - Alps, breathtaking mountain landscapes
+		2. Piemonte - Torino - mountains and lakes, gastronomic experiences
+		3. Lombardia - Milano - most populous region, hub for finance and industry, vibrant capital, "for have services
+		and events Milano"
+		4. Trentino-Alto Adige - Trento - autonomous region, stunning Alpine landscapes, blend of Italian and German
+		cultures, "for mountains and lakes: Alto Adige"
+		5. Veneto - Venezia - famous for Venice, picturesque countryside, rich history
+		6. Friuli-Venezia Giulia - Trieste - culturally diverse: Italian, Slovenian, Austrian
+		7. Liguria - Genova - Italian Riviera, stunning coastal scenery, mild climate, historic cities like Genova
+		8. Emilia-Romagna - Bologna - culinary delights, rich history, fertile plains, vibrant cities like Bologna
+		9. Toscana - Firenze - rolling hills, vineyards, artistic heritage; "for wine Toscana, they say two swear words
+		every 3 words but they do it in an elegant way"
+		10. Umbria - Perugia - the green heart of Italy, picturesque region, medieval towns, natural landscapes
+		11. Marche - Ancona - Adriatic coastline, Apennine mountains, mix of beach resorts and scenic hill towns
+		12. Lazio - Roma - home of capital, steeped in history and culture; "best for history, in Rome they always speak
+		very aggressively, but they are not aggressive it is just their way of doing things"
+		13. Abruzzo - L'Aquila - national parks, mountains, traditional cuisine
+		14. Molise - Campobasso - small regions, unspoiled natural beauty, rich cultural heritage
+		15. Campania - Napoli - stunning coastline, Amalfi Coast, historic sites like Pompeii, tourist destination
+		16. Puglia - Bari - beautiful beaches, olive groves, unique trulli houses, charming
+		17. Basilicata - Potenza - often overlooked, tranquil landscape of mountains and coastlines, rich history and
+		culture
+		18. Calabria - Catanzaro - the toe of Italy, rugged beauty, mountains, beaches, strong cultural identity
+		19. Sicilia - Palermo - rich history, stunning landscapes, vibrant cultural scene
+		20. Sardegna - Cagliari - pristine beaches, ancient ruins, unique cultural heritage, breathtaking natural
+		beauty, "for beaches Sardinia"
+
+
+	</pre>
+	<h2>=== ITALIANS =======</h2>
+	<pre>
+
+		Botticelli
+		St. Francis
+		Machiavelli
+		Michelangelo
+		Galileo
+		Mussolini
+
+
+
+	</pre>
+	<h2>=== IMPERFETTO =======</h2>
+	<pre>
+
+		>>> a-e-i
+		>>> vo-vi-va-vamo-vate-vano
+		>>> o-i-a-a-a-a
+		-avo -evo -ivo | ero facevo dicevo
+		-avi -evi -ivi | eri facevi dicevi
+		-ava -eva -iva | era faceva diceva
+		-avamo -evamo -ivamo | eravamo facevamo dicevamo
+		-avate -evate -ivate | eravate facevate dicevate
+		-avano -evano -ivano | erano facevano dicevano
+
+
+	</pre>
+	<h2>=== CI/NE =======</h2>
+	<pre>
+
+		non ci riuscivi (you weren't able to do it)
+		ci riesco (I'm able to do it)
+		Maria ci va sempre a piedi
+		sì, ci vado
+		quindi ci mette tanto tempo per arrivare
+
+		cosa ne pensate voi ascoltatori
+		ne parleremo più in là
+		ce n'è tantissimo = there's a lot of it
+
+	</pre>
+	<h2>=== COMPREHENSIBLE OUTPUT =======</h2>
+	<pre>
+
+		MEET-ALESSANDRO: Ciao, tu devi essere Alessandro. / Sì, com'è stato il volo? Sei partito da Berlino? / Sì, io ho
+		volato da Berlino a Linate, ma Hannah ha volato da Amburgo a Malpensa. Oh, scusami, ho dimenticato le
+		presentazioni. Questa è mia figlia Hannah. Lei parla inglese. / Piacere di conoscerti. / E io voglio parlare il
+		più possibile in italiano mentre sono a Milano. Penso che tutti noi conosciamo abbastanza lingue per communicare
+		bene. / Il tuo italiano è molto buono. / Grazie per il complimento, sto imparando l'italiano da gennaio.
+		[jen-NIGH-yoh] Faccio molti errori grammaticali, ma spero che tu riesca comunque a capirmi. Domenica incontrerò
+		un mio amico italiano e vorrei sorprenderlo parlandogli in italiano. / Oh, spero che tu abbia successo. /
+		Grazie, è molto gentile da parte tua. / Parli italiano solo da pochi mesi? / Sì, ma ho anche imparato l'italiano
+		per un anno quando ho corso la maratona di Roma nel 2014. / Quante maratone hai corso? / La maratona di domenica
+		sarà la mia 35esima.
+
+		MEET-GIACOMO: Ciao Giacomo, è bello vederti qui a Milano. Com'è andato il viaggio? Quando sei arrivato? / Sono
+		arrivato qui venerdì sera. Sono ospite di un mio amico. / Sei arrivato in treno? / Sì, è stato un lungo viaggio
+		in treno. / Eri alla festa di anniversario dei tuoi genitori, giusto? / Sì, sono andato a trovare i miei
+		genitori e ho regalato loro un mazzo di fiori. Purtroppo ho potuto trascorrere con loro solo due giorni. / Dove
+		vivono di nuovo? / Vivono in un piccolo paese della Sardegna.
+
+		ASK-LANGUAGE-PROGRAMMA: Ho una domanda sulla lingua italiana. È vero che si dice "il programma, il problema"
+		anche se queste parole finiscono con "a"? / Sì, l'italiano è una lingua imprevedibile. / E quali sono di nuovo i
+		giorni della settimana? / È facile, sono: lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica /
+		Scusa, la CPU del mio cervello è al 100%. Mi sembra di imparare cento parole italiane al giorno. / Come fai ad
+		imparare così velocemente? / Ho solo un segreto. Per imparare una lingua, tu devi avere due cose: tempo e una
+		buona memoria.
+
+		FORGOT-MILK: Abbiamo effettivamente un problema. Dimentichiamo di prendere il latte. Per questo motivo, presto
+		finiremo il latte, quindi dobbiamo andare al negozio. / Dov'è il supermercato più vicino nel quartiere qui? /
+		Scendi per questa strada e giri a destra, no, intendo a sinistra. Lì c'è una pizzeria. Potreste prendere una
+		fetta di pizza./ Grazie per il consiglio, ma ho una leggera preferenza per la pasta prima di una maratona. /
+		Sono assolutamente certo che abbiano anche la pasta.
+
+		ASK-MONTHS: Potresti recitare i mesi dell'anno, per favore? / Certo, ce ne sono dodici, ovviamente, e sono:
+		gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre, dicembre
+
+		RESTAURANT: Vorrei ordinare in italiano perché ho bisogno di esercitarmi.
+
+		TALK-OF-WORK: nnn
+
+		a couple of examples
+		un paio di esempi [PIGH-yo]
+
+		their efforts
+		i loro sforzi
+
+		Non ha nessun impegno
+		He has no commitments
+
+		Maria is very busy
+		Maria è molto impegnata
+
+		Anna usually doesn't work
+		solitamente Anna non lavora
+
+		Anna usually gets up at around 8am
+		Di solito Anna si alza alle 8 circa
+
+		Around 10 o'clock
+		Intorno alle 10
+
+		Afterwards he goes shopping at the supermarket
+		In seguito fa la spesa al supermercato.
+
+		including vegetables and meat
+		tra cui verdure e carne
+
+		They often go shopping together
+		Spesso vanno insieme a fare acquisti
+
+		to go for a walk.
+		a fare una passeggiata
+
+		in a hurry
+		di fretta
+
+		we want to buy some food for tomorrow
+		vogliamo comprare del cibo per domani
+
+		a term that has been used a lot in recent times
+		un termine molto usato negli ultimi tempi
+
+		Given the great demand for these products
+		Vista la grande domanda di questi prodotti
+
+		As for the young people
+		Per quanto riguarda i giovani
+
+		take a nap
+		fare un riposino
+
+		what's the weather like today
+		che tempo fa oggi
+
+		which among other things
+		che tra l'áltro
+
+		it seems strange to me
+		mi fa strano
+
+		however, practice is much more complex than theory
+		tuttavia la pratica è ben più complessa della teoria
+
+		I just have a couple more.
+		Ne ho solo un altro paio
+
+		Nel salotto c’è un bel divano rosso
+		In the living room there is a beautiful red sofa
+
+		è lucido e pulito
+		it's shiny and clean
+
+		non c’è nemmeno il frigorifero
+		there isn't even a refrigerator
+
+		We don't have a car. We don't even have a television.
+		Non abbiamo una macchina. Non abbiamo nemmeno una televisione.
+
+
+	</pre>
+	<h2>=== PRACTICE =======</h2>
+	<pre>
+		SOME IRREGULAR PRESENT
+		essere: sono, sai, è, siamo, siete, sono
+		avere: ho, hai, ha, abbiamo, avete, hanno
+		dire: dico, dici, dice, diciamo, dite, dicono
+		fare: faccio, fai, fa, facciamo, fate, fanno
+		bere: bevo, bevi, beve, beviamo, bevete, bevono
+		andare: vado, vai, va, andiamo, andate, vanno
+		venire: vengo, vieni, viene, veniamo, venite, vengono
+
+		IMPERFETTO ALL
+		-ARE: -avo, -avi, -ava, -avamo, avate, -avano
+		-ERE: -evo, -evi, -eva, -evamo, -evate, -evano
+		-IRE: -ivo, -ivi, -iva, -ivamo, ivate, -ivano
+
+	</pre>
+
+</body>
+
+</html>
