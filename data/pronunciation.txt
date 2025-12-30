@@ -34,8 +34,8 @@ nl; g's in back of throat
 it; schermo; SKAIR-moh; screen
 it; ciò; choh; that is
 it; righe; REE-gah; lines
-il; tu spieghi; too spYEGG-ee
-it; azienda; ad-zee-EN-dah
+it; tu spieghi; too spYEGG-ee
+it; azienda; ad-zee-EN-dah; agency
 es; pantalla; pahn-TIGH-yah; screen
 fr; il hoche la tête; ohsh; he nods his head
 fr; elle s'essuie les yeux; sess-SWEE
@@ -206,7 +206,7 @@ fr; processus ; -süs; process
 fr; un nouveau sens; S(EN)S; a new meaning
 fr; un voyage technique et humain; hoo-M(AIN); a techical and human journey
 fr; et bien plus encore; ploos; and much more
-il; cioè con quale nome; choh-AY; that is, with what name
+it; cioè con quale nome; choh-AY; that is, with what name
 es; -g; guión, [ch]ee-ONG-[ch]ay; hyphen g
 es; pantalla; pahn-TIGH-ya; screen
 es; gema escondida; [ch]AY-mah; hidden gem
@@ -411,7 +411,7 @@ nl; technische uitdaging; TEK-nees-ah; techical challenge
 nl; De tabel waarin; tah-BELL; the table where
 
 nl; vijf talen tegelijk leer; te*-ehl-LIGHK; learn five languages at once
-il; quando leggo la documentazione; LEG-oh; when I read the documentation
+it; quando leggo la documentazione; LEG-oh; when I read the documentation
 
 es; justo; HOOS-toh; just
 es; jugué; hoo-GAY; I played
@@ -521,8 +521,11 @@ nl; humeur; hoo-MUUR; humor
 nl; details; day-TICE; details
 
 nl; Een lawaaierige week; la-VAH-ee-air-ih-*eh; a noisy week
-il; Ojalá llueva mañana; you-AY-vah; I hope it rains tomorrow
+it; Ojalá llueva mañana; you-AY-vah; I hope it rains tomorrow
 nl; Dan aarzel je; AHR-zel; then you hesitate
 
 nl; dat ik ze moet onthouden; ont-HOW-dah; that I have to remember them
 nl; dat is fantastisch; fan-TASS-tees; that's fantastic
+
+it; scrittura scientifica o tecnica; SHEN-tee-fee-kah;scientific or technical writing 
+it; in quei contesti; QUAY; in those contexts
