@@ -1,4 +1,3 @@
-- typed in chore branch333
 LETTER PRONUNCIATION
 	A = ah
 	B = bee ***
@@ -45,47 +44,68 @@ si è rivolto a lei; he has addressed her | gli studenti si sono ribellati alle 
 
 CONJUGATION OVERVIEW
 ================================================================
--ARE
-	PRES: -o, -i, -a, -iamo, -ate, -ano
-	IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
-	PAPR: ho/sono -ato
-	FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	PARE: -ai, -asti, -ò, -ammo, -aste, -arono		
-	
-- ERE
-	PRES: -o, -i, -e, -iamo, -ete, -ono
-	IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
-	PAPR: ho/sono -uto
-	FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	PARE: -ei, -esti, -é, -emmo, -este, -erono (etti, -, ette, -, -, ettero)
-
-- IRE
-	PRES: -o, -i, -e, -iamo, -ite, -ono
-	IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
-	PAPR: ho/sono -ito
-	FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
-	COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
-	PARE: -ii, -isti, -ì, -immo, -iste, -irono
+- KEY
+	- tense
+		- PRES: present / presente
+		- IMPE: imperfect / imperfetto
+		- PRPE: present perfect / passato prossimo
+		- PARE: remote past / passato remoto
+		- FUTU: future / future semplice
+		- COND: conditional / condizionale presente
+		- PRSU: present subjunctive / congiuntivo presente
+		- IMSU: imperfect subjunctive / congiuntivo imperfetto
+		- IPER: imperative / imperativo presente (*, tu, Lei, noi, voi, Loro)
+		- GERU: gerund / gerundio
+	- person
+		- 1: io
+		- 2: tu
+		- 3: lei, lui, Lei
+		- 4: noi
+		- 5: voi
+		- 6: loro, Loro
+- ARE (parlare)
+	- PRES: -o, -i, -a, -iamo, -ate, -ano
+	- IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+	- PRPE: ho/sono -ato
+	- PARE: -ai, -asti, -ò, -ammo, -aste, -arono	
+	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+	- PRSU: -i, -i, -i, -iamo, -iate, -ino
+	- IMSU: -assi, -assi, -asse, -assimo, -aste, -assero
+	- IPER: *, -a, -i, -iamo, -ate, -ino
+	- GERU: -ando	
+- ERE (credere)
+	- PRES: -o, -i, -e, -iamo, -ete, -ono
+	- IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+	- PRPE: ho/sono -uto
+	- PARE: etti, -esti, ette, -emmo, -este, ettero (-ei, *, -é, *, *, -erono)
+	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+	- PRSU: -a, -a, -a, -iamo, -iate, -ano
+	- IMSU: -essi, -essi, -esse, -essimo, -este, -essero
+	- IPER: *, -i, -a, -iamo, -ete, -ano
+	- GERU: -endo
+- IRE (dormire)
+	- PRES: -o, -i, -e, -iamo, -ite, -ono
+	- IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+	- PRPE: ho/sono -ito
+	- PARE: -ii, -isti, -ì, -immo, -iste, -irono
+	- FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+	- COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
+	- PRSU: -a, -a, -a, -iamo, -iate, -ano
+	- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
+	- IPER: *, -i, -a, -iamo, -ite, -ano
+	- GERU: -endo
 ================================================================		
 
 	</pre>
 	<h3>=== -ARE ===========</h3>
 	<pre>
-
-		PRES: -o, -i, -a, -iamo, -ate, -ano
-		IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
-		PAPR: ho/sono -ato
-		FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-		COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-		PARE: -ai, -asti, -ò, -ammo, -aste, -arono
-
 		--- ARE special (mnemonic: AREA 51)----------------------------------------------------------------------------
-		stare: *, stai, *, *, *, stanno, * // to stay ; sto ancora aspettando il treno ; I am still waiting for the train (gerundio presente) ; stavi male ieri ; you were unwell yesterday (imperfetto) ; stettero zitti per ore ; they stayed silent for hours (passato remoto) ; starà qui domani ; he will be here tomorrow (futuro semplice) ; siamo stati fortunati ; we were lucky (passato prossimo) ; staresti meglio a casa ; you would be better at home (condizionale presente) ; stai attento! ; be careful! (imperativo) ; lei sta con noi ; she is with us (presente)
-		fare: faccio, fai, *, facciamo, *, fanno, ho fatto // to do, to make; facemmo tutto con calma ; we did everything calmly (passato remoto) ; sto facendo una torta al limone ; I am making a lemon cake (gerundio presente); faremo il possibile per aiutarti ; we will do our best to help you (futuro semplice); lei fa yoga ogni mattina ; she does yoga every morning (presente) ; avete fatto bene a parlare ; you all did well to speak (passato prossimo) ; se facesse freddo, resterei a casa ; if it were cold, I would stay home (condizionale presente) ; facevi sempre rumore in classe ; you always made noise in class (imperfetto) ; fai attenzione alla strada ; be careful with the road (imperativo)
-		andare: vado, vai, va, *, *, vanno, * // to go; andammo al mare insieme ; we went to the sea together (passato remoto) ; sto andando a casa ora ; I am going home now (gerundio presente); lei andrebbe volentieri con te ; she would gladly go with you (condizionale presente) ; andavi spesso in biblioteca ; you often went to the library (imperfetto) ; voi andrete domani a Roma ; you all will go to Rome tomorrow ; vada subito dal medico ; (Lei) go to the doctor immediately ; sono andato via tardi ; I left late (passato prossimo) ; lui va a scuola ogni giorno ; he goes to school every day
-		dare: *, dai, dà, *, *, danno, ho dato // to give; diedi il libro a Maria ; I gave the book to Maria (passato remoto) ; dando il massimo, otteniamo risultati ; by giving our best, we get results (gerundio presente) ; noi daremo una mano domani ; we will give a hand tomorrow (futuro semplice) ; davo spesso consigli ai miei amici ; I often gave advice to my friends (imperfetto) ; tu daresti tutto per lei ; you would give everything for her (condizionale presente) ; date subito il documento! ; (you guys) give the document immediately! (imperativo) ; lei ha dato una risposta gentile ; she gave a kind reply (passato prossimo) ; Lei dà sempre buoni esempi ; you (formal) always give good examples (presente)
+		stare: (*, stai, *)(*, *, stanno) * // to stay
+		fare: faccio, fai, *, facciamo, *, fanno, ho fatto // to do, to make
+		andare: vado, vai, va, *, *, vanno, * // to go
+		dare: *, dai, dà, *, *, danno, ho dato // to give
 
 		--- ARE regular (mnemonic: Nevada trailer)-----------------------------------------------------------------------
 		parlare // to speak; parla con il professore ; He talks with the professor (presente) ; parlerai con i tuoi amici ; You will talk with your friends (futuro semplice) ; abbiamo parlato di molti argomenti ; We talked about many topics (passato prossimo) ; parlavate sempre al telefono ; you guys used to talk on the phone all the time (imperfetto) ; parlerebbero con piacere ; They would gladly talk (condizionale presente) ; Lei parlò con grande saggezza ; You (formal) spoke with great wisdom (passato remoto) ; stai parlando troppo velocemente ; You're talking too fast (gerundio presente) ; parla con chiarezza! ; Speak clearly! (imperativo)
@@ -93,7 +113,7 @@ CONJUGATION OVERVIEW
 		chiamare // to call
 		pensare // to think
 		creare // to create
-		mostrare# // to show; mostravo il libro a Marco;I was showing the book to Marco; ha mostrato interesse per il progetto;she showed interest in the project; mostreremo le foto domani;we will show the photos tomorrow
+		mostrare# // to show
 		aspettare // to wait, to expect
 		guardare# // to look, to watch; guarda cosa c'è sulla schermata; look what's on the screen
 		incollare# // to paste
@@ -101,10 +121,13 @@ CONJUGATION OVERVIEW
 		controllare## // to check, to inspect
 		assicurare // to ensure, to assure, to make sure; ti assicuro che farò del mio meglio per risolvere il problema;I assure you that I will do my best to solve the problem
 		passare // to pass
-		girare## // to turn, to spin; gira a destra al semaforo;turn right at the traffic light; girava sempre intorno alla verità senza mai dirla;he always circled around the truth without saying it; girò il mondo in cerca di fortuna;he traveled the world in search of fortune; girerò il video appena arrivo a casa;i’ll shoot the video as soon as I get home; ha girato il film in soli due mesi;he shot the film in just two months; girerei volentieri con te per la città;i would gladly walk around the city with you; gira subito quel foglio!;turn that sheet over right now!
-		saltare## // to skip, to jump; per ora salteremo questo; we'll skip this for now
+		girare## // to turn, to spin
+		saltare## // to skip, to jump
 		sperare## // to hope
-		impostare#ff#4.9# // to set, to set up; imposto la password del database; set the database password
+		impostare#ff#4.9# // to set, to set up	
+			- ff
+			- rank::4.9
+			- imposto la password del database; set the database password
 		reimpostare## // to reset
 		ricordare // to remember
 		portare# // to bring
