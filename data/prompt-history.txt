@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-01 07:58:35
+Prompt in Italian to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Voglio cercare le parole in questo modo, per cinque mesi.", "Forse potremo rivederci in Italia", "panoramica", "la funzione di panoramica audio", "Tratterò questi argomenti", "aspetterò", "Penso che aspetterà", "Penso che lei aspetti", "lei aspetta", "eccellere", "una massa critica", "L'italiano è in realtà abbastanza facile da pronunciare", "ma se hai bisogno di più capacità", "avanti", "Mercoledì", "adesso", "Mi piace questa idea", "e ora la seconda frase", "Non conosco il significato esatto della parola", "Trovo che la parola sia strana in questo contesto.", "Non conosco la coniugazione della parola", "ora, per una questione di tempo, voglio solo leggere il resto del testo", "questo incarico difficile", "bozze", "fare riassunti".
+======================================================================================
 2025-12-31 10:14:39
 Prompt in Italian to create a story with 25 phrases and 275 words...
 ======================================================================================

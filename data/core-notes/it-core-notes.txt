@@ -125,9 +125,6 @@ CONJUGATION OVERVIEW
 		saltare## // to skip, to jump
 		sperare## // to hope
 		impostare#ff#4.9# // to set, to set up	
-			- ff
-			- rank::4.9
-			- imposto la password del database; set the database password
 		reimpostare## // to reset
 		ricordare // to remember
 		portare# // to bring
@@ -231,7 +228,7 @@ CONJUGATION OVERVIEW
 		contrassegnare## // to mark, to flag
 		riportare## // to restore, to bring back
 		svelare## // to reveal, to unveil
-		aggiustare## // to fix, to adjust, to repair
+		aggiustare# // to fix, to adjust, to repair
 		sistemare## // to fix, to settle, to arrange
 		riparare## // to repair, to fix, to mend
 		sussurrare## // to whisper, to breathe
@@ -240,12 +237,25 @@ CONJUGATION OVERVIEW
 		allenare## // to train, to coach
 		rallentare## // to delay, to slow down
 		bastare## // to be enough, to suffice
+		confrontare##,ff // to compare, to confront
+		esplorare // to explore
 		
 		
 
 
 
-		-- ARE /i (mnemonic: Nevada dump canyon) ---------------------------------------------------------------------------------------------------
+		-- ARE -iare (mnemonic: Nevada dump canyon) ---------------------------------------------------------------------------------------------------
+		- tenses
+			- PRES: *, /i, *, /iamo, *, *, * 
+			- IMPE: *
+			- PRPE: *
+			- REPA: *
+			- FUTU: /i
+			- COND: /i
+			- PRSU: /i
+			- IMSU: *
+			- IPER: x, *, /i, /i, *, /*
+			- GERU: *
 		lasciare: *, /i, *, /iamo, *, *, * // to leave, to let
 		tralasciare##: *, /i, *, /iamo, *, *, * // to forget, to leave out
 		rilasciare##: *, /i, *, /iamo, *, *, * // to release/issue
@@ -272,15 +282,17 @@ CONJUGATION OVERVIEW
 		uguagliare##: *, /i, *, /iamo, *, *, * // to equal	
 		schiacciare##: *, /i, *, /iamo, *, *, * // to squash, to crush
 		
-		-- ARE ii (mnemonic: Nevada dump canyon in eyes emoji) ----------------------------------------------
+		-- ARE -iare-ii (mnemonic: Nevada dump canyon in eyes emoji) ----------------------------------------------
+		- tenses
+			- nnn
 		archiviare#: *, *, *, /iamo, *, *, * // to store
 		inviare#: *, *, *, /iamo, *, *, * // to send
-		avviare##: *, /i, *, /iamo, *, *, * // to start, to boot
-		riavviare##: *, /i, *, /iamo, *, *, * // to restart, to reboot	
+		avviare##: *, *, *, /iamo, *, *, * // to start, to boot
+		riavviare##: *, *, *, /iamo, *, *, * // to restart, to reboot	
 		
-		 
-		
-		-- ARE chi/ghi (mnemonic: Las Vegas casino) ---------------------------------------------------------------
+		-- ARE -care/-gare (mnemonic: Las Vegas casino) ---------------------------------------------------------------
+		- tenses
+			- nnn
 		cercare#: *, -hi, *, -hiamo, *, *, * // to search
 		applicare: *, -hi, *, -hiamo, *, *, *  // to apply
 		caricare##: *, -hi, *, -hiamo, *, *, * // to load, to upload
@@ -292,14 +304,13 @@ CONJUGATION OVERVIEW
 		pubblicare: *, -hi, *, -hiamo, *, *, * // to publish
 		modificare: *, -hi, *, -hiamo, *, *, * // to modify
 		specificare: *, -hi, *, -hiamo, *, *, * // to specify
-		collegare##: *, -hi, *, -hiamo, *, *, * // to connect, to link
-		mancare##: *, -hi, *, -hiamo, *, *, * // be missing, to lack
-		vagare##: *, -hi, *, -hiamo, *, *, * // to wander, to roam
 		pagare: *, -hi, *, -hiamo, *, *, * // to pay
+		mancare##: *, -hi, *, -hiamo, *, *, * // be missing, to lack
+		collegare##: *, -hi, *, -hiamo, *, *, * // to connect, to link
+		vagare##: *, -hi, *, -hiamo, *, *, * // to wander, to roam
 		spiegare##: *, -hi, *, -hiamo, *, *, * // to explain
-		sbrigare##: *, -hi, *, -hiamo, *, *, * // to hurry (si), to attend ; sbrighiamoci prima che chiuda il negozio ; let’s hurry before the store closes (imperativo) ; sto sbrigando alcune pratiche urgenti ; I am handling some urgent paperwork (gerundio presente) ; sbrigò tutto in un’ora ; he took care of everything in an hour (passato remoto) ; sbrigherò questa faccenda domani ; I will take care of this matter tomorrow (futuro semplice) ; ci siamo sbrigati troppo tardi ; we were too late (passato prossimo) ; sbrigava sempre tutto con calma ; she always handled everything calmly (imperfetto) ; vi sbrighereste se vi impegnaste ; you would hurry up if you made an effort (condizionale presente) ; sbriga questa faccenda subito! ; take care of this matter right now! (imperativo)
-
-
+		sbrigare##: *, -hi, *, -hiamo, *, *, * // to hurry (si), to attend 
+		
 	</pre>
 	<h3>=== -ERE =========</h3>
 	<pre>
@@ -330,7 +341,7 @@ CONJUGATION OVERVIEW
 		piovere## // to rain
 		premere## // to press, to push, to hit; e poi premerò il tasto; and then I'll press the button
 
-		-- ERE regular with i in pp (mnemonic: Morgans past apartment) -----------------------------------------------------------------
+		-- ERE regular with i in pp (mnemonic: Morgans former apartment) -----------------------------------------------------------------
 		conoscere##: *, *, *, *, *, *, ho conosciuto // to meet
 		crescere##: *, *, *, *, *, *, ho cresciuto // to grow, to raise
 
@@ -399,12 +410,13 @@ CONJUGATION OVERVIEW
 		smettere: *, *, *, *, *, *, ho smesso // to stop, to quit
 		spegnere: *, *, *, *, *, *, ho spento // to turn off, to shut down
 		riavvolgere: *, *, *, *, *, *, ho riavvolo // to rewind
+		eccellere##: *, *, *, *, *, *, ho eccelso // to excel
 		
 
 		-- ERE go (mnemonic: Dönerladen) ---------------------------------------------------------------------------------------------------
 		tenere#: -go, tieni, tiene, *, *, -gono, * // to take, to keep, to hold
-		ritenere##: -go, ritieni, ritiene, *, *, -gono, * // to believe, to consider; Ritengo che sia importante ascoltare tutte le opinioni prima di prendere una decisione.; I believe it is important to listen to all opinions before making a decision.
-		ottenere#: -go, ottieni, ottiene, *, *, -gono, * // to obtain; Ottengo buoni risultati quando mi impegno seriamente.; I get good results when I apply myself seriously.
+		ritenere##: -go, ritieni, ritiene, *, *, -gono, * // to believe, to consider
+		ottenere#: -go, ottieni, ottiene, *, *, -gono, * // to obtain, to get
 		mantenere: -go, mantieni, mantiene, *, *, -gono, * // to maintain
 		contenere: -go, contieni, contiene, *, *, -gono, * // to contain
 		sostenere#: -go, tieni, tiene, *, *, -gono, * // to support, to argue
@@ -540,7 +552,7 @@ CONJUGATION OVERVIEW
 		muoversi: // to move oneself
 		
 		- IRE
-		unirsi // to join; si unirono alla protesta senza esitazione ; they joined the protest without hesitation (remoto); mi unisco al gruppo domani mattina ; I’ll join the group tomorrow morning (presente) ; ti uniresti volentieri alla discussione ; you would gladly join the discussion (condizionale presente) ; Lei si unirà al consiglio la prossima settimana ; you (formal) will join the board next week (futuro semplice) ; si univa spesso a noi per cena ; she often joined us for dinner (imperfetto) ; ci siamo uniti alla folla in piazza ; we joined the crowd in the square (prossimo) ; unendosi al coro, lui migliorava il tono ; joining the choir, he improved his tone (gerundio presente) ; unitevi a noi per il brindisi ; join us for the toast (imperativo)
+		unirsi // to join;
 		vestirsi // to get dressed
 		divertirsi // to have fun
 		sentirsi // to feel emotionally; mi sento stanco oggi; I feel tired today
@@ -984,9 +996,6 @@ CONJUGATION OVERVIEW
 		Non abbiamo una macchina. Non abbiamo nemmeno una televisione.
 
 
-	</pre>
-	<h2>=== PRACTICE =======</h2>
-	<pre>
 		SOME IRREGULAR PRESENT
 		essere: sono, sai, è, siamo, siete, sono
 		avere: ho, hai, ha, abbiamo, avete, hanno
@@ -1001,8 +1010,15 @@ CONJUGATION OVERVIEW
 		-ERE: -evo, -evi, -eva, -evamo, -evate, -evano
 		-IRE: -ivo, -ivi, -iva, -ivamo, ivate, -ivano
 
-	</pre>
 
-</body>
+- nouns
+	- feminine (la --> una, le --> delle)
+		- woman student: la studentessa, le studentesse
+		- overview: la panoramica, le panoramiche
+		- run: la corsa, le corse
+	- masculine (l' --> un, lo --> uno, gli --> degli)
+		- note: l'appunto, gli apunti
+		- backpack: lo zaino, gli zaini
+		- student: lo studente, gli studenti
+		- example: l'esempio, gli esempi
 
-</html>
