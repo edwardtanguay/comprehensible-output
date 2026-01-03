@@ -239,6 +239,7 @@ CONJUGATION OVERVIEW
 		bastare## // to be enough, to suffice
 		confrontare##,ff // to compare, to confront
 		esplorare // to explore
+		volare // to fly; ho/solo
 		
 		
 
@@ -388,7 +389,7 @@ CONJUGATION OVERVIEW
 		sottintendere: *, *, *, *, *, *, ho sottinteso // to imply
 		intendere: *, *, *, *, *, *, ho inteso // to suggest
 		pedere: *, *, *, *, *, *, ho perso // to lose
-		correre: *, *, *, *, *, *, ho corso // to run
+		correre: *, *, *, *, *, *, ho corso // to run; ho/sono
 		scorrere: *, *, *, *, *, *, ho scorso // to scroll
 		trascorrere: *, *, *, *, *, *, ho trascorso // to spend, to enjoy
 		riflettere##: *, *, *, *, *, *, ho riflesso // to reflect

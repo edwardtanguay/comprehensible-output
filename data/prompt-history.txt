@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-03 12:09:15
+Prompt in Italian to create a story with 25 phrases and 275 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 275 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "dire", "interessante, unico per una lingua che un tempo verbale sia culturale", "Solo chi sa parlare molto bene l'italiano usa il passato remoto", "Comunque sei molto attento bravo", "I signori e le signore lo usano ancora", "ricominciamo", "volare", "forse arriverà tardi", "Voglio assicurarmi che abbiamo un quiz", "Giovedì", "Gennaio", "Devo pianificare strategicamente le mie corse", "Voglio partire tra un'ora", "Una domanda linguistica veloce: è vero che a Milano non si usa il passato remoto?", "la prima cosa che voglio fare", "Ora ho ancora meno tempo", "Penso di sì", "Non so se lavora oggi", "è una buona cosa", "è stata una bella cosa", "Voglio dire che è una buona cosa quando tutto cambia in una settimana", "Voglio che questi commenti siano molto più naturali.", "ma è un po' difficile", "ma è perché non so parlare molto italiano", "So che è molto difficile, ma è molto importante per la fluidità.".
+======================================================================================
 2026-01-01 07:58:35
 Prompt in Italian to create a story with 25 phrases and 275 words...
 ======================================================================================
