@@ -1,3 +1,65 @@
+- LearnAmo - Granziana Filomeno
+	- Se Capisci Questi 6 Italiani che Parlano, il Tuo Italiano è INCREDIBILE! - 6 clip audio da A1 a C2
+		- https://www.youtube.com/watch?v=73ByVrFd6G4
+		- length::29:01
+		- understood:: 1:53
+
+
+- Italian - people
+	- Luca Ward; doppiatore
+	- Elisa De Marco; YouTuber
+	- Benedetta Porcaroli
+		- https://www.youtube.com/watch?v=l-_SsgGgGVs
+	- nnn
+		- https://www.youtube.com/watch?v=b-GqgIOCYGw
+		
+		
+- present
+	- la mattina vado a correre
+- past
+	- ieri
+	- due giorni fa
+	- tre settimane fa
+	- l'ultima volta che siamo andati
+	- la settimana scorsa
+	- il mese scorso
+	- l'anno scorso
+	- poco fa
+	- tempo fa
+	- qualche giorno fa
+	- ieri mattina
+	- ieri sera
+	- due mesi fa
+	- allora	
+- past/future
+	- il martedì
+	- a giugno
+	- il lunedì
+	- a gennaio
+	- in primavera
+	- d’estate
+	- d’inverno
+	- a Pasqua
+	- a Natale
+	- nel fine settimana
+	- di mattina (general)
+	- al mattino (more formal, structured)
+	- la sera	
+- future
+	- domani
+	- giovedì prossimo
+	- dopodomani
+	- la settimana prossima
+	- il mese prossimo
+	- l’anno prossimo
+	- tra due giorni
+	- tra una settimana
+	- presto
+	- più tardi
+	- in futuro
+	- a breve	
+	
+
 LETTER PRONUNCIATION
 	A = ah
 	B = bee ***
@@ -63,39 +125,203 @@ CONJUGATION OVERVIEW
 		- 4: noi
 		- 5: voi
 		- 6: loro, Loro
-- ARE (parlare)
-	- PRES: -o, -i, -a, -iamo, -ate, -ano
-	- IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
-	- PRPE: ho/sono -ato
-	- PARE: -ai, -asti, -ò, -ammo, -aste, -arono	
-	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	- PRSU: -i, -i, -i, -iamo, -iate, -ino
-	- IMSU: -assi, -assi, -asse, -assimo, -aste, -assero
-	- IPER: *, -a, -i, -iamo, -ate, -ino
-	- GERU: -ando	
-- ERE (credere)
-	- PRES: -o, -i, -e, -iamo, -ete, -ono
-	- IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
-	- PRPE: ho/sono -uto
-	- PARE: etti, -esti, ette, -emmo, -este, ettero (-ei, *, -é, *, *, -erono)
-	- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
-	- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
-	- PRSU: -a, -a, -a, -iamo, -iate, -ano
-	- IMSU: -essi, -essi, -esse, -essimo, -este, -essero
-	- IPER: *, -i, -a, -iamo, -ete, -ano
-	- GERU: -endo
-- IRE (dormire)
-	- PRES: -o, -i, -e, -iamo, -ite, -ono
-	- IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
-	- PRPE: ho/sono -ito
-	- PARE: -ii, -isti, -ì, -immo, -iste, -irono
-	- FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
-	- COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
-	- PRSU: -a, -a, -a, -iamo, -iate, -ano
-	- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
-	- IPER: *, -i, -a, -iamo, -ite, -ano
-	- GERU: -endo
+- REGULAR	
+	- parlare
+		- PRES: -o, -i, -a, -iamo, -ate, -ano
+		- IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+		- PRPE: ho/sono -ato
+		- PARE: -ai, -asti, -ò, -ammo, -aste, -arono	
+		- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		- PRSU: -i, -i, -i, -iamo, -iate, -ino
+		- IMSU: -assi, -assi, -asse, -assimo, -aste, -assero
+		- IPER: *, -a, -i, -iamo, -ate, -ino
+		- GERU: -ando	
+	- credere
+		- PRES: -o, -i, -e, -iamo, -ete, -ono
+		- IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+		- PRPE: ho/sono -uto
+		- PARE: etti, -esti, ette, -emmo, -este, ettero (-ei, *, -é, *, *, -erono)
+		- FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
+		- COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+		- PRSU: -a, -a, -a, -iamo, -iate, -ano
+		- IMSU: -essi, -essi, -esse, -essimo, -este, -essero
+		- IPER: *, -i, -a, -iamo, -ete, -ano
+		- GERU: -endo
+	- dormire
+		- PRES: -o, -i, -e, -iamo, -ite, -ono
+		- IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+		- PRPE: ho/sono -ito
+		- PARE: -ii, -isti, -ì, -immo, -iste, -irono
+		- FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+		- COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
+		- PRSU: -a, -a, -a, -iamo, -iate, -ano
+		- IMSU: -issi, -issi, -isse, -issimo, -iste, -issero
+		- IPER: *, -i, -a, -iamo, -ite, -ano
+		- GERU: -endo
+- IRREGULAR -are
+	- stare
+		- PRES: sto, stai, sta, stiamo, state, stanno
+		- IMPE: stavo, stavi, stava, stavamo, stavate, stavano
+		- PRPE: sono stato/a
+		- PARE: stetti, stesti, stette, stemmo, steste, stettero
+		- FUTU: starò, starai, starà, staremo, starete, staranno
+		- COND: starei, staresti, starebbe, staremmo, stareste, starebbero
+		- PRSU: stia, stia, stia, stiamo, stiate, stiano
+		- IMSU: stessi, stessi, stesse, stessimo, steste, stessero
+		- IPER: *, sta'/stai, stia, stiamo, state, stiano
+		- GERU: stando
+	- fare
+		- PRES: faccio, fai, fa, facciamo, fate, fanno
+		- IMPE: facevo, facevi, faceva, facevamo, facevate, facevano
+		- PRPE: ho fatto
+		- PARE: feci, facesti, fece, facemmo, faceste, fecero
+		- FUTU: farò, farai, farà, faremo, farete, faranno
+		- COND: farei, faresti, farebbe, faremmo, fareste, farebbero
+		- PRSU: faccia, faccia, faccia, facciamo, facciate, facciano
+		- IMSU: facessi, facessi, facesse, facessimo, faceste, facessero
+		- IPER: *, fa'/fai, faccia, facciamo, fate, facciano
+		- GERU: facendo
+	- andare
+		- PRES: vado, vai, va, andiamo, andate, vanno
+		- IMPE: andavo, andavi, andava, andavamo, andavate, andavano
+		- PRPE: sono andato/a
+		- PARE: andai, andasti, andò, andammo, andaste, andarono
+		- FUTU: andrò, andrai, andrà, andremo, andrete, andranno
+		- COND: andrei, andresti, andrebbe, andremmo, andreste, andrebbero
+		- PRSU: vada, vada, vada, andiamo, andiate, vadano
+		- IMSU: andassi, andassi, andasse, andassimo, andaste, andassero
+		- IPER: *, va'/vai, vada, andiamo, andate, vadano
+		- GERU: andando
+	- dare
+		- PRES: do, dai, dà, diamo, date, danno
+		- IMPE: davo, davi, dava, davamo, davate, davano
+		- PRPE: ho dato
+		- PARE: diedi/detti, desti, diede/dette, demmo, deste, diedero/dettero
+		- FUTU: darò, darai, darà, daremo, darete, daranno
+		- COND: darei, daresti, darebbe, daremmo, dareste, darebbero
+		- PRSU: dia, dia, dia, diamo, diate, diano
+		- IMSU: dessi, dessi, desse, dessimo, deste, dessero
+		- IPER: *, da'/dai, dia, diamo, date, diano
+		- GERU: dando
+- IRREGULAR -ere
+	- avere
+		- PRES: ho, hai, ha, abbiamo, avete, hanno
+		- IMPE: avevo, avevi, aveva, avevamo, avevate, avevano
+		- PRPE: ho avuto
+		- PARE: ebbi, avesti, ebbe, avemmo, aveste, ebbero
+		- FUTU: avrò, avrai, avrà, avremo, avrete, avranno
+		- COND: avrei, avresti, avrebbe, avremmo, avreste, avrebbero
+		- PRSU: abbia, abbia, abbia, abbiamo, abbiate, abbiano
+		- IMSU: avessi, avessi, avesse, avessimo, aveste, avessero
+		- IPER: *, abbi, abbia, abbiamo, abbiate, abbiano
+		- GERU: avendo
+	- essere
+		- PRES: sono, sei, è, siamo, siete, sono
+		- IMPE: ero, eri, era, eravamo, eravate, erano
+		- PRPE: sono stato/a
+		- PARE: fui, fosti, fu, fummo, foste, furono
+		- FUTU: sarò, sarai, sarà, saremo, sarete, saranno
+		- COND: sarei, saresti, sarebbe, saremmo, sareste, sarebbero
+		- PRSU: sia, sia, sia, siamo, siate, siano
+			- temo che io sia stato poco chiaro
+			- è possibile che io sia in errore
+			- non credo che io sia pronto per questa scelta
+			- penso che tu sia pronto per questo passo
+			- non credo che sia la persona giusta per questo ruolo
+			- verrò alla riunione, sia che piova sia che splenda il sole
+			- cerco qualcuno che sia affidabile e puntuale
+			- spero che siate consapevoli delle conseguenze
+			- è necessario che siate puntuali domani
+			- non credo che siate pronti a cambiare idea
+		- IMSU: fossi, fossi, fosse, fossimo, foste, fossero
+			- se fossi più paziente, eviterei molti problemi
+			- pensavo che io fossi pronto, ma mi sbagliavo
+			- sarebbe stato più facile se fossimo arrivati prima
+			- non pensavo che foste già partiti quando sono arrivato.
+		- IPER: *, sii, sia, siamo, siate, siano
+		- GERU: essendo
+	- volere
+		- PRES: voglio, vuoi, vuole, vogliamo, volete, vogliono
+		- IMPE: volevo, volevi, voleva, volevamo, volevate, volevano
+		- PRPE: ho voluto
+		- PARE: volli, volesti, volle, volemmo, voleste, vollero
+		- FUTU: vorrò, vorrai, vorrà, vorremo, vorrete, vorranno
+		- COND: vorrei, vorresti, vorrebbe, vorremmo, vorreste, vorrebbero
+		- PRSU: voglia, voglia, voglia, vogliamo, vogliate, vogliano
+		- IMSU: volessi, volessi, volesse, volessimo, voleste, volessero
+		- IPER: *, vogli, voglia, vogliamo, vogliate, vogliano
+		- GERU: volendo
+	- dovere
+		- PRES: devo, devi, deve, dobbiamo, dovete, devono
+		- IMPE: dovevo, dovevi, doveva, dovevamo, dovevate, dovevano
+		- PRPE: ho dovuto
+		- PARE: dovei/dovetti, dovesti, dové/dovette, dovemmo, doveste, doverono/dovettero
+		- FUTU: dovrò, dovrai, dovrà, dovremo, dovrete, dovranno
+		- COND: dovrei, dovresti, dovrebbe, dovremmo, dovreste, dovrebbero
+		- PRSU: deva/debba, deva/debba, deva/debba, dobbiamo, dobbiate, devano/debbano
+		- IMSU: dovessi, dovessi, dovesse, dovessimo, doveste, dovessero
+		- IPER: *, devi, deva/debba, dobbiamo, dovete, devano/debbano
+		- GERU: dovendo
+	- potere
+		- PRES: posso, puoi, può, possiamo, potete, possono
+		- IMPE: potevo, potevi, poteva, potevamo, potevate, potevano
+		- PRPE: ho potuto
+		- PARE: potei/potetti, potesti, poté/potette, potemmo, poteste, poterono/potettero
+		- FUTU: potrò, potrai, potrà, potremo, potrete, potranno
+		- COND: potrei, potresti, potrebbe, potremmo, potreste, potrebbero
+		- PRSU: possa, possa, possa, possiamo, possiate, possano
+		- IMSU: potessi, potessi, potesse, potessimo, poteste, potessero
+		- IPER: *, puoi, possa, possiamo, potete, possano
+		- GERU: potendo
+	- sapere
+		- PRES: so, sai, sa, sappiamo, sapete, sanno
+		- IMPE: sapevo, sapevi, sapeva, sapevamo, sapevate, sapevano
+		- PRPE: ho saputo
+		- PARE: seppi, sapesti, seppe, sapemmo, sapeste, seppero
+		- FUTU: saprò, saprai, saprà, sapremo, saprete, sapranno
+		- COND: saprei, sapresti, saprebbe, sapremmo, sapreste, saprebbero
+		- PRSU: sappia, sappia, sappia, sappiamo, sappiate, sappiano
+		- IMSU: sapessi, sapessi, sapesse, sapessimo, sapeste, sapessero
+		- IPER: *, sappi, sappia, sappiamo, sappiate, sappiano
+		- GERU: sapendo
+- IRREGULAR -ire
+	- venire
+		- PRES: vengo, vieni, viene, veniamo, venite, vengono
+		- IMPE: venivo, venivi, veniva, venivamo, venivate, venivano
+		- PRPE: sono venuto/a
+		- PARE: venni, venisti, venne, venimmo, veniste, vennero
+		- FUTU: verrò, verrai, verrà, verremo, verrete, verranno
+		- COND: verrei, verresti, verrebbe, verremmo, verreste, verrebbero
+		- PRSU: venga, venga, venga, veniamo, veniate, vengano
+		- IMSU: venissi, venissi, venisse, venissimo, veniste, venissero
+		- IPER: *, vieni, venga, veniamo, venite, vengano
+		- GERU: venendo
+	- dire
+		- PRES: dico, dici, dice, diciamo, dite, dicono
+		- IMPE: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano
+		- PRPE: ho detto
+		- PARE: dissi, dicesti, disse, dicemmo, diceste, dissero
+		- FUTU: dirò, dirai, dirà, diremo, direte, diranno
+		- COND: direi, diresti, direbbe, diremmo, direste, direbbero
+		- PRSU: dica, dica, dica, diciamo, diciate, dicano
+		- IMSU: dicessi, dicessi, dicesse, dicessimo, diceste, dicessero
+		- IPER: *, di', dica, diciamo, dite, dicano
+		- GERU: dicendo
+	- uscire
+		- PRES: esco, esci, esce, usciamo, uscite, escono
+		- IMPE: uscivo, uscivi, usciva, uscivamo, uscivate, uscivano
+		- PRPE: sono uscito/a
+		- PARE: uscii, uscisti, uscì, uscimmo, usciste, uscirono
+		- FUTU: uscirò, uscirai, uscirà, usciremo, uscirete, usciranno
+		- COND: uscirei, usciresti, uscirebbe, usciremmo, uscireste, uscirebbero
+		- PRSU: esca, esca, esca, usciamo, usciate, escano
+		- IMSU: uscissi, uscissi, uscisse, uscissimo, usciste, uscissero
+		- IPER: *, esci, esca, usciamo, uscite, escano
+		- GERU: uscendo
+
+
+
 ================================================================		
 
 	</pre>
@@ -270,6 +496,7 @@ CONJUGATION OVERVIEW
 		assomigliare#: *, /i, *, /iamo, *, *, * // to resemble
 		ricambiare#ff#: *, /i, *, /iamo, *, *, * // to reciprocate
 		sbadigliare##: *, /i, *, /iamo, *, *, * // to yawn
+		sbagliare##: *, /i, *, /iamo, *, *, * // to be wrong
 		conciliare##: *, /i, *, /iamo, *, *, * // to combine, to reconcile
 		assaggiare##: *, /i, *, /iamo, *, *, * // to taste
 		passaggiare##: *, /i, *, /iamo, *, *, * // to walk, to stroll
@@ -294,7 +521,7 @@ CONJUGATION OVERVIEW
 		-- ARE -care/-gare (mnemonic: Las Vegas casino) ---------------------------------------------------------------
 		- tenses
 			- nnn
-		cercare#: *, -hi, *, -hiamo, *, *, * // to search
+		cercare#: *, -hi, *, -hiamo, *, *, * // to search, to try (try to sound like a native speaker)
 		applicare: *, -hi, *, -hiamo, *, *, *  // to apply
 		caricare##: *, -hi, *, -hiamo, *, *, * // to load, to upload
 		recaricare##: *, -hi, *, -hiamo, *, *, * // to reload, to recharge
@@ -341,6 +568,7 @@ CONJUGATION OVERVIEW
 		scadere## // to expire
 		piovere## // to rain
 		premere## // to press, to push, to hit; e poi premerò il tasto; and then I'll press the button
+		temere## // fear, to be afraid
 
 		-- ERE regular with i in pp (mnemonic: Morgans former apartment) -----------------------------------------------------------------
 		conoscere##: *, *, *, *, *, *, ho conosciuto // to meet
@@ -1017,9 +1245,53 @@ CONJUGATION OVERVIEW
 		- woman student: la studentessa, le studentesse
 		- overview: la panoramica, le panoramiche
 		- run: la corsa, le corse
-	- masculine (l' --> un, lo --> uno, gli --> degli)
+	- masculine (il, l' --> un, lo --> uno, gli --> degli)
 		- note: l'appunto, gli apunti
 		- backpack: lo zaino, gli zaini
 		- student: lo studente, gli studenti
 		- example: l'esempio, gli esempi
+		- month: il mese, i mesi
 
+
+
+==================================
+VERB CONJUGATION PRACTICE
+==================================
+
+- PRSU constructions:
+	- È importante che ...
+	- Bisogna che ... (it's necessary that)
+	- È essenziale che ...
+	- Preferisco che tu ...
+	- Mi sembra che ...
+- IMSU constructions:
+	- Se ...
+	- Era essenziale che ...
+	- Era necessario che ...
+	- Volevo che ...
+	- Pensavo che ...
+	- Era meglio che ...
+
+VERB: essere
+	- PRES: sono, sei, è, siamo, siete, sono
+	- IMPE: ero, eri, era, eravamo, eravate, eravano
+	- PRPE: sono stato, sei stato
+	- REPA: fui, fosti, fu, fummo, foste, furono
+	- FUTU: sarò, sarai, sarà, saremo, sarete, saranno
+	- COND: sarei, saresti, sarebbe, saremmo, sareste, sarebbero
+	- PRSU: sia, sia, sia, 
+	- IMSU: 
+	- IPER: 
+	- CONJ:
+
+VERB: nnnnnnn
+	- PRES: 
+	- IMPE: 
+	- PRPE: 
+	- REPA: 
+	- FUTU: 
+	- COND: 
+	- PRSU: 
+	- IMSU: 
+	- IPER: 
+	- CONJ:
