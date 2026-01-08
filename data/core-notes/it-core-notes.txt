@@ -13,6 +13,9 @@
 	- nnn
 		- https://www.youtube.com/watch?v=b-GqgIOCYGw
 		
+- useful words
+	- persino
+		
 		
 - present
 	- la mattina vado a correre
@@ -1245,6 +1248,7 @@ CONJUGATION OVERVIEW
 		- woman student: la studentessa, le studentesse
 		- overview: la panoramica, le panoramiche
 		- run: la corsa, le corse
+		- source: la fonte, le fonti
 	- masculine (il, l' --> un, lo --> uno, gli --> degli)
 		- note: l'appunto, gli apunti
 		- backpack: lo zaino, gli zaini
@@ -1279,7 +1283,7 @@ VERB: essere
 	- REPA: fui, fosti, fu, fummo, foste, furono
 	- FUTU: sarò, sarai, sarà, saremo, sarete, saranno
 	- COND: sarei, saresti, sarebbe, saremmo, sareste, sarebbero
-	- PRSU: sia, sia, sia, 
+	- PRSU: sia, sia, sia, se
 	- IMSU: 
 	- IPER: 
 	- CONJ:
