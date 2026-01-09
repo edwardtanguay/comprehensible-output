@@ -3,6 +3,9 @@
 		- https://www.youtube.com/watch?v=73ByVrFd6G4
 		- length::29:01
 		- understood:: 1:53
+- Davide Gemello
+	- 3 trucchi per parlare come i MADRELINGUA
+		- https://www.youtube.com/watch?v=xnj1CadIEOo
 
 
 - Italian - people
@@ -375,7 +378,7 @@ CONJUGATION OVERVIEW
 		testare // to test
 		interessare // to interest; la nuova versione di React interesserà molti sviluppatori; the new version of React will interest many developers
 		eliminare // to eliminate
-		cancellare // to cancel
+		cancellare // to delete, to cancel
 		completare // to complete
 		guidare // to drive, to guide, to lead
 		utilizzare // to utilize
@@ -1249,12 +1252,21 @@ CONJUGATION OVERVIEW
 		- overview: la panoramica, le panoramiche
 		- run: la corsa, le corse
 		- source: la fonte, le fonti
+		- instruction: l’istruzione, l'istruzioni
+		- room: la stanza, le stanze
+		- bag: la borsa, le borse
 	- masculine (il, l' --> un, lo --> uno, gli --> degli)
 		- note: l'appunto, gli apunti
 		- backpack: lo zaino, gli zaini
 		- student: lo studente, gli studenti
 		- example: l'esempio, gli esempi
+		- agent: l'agente, gli agenti
 		- month: il mese, i mesi
+		- bank: il banco, i banchi
+		- role: il ruolo, i ruoli
+		- tree: l'albero, gli alberi
+		- place: il luogo, i luoghi
+		- telephone: il telefono, i telefoni
 
 
 
