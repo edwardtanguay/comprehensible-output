@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-10 22:33:08
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "vado in palestra", "a Capodanno", "nomina tutti i mesi", "vediamo se riesco a rispondere correttamente a queste domande", "luglio", "e ora, poiché non ho molto tempo, leggerò solo il resto", "anzi", "Chissà", "ma è importante ricordare che imparare l'italiano è il compito più importante al momento", "Non so come dirlo in italiano", "Non so come dirlo in spagnolo", "Devo scrivere un'idea", "in questo file", "e adesso voglio andare a prendere un caffè", "questo è un fatto che bisogna sapere", "Trasferirò la lista", "Ho bisogno di esercitarmi con le preposizioni", "Vedo che nessuno ha scritto", "come riferirsi a qualcosa che accade in un certo giorno", "Ho un'altra idea".
+======================================================================================
 2026-01-09 07:36:01
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

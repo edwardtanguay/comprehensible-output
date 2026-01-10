@@ -1,0 +1,102 @@
+- sources
+	- learnamo: https://learnamo.com/corso-principiante-italiano
+	- currently: https://learnamo.com/tempo-italiano-preposizioni-articoli/
+
+- alphabet
+	- pronounce all 26 letters
+		- ah, bee, chee, dee, eh, effeh, gee, ahka, ee, jay, kappa, elleh, emmeh, enneh, oh, pee, koo, erreh, esseh, tee, oo, vee, DOHP-ya-voo (voo-DOHP-ya), eeks, IP-see-lon, ZEH-teh
+	- which letters have "eh" at the end
+		- F, L, M, N, R, S, Z
+	- what are the foreign letters, and examples of foreign words with those letters
+		- Jeans, Ketchup, Wurstel, Xbox, Yogurt
+	- which letter is silent but changes the pronunciation of two other letters
+		- H changes C and G
+	- when is C pronounced "ch" and when "k"
+		- ch before e,i
+		- k before a,o,u
+	- when is G pronounced soft and hard
+		- soft before e,i
+		- hard before a,o,u (gw, g)
+	- which letter has accent grave and acuto
+		- e
+- numbers
+	- count from 1 to 10
+		- uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci
+	- count from 10 to 90 by tens
+		- dieci, venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta
+	- pronounce seven
+		- SETT-eh (not -ay)
+	- pronounce 15
+		- QUEEN-dee-chee
+	- pronounce 17
+		- DEE-chah-SET-eh
+	- which numbers are pronounced different
+		- over 20 that end in 1 or 8 
+	- how to form numbers 100-900
+		- cento
+		- then number + "cento": duecento, trecento, etc.
+	- how to form numbers 1000-9000
+		- mille
+		- then number + "mila": duemila, tremila, etc.
+	- how to form numbers 1 million to 2 million
+		- milione
+		- then number + "milioni": duemila, tremila, etc.
+	- list the numbers 1-21
+		- primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo
+		- undicesimo, dodicesimo, tredicesimo, quattordicesimo, quindicesimo, sedicesimo, diciassettesimo, diciottesimo, diciannovesimo, ventesimo, ventunesimo
+	- how do you spell 17
+		- diciassette
+		- with double s
+	- spell 88
+		- ottantotto
+	- spell 41
+		- quarantuno
+- i giorni della settimana
+	- giorni della settimana
+		- lunedì
+		- martedì
+		- mercoledì
+		- giovedì
+		- venerdì
+		- sabato
+		- domenica
+	- quali giorni hanno l'accento alla fine
+		- i primi 5
+	- si scrivono tutti con la lettera minuscola?
+		- sì
+	- sono tutti maschili, tranne per quale giorno
+		- la domenica
+	- come descrivere un'abitudine
+		- dall' articolo determinativo
+		- dalla preposizione di
+		- esempio: la domenica mangio sempre molto, però di lunedì vado in palestra
+	- come riferirsi a qualcosa che accade in un certo giorno
+		- non useremo né l’articolo né la preposizione
+		- esempio: martedì sono andata dal medico, mentre venerdì ho cenato al ristorante
+- mesi dell'anno
+	- nomina tutti i mesi
+		- gennaio
+		- febbraio
+		- marzo
+		- aprile
+		- maggio
+		- guigno
+		- luglio
+		- agosto
+		- settembre
+		- ottobre
+		- novembre
+		- dicembre
+	- i mesi si scrivono sempre con la lettera minuscola?
+		- sì
+	- sono solitamente preceduti da quale preposizione?
+		- dalla preposizione: a
+		- esempio: a luglio vanno tutti al mare
+- le date
+	- in che ordine si scrivono le date in italiano?
+		- l'ordine per scrivere o dire le date in italiano è: giorno + mese + anno
+		- esempio: 5 maggio 2024
+- come dire l'ora
+	- tradurre: it is currently thirteen o'clock
+		- sono attualmente le tredici
+
