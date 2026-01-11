@@ -1,6 +1,6 @@
 - sources
 	- learnamo: https://learnamo.com/corso-principiante-italiano
-	- currently: https://learnamo.com/tempo-italiano-preposizioni-articoli/
+	- currently: https://learnamo.com/abbigliamento-colori/
 
 - alphabet
 	- pronounce all 26 letters
@@ -73,7 +73,7 @@
 	- come riferirsi a qualcosa che accade in un certo giorno
 		- non useremo né l’articolo né la preposizione
 		- esempio: martedì sono andata dal medico, mentre venerdì ho cenato al ristorante
-- mesi dell'anno
+- le date
 	- nomina tutti i mesi
 		- gennaio
 		- febbraio
@@ -92,10 +92,68 @@
 	- sono solitamente preceduti da quale preposizione?
 		- dalla preposizione: a
 		- esempio: a luglio vanno tutti al mare
-- le date
 	- in che ordine si scrivono le date in italiano?
 		- l'ordine per scrivere o dire le date in italiano è: giorno + mese + anno
 		- esempio: 5 maggio 2024
+- le stagioni
+	- quali sono le quattro stagioni
+		- primavera
+		- estate
+		- autunno
+		- inverno
+	- quale preposizione dobbiamo usare con le stagioni?
+		- la preposizione in
+		- esempio: in estate le giornate sono più luminose
+- momenti della giornata
+	- quale preposizione usiamo con le parole: alba, tramonto
+		- la preposizione: a
+		- esempio: all'alba c'è sempre un'atmosfera di pace, mentre al tramonto c'è un'atmosfera romantica
+	- quale preposizione usiamo con le parole: mattina, pomeriggio, sera, notte
+		- la preposizione: di
+		- esempio: preferisco lavorare di mattina piuttosto che la sera perché ho più energie
+	- quale preposizione usiamo con secoli e anni, e con la parola: weekend
+		- la preposizione: nel
+		- esempio: la Guerra del Golfo è scoppiata nel XX secolo, più precisamente nel 1990
+		- esempio: vado sempre in pizzeria nel weekend
+	- compila lo spazio vuoto: Maria arriva ___ mezzogiorno
+		- con le ore precise si usa sempre: a
+	- compila lo spazio vuoto: ci vediamo ___ settimana prossima
+		- la risposta corretta è: la
+		- con "prossima/scorsa" si usa l'articolo determinativo
+	- scrivi la preposizione corretta: studio italiano ___ due anni
+		- la risposta corretta è: da
+- pezzi di abbigliamento
+	- cosa indossi ai piedi
+		- indossi una scarpa su un piede e due scarpe su due piedi
+	- cosa indossi in testa
+		- indossi un cappello
+	- cosa indossi dentro le scarpe
+		- indossi i calzini dentro le scarpe
+	- cosa indossi quando il sole splende troppo forte
+		- ti metti gli occhiali da sole
+	- quale capo di abbigliamento indossi sulla parte superiore del corpo
+		- indossi una maglietta sulla parte superiore del corpo, e puoi possedere molte magliette
+- i colori
+	- lista le tredici parole più utilizzate per i colori in italiano
+		- bianco
+		- nero
+		- rosso
+		- blue
+		- verde
+		- giallo
+		- marrone
+		- grigio
+		- rosa
+		- arancione
+		- viola
+		- azzurro/celeste
+	- quali colori non cambiano en al plurale
+		- rosa, arancione, viola, beige
+		- esempio: due maglie rosa
+		
+
+		
+===TODO===		
 - come dire l'ora
 	- tradurre: it is currently thirteen o'clock
 		- sono attualmente le tredici
