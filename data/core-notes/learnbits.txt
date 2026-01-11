@@ -95,6 +95,24 @@
 	- in che ordine si scrivono le date in italiano?
 		- l'ordine per scrivere o dire le date in italiano è: giorno + mese + anno
 		- esempio: 5 maggio 2024
+- come dire l'ora
+	- come dire l'ora del giorno quando è proprio l'ora
+		- sono le dieci
+		- sono le quattro
+		- ma è l'una
+	- come dire l'ora del giorno aggiungendo o sottraendo minuti
+		- sono le quattro e cinque
+		- sono le quattro e mezza
+		- sono le quattro e un quarto
+		- sono le cinque meno dieci
+		- sono le otto meno un quarto
+	- come dire l'ora del giorno utilizzando i periodi della giornata
+		- le dieci del mattino
+		- le quattro del pomeriggio
+		- le nove di sera
+		- le due di nott.
+
+		
 - le stagioni
 	- quali sono le quattro stagioni
 		- primavera
@@ -132,7 +150,11 @@
 	- cosa indossi quando il sole splende troppo forte
 		- ti metti gli occhiali da sole
 	- quale capo di abbigliamento indossi sulla parte superiore del corpo
-		- indossi una maglietta sulla parte superiore del corpo, e puoi possedere molte magliette
+		- indossi una maglia sulla parte superiore del corpo, e puoi possedere molte maglia
+	- quali sono le tre parole per "shirt" (e i plurali) in italiano
+		- t-shirt: maglietta, magliette
+		- shirt (genearl): maglia, maglie
+		- shirt (formal): camicia, camicie
 - i colori
 	- lista le tredici parole più utilizzate per i colori in italiano
 		- bianco
@@ -147,14 +169,48 @@
 		- arancione
 		- viola
 		- azzurro/celeste
+	- quali colori terminano con "o" come aggettivo
+		- bianco, rosso, nero, giallo, grigio terminano per -o, dunque variano sia per genere che per numero
+		- esempi
+			- il maglione bianco 
+			- la gonna rossa
+			- i pantaloni gialli 
+			- le scarpe nere
+	- quali colori terminano con "e" come aggettivo
+		- arancione, verde, celeste e marrone terminano per -e, dunque variano solo per numero e non per genere
+		- esempi
+			- il maglione arancione
+			– la gonna verde
+			- i pantaloni celesti 
+			- le scarpe marroni
+	- quali colori terminano con "a" come aggettivo
+		- blu, viola, rosa e bordeaux restano invariabili
+		- esempi
+			- il maglione blu
+			- la gonna viola
+			- i pantaloni rosa
+			- le scarpe bordeaux
 	- quali colori non cambiano en al plurale
 		- rosa, arancione, viola, beige
 		- esempio: due maglie rosa
-		
-
+	- vero o falso: i colori composti non cambiano
+		- vero
+		- esempio
+			- una maglietta rossa
+			- ma una maglietta rosso scuro
+		- esempio
+			- scarpe verde chiaro
+			- ma scarpe verdi
+			
 		
 ===TODO===		
-- come dire l'ora
-	- tradurre: it is currently thirteen o'clock
-		- sono attualmente le tredici
-
+- parole utili per parlare del tempo
+	sempre → always
+	quasi sempre → almost always
+	di solito / generalmente → usually
+	spesso → often
+	molto spesso → very often
+	a volte / talvolta / qualche volta → sometimes
+	raramente / di rado → rarely
+	quasi mai → almost never
+	mai → never
