@@ -181,15 +181,33 @@
 	- 1.5 https://learnamo.com/dare-pareri-abbigliamento/
 	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
 	- 5.9 https://learnamo.com/verbo-venire-usi-particolari/
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 4.6 https://learnamo.com/parole-parlare-altro-italiano/
+	- 5.4 https://learnamo.com/esclamazioni-italiane/
+	- 3.8 https://learnamo.com/lessico-italiano-musica/
+	- 5.2 https://learnamo.com/errori-verbo-succedere-italiano/
+	- 4.4 https://learnamo.com/errori-comuni-preposizioni-italiane/
+	- 4.1 https://learnamo.com/parole-chiave-arte-italiano/
+	- 5.9 https://learnamo.com/ci-cambia-significato/
+	- 3.8 https://learnamo.com/taxi-italia-espressioni/
+	- 4.7 https://learnamo.com/descrivere-oggetti-italiano/
+	- 3.8 https://learnamo.com/gossip-lessico-italiano/
+	- 5.6 https://learnamo.com/chiedere-e-dare-indicazioni-stradali/
+	- 4.6 https://learnamo.com/anche-io-neanche-io/
+	- 3.1 https://learnamo.com/sinonimi-di-mangiare/
+	- 5.1 https://learnamo.com/sovra-sopra-prefissi/
+	- 4.5 https://learnamo.com/verbo-ingannare-italiano-alternative/
+	- 3.1 https://learnamo.com/recensione-libro-gattopardo/
+	- 3.4 https://learnamo.com/gli-alterati-italiano/
+	- 2.8 https://learnamo.com/lessico-giornalistico-italiano/
+	- 5.3 https://learnamo.com/suoni-difficili-italiano/
+	- 5.8 https://learnamo.com/coppie-parole-creano-confusione/
+	- 4.7 https://learnamo.com/intelligenza-artificiale-basta/
+	- 4.6 https://learnamo.com/errori-grammaticali-comuni/
+	- 5.7 https://learnamo.com/egli-in-italiano/
+	- 5.8 https://learnamo.com/grammatica-livello-intermedio/
+	- 5.4 https://learnamo.com/dativo-etico-italiano/
+	- 5.9 https://learnamo.com/migliorare-accento-italiano/
+	- 4.8 https://learnamo.com/essere-ritardo-alternative/
 	- 
 	- 
 	- 
