@@ -1,6 +1,151 @@
-- sources
-	- learnamo: https://learnamo.com/corso-principiante-italiano
-	- currently: https://learnamo.com/singolare-e-plurale
+- todo
+	- 5.9 https://learnamo.com/pronomi-complemento/
+	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
+	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
+	- 5.8 https://learnamo.com/venire-derivati/
+	- 5.8 https://learnamo.com/sentire-ascoltare-udire-origliare/
+	- 5.8 https://learnamo.com/pronomi-relativi/
+	- 5.8 https://learnamo.com/pronomi-diretti-indiretti/
+	- 5.8 https://learnamo.com/gia-o-ancora-spiegazione/
+	- 5.8 https://learnamo.com/essere-stare-usi-differenze/
+	- 5.8 https://learnamo.com/ancora-o-gia-spiegazione/
+	- 5.8 https://learnamo.com/alternative-voglio-italiano/
+	- 5.7 https://learnamo.com/verbi-modali-italiano-errori/
+	- 5.7 https://learnamo.com/significato-magari/
+	- 5.7 https://learnamo.com/piuttosto-significato/
+	- 5.7 https://learnamo.com/ora-oramai-ormai/
+	- 5.7 https://learnamo.com/ma-pero-tuttavia-eppure-bensi/
+	- 5.7 https://learnamo.com/essere-avere-guida-completa/
+	- 5.6 https://learnamo.com/volerci-metterci/
+	- 5.6 https://learnamo.com/succedere-e-simili/
+	- 5.6 https://learnamo.com/significato-allora-italiano/
+	- 5.6 https://learnamo.com/riempitivi-italiano/
+	- 5.6 https://learnamo.com/potere-riuscire-sapere-conoscere/
+	- 5.6 https://learnamo.com/errori-con-andare/
+	- 5.6 https://learnamo.com/anzi-significato/
+	- 5.6 https://learnamo.com/alternative-a-molto/
+	- 5.6 https://learnamo.com/aggettivi-possessivi/
+	- 5.5 https://learnamo.com/verbi-sintagmatici/
+	- 5.5 https://learnamo.com/verbi-doppio-ausiliare/
+	- 5.5 https://learnamo.com/significato-piu-italiano/
+	- 5.5 https://learnamo.com/preposizioni/
+	- 5.5 https://learnamo.com/prefissi-negativi-italiano/
+	- 5.5 https://learnamo.com/parole-conversazioni-italiano/
+	- 5.5 https://learnamo.com/fermare-smettere/
+	- 5.5 https://learnamo.com/dimostrativi-identificativi/
+	- 5.5 https://learnamo.com/connettori-italiano/
+	- 5.5 https://learnamo.com/ce-o-ci-sono/
+	- 5.5 https://learnamo.com/articoli-determinativi-uso/
+	- 5.5 https://learnamo.com/appena-significato-italiano/
+	- 5.5 https://learnamo.com/andare-venire/
+	- 5.5 https://learnamo.com/aggettivi-indefiniti/
+	- 5.5 https://learnamo.com/aggettivi-indefiniti-guida/
+	- 5.4 https://learnamo.com/mica-significato/
+	- 5.4 https://learnamo.com/errori-comuni-aggettivi/
+	- 5.4 https://learnamo.com/bisognare/
+	- 5.3 https://learnamo.com/pronomi-soggetto-riflessivi/
+	- 5.3 https://learnamo.com/5-parole-utili/
+	- 5.2 https://learnamo.com/lapostrofo/
+	- 5.1 https://learnamo.com/proprio/
+	- 4.9 https://learnamo.com/macche/
+	- 4.9 https://learnamo.com/esprimere-gradimento/
+	- 4.9 https://learnamo.com/alternative-cosa/
+	- 4.8 https://learnamo.com/verso-circa-differenze/
+	- 4.8 https://learnamo.com/verbi-vista/
+	- 4.8 https://learnamo.com/errori-comuni-italiano/
+	- 4.8 https://learnamo.com/come-dire-scusa/
+	- 4.7 https://learnamo.com/raccomandare/
+	- 4.7 https://learnamo.com/pronuncia-italiano-parole/
+	- 4.7 https://learnamo.com/affittare-noleggiare-prendere-in-prestito/
+	- 4.6 https://learnamo.com/impara-italiano-online/
+	- 4.5 https://learnamo.com/vocabolario-italiano-incertezza/
+	- 4.5 https://learnamo.com/verbo-piacere-italiano/
+	- 4.5 https://learnamo.com/verbi-italiani-conversazione/
+	- 4.5 https://learnamo.com/pronuncia-italiana/
+	- 4.5 https://learnamo.com/preposizioni-luogo/
+	- 4.5 https://learnamo.com/parla-italiano-frasi-comuni/
+	- 4.5 https://learnamo.com/nomi-collettivi/
+	- 4.5 https://learnamo.com/frasi-italiano-principianti/
+	- 4.5 https://learnamo.com/falsi-amici-in-italiano/
+	- 4.5 https://learnamo.com/consonanti-doppie-italiano/
+	- 4.5 https://learnamo.com/comparativo-superlativo/
+	- 4.5 https://learnamo.com/comparativi-superlativi-guida/
+	- 4.5 https://learnamo.com/come-ringraziare-italiano/
+	- 4.5 https://learnamo.com/come-dire-prego/
+	- 4.5 https://learnamo.com/bene-bravo-bello-buono/
+	- 4.5 https://learnamo.com/avverbi-luogo/
+	- 4.5 https://learnamo.com/alternative-e-facile/
+	- 4.5 https://learnamo.com/alternative-a-come-stai/
+	- 4.5 https://learnamo.com/aggettivi-numerali/
+	- 4.4 https://learnamo.com/prendere-treno-italia/
+	- 4.3 https://learnamo.com/pronome-di-cortesia-italiano/
+	- 4.2 https://learnamo.com/misteri-lingua-italiana/
+	- 4.1 https://learnamo.com/addirittura-o-a-dirittura-qual-e-la-differenza/
+	- 3.8 https://learnamo.com/parolacce/
+	- 3.8 https://learnamo.com/intervista-colloquio-provino/
+	- 3.5 https://learnamo.com/vocabolario-famiglia-italiano/
+	- 3.5 https://learnamo.com/verbi-per-viaggio-in-italia/
+	- 3.5 https://learnamo.com/risorse-gratuite-italiano/
+	- 3.5 https://learnamo.com/parole-italiane-piu-usate/
+	- 3.5 https://learnamo.com/nomi-citta-estere-italiano/
+	- 3.5 https://learnamo.com/meteo-in-italiano/
+	- 3.5 https://learnamo.com/maiuscole-minuscole-italiano/
+	- 3.5 https://learnamo.com/lessico-spiaggia-italia/
+	- 3.5 https://learnamo.com/lessico-animali-italiano/
+	- 3.5 https://learnamo.com/dialogo-italiano-supermercato/
+	- 3.5 https://learnamo.com/congratularsi-italiano/
+	- 3.5 https://learnamo.com/come-salutare-italiano/
+	- 3.5 https://learnamo.com/10-mila-iscritti-su-youtube/
+	- 2.8 https://learnamo.com/parole-straniere/
+	- 2.5 https://learnamo.com/vocabolario-cucina-italiano/
+	- 2.5 https://learnamo.com/vocabolario-corpo-umano/
+	- 2.5 https://learnamo.com/versi-animali-italiano/
+	- 2.5 https://learnamo.com/presentarsi-italiano-avanzato/
+	- 2.5 https://learnamo.com/paesi-nazionalita-italiano/
+	- 2.5 https://learnamo.com/lessico-dei-gialli/
+	- 2.5 https://learnamo.com/frutta-verdura-italiano/
+	- 2.5 https://learnamo.com/espressioni-da-favola/
+	- 2.5 https://learnamo.com/dialogo-hotel-italiano/
+	- 2.5 https://learnamo.com/come-pronunciare-marchi-italiani/
+	- 2.5 https://learnamo.com/come-iniziare-imparare-italiano/
+	- 1.5 https://learnamo.com/italiano-bambini-stranieri/
+	- 1.5 https://learnamo.com/grammatiche-italiane/
+	- 1.5 https://learnamo.com/dare-pareri-abbigliamento/
+	- 1.8 https://learnamo.com/vocabolario-criminalita-legge/
+	- 4.2 https://learnamo.com/frasi-italiane-arrabbiare/
+	- 4.8 https://learnamo.com/frasi-italiano-intermedio/
+	- 3.9 https://learnamo.com/situazioni-difficili-lavoro/
+	- 4.7 https://learnamo.com/come-fare-colpo/
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+
 
 - alphabet
 	- pronounce all 26 letters
@@ -176,7 +321,7 @@
 		- bianco
 		- nero
 		- rosso
-		- blue
+		- blu
 		- verde
 		- giallo
 		- marrone
@@ -382,18 +527,63 @@
 		- uomini
 	- qual è il plurale di "bacio"
 		- baci
-- nnn
+- gli aggettivi 
 	- quali sono i tre gruppi
-		- egotist(a)
-		- trist(e)
-		- car(o) --> singulare o/a, plurale i/e
-			- il caro uomo
-			- i cari uomini 
-			- la cara donna
-			- le care donne
-		
-			
-
+		- egotist(a) --> masc a/i, fem a/e
+			- uno studente egoista, due studenti egoisti
+			- una studentessa egoista, due studentesse egoiste
+		- trist(e) --> masc e/i, fem e/i
+			- uno studente triste, due studenti tristi
+			- una studentessa triste, due studentesse tristi
+		- car(o) --> masc o/i, fem a/e
+			- un caro studente, due cari studenti 
+			- una cara studentessa, due care studentesse
+	- cosa succede con due o più nomi
+		- same
+			- la rosa e la margherita sono belle 
+			- il tulipano e il ciclamino sono belli 
+		- different (masc)
+			- Maria e Paolo sono simpatici
+			- la rosa e il tulipano sono belli
+	- qual è la posizione normale dell'aggettivo in italiano?
+		- dopo il nome
+	- un esempio di come l'ortografia dell'aggettivo cambia quando viene posizionato prima o dopo un sostantivo
+		- buon 
+			- un ragazzo buono
+			- un buon ragazzo
+	- scrivi il plurale femminile di "lungo"
+		- lunghe
+	- quando l'aggettivo aggettiv viene messo prima o dopo un sostantivo
+		- alto
+			- un dirigente alto = a tall executive
+			- un alto dirigente = senior executive
+		- vecchio
+			- un amico vecchio = a friend who is old
+			- un vecchio amico = an old frend
+			- un amico grande = un grande amico
+	- aggettivi che vanno sempre dopo il nome
+		- nazionalità
+			- la capitale francese
+		- appartenenza a una categoria
+			- un pittore impressionista
+		- luogo e posizione
+			- la mano destra
+		- colore, forma, materia
+			- una rosa blu, una tovaglia tonda
+- aggettivi interrogativi 
+	- qual tipo di parola segue sempre un aggettivo interrogato
+		- un sostativo
+	- come coniugare i tre aggettivi interrogativi 
+		- che: (invariabile)
+			- che tempo farà domani
+		- quale: masc quale/quali, fem quale/quali
+			- quale vestito preferisci
+		- quanto: masc quanto/quanti, fem quanta/quante
+			- quanto tempo ci resta
+	- come si usano per fare un'esclamazione
+		- che bugiardo che sei
+		- quale onore parlare con lei
+		- quanto freddo fa oggi
 		
 ===TODO===		
 - parole utili per parlare del tempo
