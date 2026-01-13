@@ -1,5 +1,6 @@
 - todo
-	- 5.9 https://learnamo.com/verbo-venire-usi-particolari/
+	- .. 5.9 https://learnamo.com/verbo-venire-usi-particolari/
+		- 1 – VENIRE nella forma passiva
 	- 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
@@ -778,6 +779,14 @@
 		- che bugiardo che sei
 		- quale onore parlare con lei
 		- quanto freddo fa oggi
+- venire
+	- quali due casi ha il verbo venire
+		- 1) esprime provenienza
+			- Carlos viene da Madrid
+			- l'aereo è venuto da Rio
+		- 2) muoversi nella direzione della persona che parla o della persona con cui si parla
+			- vieni, è pronto il caffè
+			- la prossima settimana veniamo a trovarti nella tua nuova casa
 		
 ===TODO===		
 - parole utili per parlare del tempo
