@@ -1,18 +1,53 @@
 - todo
+	- 5.9 https://learnamo.com/verbo-venire-usi-particolari/
 	- 5.9 https://learnamo.com/verbi-preposizioni-italiano/
+	- 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
+	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/pronomi-complemento/
+	- 5.9 https://learnamo.com/preposizioni-articolate/
+	- 5.9 https://learnamo.com/passato-remoto-italiano/
+	- 5.9 https://learnamo.com/passato-prossimo-participio-passato/
+	- 5.9 https://learnamo.com/modo-infinito-italiano/
+	- 5.9 https://learnamo.com/migliorare-accento-italiano/
+	- 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
+	- 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
+	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
+	- 5.9 https://learnamo.com/imperativo-italiano/
+	- 5.9 https://learnamo.com/il-futuro-in-italiano/
 	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
+	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
+	- 5.9 https://learnamo.com/congiuntivo-presente-passato/
+	- 5.9 https://learnamo.com/come-usare-gerundio/
+	- 5.9 https://learnamo.com/come-quando-usare-ne/
+	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
 	- 5.9 https://learnamo.com/ci-ne-particelle-italiano/
+	- 5.9 https://learnamo.com/ci-italiano/
+	- 5.9 https://learnamo.com/ci-cambia-significato/
+	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
 	- 5.8 https://learnamo.com/venire-derivati/
+	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
+	- 5.8 https://learnamo.com/trapassato-italiano-tempo-verbale/
 	- 5.8 https://learnamo.com/sentire-ascoltare-udire-origliare/
 	- 5.8 https://learnamo.com/regole-grammaticali-italiano/
 	- 5.8 https://learnamo.com/pronomi-relativi/
 	- 5.8 https://learnamo.com/pronomi-diretti-indiretti/
 	- 5.8 https://learnamo.com/preposizioni-italiano-tempo/
+	- 5.8 https://learnamo.com/modi-tempi-verbali-italiani/
+	- 5.8 https://learnamo.com/il-passivo/
+	- 5.8 https://learnamo.com/il-discorso-indiretto/
+	- 5.8 https://learnamo.com/grammatica-livello-intermedio/
 	- 5.8 https://learnamo.com/gia-o-ancora-spiegazione/
 	- 5.8 https://learnamo.com/futuro-passato-italiano/
 	- 5.8 https://learnamo.com/essere-stare-usi-differenze/
+	- 5.8 https://learnamo.com/errori-comuni-si-impersonale/
+	- 5.8 https://learnamo.com/coppie-parole-creano-confusione/
+	- 5.8 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/
+	- 5.8 https://learnamo.com/congiuntivo-si-o-no/
+	- 5.8 https://learnamo.com/congiuntivo-imperfetto-trapassato/
+	- 5.8 https://learnamo.com/congiuntivo-errori/
+	- 5.8 https://learnamo.com/come-quando-usare-indicativo-presente/
+	- 5.8 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
 	- 5.8 https://learnamo.com/ancora-o-gia-spiegazione/
 	- 5.8 https://learnamo.com/alternative-voglio-italiano/
 	- 5.8 https://learnamo.com/alternative-perche-italiano/
@@ -20,22 +55,33 @@
 	- 5.7 https://learnamo.com/sinonimi-per-esempio/
 	- 5.7 https://learnamo.com/sinonimi-non-piace-italiano/
 	- 5.7 https://learnamo.com/significato-magari/
+	- 5.7 https://learnamo.com/pure-spiegazione-uso/
 	- 5.7 https://learnamo.com/piuttosto-significato/
 	- 5.7 https://learnamo.com/ora-oramai-ormai/
+	- 5.7 https://learnamo.com/nord-vs-sud/
 	- 5.7 https://learnamo.com/ma-pero-tuttavia-eppure-bensi/
+	- 5.7 https://learnamo.com/indicativo-presente/
 	- 5.7 https://learnamo.com/essere-avere-guida-completa/
+	- 5.7 https://learnamo.com/errori-commettono-italiani/
+	- 5.7 https://learnamo.com/egli-in-italiano/
+	- 5.7 https://learnamo.com/congiuntivo-indipendente/
+	- 5.7 https://learnamo.com/concordanza-tempi-italiano/
+	- 5.7 https://learnamo.com/cambia-significato-per-una-lettera/
 	- 5.7 https://learnamo.com/bastare-italiano/
 	- 5.7 https://learnamo.com/alternative-ok-italiano/
 	- 5.6 https://learnamo.com/volerci-metterci/
 	- 5.6 https://learnamo.com/verbi-correre-italiano/
+	- 5.6 https://learnamo.com/verbi-causativi-fattitivi/
 	- 5.6 https://learnamo.com/succedere-e-simili/
 	- 5.6 https://learnamo.com/significato-allora-italiano/
 	- 5.6 https://learnamo.com/riempitivi-italiano/
 	- 5.6 https://learnamo.com/prima-dopo-italiano/
 	- 5.6 https://learnamo.com/potere-riuscire-sapere-conoscere/
 	- 5.6 https://learnamo.com/mentre-vs-durante-italiano/
+	- 5.6 https://learnamo.com/italiano-formale-vs-informale/
 	- 5.6 https://learnamo.com/errori-con-andare/
 	- 5.6 https://learnamo.com/congiunzioni-temporali/
+	- 5.6 https://learnamo.com/chiedere-e-dare-indicazioni-stradali/
 	- 5.6 https://learnamo.com/anzi-significato/
 	- 5.6 https://learnamo.com/alternative-a-molto/
 	- 5.6 https://learnamo.com/aggettivi-possessivi/
@@ -44,6 +90,8 @@
 	- 5.5 https://learnamo.com/significato-piu-italiano/
 	- 5.5 https://learnamo.com/preposizioni/
 	- 5.5 https://learnamo.com/prefissi-negativi-italiano/
+	- 5.5 https://learnamo.com/perche-poiche-purche-differenze/
+	- 5.5 https://learnamo.com/particelle-ci-vi/
 	- 5.5 https://learnamo.com/parole-conversazioni-italiano/
 	- 5.5 https://learnamo.com/fermare-smettere/
 	- 5.5 https://learnamo.com/dimostrativi-identificativi/
@@ -54,56 +102,107 @@
 	- 5.5 https://learnamo.com/andare-venire/
 	- 5.5 https://learnamo.com/aggettivi-indefiniti/
 	- 5.5 https://learnamo.com/aggettivi-indefiniti-guida/
+	- 5.4 https://learnamo.com/si-impersonale-italiano/
+	- 5.4 https://learnamo.com/periodo-ipotetico-italiano/
+	- 5.4 https://learnamo.com/parla-italiano-vero/
 	- 5.4 https://learnamo.com/mica-significato/
 	- 5.4 https://learnamo.com/locuzioni-avverbi-italiano/
+	- 5.4 https://learnamo.com/la-frase-scissa/
+	- 5.4 https://learnamo.com/frasi-concessive/
+	- 5.4 https://learnamo.com/esclamazioni-italiane/
 	- 5.4 https://learnamo.com/errori-comuni-aggettivi/
+	- 5.4 https://learnamo.com/dativo-etico-italiano/
 	- 5.4 https://learnamo.com/bisognare/
 	- 5.4 https://learnamo.com/aggettivi-indefiniti-italiano/
+	- 5.3 https://learnamo.com/verbi-parasintetici/
 	- 5.3 https://learnamo.com/valere-la-pena-italiano/
 	- 5.3 https://learnamo.com/usare-articolo-italiano/
+	- 5.3 https://learnamo.com/suoni-difficili-italiano/
 	- 5.3 https://learnamo.com/pronomi-soggetto-riflessivi/
 	- 5.3 https://learnamo.com/parlare-italiano-fluentemente/
+	- 5.3 https://learnamo.com/non-si-dice-in-italiano/
+	- 5.3 https://learnamo.com/formale-informale-italiano/
 	- 5.3 https://learnamo.com/espressioni-italiane-fare/
+	- 5.3 https://learnamo.com/errori-comuni-pronomi-italiano/
 	- 5.3 https://learnamo.com/ecco-italiano/
 	- 5.3 https://learnamo.com/appunto-italiano/
+	- 5.3 https://learnamo.com/analisi-del-periodo-italiano/
 	- 5.3 https://learnamo.com/5-parole-utili/
+	- 5.2 https://learnamo.com/rendere-fare-italiano/
 	- 5.2 https://learnamo.com/manco-avverbio-italiano/
 	- 5.2 https://learnamo.com/lapostrofo/
+	- 5.2 https://learnamo.com/guida-periodo-ipotetico-facile/
 	- 5.2 https://learnamo.com/espressioni-italiane-chiedere/
+	- 5.2 https://learnamo.com/errori-verbo-succedere-italiano/
+	- 5.2 https://learnamo.com/concordanza-a-senso/
+	- 5.2 https://learnamo.com/analisi-logica-italiano/
+	- 5.2 https://learnamo.com/almeno-perlomeno-italiano/
 	- 5.1 https://learnamo.com/verbo-dare-espressioni/
+	- 5.1 https://learnamo.com/verbi-riflessivi-reciproci/
+	- 5.1 https://learnamo.com/verbi-difettivi-italiano/
+	- 5.1 https://learnamo.com/sovra-sopra-prefissi/
 	- 5.1 https://learnamo.com/proprio/
+	- 5.1 https://learnamo.com/parole-intraducibili/
+	- 5.1 https://learnamo.com/parole-espressioni-difficili/
+	- 5.1 https://learnamo.com/parla-italiano-avanzato/
 	- 5.1 https://learnamo.com/meglio-migliore/
 	- 5.1 https://learnamo.com/infine-finalmente-significato/
+	- 5.1 https://learnamo.com/frasi-italiano-formali/
+	- 5.1 https://learnamo.com/essere-vaghi-in-italiano/
 	- 5.1 https://learnamo.com/espressione-trattarsi-di/
+	- 5.1 https://learnamo.com/da-principiante-a-avanzato/
+	- 5.1 https://learnamo.com/alternative-forse-italiano/
 	- 5.1 https://learnamo.com/aggettivi-italiano-carattere/
 	- 4.9 https://learnamo.com/macche/
 	- 4.9 https://learnamo.com/esprimere-gradimento/
+	- 4.9 https://learnamo.com/dubbi-italiano/
 	- 4.9 https://learnamo.com/alternative-cosa/
 	- 4.8 https://learnamo.com/verso-circa-differenze/
 	- 4.8 https://learnamo.com/verbi-vista/
+	- 4.8 https://learnamo.com/tanto-significato/
+	- 4.8 https://learnamo.com/regole-facoltative-italiano/
 	- 4.8 https://learnamo.com/frasi-italiano-intermedio/
+	- 4.8 https://learnamo.com/essere-ritardo-alternative/
 	- 4.8 https://learnamo.com/esprimere-stupore-italiano/
 	- 4.8 https://learnamo.com/espressioni-preposizione-a/
+	- 4.8 https://learnamo.com/espressioni-italiane-madrelingua/
+	- 4.8 https://learnamo.com/espressione-vabbe-italiano/
 	- 4.8 https://learnamo.com/errori-comuni-italiano/
+	- 4.8 https://learnamo.com/cose-libri-grammatica-non-dicono/
 	- 4.8 https://learnamo.com/come-dire-scusa/
+	- 4.8 https://learnamo.com/alternative-davvero-italiano/
 	- 4.7 https://learnamo.com/sinonimi-tanto-italiano/
+	- 4.7 https://learnamo.com/regole-punteggiatura/
 	- 4.7 https://learnamo.com/raccomandare/
 	- 4.7 https://learnamo.com/pronuncia-italiano-parole/
 	- 4.7 https://learnamo.com/pronto-presto-rapido-italiano/
+	- 4.7 https://learnamo.com/neologismi-italiani/
+	- 4.7 https://learnamo.com/linguaggio-giovanile/
+	- 4.7 https://learnamo.com/intelligenza-artificiale-basta/
 	- 4.7 https://learnamo.com/iniziare-conversazione-italiano/
+	- 4.7 https://learnamo.com/errori-comuni-verbi-italiani/
+	- 4.7 https://learnamo.com/enantiosemia-italiano/
 	- 4.7 https://learnamo.com/dialogo-italiano-farmacia/
+	- 4.7 https://learnamo.com/descrivere-oggetti-italiano/
 	- 4.7 https://learnamo.com/come-fare-colpo/
+	- 4.7 https://learnamo.com/alternative-stanco-italiano/
 	- 4.7 https://learnamo.com/alternative-si-no-italiano/
 	- 4.7 https://learnamo.com/alternative-anglicismi-italiano/
 	- 4.7 https://learnamo.com/affittare-noleggiare-prendere-in-prestito/
 	- 4.6 https://learnamo.com/torta-cioccolato-pere/
 	- 4.6 https://learnamo.com/sinonimi-sono-felice-italiano/
+	- 4.6 https://learnamo.com/parole-parlare-altro-italiano/
 	- 4.6 https://learnamo.com/impara-italiano-online/
+	- 4.6 https://learnamo.com/errori-grammaticali-comuni/
+	- 4.6 https://learnamo.com/anche-io-neanche-io/
 	- 4.5 https://learnamo.com/vocabolario-italiano-incertezza/
 	- 4.5 https://learnamo.com/verbo-piacere-italiano/
+	- 4.5 https://learnamo.com/verbo-ingannare-italiano-alternative/
+	- 4.5 https://learnamo.com/verbi-pronominali-in-italiano/
 	- 4.5 https://learnamo.com/verbi-italiani-conversazione/
 	- 4.5 https://learnamo.com/pronuncia-italiana/
 	- 4.5 https://learnamo.com/preposizioni-luogo/
+	- 4.5 https://learnamo.com/parole-italiane-simili/
 	- 4.5 https://learnamo.com/parla-italiano-frasi-comuni/
 	- 4.5 https://learnamo.com/omissione-articolo-italiano/
 	- 4.5 https://learnamo.com/nomi-collettivi/
@@ -123,22 +222,51 @@
 	- 4.4 https://learnamo.com/sinonimi-occupato-italiano/
 	- 4.4 https://learnamo.com/qualcosa-errori-italiano/
 	- 4.4 https://learnamo.com/prendere-treno-italia/
+	- 4.4 https://learnamo.com/parola-tipo-italiano/
+	- 4.4 https://learnamo.com/parlare-amore-italiano/
+	- 4.4 https://learnamo.com/errori-comuni-preposizioni-italiane/
 	- 4.4 https://learnamo.com/alternative-ho-sonno/
 	- 4.4 https://learnamo.com/alternative-dire-italiano/
 	- 4.4 https://learnamo.com/alternative-circa-italiano/
 	- 4.3 https://learnamo.com/sinonimi-pigro-italiano/
 	- 4.3 https://learnamo.com/pronome-di-cortesia-italiano/
 	- 4.3 https://learnamo.com/persona-indeterminata-italiano/
+	- 4.3 https://learnamo.com/lessico-finanza-economia/
+	- 4.3 https://learnamo.com/dialogo-italiano-stadio-calcio/
+	- 4.3 https://learnamo.com/descrivere-qualcuno-italiano/
+	- 4.3 https://learnamo.com/conversazione-negozio-scarpe-italiano/
 	- 4.2 https://learnamo.com/misteri-lingua-italiana/
+	- 4.2 https://learnamo.com/lessico-palestra-italiano/
+	- 4.2 https://learnamo.com/italiano-omonime-polisemiche/
 	- 4.2 https://learnamo.com/frasi-italiane-arrabbiare/
 	- 4.2 https://learnamo.com/espressioni-tristezza-italiano/
+	- 4.2 https://learnamo.com/espressioni-facciali-italiano/
+	- 4.2 https://learnamo.com/dubbi-forma-di-cortesia/
+	- 4.2 https://learnamo.com/come-manipolare/
 	- 4.2 https://learnamo.com/alternanza-genere-significato/
+	- 4.1 https://learnamo.com/sintassi-italiano/
+	- 4.1 https://learnamo.com/parole-chiave-arte-italiano/
+	- 4.1 https://learnamo.com/lessico-mezzi-trasporto/
+	- 4.1 https://learnamo.com/lessico-macchina-italiano/
+	- 4.1 https://learnamo.com/errori-email-italiano/
 	- 4.1 https://learnamo.com/addirittura-o-a-dirittura-qual-e-la-differenza/
 	- 3.9 https://learnamo.com/situazioni-difficili-lavoro/
+	- 3.9 https://learnamo.com/alternative-a-sono-arrabbiato/
+	- 3.8 https://learnamo.com/vocabolario-matematica-italiano/
+	- 3.8 https://learnamo.com/taxi-italia-espressioni/
+	- 3.8 https://learnamo.com/plurali-doppi-italiano/
 	- 3.8 https://learnamo.com/parolacce/
+	- 3.8 https://learnamo.com/lessico-italiano-musica/
 	- 3.8 https://learnamo.com/lessico-casa-italiano/
 	- 3.8 https://learnamo.com/intervista-colloquio-provino/
+	- 3.8 https://learnamo.com/gossip-lessico-italiano/
+	- 3.8 https://learnamo.com/alternative-verbo-litigare/
+	- 3.7 https://learnamo.com/verbi-cucinare-italiano/
+	- 3.7 https://learnamo.com/scrivere-email/
+	- 3.7 https://learnamo.com/risposte-sarcastiche/
+	- 3.7 https://learnamo.com/lessico-dentista-italiano/
 	- 3.7 https://learnamo.com/auguri-congratulazioni-complimenti/
+	- 3.6 https://learnamo.com/buon-compleanno-anniversario/
 	- 3.5 https://learnamo.com/vocabolario-famiglia-italiano/
 	- 3.5 https://learnamo.com/verbi-per-viaggio-in-italia/
 	- 3.5 https://learnamo.com/risorse-gratuite-italiano/
@@ -152,13 +280,26 @@
 	- 3.5 https://learnamo.com/congratularsi-italiano/
 	- 3.5 https://learnamo.com/come-salutare-italiano/
 	- 3.5 https://learnamo.com/10-mila-iscritti-su-youtube/
+	- 3.4 https://learnamo.com/poliglotta-impara-italiano/
+	- 3.4 https://learnamo.com/parole-inventate-da-scrittori/
 	- 3.4 https://learnamo.com/italiano-errori-punteggiatura/
+	- 3.4 https://learnamo.com/gli-alterati-italiano/
+	- 3.4 https://learnamo.com/10-espressioni-italiane-comuni/
+	- 3.3 https://learnamo.com/lessico-trucchi-italiano/
+	- 3.2 https://learnamo.com/senso-umorismo-italiano/
+	- 3.2 https://learnamo.com/parole-inventate-dante/
+	- 3.1 https://learnamo.com/sinonimi-di-mangiare/
+	- 3.1 https://learnamo.com/recensione-libro-gattopardo/
+	- 2.9 https://learnamo.com/suoni-bocca-italiano/
 	- 2.9 https://learnamo.com/parole-italiane-corte/
 	- 2.9 https://learnamo.com/faccende-domestiche-italiano/
 	- 2.9 https://learnamo.com/espressioni-italiane-cibo/
 	- 2.8 https://learnamo.com/parole-straniere/
+	- 2.8 https://learnamo.com/lessico-giornalistico-italiano/
+	- 2.7 https://learnamo.com/significato-gesti-italiani/
 	- 2.7 https://learnamo.com/lessico-aeroporto-italiano/
 	- 2.7 https://learnamo.com/falsi-amici-italiano-inglese/
+	- 2.6 https://learnamo.com/lavori-in-italiano/
 	- 2.5 https://learnamo.com/vocabolario-cucina-italiano/
 	- 2.5 https://learnamo.com/vocabolario-corpo-umano/
 	- 2.5 https://learnamo.com/versi-animali-italiano/
@@ -171,58 +312,33 @@
 	- 2.5 https://learnamo.com/come-pronunciare-marchi-italiani/
 	- 2.5 https://learnamo.com/come-iniziare-imparare-italiano/
 	- 2.4 https://learnamo.com/lessico-scolastico-italiano/
+	- 2.4 https://learnamo.com/frasi-fatte-in-italiano/
 	- 2.3 https://learnamo.com/sostantivi-aggettivi-invariabili/
 	- 2.3 https://learnamo.com/pronunciare-lettera-r/
+	- 2.3 https://learnamo.com/italiano-non-ha-senso/
+	- 2.2 https://learnamo.com/linguaggio-giovani-slang-rap/
+	- 2.2 https://learnamo.com/accento-italiano/
+	- 2.1 https://learnamo.com/parole-strane-italiano/
+	- 2.1 https://learnamo.com/parole-espressioni-latine/
+	- 1.9 https://learnamo.com/timidezza-lingue-straniere/
 	- 1.9 https://learnamo.com/dialogo-cinema-italiano/
 	- 1.8 https://learnamo.com/vocabolario-criminalita-legge/
+	- 1.8 https://learnamo.com/parole-italiane-belle/
+	- 1.8 https://learnamo.com/imparare-parole-lingua-straniera/
+	- 1.7 https://learnamo.com/scioglilingua-italiani-famosi/
 	- 1.6 https://learnamo.com/vocabolario-parrucchiere-italiano/
+	- 1.6 https://learnamo.com/parlare-italiano-bene/
+	- 1.5 https://learnamo.com/lessico-abbigliamento-italiano/
 	- 1.5 https://learnamo.com/italiano-bambini-stranieri/
 	- 1.5 https://learnamo.com/grammatiche-italiane/
 	- 1.5 https://learnamo.com/dare-pareri-abbigliamento/
-	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
-	- 5.9 https://learnamo.com/verbo-venire-usi-particolari/
-	- 4.6 https://learnamo.com/parole-parlare-altro-italiano/
-	- 5.4 https://learnamo.com/esclamazioni-italiane/
-	- 3.8 https://learnamo.com/lessico-italiano-musica/
-	- 5.2 https://learnamo.com/errori-verbo-succedere-italiano/
-	- 4.4 https://learnamo.com/errori-comuni-preposizioni-italiane/
-	- 4.1 https://learnamo.com/parole-chiave-arte-italiano/
-	- 5.9 https://learnamo.com/ci-cambia-significato/
-	- 3.8 https://learnamo.com/taxi-italia-espressioni/
-	- 4.7 https://learnamo.com/descrivere-oggetti-italiano/
-	- 3.8 https://learnamo.com/gossip-lessico-italiano/
-	- 5.6 https://learnamo.com/chiedere-e-dare-indicazioni-stradali/
-	- 4.6 https://learnamo.com/anche-io-neanche-io/
-	- 3.1 https://learnamo.com/sinonimi-di-mangiare/
-	- 5.1 https://learnamo.com/sovra-sopra-prefissi/
-	- 4.5 https://learnamo.com/verbo-ingannare-italiano-alternative/
-	- 3.1 https://learnamo.com/recensione-libro-gattopardo/
-	- 3.4 https://learnamo.com/gli-alterati-italiano/
-	- 2.8 https://learnamo.com/lessico-giornalistico-italiano/
-	- 5.3 https://learnamo.com/suoni-difficili-italiano/
-	- 5.8 https://learnamo.com/coppie-parole-creano-confusione/
-	- 4.7 https://learnamo.com/intelligenza-artificiale-basta/
-	- 4.6 https://learnamo.com/errori-grammaticali-comuni/
-	- 5.7 https://learnamo.com/egli-in-italiano/
-	- 5.8 https://learnamo.com/grammatica-livello-intermedio/
-	- 5.4 https://learnamo.com/dativo-etico-italiano/
-	- 5.9 https://learnamo.com/migliorare-accento-italiano/
-	- 4.8 https://learnamo.com/essere-ritardo-alternative/
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
+	- 1.2 https://learnamo.com/proverbi-italiani-matrimonio/
+
+- vlogs
+	- https://learnamo.com/cosa-fare-torino/ (con Davide)
+	- https://learnamo.com/bologna-vlog/
+	- https://learnamo.com/vlog-verona/
+	- https://learnamo.com/cosa-fare-padova-veneto/
 
 
 - alphabet
