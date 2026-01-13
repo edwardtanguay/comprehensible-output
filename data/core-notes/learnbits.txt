@@ -1,6 +1,6 @@
 - sources
 	- learnamo: https://learnamo.com/corso-principiante-italiano
-	- currently: https://learnamo.com/abbigliamento-colori/
+	- currently: https://learnamo.com/singolare-e-plurale
 
 - alphabet
 	- pronounce all 26 letters
@@ -8,6 +8,7 @@
 	- which letters have "eh" at the end
 		- F, L, M, N, R, S, Z
 	- what are the foreign letters, and examples of foreign words with those letters
+		- j, k, w, x, y
 		- Jeans, Ketchup, Wurstel, Xbox, Yogurt
 	- which letter is silent but changes the pronunciation of two other letters
 		- H changes C and G
@@ -22,8 +23,12 @@
 - numbers
 	- count from 1 to 10
 		- uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci
+	- count from 11 to 20
+		- undici, dodici, tredici, quattordici, quindici, sedici, diciassette, diciotto, diciannove, venti
 	- count from 10 to 90 by tens
 		- dieci, venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta
+	- i numeri da 20 a 29
+		- venti, ventuno*, ventidue, ventitré, ventiquattro, venticinque, ventisei, ventisette, ventotto*, ventinove
 	- pronounce seven
 		- SETT-eh (not -ay)
 	- pronounce 15
@@ -95,7 +100,13 @@
 	- in che ordine si scrivono le date in italiano?
 		- l'ordine per scrivere o dire le date in italiano è: giorno + mese + anno
 		- esempio: 5 maggio 2024
-- come dire l'ora
+- dire l'ora
+	- quali sono alcune frasi per chiedere che ora sono
+		- che ora è?
+		- che ore sono?
+		- sai che ore sono?
+		- mi dici che ore sono?
+		- potresti dirmi che ore sono?	
 	- come dire l'ora del giorno quando è proprio l'ora
 		- sono le dieci
 		- sono le quattro
@@ -107,12 +118,17 @@
 		- sono le cinque meno dieci
 		- sono le otto meno un quarto
 	- come dire l'ora del giorno utilizzando i periodi della giornata
-		- le dieci del mattino
+		- le dieci del mattina
 		- le quattro del pomeriggio
 		- le nove di sera
-		- le due di nott.
-
-		
+		- le due di notte
+		- è mezzogiorno
+		- è mezzanotte
+	- qual è un modo per abbreviare le frasi che indicano l'ora
+		- puoi omettere la parola "sono"
+		- esempi
+			- che ore sono / le quattro e mezza
+			- che ore sono / le dieci del mattino
 - le stagioni
 	- quali sono le quattro stagioni
 		- primavera
@@ -201,7 +217,183 @@
 		- esempio
 			- scarpe verde chiaro
 			- ma scarpe verdi
+- gli articoli 
+	- quali sono le regole per l'articolo determinativo femminile
+		- metti "la" prima di nomi femminili: 
+			- la casa, la strada, la rosa, la spaggia
+		- eccetto i nomi che iniziano con un suono vocalico
+			- l'isola, l'ancora, l'iniziativa
+			- eccezione: la iena
+	- quali sono le regole per l'articolo determinativo maschile
+		- metti "le" prima di nomi maschile
+			- il cane, il ristorante, il quadro
+		- eccetto i nomi che iniziano con uno di questi
+			- vocale
+				- ma qui vale la stessa regola di "la" con le parole che iniziano con un valore
+				- quindi invece di "lo albero", hai "l'albero"
+			- x, y, z
+				- lo yogurt, lo zucchero
+			- x + consonante
+				- lo sport
+			- gn, pn, ps:
+				- lo gnomo, lo pneumatico, lo psicologo
+			- i + vocale
+				- lo iato
+	- qual è l'articolo determinativo plurale femminile
+		- le
+		- esempi
+			- le case, le strade, le rose
+		- anche davanti alle parole che iniziano per vocale
+			- l'isola, le isole
+	- quali sono gli articoli determinativi per i nomi maschili?
+		- se l'articolo singolare è "il" allora usa "i"
+			- i cani, i ristoranti, i quadri
+		- se l'articolo singolare è "lo" allora usa "gli"
+			- gli alberi, gli zuccheri, gli sport, gli psicologi
+	- quali sono le regole per gli articoli indeterminati
+		- "la" diventa "una" o "un'"
+			- una casa, una strada, una rosa
+			- un'amica
+		- "il" diventa "un" 
+			- un cane, un ristorante, un quadro
+		- "il" diventa "un" anche per i nomi che iniziano con una vocale
+			- l'albero ma un albero
+		- per il resto dei casi speciali, usa "uno"
+			- uno yogurt, uno zucchero, uno zaino
+			- uno sport
+			- uno gnomo, uno pneumatico, uno psicologo
+			- uno iato
+	- quali sono le regole per gli articoli partitivi
+		- "la" diventa "della"
+			- della pasta, della marmellata 
+		- "il/lo" diventono "del/dello"
+			- del pane, del formaggio 
+			- dello zucchero, dello stufato
+		- "le" diventa "delle"
+			- delle case, delle strade, delle rose, delle isole
+		- "i/gli" diventono "dei/degli"
+			- nel parco ci sono dei cani che giocano vicino al lago
+			- a scuola abbiamo parlato degli sport più seguiti in Italia
+	- quali sono le regole generali di utilizzo degli articoli
+		- non prima di un nome
+			- Maria ma la signora Maria 
+		- prima di un cognome
+			- i Rossi / i Bruno
+- genere
+	- quali sono le eccezioni alla regola a=femminile / o=maschile?
+		- il problema, il tema, il pianista
+		- la mano, l’eco
+	- quali gruppi di nomi tendono ad essere femminili
+		- di frutti
+			- la mela, la banana, la fragola
+		- di scienze e discipline
+			- la matematica, la fisica, la pedagogia
+		- di attività militari
+			- la guardia, la pattuglia
+		- di città, isole, regioni, stati, continenti
+			- la Corsica, la Germania, la Puglia, l'Australia
+	- quali gruppi di nomi tendono ad essere maschile
+		- di alberi: il pero, il pesco, il mandorlo, il pino
+		- di metalli ed elementi chimici: il piombo, l’azoto, l’idrogeno
+		- di mesi e giorni: un bel maggio, un bel giovedì
+	- a quali parole aggiungi -esse per renderle femminili
+		- professore → professoressa
+		- studente → studentessa
+	- quali parole maschili si traducono in -trice al femminile
+		- attore → attrice
+		- traduttore → traduttrice
+	- quali sono nomi di genere comune
+		- il/la giornalista, il/la turista, un/un’insegnante, il/la giudice
+- singolare e plurale 
+	- quale percentuale di nomi italiani terminano con una vocale
+		- 98%
+	- quali sono i tre modi per formare il plurale
+		- nomi uscenti in -a
+			- maschile: -i
+				- il pianista, i pianisti
+				- ca -> chi: il monarca -> i monarchi
+			- femminile: -e
+				- la montagna, le montagne
+				- cia -> cie: la farmacia -> le farmacie
+				- ca -> che: l'amica -> le amiche
+				- ga -> ghe: la bottega -> le botteghe
+				- gia -> ge: la pioggia -> piogge
+				- scia -> sce: la fascia -> la fasce
+		- nomi uscenti in -e
+			- maschile: -i
+				- il maglione, i maglioni
+			- femminile: -i
+				- la classe, le classi
+		- nomi uscenti in -o
+			- maschile: -i
+				- il tavolo, i tavoli
+				- co -> chi: il pacco -> i pacchi
+				- cio -> ci: il bacio -> il baci
+			- femminile: -i
+				- la mano, le mani
+		- eccezioni
+			- il dito – le dita
+			- il ginocchio – le ginocchia
+			- l'uovo – le uova
+			- il lenzuolo – le lenzuola
+			- l'osso – le ossa
+			- l'orecchio – le orecchie
+			- il migliaio – le migliaia
+			- il centinaio – le centinaia
+			- il braccio – le braccia  
+			- l'uomo – gli uomini
+			- l'arma – le armi
+	- nomi che non cambiano al plurale
+		- nomi composti da una sola sillaba
+			- il re / i re
+		- nomi che terminano con una vocale accentata
+			- l'attività / le attività
+		- nomi che terminano in -i
+			- la crisi / le crisi
+		- alcuni nomi maschili che terminano in -a: 
+			- il sosia / i sosia
+		- nomi femminili che terminano in -ie
+			- la carie / le carie 
+			- tranne 
+				- la moglie / le mogli 
+				- la superficie / le superfici
+		- nomi che sono abbreviazioni di altri
+			- la foto(grafia) / le foto
+			- la moto(cicletta) / le moto
+		- nomi stranieri e terminanti per consonante
+			- il computer / i computer
+			- il dvd / i dvd
+			- il bar / i bar
+	- quali nomi hanno solo il singolare
+		- nomi non numerabili
+			- il sonno, la fame
+		- molti nomi che esprimono qualità, sentimenti, entità astratte
+			- il coraggio, la generosità
+		- nomi appartenenti a linguaggi settoriali
+			- la fisica, l’azoto, la matematica
+	- quali nomi hanno solo il plurale
+		- nomi che si riferiscono a oggetti formati da due componenti o a gruppi di componenti dello stesso genere
+			- i forbici, i calzoni, le stoviglie, i viveri
+		- molti nomi che vengono dal latino
+			- le ferie
+	- qual è il plurale di "amica"
+		- amiche
+	- qual è il plurale di "uomo"
+		- uomini
+	- qual è il plurale di "bacio"
+		- baci
+- nnn
+	- quali sono i tre gruppi
+		- egotist(a)
+		- trist(e)
+		- car(o) --> singulare o/a, plurale i/e
+			- il caro uomo
+			- i cari uomini 
+			- la cara donna
+			- le care donne
+		
 			
+
 		
 ===TODO===		
 - parole utili per parlare del tempo
