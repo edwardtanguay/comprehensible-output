@@ -1,10 +1,9 @@
 - todo
 	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
-	- .. 5.9 https://learnamo.com/verbi-preposizioni-italiano/
-sperare 
+	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
+	- .. 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 
 
-	- 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/pronomi-complemento/
 	- 5.9 https://learnamo.com/preposizioni-articolate/
@@ -724,7 +723,10 @@ sperare
 		- uomini
 	- qual è il plurale di "bacio"
 		- baci
-- gli aggettivi 
+- gli aggettivi
+	- TODO: research this more
+		- ChatGPT: In italiano esistono due grandi classi di aggettivi, aggettivi in -o, aggettivi in -e
+		- ChatGPT: Alcuni aggettivi che terminano in -ista (es. ottimista, pessimista, nazionalista) sono uguali per maschile e femminile al singolare e cambiano solo al plurale (-i/-e).
 	- quali sono i tre gruppi
 		- egotist(a) --> masc a/i, fem a/e
 			- uno studente egoista, due studenti egoisti
@@ -944,6 +946,70 @@ sperare
 			- siamo tristi di ascoltare la brutta notizia 
 			- sono preoccupati di non riuscire a pagare l'affitto 
 	- verbi che reggono la preposizione a + infinito
+		- INFO
+			- (mneumonic: Frau Meister)
+		- abituarsi
+			- mi sono abituato ad andare a letto presto
+				- a + andare → ad andare
+			- sono abituato a leggere dieci pagine al giorno
+		- accompagnare
+			- ho accompagnato i turisti a visitare la piazza della città
+		- aiutare
+			- l'ho appena aiutata a sistemare il suo armadio
+			- li aiuterò a scrivere quei documenti
+		- andare
+			- non siamo ancora andati a fare la spesa
+			- andremo a correre tra 15 minuti
+		- arrivare
+			- non sono ancora arrivati a darsi del tu
+			- ma: finalmente è arrivato al punto di pulire la sua stanza (Google Translate)
+			- "'arrivare al punto a' non esiste in italiano standard" (ChatGPT)
+		- cominciare / iniziare
+			- ho cominciato a scrivere un libro quando loro hanno iniziato a lavorare
+			- cominciò a contare fino a dieci (ho cominciato)
+		- continuare
+			- avete continuato a scambiarvi messaggi anche dopo la lite
+			- abbiamo intenzione di continuare a guidare per ore
+		- imparare / insegnare
+			- ho imparato a cucinare grazie a mia nonna
+			- il ragazzo ha imparato ad andare in bicicletta
+			- vi sto insegnando a usare i verbi con le giuste preposizioni
+			- ci insegneranno a cucinare
+		- limitarsi
+			- non ti limitare a scrivergli un messaggio: chiamalo
+		- mandare
+			- ho mandato il bambino a lavarsi i denti
+		- mettersi
+			- tutti si sono messi a ridere quando mi sono messa a cantare
+		- provare
+			- se vuoi dimagrire, prova a mangiare più verdure
+			- prova a continuare a lavorare da casa
+		- rimanere / restare
+			- cercare di rimanere a galla nell'acqua
+			- è rimasto a lavorare fino a tardi
+			- se piove, restiamo a studiare invece di uscire	
+		- ricominciare
+			- ha ricominciato a fumare
+		- riuscire
+			- non riesco a camminare perché ho dolore al piede
+		- uscire
+			- esci a fare due passi
+		- venire 
+			- vengo a prenderti alle 6 per andare al cinema
+	- esempi di "per + infinito" per esprimere un obiettivo per cui si fa qualcosa
+		- medito ogni giorno per alleviare lo stress
+		- comprerò tutti gli ingredienti per preparare la torta che ti piace tanto
+	- esempi con "da" dpop "niente", "qualcosa", "nessuno"
+		- oggi non ho niente da fare
+		- c'è qualcosa da mangiare in frigo
+		- non c'è nessuno da visitare oggi
+	- UNORDERED
+		- i bambini hanno paura __ restare soli al buio
+			- di
+		- Luigi è partito da Roma stamattina alle 8
+			- da
+
+
 
 
 ===TODO===		
@@ -960,3 +1026,4 @@ sperare
 - falsi amici
 	- la comparsa di qualche cosa
 	- la causa di ciò che compare
+	- È ancora un bambino: non possiamo pretendere troppo da lui!
