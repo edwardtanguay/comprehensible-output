@@ -1,6 +1,8 @@
 - todo
 	- .. 5.9 https://learnamo.com/verbo-venire-usi-particolari/
-		- 1 – VENIRE nella forma passiva
+5 – Con i prezzi
+
+
 	- 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
@@ -787,7 +789,47 @@
 		- 2) muoversi nella direzione della persona che parla o della persona con cui si parla
 			- vieni, è pronto il caffè
 			- la prossima settimana veniamo a trovarti nella tua nuova casa
-		
+	- per costruire il tempo passivo, quando puoi sostituire "essere" con "venire"
+		- quando "essere" ha una coniugazione semplice, ma non quando ha una coniugazione composta
+		- questo è permesso
+			- le esibizioni saranno valutate dai giudici
+			- le esibizioni verranno valutate dai giudici
+		- questo non è permesso
+			- il libro è stato scritto da Mattia
+			- NON CORRETTO: il libro è venuto scritto da Mattia
+	- qual è la piccola differenza tra l'uso di "essere" o "venire" per il tempo passivo
+		- le porte del negozio sono chiuse alle 8 ogni sera
+			- non è chiaro se il blocco avviene alle 8 o prima
+			- magari l'azione è successa molto prima
+		- le porte del negozio vengono chiuse alle 8 ogni sera
+			- è chiaro che il blocco avviene alle 8
+	- come si può usare "venire" con "fuori"
+		- per esprimere il significato: venire alla luce, essere scoperto 
+			- dalle indagini sono venuti fuori dei dettagli molto preoccupanti
+			- prima o poi la notizia della loro separazione verrà fuori
+		- per esprimere il significato: avere delle uscite inaspettate
+			- Luigi viene sempre fuori con una battuta delle sue
+			- sei proprio strano, vieni sempre fuori con certi discorsi filosofici! Ti ricordo che stiamo giocando a tennis! 
+	- come usare "venire" in questo modo con il significato di "apprendere" o "acquisire conoscenza"
+		- siamo venuti a scoprire che ci avete tradito, perciò non possiamo fare altro che licenziarvi
+		- sono venuto a sapere da lei quello che hai fatto, ma non ti vergogni neanche un po'
+		- era venuta a conoscenza della loro relazione: per questo era su tutte le furie
+	- come usare "venire" per indicare la comparsa di qualche cosa, che è stata provocata da qualcos'altro
+		- con un oggetto indiretto (mi, a lei, mi) + un nome 
+			- mi viene la nausea quando mangio una torta troppo dolce
+			- a lei è venuto il mal di testa, per questo è andata a letto
+			- non mi viene in mente il nome di quello scienziato di cui stavamo parlando
+		- con un oggetto indiretto (che indica la persona) + "da" + un verbo all'infinito
+			- ogni volta che ascolto questa canzone mi viene da piangere
+			- se entro in quella stanza polverosa, mi verrà da starnutire
+		- nella costruzione "far venire", quando il soggetto della frase è ciò che provoca la cosa in questione (oggetto diretto) + oggetto indiretto, ma è possibile SOLO quando si conosce la causa di ciò che compare
+			- mi viene la nausea quando mangio una torta troppo dolce
+				- una torta troppo dolce mi fa venire la nausea
+			- ogni volta che ascolto questa canzone mi viene da piangere
+				- questa canzone mi fa venire da piangere ogni volta
+			- se entro in quella stanza polverosa, mi verrà da starnutire
+				- quella stanza polverosa mi farà venire da starnutire
+
 ===TODO===		
 - parole utili per parlare del tempo
 	sempre → always
@@ -799,3 +841,6 @@
 	raramente / di rado → rarely
 	quasi mai → almost never
 	mai → never
+- falsi amici
+	- la comparsa di qualche cosa
+	- la causa di ciò che compare
