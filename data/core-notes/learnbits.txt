@@ -1,9 +1,9 @@
 - todo
-	- .. 5.9 https://learnamo.com/verbo-venire-usi-particolari/
-5 – Con i prezzi
+	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
+	- .. 5.9 https://learnamo.com/verbi-preposizioni-italiano/
+sperare 
 
 
-	- 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/pronomi-complemento/
@@ -793,10 +793,12 @@
 		- quando "essere" ha una coniugazione semplice, ma non quando ha una coniugazione composta
 		- questo è permesso
 			- le esibizioni saranno valutate dai giudici
-			- le esibizioni verranno valutate dai giudici
+				- le esibizioni verranno valutate dai giudici
+			- la casa è costruita
+				- la casa viene costruita
 		- questo non è permesso
 			- il libro è stato scritto da Mattia
-			- NON CORRETTO: il libro è venuto scritto da Mattia
+				- NON CORRETTO: il libro è venuto scritto da Mattia
 	- qual è la piccola differenza tra l'uso di "essere" o "venire" per il tempo passivo
 		- le porte del negozio sono chiuse alle 8 ogni sera
 			- non è chiaro se il blocco avviene alle 8 o prima
@@ -829,6 +831,120 @@
 				- questa canzone mi fa venire da piangere ogni volta
 			- se entro in quella stanza polverosa, mi verrà da starnutire
 				- quella stanza polverosa mi farà venire da starnutire
+	- come usare "venire" per esprimere il prezzo di qualcosa
+		- bella questa lampada: quanto viene
+		- se decidessi di far riparare a lei la mia macchina, quanto mi verrebbe
+		- preferisco comprare i vestiti su internet perché mi vengono a costare molto meno
+		- dunque, la camicia verrebbe 50€, ma siccome lei può usufruire dello sconto, le viene solo 35
+		- quanto viene questa pizza
+	- come usare "venire" per esprimere i risultati
+		- come è venuto il mio disegno secondo te
+		- a me non piace proprio come è venuto
+		- questo problema di matematica proprio non mi viene
+		- secondo il libro, viene 55, ma a me viene 245
+	- come si dice "get to the point"
+		- venire al dunque
+	- come si dice "it makes me laugh"
+		- mi viene da ridere
+	- come si dice "it comes to mind that..."
+		- mi viene in mente che...
+- verbi-preposizioni
+	- verbi che reggono la preposizione di + infinito
+		- (mneumonic: Friedhofsturm)
+		- accettato di
+			- il mio capo ha accettato di darmi un aumento 
+		- accontentarsi di
+			- non ci accontentiamo di guadagnare 1000€, noi vogliamo essere ricchi
+		- ammettere di
+			- finalmente dopo un litigio di due ore ha ammesso di aver sbagliato
+		- augurare/augurarsi di
+			- ti auguro di trovare la tua anima gemella e di vivere una vita felice
+			- mi auguro di stare meglio domani così posso partecipare al vostro matrimonio
+		- cercare/tentare di
+			- hanno cercato di fermarlo, ma non ha voluto sentire ragioni
+			- ha tentato di farlo
+			- ma --> provare a
+				- ha provato a trovarlo
+		- chiedere di
+			- non ti chiedo di perdonare, ma solo di capire le sue azioni
+			- mi ha chiesto di restituire il libro
+		- credere di
+			- crediamo di sapere la ragione per cui lei non è venuta alla festa
+			- credono di aver trovato l'assassino
+			- crediamo di avere ragione
+			- nota se soggetto/oggetto non sono la stessa cosa
+				- crediamo che voi abbiate ragione
+		- decidere di
+			- ho deciso di dargli una seconda possibilità
+			- ha deciso di creare un'app
+		- dimenticarsi di
+			- mi sono dimenticata di spegnere le luci quando sono uscita di casa
+			- ci siamo dimenticati di iscriverci alla gara
+		- dire di
+			- gli ho detto di andare via per il suo bene
+			- ci diranno di restituire le bottiglie
+		- dispiacere di
+			- gli dispiaceva di non aver comprato dei fiori per sua madre
+			- gli dispiaceva di aver speso così ta  nto
+			- mi è dispiaciuto aver speso così tanto
+		- evitare di
+			- evitiamo di parlare di quest'argomento in futuro
+			- eviteranno di fumare sigarette in futuro
+		- fingere di 
+			- fingeremo di non conoscerlo durante il colloquio
+			- stavano fingendo di dormire quando lei è arrivata
+		- finire di
+			- ho appena finito di lavorare al nuovo progetto: è pronto
+			- finirò di lavorare a mezzogiorno oggi
+		- minacciare
+			- ha minacciato di dire tutta la verità alla polizia
+			- minaccerebbe di usare la forza se necessario
+		- ordinare
+			- ci hanno ordinato di tenere la bocca chiusa
+			- gli è stato ordinato di lasciare l'edificio
+		- pensare
+			- penso di dover andare dal medico per questo dolore
+			- pensavo di partire domani, però ora non ne sono più sicuro
+			- pensiamo di cambiare approccio
+			- penseremo di tornare quando saremo lì
+		- permettere / proibire
+			- ci hanno permesso di vederlo, ma ci hanno proibito di parlargli
+			- la legge ti proibisce di andartene
+		- promettere
+			- ti ha promesso di venire stasera
+			- promettono di arrivare presto ma non lo faranno
+		- ricordare / ricordarsi
+			- si è appena ricordato di essere allergico ai pistacchi
+			- si ricordavano di aver pranzato qui prima
+		- ripetere
+			- la professoressa ci ripete sempre di praticare l'italiano il più possibile
+			- I told him to call me before arriving
+		- rischiare
+			- lavandosi i denti due volte, rischiava di arrivare in ritardo
+			- ho rischiato di rompermi un braccio per recuperare la palla sull'albero
+		- sapere
+			- lei sa di essere più simpatica di sua sorella
+			- sanno di fare più del necessario
+		- smettere
+			- smetti di parlare per favore
+			- smetteresti di correre se ti facessi male
+		- sperare
+			- sperano di fare una vacanza tutti insieme quest'estate
+			- sperando di partire presto, preparò lo zaino (ha preparato)
+		- temere
+			- temo di essere ripetitivo ma ho bisogno di sapere cosa ne pensi
+		- terminare
+			- se terminate presto di fare i compiti, potrete giocare
+			- finiranno di discutere tra dieci minuti
+		- essere + sentimento
+			- sono felice di conoscere tua sorella
+			- siamo lieti di vedere che state bene
+			- siamo fieri di fare parte del vostro team
+			- è orgogliosa di mostrare a tutti il suo lavoro
+			- siamo tristi di ascoltare la brutta notizia 
+			- sono preoccupati di non riuscire a pagare l'affitto 
+	- verbi che reggono la preposizione a + infinito
+
 
 ===TODO===		
 - parole utili per parlare del tempo
