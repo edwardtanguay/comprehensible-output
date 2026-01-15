@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-15 07:19:37
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Per ora posso lasciar perdere", "quale preposizione dobbiamo usare con le stagioni?", "questa è una sorpresa per me", "ora possiamo continuare", "quale preposizione usiamo con", "parole relative all'ora del giorno", "momenti della giornata", "Lo cercherò", "Non conosco quella parola", "Non conosco quella parola, cosa significa?", "nel", "Vediamo se hai appreso i contenuti di questa lezione", "compila lo spazio vuoto", "Spero che abbia funzionato", "fra poco", "Studio italiano da un anno", "ogni tanto", "addirittura", "ormai", "mica".
+======================================================================================
 2026-01-14 07:36:38
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

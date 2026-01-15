@@ -2,6 +2,7 @@
 	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
 	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- .. 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
+		- PASSATO PROSSIMO
 
 
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
