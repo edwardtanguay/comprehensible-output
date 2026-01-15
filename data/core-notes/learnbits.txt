@@ -4,7 +4,7 @@
 	- x 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- x 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- ..5.9 https://learnamo.com/pronomi-complemento/
-
+2) I pronomi complemento 
 
 	- 5.9 https://learnamo.com/preposizioni-articolate/
 	- 5.9 https://learnamo.com/passato-remoto-italiano/
@@ -1160,6 +1160,33 @@
 		- hai
 	- voglio che tu ___ ragione
 		- abbia
+- pronomi complemento
+	- come usare pronomi complemento dopo una preposizione
+		- usa semplicemente il pronome base: me, te, lui, lei, noi, voi, loro
+		- ha sempre parlato bene di sua sorella
+			- di lei
+		- vado sempre a teatro con il mio fidanzato
+			- con lui
+		- hanno portato un pacco per i miei zii 
+			- per loro 
+		- devi dire tutto a me e alla mia amica 
+			- a noi 
+	- come usare pronomi complemento quando rispondono alla domanda "Chi? Che cosa?"
+		- usa questi moduli: mi, ti, lo, la, ci, vi, li, le
+		- Paolo mi sogna
+		- Paolo ti accusa
+		- Paolo compra il libro
+			- Paolo lo compra
+		- Paolo ascolta sua madre 
+			- Paolo la ascolta
+		- Paolo indica me e Carlo
+			- Paolo ci indica
+		- Paolo sogna te e il tuo cane
+			- Paolo vi sogna
+		- Paolo rimprovera i suoi figli
+			- Paolo li rimprovera
+		- Paolo mangia le patatine 
+			- Paolo le mangia
 
 ===TODO===		
 - parole utili per parlare del tempo
