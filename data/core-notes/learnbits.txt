@@ -1,11 +1,11 @@
 - todo
 	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
 	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
-	- .. 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
-TRAPASSATO PROSSIMO
+	- x 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
+	- x 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
+	- ..5.9 https://learnamo.com/pronomi-complemento/
 
-	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
-	- 5.9 https://learnamo.com/pronomi-complemento/
+
 	- 5.9 https://learnamo.com/preposizioni-articolate/
 	- 5.9 https://learnamo.com/passato-remoto-italiano/
 	- 5.9 https://learnamo.com/passato-prossimo-participio-passato/
@@ -1096,8 +1096,70 @@ TRAPASSATO PROSSIMO
 		- andai, andasti, andò, andammo, andaste, andarono
 	- come si coniuga la passato remoto per il verbo venire
 		- venni, venisti, venne, venimmo, veniste, vennero
+	- come si coniuga la passato remoto per il verbo nascere
+		- nacqui, nascesti, nacque, nasquemmo, nasceste, nasquero
+- trapassato remoto
+	- quali sono gli usi di trapassato prossimo
+		- per esprime un fatto avvenuto prima di un altro passato (espresso al passato remoto)
+			- non appena ebbe finito il progetto, lo consegnò al suo capo
+				- il fatto di finire il progetto è accaduto prima di quello di consegnarlo
+				- spero che io vada a Firenze a maggio 
 
-
+- congiuntivo
+	- quando non si usa il congiuntivo
+		- non si usa quando il soggetto della principale e il soggetto della subordinata sono uguali 
+			- usiamo invece l'infinito introdotto da "di"
+			- NO: spero che io vada a Firenze a maggio 
+				- sì: spero che di andare a Firenze a maggio
+			- NO: credete che siate in ritardo 
+				- sì: credete di essere in ritardo
+		- non si usa con le espressioni: secondo me, probabilmente, forse, anche se 
+			- nonostante non indichino certezza
+			- spero che abbia il libro
+				- secondo me ha il libro
+			- dubito che lui ce l'abbia
+				- ma probabilmente ce l'ha lei
+			- temo che non sia puntuale
+				- forse non è puntuale
+			- dubito che vada a lavorare
+				- anche se non ne ha voglia, va a lavorare
+				- MA: anche se vivessi in California, non vorrei andare a lavoro
+		- non si usa con le espressioni: poiché, siccome, dopo che, dato che 
+			- dubito che ce l'abbia
+				- poiché nessun altro ce l'ha, ce l'ha lui
+				- perché nessun altro ce l'ha, ce l'ha lui
+			- temo che non si parlino più
+				- Siccome hanno litigato, ora non si parlano più
+			- dubito che possiate giocare 
+				- dopo che fate i compiti, potete giocare
+			- lui ha paura che io non vada a fare la spesa
+				- dato che ne ho abbastanza, non vado a fare la spesa
+		- non si usa con aggettivi che esprimono certezza: certo, sicuro, convinto, chiaro, evidente, ovvio
+			- dubito che abbiate avuto abbastanza tempo
+				- è ovvio che non avete avuto abbastanza tempo: altrimenti avreste finito il progetto
+			- dubito che i bambini amassero giocare nel parco
+				- era evidente che i bambini amavano giocare nel parco
+		- non si usa con verbi dichiarativi (affermare, confermare, dichiarare, dire, giurare, promettere, rispondere, scrivere, sostenere, spiegare)
+			- dice che non siete andati alla sua festa
+			- hanno risposto che non sono andati perché dovevano lavorare
+		- non si usa con verbi che esprimono percezione: accorgersi, intuire, notare, percepire, scoprire, sentire, vedere
+			- vi siete accorti che hanno trasferito il negozio
+			- ho scoperto che hai comprato una casa in montagna
+			- vedo che non hai ascoltato i miei consigli
+	- quali verbi che prendono sia l'indicativo che il congiuntivo, con significati diversi
+		- ammettere
+			- ha ammesso che la fidanzata lo ha lasciato (riconoscere)
+			- ammettendo che lui stia dicendo la verità, ci sono ancora troppi lati oscuri nella vicenda (supporre)
+		- capire
+			- ho capito che avevi ragione (rendersi conto)
+			- capiamo che tu voglia andare via, ma ora è presto (trovare naturale)
+		- considerare
+			- considera che avete già preso un giorno libero, non ne avrete un altro (tener conto)
+			- state considerando che possano tornare prima del previsto (supporre)
+	- mi sembra che tu ___ ragione
+		- hai
+	- voglio che tu ___ ragione
+		- abbia
 
 ===TODO===		
 - parole utili per parlare del tempo
