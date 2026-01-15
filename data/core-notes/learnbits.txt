@@ -2,8 +2,7 @@
 	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
 	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- .. 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
-		- PASSATO PROSSIMO
-
+TRAPASSATO PROSSIMO
 
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/pronomi-complemento/
@@ -1010,6 +1009,93 @@
 		- Luigi è partito da Roma stamattina alle 8
 			- da
 
+- passato prossimo
+	- quali sono gli usi di passato prossimo
+		- per indicare un fatto che ha avuto luogo in un passato recente 
+			- ieri sono andata alla festa
+			- poi il dj ha messo la musica 
+		- per indicare un fatto che ha avuto luogo nel passato ma che ha conseguenze nel presente
+			- ho perso le chiavi
+				- l'azione è passata, ma la conseguenza è presente: ora non puoi entrare
+			- hai rotto il telefono
+				- il gesto è passato, ma il problema esiste nel presente: il telefono non funziona
+- imperfetto
+	- quali sono gli usi di imperfetto 
+		- per indicare abitudini del passato
+			- da piccola non amava festeggiare
+		- per descrizioni nel passato
+			- la festa era in un locale molto bello
+			- nel locale c'erano molti palloncini 
+			- gli invitati erano moltissimi
+		- per esprimere azioni in svolgimento nel passato interrotte da altre 
+			- mentre entravo con il mio vestito nuovo sono inciampata
+		- per esprimere contemporaneità nel passato
+			- io ero per terra e tutti ridevano
+- trapassato prossimo
+	- quali sono gli usi di trapassato prossimo
+		- per esprimere un'azione avvenuta prima di un'altra nel passato (espressa con imperfetto, passato prossimo o passato remoto).
+			- io avevo comprato un bel vestito per l'occasione
+			- non avevo mai partecipato ad una festa così straordinaria
+- passato remoto 
+	- quali sono gli usi di passato remoto
+		- per indicare un fatto avvenuto e concluso nel passato
+			- si svegliò, si ricordò di non dover andare a lavoro e si addormentò di nuovo
+		- si usa quando si recitano testi narrativi
+	- quali regioni d’italia parlano le persone usando il passato remoto
+		- soprattutto nel Sud Italia
+		- ma non è uniforme, né obbligatorio
+		- dipende dal contesto, dall’età, dal registro
+		- Sud Italia: è usato qui
+			- Sicilia 
+				- uso molto frequente anche nel parlato informale
+			- Calabria 
+				- abbastanza comune nel parlato
+			- Puglia 
+				- soprattutto nel racconto di fatti lontani
+			- Campania 
+				- usato, ma meno sistematicamente
+			- Basilicata
+				- presente, specie nei racconti
+		- Sardegna
+			- il passato remoto nel parlato italiano è poco usato
+			- la Sardegna fa storia a sé
+				- il sardo ha strutture diverse dall'italiano
+				- quando i sardi parlano italiano tendono a usare forme più vicine all'italiano standard, cioè il passato prossimo
+			- la differenza tra le isole
+				- Sicilia: andai è naturale
+				- Sardegna: sono andato è naturale
+		- Lazio
+			- l’uso del passato remoto nel parlato è raro
+			- a Roma e dintorni → si usa quasi sempre il passato prossimo, anche per fatti lontani
+			- il Lazio non si comporta come il Sud classico
+			- ti verrebbe naturale dire “andai ieri” a Roma? No. Diresti “sono andato”.
+		- Centro Italia
+			- Toscana, Umbria, Marche
+			- si capisce bene, ma nel parlato quotidiano si preferisce il passato prossimo
+		- Nord Italia 
+			- Lombardia, Veneto, Piemonte, Emilia-Romagna, ecc.
+			- il passato remoto quasi non si usa parlando
+			- resta confinato allo scritto (letteratura, storia)
+			- qui ci si chiede: perché usare il remoto se il prossimo funziona per tutto
+	- come si coniuga la passato remoto per i verbi -are
+		- ai, asti, ò, ammo, aste, arono
+	- come si coniuga la passato remoto per i verbi -ere
+		- etti, esti, ette, emmo, este, ettero
+		- ei, ------, é, -------, ----, erono
+	- come si coniuga la passato remoto per i verbi -ire
+		- ii, isti, ì, immo, iste, irono
+	- come si coniuga la passato remoto per il verbo essere
+		- fui, fosti, fu, fummo, foste, furono
+	- come si coniuga la passato remoto per il verbo avere
+		- ebbi, avesti, ebbe, avemmo, aveste, ebbero
+	- come si coniuga la passato remoto per il verbo fare
+		- feci, facesti, fece, facemmo, faceste, fecero
+	- come si coniuga la passato remoto per il verbo dire
+		- dissi, dicesti, disse, dicemmo, diceste, dissero
+	- come si coniuga la passato remoto per il verbo andare
+		- andai, andasti, andò, andammo, andaste, andarono
+	- come si coniuga la passato remoto per il verbo venire
+		- venni, venisti, venne, venimmo, veniste, vennero
 
 
 
