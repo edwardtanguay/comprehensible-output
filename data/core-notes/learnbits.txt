@@ -1443,7 +1443,41 @@
 				- devo mangiarle oggi, altrimenti queste fragole andranno a male
 				- dopo essersi svegliato, ha iniziato a vestirsi in silenzio
 				- posso capirlo
-		- 
+		- preceduto le preposizioni
+			- dipende da un sostantivo
+				- ho raccolto dei vestiti da donare in beneficienza
+				- abbiamo terminato il progetto da consegnare al cliente domenica
+				- hanno appena scritto una lettera da inviare ai loro parenti
+			- dipende da un verbo
+				- vado a fare la spesa al supermercato tutte le settimane
+				- prova a dormire almeno 8 ore per notte
+				- ricordami di innaffiare le piante
+				- non riesco a dormire
+		- nelle forme implicite
+			- so di essere molto alta
+			- credo di avere la febbre
+			- penso di aver esagerato con il vino
+		- con alcune congiunzioni: dopo, senza, primi di
+			- potrai uscire con i tuoi amici solo dopo aver fatto i compiti
+			- questa mattina sono uscita di casa senza essermi pettinata i capelli
+			- prima di cenare, dobbiamo chiamare la nonna
+			- mangia senza fare rumore
+		- infinito sostantivato
+			- se i verbi non hanno un sostantivo derivato o se questo è poco usato
+				- ho chiuso con lo svegliarmi presto la mattina
+				- con il passare del tempo, abbiamo notato dei cambiamenti in lui
+				- considero il tuo bere un po' eccessivo
+		- per istruzioni e ordini
+			- si trova spesso in ricette oppure in manuali d'istruzione
+				- versare il latte nella ciotola
+				- rompere le uova
+				- attaccare il dispositivo alla corrente
+				- accendere l'interruttore blu
+			- usiamo anche nell’imperativo negativo di 2 persona singolare
+				- non mangiare
+				- non bere
+				- non fumare
+
 
 ===TODO===		
 - parole utili per parlare del tempo
@@ -1466,7 +1500,11 @@
 	- ovunque 
 	- purtroppo
 
+- phrases with ne
+	- per saperne di più riguardo questi 
+
 - high register
 	- la sfumatura 
 - special use of andare
 	- va detto che nell’Italia del sud 
+	- dunque, nella maggior parte dei casi vanno imparate a memoria
