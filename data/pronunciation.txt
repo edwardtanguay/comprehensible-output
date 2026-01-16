@@ -533,3 +533,5 @@ it; in quei contesti; QUAY; in those contexts
 nl; een race tegen de klok; RACE (as in English); a race against the clock
 nl; strategisch plannen; strah-TAY-*ees; strategically plan
 nl; Tegen zondag had je je missie eindelijk volbracht; MISS-ee; by Sunday you had finally completed your mission
+
+nl; de sjaal; SHAHL; the scarf
