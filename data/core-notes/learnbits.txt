@@ -1224,6 +1224,13 @@
 			- Federico glieli compra (NON: Federico gli li compra)
 		- Roberta regala a loro le sue scarpe (loro) 
 			- Roberta le regala loro
+		- Maria porta il libro a sua sorella
+			- Maria glielo
+				- gli (a lei) + lo (il libro)
+	- quale pronome sostituisce correttamente "di questa storia" in "sono stanco di questa storia"
+		- ne
+
+
 
 
 ===TODO===		
