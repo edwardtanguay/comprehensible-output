@@ -1172,21 +1172,59 @@
 		- devi dire tutto a me e alla mia amica 
 			- a noi 
 	- come usare pronomi complemento quando rispondono alla domanda "Chi? Che cosa?"
-		- usa questi moduli: mi, ti, lo, la, ci, vi, li, le
-		- Paolo mi sogna
-		- Paolo ti accusa
-		- Paolo compra il libro
+		- senza "a"
+		- usa questi pronome: mi, ti, lo, la, ci, vi, li, le
+		- Paolo sogna (me)
+			- Paolo mi sogna
+		- Paolo accusa (te)
+			- Paolo ti accusa
+		- Paolo compra il libro (=lui)
 			- Paolo lo compra
-		- Paolo ascolta sua madre 
+		- Paolo ascolta sua madre (=lui)
 			- Paolo la ascolta
-		- Paolo indica me e Carlo
+		- Paolo indica me e Carlo (=noi)
 			- Paolo ci indica
-		- Paolo sogna te e il tuo cane
+		- Paolo sogna te e il tuo cane (=voi)
 			- Paolo vi sogna
-		- Paolo rimprovera i suoi figli
+		- Paolo rimprovera i suoi figli (=loro)
 			- Paolo li rimprovera
-		- Paolo mangia le patatine 
+		- Paolo mangia le patatine (=loro)
 			- Paolo le mangia
+	- come usare pronomi complemento quando rispondono alla domanda "A chi? A che cosa?"
+		- usa questi pronome: mi, ti, gli, le, ci, vi, loro (segue il verbo)
+		- Paolo pensa (a me) 
+			- Paolo mi pensa
+		- Paolo parla (a te)
+			- Paolo ti parla
+		- Paolo scrive a suo fratello (= a lui)
+			- Paolo gli scrive
+		- Paolo scrive a sua sorella (= a lei)
+			- Paolo le scrive
+		- Paolo pensa a me e al mio cane (= a noi) 
+			- Paolo ci pensa
+		- Paolo parla a te e alla tua amica (= a voi) 
+			- Paolo vi parla
+		- Paolo scrive ai suoi genitori (= a loro)
+			- Paolo scrive loro (NON: Paolo loro scrive)
+			- Paolo gli scrive
+			- ieri gli ha scritto
+	- cosa succede se i due tipi di pronomi complemento si trovano insieme nella stessa frase
+		- mi, ti, ci, vi seguiti dai pronomi lo, la, li, le diventano me, te, ce, ve
+		- Francesco dice (a me) la notizia (lei) 
+			- Francesco me la dice
+		- io racconto (a te) il mio segreto (lui)
+			- io te lo racconto 
+		- mio fratello dà a me e ai miei genitori (a noi) dei regali (loro) 
+			- mio fratello ce li dà
+		- io do a te e a tua sorella (a voi) le mie borse (loro)
+			- io ve le do
+		- Paola regala l'orologio (lui) al suo fidanzato (a lui) 
+			- Paola glielo regala (NON: Paola gli lo regala)
+		- Federico compra dei fiori (loro) alla sua fidanzata (a lei) 
+			- Federico glieli compra (NON: Federico gli li compra)
+		- Roberta regala a loro le sue scarpe (loro) 
+			- Roberta le regala loro
+
 
 ===TODO===		
 - parole utili per parlare del tempo
@@ -1207,3 +1245,6 @@
 - important words
 	- ovunque 
 	- purtroppo
+
+- high register
+	- la sfumatura 
