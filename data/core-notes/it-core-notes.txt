@@ -756,6 +756,7 @@ CONJUGATION OVERVIEW
 		annuire##: -isco, -isci, -isce, *, *, -iscono, * // to nod
 		unire##: -isco, -isci, -isce, *, *, -iscono, * // to unite
 		suggerire##: -isco, -isci, -isce, *, *, -iscono, * // to suggest
+		ferire // to hurt
 
 		-- IRE -io, -iono ---------------------------------------------------------------------
 		riempire##: -io, *, *, *, *, -iono, * // to fill

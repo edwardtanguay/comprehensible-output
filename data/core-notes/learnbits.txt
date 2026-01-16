@@ -3,12 +3,13 @@
 	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
 	- x 5.9 https://learnamo.com/tutti-tempi-passati-italiano/
 	- x 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
-	- ..5.9 https://learnamo.com/pronomi-complemento/
-2) I pronomi complemento 
+	- x 5.9 https://learnamo.com/pronomi-complemento/
+	- x 5.9 https://learnamo.com/preposizioni-articolate/
+	- x 5.9 https://learnamo.com/passato-remoto-italiano/
+	- .. 5.9 https://learnamo.com/passato-prossimo-participio-passato/
 
-	- 5.9 https://learnamo.com/preposizioni-articolate/
-	- 5.9 https://learnamo.com/passato-remoto-italiano/
-	- 5.9 https://learnamo.com/passato-prossimo-participio-passato/
+
+
 	- 5.9 https://learnamo.com/modo-infinito-italiano/
 	- 5.9 https://learnamo.com/migliorare-accento-italiano/
 	- 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
@@ -1229,9 +1230,197 @@
 				- gli (a lei) + lo (il libro)
 	- quale pronome sostituisce correttamente "di questa storia" in "sono stanco di questa storia"
 		- ne
-
-
-
+- preposizioni articolate
+	- quali preposizioni semplici possono formare preposizioni articolate
+		- di, a, da, in, su
+	- come si formano le preposizioni articolate
+		- --->(li/lo) (la/l') (i/gli/le)
+		- di: (del/dello) (della/dell') (dei/degli/delle)
+		- a:  ( al/ allo) ( alla/ all') ( ai/ agli/ alle)
+		- da: (dal/dallo) (dalla/dall') (dai/dagli/dalle)
+		- in: (nel/nello) (nella/nell') (nei/negli/nelle)
+		- su: (sul/sullo) (sulla/sull') (sui/sugli/sulle)
+	- quando usiamo le preposizioni articolate 
+		- quando il nome che segue è al plurale
+			- vado negli Stati Uniti a Natale
+				- MA: vado in Francia a Natale (singulare)
+			- questa è la scatola delle scarpe
+				- MA: ho voglio di cioccolato (singulare)
+				- MA: per esprimere la provenienza o il ritorno da uno Stato 
+					- vengo dall' Italia
+					- sono appena tornato dalla Francia
+		- quando il sostantivo che segue è determinato, specifico e non generico
+			- vivo nell’ Italia del Sud
+				- MA: vivo in Italia (generico)
+			- vado alla scuola di mia figlia
+			- lui va alla scuola in città
+				- MA: io vado a scuola (generico)
+		- davanti mari, fiumi, laghi, montagne
+			- vado in vacanza sulle Alpi
+			- faccio una crociera nel Mediterraneo
+			- mi bagno nel fiume Po
+			- MA: bisogna usare le preposizioni semplici con i nomi di città
+				- vado a Bologna
+				- parto per Parigi
+				- torno da Milano
+	- quale altra preposizione semplice può essere scritta come a preposizione articolata
+		- con: (col/collo) (colla/coll') (coi/cogli/colle)
+		- sbuccio la mela con il coltello (comunu)
+			- sbuccio la mela col coltello (anche correto)
+	- il libro __ studente è sul tavolo
+		- dello
+- pasato remoto
+	- i verbi regolari in -are
+		- test|are
+		- riscontr|are
+			- ai, asti, ò, ammo, aste, arono
+	- i verbi regolari in -ere
+		- tem|ere
+		- ricev|ere
+			- etti, esti, ette, emmo, este, ettero
+			- ei, ---, é, ---, ---, erono (meno commune)
+	- i verbi regolari in -ire
+		- part|ire
+		- consent|ire
+			- ii, isti, ì, immo, iste, irono
+	- essere
+		- fui, fosti, fu, fummo, foste, furono
+	- avere
+		- ebbi, avesti, ebbe, avemmo, aveste, ebbero
+	- il resto dei verbi
+		- i, esti, e, emmo, este, ero
+		- v, m, r, t, gg, rr --> "ss"
+			- leggere
+				- lessi, leggesti, lesse, leggemmo, leggeste, lessero
+		- rr --> "ss"
+			- correre
+				- corsi, corresti, corse, corremmo, correste, corsero
+		- n, v, nd --> "s"
+			- rispondere
+				- risposi, rispondesti, rispose, rispondemmo, rispondeste, risposero
+		- d --> "s"
+			- chiedere
+				- chiesi, chiedesti, chiese, chiedemmo, chiedeste, chiesero
+		- c, sc --> "cqu"
+			- piacere
+				- piacqui, piacesti, piacque, piacemmo, piaceste, piacquero
+		- sc --> "bb"
+			- conoscere
+				- conobbi, conoscesti, conobbe, conoscemmo, conosceste, conobbero
+		- ng --> "ns"
+			- fingere
+				- finsi, fingesti, finse, fingemmo, fingeste, finsero
+		- gli --> "ls"
+			- scegliere
+				- scelsi, scegliesti, scelse, scegliemmo, sceglieste, scelsero
+		- rg --> "rs"
+			- immergere
+				- immersi, immergesti, immerse, immergemmo, immergeste, immersero
+		- raddoppiare l'ultima consonante
+			- cadere
+				- caddi, cadesti, cadde, cademmo, cadeste, caddero
+		- raddoppiare l'ultima consonante + cambiano la radice
+			- sapere
+				- seppi, sapesti, seppe, sapemmo, sapeste, seppero				
+- passoto prossimo
+	- quali sono i participi passati dei tre tipi di verbi
+		- are: -ato
+		- ere: -uto
+		- ire: -ito
+	- Quando l'ausiliare è essere, cosa succede al participio passato 
+		- si accorda sempre in genere e numero con il soggetto 
+		- Laura è stata brava, invece Paolo e Luca sono stati cattivi
+		- lui è partito alle 6
+		- lei è partita alle 6
+		- loro sono partiti alle 6
+	- quali sono i participi passati irregolari più usati
+		- accendere 
+			- avete acceso la luce?
+		- aprire
+			- hanno aperto il negozio
+		- bere
+			- ho bevuto un litro d'acqua
+		- chiedere
+			- mi hai chiesto
+		- chiudere
+			- lei ha chiuso la scatola
+		- correre
+			- ho corso una maratona
+			- sono corso al negozio tre volte oggi
+			- lei è corsa al negozio due volte
+			- sono corsi al negozio cinque volte
+		- decidere
+			- abbiamo deciso di restare a casa
+		- dire
+			- mi hai detto
+		- discutere
+			- hanno discusso di molti argomenti
+		- dividere
+			- abbiamo diviso il capitolo in due parti
+		- fare 
+			- l'artista l'ha fatto
+		- leggere
+			- ha letto tutto il libro
+		- mettere
+			- mettono i cucchiai insieme alle forchette
+		- morire
+			- lui è morto nel 2001
+			- lei è morta nel 2001
+			- sono morti nel 2001
+		- nascere
+			- lui è morto nel 1977
+			- lei è morta nel 1977
+			- sono morti nel 1977
+		- offendere
+			- lei lo ha offeso
+		- perdere 
+			- aveva il portafoglio, ma lo ha perso
+		- piacere
+			- i pasti in hotel gli sono piaciuti
+			- la pasta al ristorante gli è piaciuta
+		- piangere
+			- lei ha pianto per questo
+		- prendere
+			- l'hanno preso con la forza
+		- ridere
+			- mi ha fatto male, ma ci ho riso sopra
+		- rimanere
+			- sono rimasti sull'isola
+		- rispondere
+			- abbiamo risposto affermativamente
+		- rompere
+			- il bambino ha rotto la finestra
+		- scegliere
+			- avete scelto quello verde
+		- scendere
+			- sei sceso dal treno a Parigi
+			- lei è scesa dal treno a Parigi
+			- loro sono scesi dal treno a Parigi
+		- soffrire
+			- abbiamo sofferto per tre anni
+		- spegnere
+			- ha spento la radio
+		- stare
+			- sono stato a casa tutto il giorno
+		- tradurre
+			- ha tradotto la lettera
+		- vedere
+			- hanno visto l'aereo atterrare
+		- venire
+			- lei è venuta, lui è venuto e loro sono venuti
+		- vincere
+			- abbiamo vinto l'ultima partita
+		- vivere
+			- abbiamo vinto l'ultima partita
+	- quali sono i participi passati dei verbi modali
+		- dovere
+			- ha dovuto lasciare il lavoro per dei litigi
+		- volere 
+			- oggi devi fare quello che non hai voluto fare ieri
+		- potere
+			- non ho potuto dirglielo perché era andato via
+		- sapere 
+			- come hanno saputo del vostro divorzio
 
 ===TODO===		
 - parole utili per parlare del tempo
@@ -1248,6 +1437,7 @@
 	- la comparsa di qualche cosa
 	- la causa di ciò che compare
 	- È ancora un bambino: non possiamo pretendere troppo da lui!
+	- portare: non puoi portarmelo via
 
 - important words
 	- ovunque 
@@ -1255,3 +1445,5 @@
 
 - high register
 	- la sfumatura 
+- special use of andare
+	- va detto che nell’Italia del sud 
