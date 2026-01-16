@@ -6,11 +6,10 @@
 	- x 5.9 https://learnamo.com/pronomi-complemento/
 	- x 5.9 https://learnamo.com/preposizioni-articolate/
 	- x 5.9 https://learnamo.com/passato-remoto-italiano/
-	- .. 5.9 https://learnamo.com/passato-prossimo-participio-passato/
+	- x 5.9 https://learnamo.com/passato-prossimo-participio-passato/
+	- .. 5.9 https://learnamo.com/modo-infinito-italiano/
+		
 
-
-
-	- 5.9 https://learnamo.com/modo-infinito-italiano/
 	- 5.9 https://learnamo.com/migliorare-accento-italiano/
 	- 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
 	- 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
@@ -1421,6 +1420,30 @@
 			- non ho potuto dirglielo perché era andato via
 		- sapere 
 			- come hanno saputo del vostro divorzio
+- infinito
+	- quali sono gli usi dell’infinito
+		- esprimere la forma base del verbo
+			- quella che si trova sul dizionario
+		- in frasi indipendenti
+			- esprimere un dubbio
+				- che fare?
+				- che dire?
+			- sottolineare un fatto improvviso, come se lo si stesse indicando 
+				- ecco arrivare il capo
+			- esprimere un desiderio che non si può realizzare 
+				- avere 10 anni adesso, starei sempre al parco a giocare con i miei amici
+		- con verbi modali
+			- l'infinito si usa subito dopo i verbi modali: volere, dovere, potere, sapere
+				- oggi devo lavorare
+				- ieri non ho potuto guardare il film
+				- il capo non vorrà darti l'aumento
+			- quando ci troviamo in presenza di un infinito accompagnato da un pronome, questo andrà messo subito dopo l'infinito, formando un'unica parola (l'infinito, in questo caso, perde la -e)
+				- spero di vederti domani, anche solo per pochi minuti
+				- so che è difficile, ma devi farlo senza rimandare ancora
+				- devo mangiarle oggi, altrimenti queste fragole andranno a male
+				- dopo essersi svegliato, ha iniziato a vestirsi in silenzio
+				- posso capirlo
+		- 
 
 ===TODO===		
 - parole utili per parlare del tempo
