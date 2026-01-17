@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-17 09:22:40
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "scoprire", "ho scoperto che", "un'azione che avverrà", "rendi più corta la vocale che precede la doppia consonante", "situazioni imbarazzanti o fraintendimenti", "l'hai capito?", "Ho capito", "l'aiuola", "la parte, le parti", "alle particolarità delle parole straniere adattate alla nostra lingua.", "dalla gestione delle doppie consonanti", "più affascinanti", "l'aspetto", "uno degli aspetti", "versare il latte", "dove si colloca", "questa consapevolezza", "Non ho capito quello", "dopo di sé", "Versare il latte nella ciotola".
+======================================================================================
 2026-01-16 07:29:47
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

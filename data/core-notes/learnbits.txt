@@ -7,10 +7,11 @@
 	- x 5.9 https://learnamo.com/preposizioni-articolate/
 	- x 5.9 https://learnamo.com/passato-remoto-italiano/
 	- x 5.9 https://learnamo.com/passato-prossimo-participio-passato/
-	- .. 5.9 https://learnamo.com/modo-infinito-italiano/
-		
+	- x 5.9 https://learnamo.com/modo-infinito-italiano/
+	- .. 5.9 https://learnamo.com/migliorare-accento-italiano/
+		- I Pronomi Doppi: Dove Cade l’Accento?
 
-	- 5.9 https://learnamo.com/migliorare-accento-italiano/
+
 	- 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
 	- 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
@@ -1229,10 +1230,11 @@
 				- gli (a lei) + lo (il libro)
 	- quale pronome sostituisce correttamente "di questa storia" in "sono stanco di questa storia"
 		- ne
-- preposizioni articolate
+- ## preposizioni articolate
 	- quali preposizioni semplici possono formare preposizioni articolate
 		- di, a, da, in, su
 	- come si formano le preposizioni articolate
+		- of, to, from, in, out
 		- --->(li/lo) (la/l') (i/gli/le)
 		- di: (del/dello) (della/dell') (dei/degli/delle)
 		- a:  ( al/ allo) ( alla/ all') ( ai/ agli/ alle)
@@ -1477,6 +1479,40 @@
 				- non mangiare
 				- non bere
 				- non fumare
+- pronunciation
+	- pronunciare tutte le lettere
+		- questa è la regola d'oro
+		- ogni singola lettera scritta deve essere articolata con chiarezza
+		- con ogni sillaba ben distinta
+		- senza mai mangiare le lettere finali
+		- ogni lettera deve risuonare chiaramente
+		- creando quella musicalità tipica della lingua italiana
+	- la pronuncia delle vocali consecutive
+		- la paura [pa-OO-rah]
+		- tuoi [too-OH-ee]
+		- l'aiuola [ah-ee-oo-OH-la]
+	- le doppie consonanti
+		- il cuore della pronuncia italiana
+		- rendi più corta la vocale che precede la doppia consonante
+		- la consonante doppia stessa deve essere tenuta più a lungo
+			- caro e carro
+			- pala e palla
+			- pene e penne
+			- nono e nonno
+		- nei verbi
+			- partiremo / partiremmo 
+			- andremo / andremmo
+			- vedremo / vedremmo
+			- usciremo / usciremmo
+	- la n finale di non, in, con
+		- quando queste parole sono seguite da una parola che inizia con b (come bologna) o p, la n finale si trasforma in m 
+			- non parlo molto
+			- abito in periferia
+			- vengo con Barbara
+			- non bevo caffè
+			- lavoro in banca
+			- studio con Paolo
+
 
 
 ===TODO===		
@@ -1496,6 +1532,7 @@
 	- È ancora un bambino: non possiamo pretendere troppo da lui!
 	- portare: non puoi portarmelo via
 
+
 - important words
 	- ovunque 
 	- purtroppo
@@ -1508,3 +1545,14 @@
 - special use of andare
 	- va detto che nell’Italia del sud 
 	- dunque, nella maggior parte dei casi vanno imparate a memoria
+
+- pronoun examples
+	- uno degli aspetti 
+	- dalla gestione delle doppie consonanti 
+	- alle particolarità delle parole straniere adattate alla nostra lingua
+	- guida completa alla pronuncia italiana
+	- prestando particolare attenzione alla parte finale
+	- anche alle parole più lunghe 
+	- più caratteristico e distintivo della pronuncia italiana
+	- Come potete vedere dalla tabella
+	- della prima persona 
