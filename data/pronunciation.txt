@@ -535,3 +535,5 @@ nl; strategisch plannen; strah-TAY-*ees; strategically plan
 nl; Tegen zondag had je je missie eindelijk volbracht; MISS-ee; by Sunday you had finally completed your mission
 
 nl; de sjaal; SHAHL; the scarf
+
+nl; klaar voor college; koh-LAY-zhah; ready for college

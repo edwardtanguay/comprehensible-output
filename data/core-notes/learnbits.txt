@@ -156,6 +156,7 @@
 	- 5.1 https://learnamo.com/da-principiante-a-avanzato/
 	- 5.1 https://learnamo.com/alternative-forse-italiano/
 	- 5.1 https://learnamo.com/aggettivi-italiano-carattere/
+	- the Italian book, record notes here
 	- 4.9 https://learnamo.com/macche/
 	- 4.9 https://learnamo.com/esprimere-gradimento/
 	- 4.9 https://learnamo.com/dubbi-italiano/
@@ -1512,6 +1513,78 @@
 			- non bevo caffè
 			- lavoro in banca
 			- studio con Paolo
+	- i pronomi doppi
+		- l'accento rimane sempre sulla stessa sillaba del verbo
+		- dammelo [DAH-mel-oh]
+		- raccontamelo [rac-con-TAH-me-loh]
+		- compratelo [COM-prah-teh-loh]
+		- scrivigli [SKREE-vee-lee]
+		- portaglielo [PORT-ah-lee-loh]
+		- dicimelo [DEE-chee-meh-loh]
+		- restituiscimelo [REH-stee-too-ee-shee-may-loh]
+		- spiegatecela [speh-EGG-ah-tech-ah-la]
+	- il suono z
+		- [ts]
+			- esempi
+				- zucchero (tsucchero) – lo zucchero che metti nel caffè
+				- grazie (gratsie) – la parola di ringraziamento più usata
+				- pazzo (patso) – aggettivo che indica follia
+				- stazione (statsione) – dove arrivano treni e autobus
+				- azione (atsione) – un'attività o un movimento
+				- pezzo (petso) – una parte di qualcosa
+				- piazza (piatsa) – lo spazio pubblico aperto
+				- tazza (tatsa) – il contenitore per il caffè
+			- tendenza
+				- "zz"
+					- pizza, pazzo, piazza, tazza, pezzo
+				- suffisso -zione
+					- stazione, azione, nazione, lezione
+		- [ds]
+			- esempi
+				- zaino (dsaino) – una borsa che indossi sulla schiena
+				- romanzo (romandso) – un libro narrativo lungo
+				- mezzo (medso) – metà 
+				- azzurro (adsurro) – il colore blu chiaro
+				- zanzara (dsandsara) – l'insetto fastidioso
+				- zona (dsona) – un'area o territorio
+				- pranzo (prandso) – il pasto di mezzogiorno
+			- tendenza
+				- all'inizio di parola
+					- zaino, zero, zanzara, zona
+				- in mezzo a parola dopo "n"
+					- pranzo, danza, stanza, bonzo
+				- suffisso -anza/-enza
+					- stanza, danza, speranza, presenza
+	- il/del/sul/dal/al
+		- il + parola che inizia con "l"
+			- il limone → [illimone] (ho comprato illimone al mercato)
+			- il lavoro → [illavoro] (illavoro è molto importante)
+			- il lessico → [illessico] (illessico italiano è vasto)
+			- il lampione → [illampione] (illampione è rotto)
+			- il libro → [illibro] (illibro è sul tavolo)
+			- il latte → [illatte] (illatte è fresco)
+		- il + parola che inizia con "r"
+			- il riso → [ir riso] (ir riso è un cereale importante)
+			- il regalo → [ir regalo] (ir regalo è bellissimo)
+			- il rosso → [ir rosso] (ir rosso è il mio colore preferito)
+			- il ragazzo → [ir ragazzo] (ir ragazzo è simpatico)
+			- il ristorante → [ir ristorante] (ir ristorante è vicino)
+			- il rumore → [ir rumore] (ir rumore è fastidioso)
+		- è lo stesso con del/sul/dal/all
+			- del limone --> dellimone
+			- del riso --> der riso
+		- frasi con queste regole di pronuncia applicate
+			- il ragazzo porta il limone al ristorante
+				- [ir ragazzo porta illimone ar ristorante]
+			- del riso e del latte
+				- [der riso e dellatte]
+	- la schwa italiana
+		- 
+
+
+
+
+
 
 
 
@@ -1531,6 +1604,7 @@
 	- la causa di ciò che compare
 	- È ancora un bambino: non possiamo pretendere troppo da lui!
 	- portare: non puoi portarmelo via
+	- individuando dove 
 
 
 - important words
