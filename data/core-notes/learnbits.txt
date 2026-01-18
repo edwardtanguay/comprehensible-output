@@ -8,11 +8,10 @@
 	- x 5.9 https://learnamo.com/passato-remoto-italiano/
 	- x 5.9 https://learnamo.com/passato-prossimo-participio-passato/
 	- x 5.9 https://learnamo.com/modo-infinito-italiano/
-	- .. 5.9 https://learnamo.com/migliorare-accento-italiano/
-		- I Pronomi Doppi: Dove Cade l’Accento?
+	- x 5.9 https://learnamo.com/migliorare-accento-italiano/
+	- .. 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
 
 
-	- 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
 	- 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.9 https://learnamo.com/imperativo-italiano/
@@ -1579,7 +1578,42 @@
 			- del riso e del latte
 				- [der riso e dellatte]
 	- la schwa italiana
-		- 
+		- aggiungere un suono "eh" alla fine di tutte le parole straniere che terminano con una consonante
+			- email --> e-mail-"eh"
+			- hotel --> oh-tell-"eh"
+		- frasi complete
+			- il mio managerə e io siamo andati a Milano questo weekendə
+			- devo rispondere a questa emailə urgente
+			- faccio marketingə per un'azienda di sportə
+			- sono un followerə del tuo blogə
+- conditionale
+	- come formare tutti i verbi
+		- rimuovi l'ultima lettera
+			- parlare --> parler- (a diventa e)
+				- i verbi che terminano in -care e -gare prendono una h dopo la -c e la -g in tutte le persone
+					- pagare --> pagher-
+					- comunicare --> comunicher-
+				- i verbi in -ciare e -giare perdono la -i in tutte le persone
+					- cominciare --> comincer-
+					- mangiare --> manger-
+			- leggere --> legger-
+			- dormire --> dormir- 	
+		- aggiungere le desinenze
+			- ei
+			- esti
+			- ebbe
+			- emmo
+			- este
+			- ebbero
+		- nota che il futuro è simile
+			- ò
+			- ai
+			- à
+			- emo
+			- ete
+			- anno
+
+
 
 
 
@@ -1605,6 +1639,7 @@
 	- È ancora un bambino: non possiamo pretendere troppo da lui!
 	- portare: non puoi portarmelo via
 	- individuando dove 
+	- Le consonanti doppie sono facoltative
 
 
 - important words
