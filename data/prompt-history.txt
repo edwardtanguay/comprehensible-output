@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-19 06:25:26
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "per le donne", "sono andata", "che parla di sé", "Quale di questi participi", "Ho pensato la stessa cosa", "Come hanno saputo del vostro divorzio?", "oggi devi fare quello che non hai voluto fare ieri", "un cocktail ai lamponi", "che mi ha ferita molto", "Che percentuale dei nomi in italiano termina con una vocale", "ha vissuto a Berlino", "vivere", "abbiamo vinto l'ultima partita", "l'hanno visto", "ha tradotto la lettera", "il participio passato", "ha spento la radio", "spegnere", "abbiamo sofferto per tre anni", "sei sceso dal treno a Parigi".
+======================================================================================
 2026-01-18 08:27:11
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

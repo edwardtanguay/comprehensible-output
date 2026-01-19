@@ -537,3 +537,5 @@ nl; Tegen zondag had je je missie eindelijk volbracht; MISS-ee; by Sunday you ha
 nl; de sjaal; SHAHL; the scarf
 
 nl; klaar voor college; koh-LAY-zhah; ready for college
+
+nl; percentage; PAIR-sen-tahzh-eh; percentage

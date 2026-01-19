@@ -1588,16 +1588,29 @@
 			- sono un followerə del tuo blogə
 - conditionale
 	- come formare tutti i verbi
-		- rimuovi l'ultima lettera
-			- parlare --> parler- (a diventa e)
-				- i verbi che terminano in -care e -gare prendono una h dopo la -c e la -g in tutte le persone
-					- pagare --> pagher-
-					- comunicare --> comunicher-
-				- i verbi in -ciare e -giare perdono la -i in tutte le persone
-					- cominciare --> comincer-
-					- mangiare --> manger-
-			- leggere --> legger-
-			- dormire --> dormir- 	
+		- come formare la base
+			- regolare: rimuovi l'ultima lettera
+				- parlare --> parler- (a diventa e)
+					- i verbi che terminano in -care e -gare prendono una h dopo la -c e la -g in tutte le persone
+						- pagare --> pagher-
+						- comunicare --> comunicher-
+					- i verbi in -ciare e -giare perdono la -i in tutte le persone
+						- cominciare --> comincer-
+						- mangiare --> manger-
+				- leggere --> legger-
+				- dormire --> dormir- 	
+			- irregolare: i verbi irregolari hanno basi diverse
+				- essere --> sar-
+				- avere --> avr-
+				- dare --> dar-
+				- fare --> far-
+				- stare --> star-
+				- dovere --> dovr-
+				- sapere --> sapr-
+				- vivere --> vivr-
+				- 
+				- 
+				- 
 		- aggiungere le desinenze
 			- ei
 			- esti
