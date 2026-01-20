@@ -11,18 +11,21 @@
 	- x 5.9 https://learnamo.com/migliorare-accento-italiano/
 	- x 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
 	- x 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
-	- .. 5.9 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
+	- x 5.9 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
+	- x 5.9 https://learnamo.com/come-quando-usare-ne/
+	- .. 5.9 https://learnamo.com/imperativo-italiano/
 
-	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
-	- 5.9 https://learnamo.com/imperativo-italiano/
+
+
+
 	- 5.9 https://learnamo.com/il-futuro-in-italiano/
 	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
+	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.9 https://learnamo.com/congiuntivo-presente-passato/
-	- 5.9 https://learnamo.com/come-usare-gerundio/
-	- 5.9 https://learnamo.com/come-quando-usare-ne/
 	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
+	- 5.9 https://learnamo.com/come-usare-gerundio/
 	- 5.9 https://learnamo.com/ci-ne-particelle-italiano/
 	- 5.9 https://learnamo.com/ci-italiano/
 	- 5.9 https://learnamo.com/ci-cambia-significato/
@@ -1743,11 +1746,52 @@
 			- prima si poteva fumare nei bar, ora no
 		- sapere: sapevo, sapevi, sapeva, sapevamo, sapevate, sapevano
 			- come mai sapevate del suo licenziamento
-
-
-
-
-
+- ne
+	- quando usiamo ne
+		- per sostituire di/da + una cosa o una persona
+			- hai conosciuto il nuovo fidanzato di sara, che ne pensi 
+				- di lui
+			- sì, l'ho conosciuto e ne sono rimasta affascinata
+				- da lui
+			- hai paura dei ragni / sì, ne ho paura
+				- di loro
+			- sono andata in banca alle 8 e ne sono uscita solo alle 11
+				- dalla banca
+		- per indicare parte di una quantità
+			- quanti caffè hai bevuto / ne ho bevuti solo due 
+				- di caffè
+			- ho comprato sette riviste ma ne ho lette solo tre
+				- di riviste
+		- per sostituisce una quantità zero
+			- quanti caffè hai bevuto / non ne ho bevuto nessuno
+				- di caffè
+			- quante riviste hai letto / non ne ho letta nessuna
+				- di riviste
+		- per sostituire un'intera frase detta prima
+			- oggi è una bella giornata, potremmo andare al mare, che ne pensi
+				- di quell'idea
+		- per dare maggiore enfasi a quanto viene dopo, usato come un pleonastico (cioè inutile, superfluo, non necessario) 
+			- che ne dici di andare al mare
+		- per usare espressioni che si formano con il ne
+			- andarsene (andare via, partire dal posto in cui ci si trova)
+				- basta, me ne vado
+					- dal posto in cui mi trovo
+			- non poterne più (essere stanchi di qualcosa)
+				- sei di nuovo in ritardo, non ne posso più
+					- del tuo ritardo
+			- valerne la pena (qualcosa è degna degli sforzi e dell'impegno, li merita)
+				- visitare Firenze in un giorno è stato faticoso ma ne è valsa la pena
+					- della fatica che abbiamo fatto per vederla in un giorno
+			- volerne a qualcuno (essere arrabbiati con qualcuno)
+				- non me ne volere ma penso che tu stia sbagliando
+					- non essere arrabbiato con me ma penso che tu stia sbagliando
+			- farne di tutti i colori (combinare pasticci, guai)
+				– i figli di mario sono delle pesti, ne fanno sempre di tutti i colori
+			- dirne di tutti i colori (dire molte cose spiacevoli su qualcuno)
+				- dopo aver litigato col fidanzato, Roberta ne ha dette di tutti i colori su di lui
+	- dove si colloca "ne" in relazione ad altri pronomi
+		- me ne vado (I'm leaving)
+		- me ne dai (give me some)
 
 
 ===TODO===		
@@ -1782,6 +1826,9 @@
 - special use of andare
 	- va detto che nell’Italia del sud 
 	- dunque, nella maggior parte dei casi vanno imparate a memoria
+	- è proprio quella che nei tutorial viene chiamata “Claude app”
+	- il complemento va messo dopo il verbo
+	- queste espressioni vanno imparate a memoria
 
 - pronoun examples
 	- uno degli aspetti 
