@@ -9,10 +9,10 @@
 	- x 5.9 https://learnamo.com/passato-prossimo-participio-passato/
 	- x 5.9 https://learnamo.com/modo-infinito-italiano/
 	- x 5.9 https://learnamo.com/migliorare-accento-italiano/
-	- .. 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
+	- x 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
+	- .. 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
 
 
-	- 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.9 https://learnamo.com/imperativo-italiano/
 	- 5.9 https://learnamo.com/il-futuro-in-italiano/
@@ -1587,7 +1587,7 @@
 			- faccio marketingə per un'azienda di sportə
 			- sono un followerə del tuo blogə
 - conditionale
-	- come formare tutti i verbi
+	- come formare tutti il condizionale presente
 		- come formare la base
 			- regolare: rimuovi l'ultima lettera
 				- parlare --> parler- (a diventa e)
@@ -1608,9 +1608,6 @@
 				- dovere --> dovr-
 				- sapere --> sapr-
 				- vivere --> vivr-
-				- 
-				- 
-				- 
 		- aggiungere le desinenze
 			- ei
 			- esti
@@ -1625,9 +1622,38 @@
 			- emo
 			- ete
 			- anno
-
-
-
+	- quando usare il condizionale presente
+		- per esprimere un desiderio
+			- mi piacerebbe tanto visitare Paris
+			- quanto vorrei che fosse già estate
+		- per esprimere cortesia
+			- vorrei un caffè per favore
+			- mi daresti il tuo numero di telefono, gentilmente
+		- per esprimere opinioni personali
+			- lucia vuole organizzare una festa a sorpresa per suo fratello, sarebbe una cosa carina a mio parere
+		- per esprimere un consiglio
+			- secondo me, dovresti impegnarti di più nel tuo lavoro
+		- in una frase ipotetica per esprimere possibilità
+			- se fossi ricca, comprerei una villa a Cannes
+			- se chiedesse scusa, lo perdonerei
+		- per esprimere un dubbio
+			- come potrei fare per risolvere questo problema adesso
+			- e quest'uomo chi sarebbe
+			- tra le vittime del disastro aereo ci sarebbero 5 italiani 
+	- come formare tutti il condizionale passato
+		- usando il presente condizionale dell’ausiliare essere o avere + il participio passato del verbo
+			- lui/lei sarebbe andato/a
+			- lui/lei avrebbe finito
+	- quando usare il condizionale passato in italiano
+		- negli stessi casi del presente, ma in riferimento ad azioni ed eventi passati, salvo con l'espressione di cortesia
+			- quando sono stata alla festa, mi sarebbe piaciuto fare più foto, ma purtroppo avevo il cellulare scarico
+			- peccato che quella festa sia saltata, sarebbe stata divertente secondo me
+			- non avresti dovuto lasciarlo andare
+			- se tu avessi chiamato Luca, ti avrebbe detto la verità
+			- quando è andata via, ho pianto tanto, ma cos'altro avrei potuto fare per fermarla
+			- il criminale sarebbe stato avvistato al confine con la Svizzera
+		- per esprimere il futuro nel passato
+			- mi ha detto che avrebbe fatto tardi
 
 
 
