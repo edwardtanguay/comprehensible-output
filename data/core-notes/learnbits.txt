@@ -10,8 +10,8 @@
 	- x 5.9 https://learnamo.com/modo-infinito-italiano/
 	- x 5.9 https://learnamo.com/migliorare-accento-italiano/
 	- x 5.9 https://learnamo.com/lezione-sul-condizionale-italiano/
-	- .. 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
-
+	- x 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
+	- .. 5.9 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
 
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.9 https://learnamo.com/imperativo-italiano/
@@ -49,7 +49,6 @@
 	- 5.8 https://learnamo.com/congiuntivo-imperfetto-trapassato/
 	- 5.8 https://learnamo.com/congiuntivo-errori/
 	- 5.8 https://learnamo.com/come-quando-usare-indicativo-presente/
-	- 5.8 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
 	- 5.8 https://learnamo.com/ancora-o-gia-spiegazione/
 	- 5.8 https://learnamo.com/alternative-voglio-italiano/
 	- 5.8 https://learnamo.com/alternative-perche-italiano/
@@ -724,20 +723,63 @@
 		- uomini
 	- qual è il plurale di "bacio"
 		- baci
-- gli aggettivi
+- ## gli aggettivi
 	- TODO: research this more
 		- ChatGPT: In italiano esistono due grandi classi di aggettivi, aggettivi in -o, aggettivi in -e
 		- ChatGPT: Alcuni aggettivi che terminano in -ista (es. ottimista, pessimista, nazionalista) sono uguali per maschile e femminile al singolare e cambiano solo al plurale (-i/-e).
 	- quali sono i tre gruppi
-		- egotist(a) --> masc a/i, fem a/e
-			- uno studente egoista, due studenti egoisti
-			- una studentessa egoista, due studentesse egoiste
-		- trist(e) --> masc e/i, fem e/i
-			- uno studente triste, due studenti tristi
-			- una studentessa triste, due studentesse tristi
-		- car(o) --> masc o/i, fem a/e
+		- GRUPPO 1: car(o) --> masc o/i, fem a/e
 			- un caro studente, due cari studenti 
 			- una cara studentessa, due care studentesse
+			- esempi
+				- caro, rumeroso, moderno, rosso, alto, bello, buono, nuovo, vecchio, basso, piccolo, pieno, vuoto, lungo, corto, povero, ricco, freddo, caldo, chiaro, scuro, blanco, nero, deserto, sorpreso, vecchio
+			- tipi di parole
+				- 60%
+				- parole più brevi, sensoriali, fisiche
+				- latino/italiano di base, non da prestiti successivi
+				- monosillabiche o bisillabiche
+		- GRUPPO 2: trist(e) --> masc e/i, fem e/i
+			- uno studente triste, due studenti tristi
+			- una studentessa triste, due studentesse tristi
+			- esempi
+				- forte/debole, dolce, triste, veloce/lente, grande
+				- fedele, intelligente, importante, differente, recente, frequente, efficiente, paziente, felice, gentile, difficile/facile, possibile
+			- tipi di parole
+				- 35%
+				- più lunghi, spesso derivati ​​o presi in prestito
+				- stati soggettivi astratti, soggettivi, intellettuali, morali o complessi: importante
+		- GRUPPO 3: egotist(a) --> masc a/i, fem a/e
+			- uno studente egoista, due studenti egoisti
+			- una studentessa egoista, due studentesse egoiste
+			- esempi
+				- ottimista/pessimista, artista, socialista, entusiasta, ipocrita, analista, atleta
+			- tipi di parole
+				- 5%
+				- quasi tutte sono parole -ista
+		- invariable
+			- blu, rosa, viola, arancione, beige, lavanda
+		- scoperta
+			- -a
+				- (a)-masc-sing
+				- (a)-femi-sing
+				- (o)-femi-sing
+			- -e
+				- (a)-femi-plur
+				- (e)-masc-sing
+				- (e)-femi-sing
+				- (o)-femi-plur
+			- -o
+				- (o)-masc-sing
+			- -i
+				- (a)-masc-plur
+				- (e)-masc-plur
+				- (o)-masc-plur
+				- (e)-femi-plur
+		- le regole
+			- -o = masc-sing
+			- -a = sing
+			- -i = plur
+			- -e = anything
 	- cosa succede con due o più nomi
 		- same
 			- la rosa e la margherita sono belle 
@@ -1024,14 +1066,25 @@
 	- quali sono gli usi di imperfetto 
 		- per indicare abitudini del passato
 			- da piccola non amava festeggiare
+		    - da bambino faceva spesso arrabbiare i suoi genitori
+			- l'anno scorso tutti usavano i pantaloni a sigaretta
 		- per descrizioni nel passato
 			- la festa era in un locale molto bello
 			- nel locale c'erano molti palloncini 
 			- gli invitati erano moltissimi
+			- la casa era molto grande e disponeva di quattro bagni
+			- la ragazza aveva i capelli neri e gli occhi scuri e indossava una salopette di jeans
+			- nella stanza c'erano molti quadri e mobili antichi
+		- per esprimere contemporaneità nel passato
+			- mentre tu parlavi, io scrivevo una lettera
+			- quando era piccolo, mangiava spesso le caramelle
+			- io ero per terra e tutti ridevano
 		- per esprimere azioni in svolgimento nel passato interrotte da altre 
 			- mentre entravo con il mio vestito nuovo sono inciampata
-		- per esprimere contemporaneità nel passato
-			- io ero per terra e tutti ridevano
+			- mentre ero al telefono con te, Mario mi ha mandato un messaggio
+			- nuotava in piscina, quando ha sentito sua moglie chiamare il suo nome
+			- mentre andavo all'università, ho incontrato Luca
+
 - trapassato prossimo
 	- quali sono gli usi di trapassato prossimo
 		- per esprimere un'azione avvenuta prima di un'altra nel passato (espressa con imperfetto, passato prossimo o passato remoto).
@@ -1654,6 +1707,42 @@
 			- il criminale sarebbe stato avvistato al confine con la Svizzera
 		- per esprimere il futuro nel passato
 			- mi ha detto che avrebbe fatto tardi
+- imperfetto
+	- come si coniuga essere et avere
+		- essere: ero, eri, era, eravamo, eravate, erano
+		- avere: avevo, avevi, avevamo, avevate, avevano
+	- come si coniugono -are, -ere, -ire
+		- are: avo, avi, ava, avamo, avate, avano
+		- ere: evo, evi, eva, evamo, evate, evano
+		- ire: ivo, ivi, iva, ivamo, ivate, ivano
+	- come si coniuga dare
+		- davo, davi, dava, davamo, davate, davano
+		- da giovane, Luigi dava sempre una mano ai suoi amici
+	- come si coniuga rimanere
+		- rimanevo, rimanevi, rimaneva, rimanevamo, rimanevate, rimanevano
+		- quando faceva freddo, rimanevamo sempre a casa
+	- come si coniuga finire
+		- finivo, finivi, finiva, finivamo, finivate, finivano
+		- quando finivano di lavorare, passavano dal mio negozio
+	- cosa rende l'imperfetto facile da ricordare
+		- molti verbi che al presente indicativo sono irregolari assumono una coniugazione completamente regolare all'imperfetto
+		- ad esempio: andare, tenere, uscire
+	- i verbi di quattro lettere sono irregolari
+		- fare: facevo, facevi, faceva, facevamo, facevate, facevano
+			- da piccola, facevo sempre i compiti dopo pranzo
+		- bere: bevevo, bevevi, beveva, bevevamo, bevevate, bevevano
+			- voi bevevate sempre il caffè ma ora preferite il tè
+		- dire: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano
+			- dicevano che avevi sbagliato
+	- come si coniugono i verbi modali
+		- volere: volevo, volevi, voleva, volevamo, volevate, volevano
+			- volevate quell'appartamento o questo
+		- dovere: dovevo, dovevi, doveva, dovevamo, dovevate, dovevano
+			- quando eravamo piccoli, dovevamo usare la lira e non l'euro
+		- potere: potevo, potevi, poteva, potevamo, potevate, potevano
+			- prima si poteva fumare nei bar, ora no
+		- sapere: sapevo, sapevi, sapeva, sapevamo, sapevate, sapevano
+			- come mai sapevate del suo licenziamento
 
 
 

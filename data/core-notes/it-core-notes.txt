@@ -757,6 +757,7 @@ CONJUGATION OVERVIEW
 		unire##: -isco, -isci, -isce, *, *, -iscono, * // to unite
 		suggerire##: -isco, -isci, -isce, *, *, -iscono, * // to suggest
 		ferire // to hurt
+		sparire // to vanish, go away
 
 		-- IRE -io, -iono ---------------------------------------------------------------------
 		riempire##: -io, *, *, *, *, -iono, * // to fill
