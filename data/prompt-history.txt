@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-21 07:16:01
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "l'artista l'ha fatto", "abbiamo diviso il capitolo in due parti", "abbiamo diviso la nostra stanza in due", "hanno discusso di molti argomenti", "abbiamo deciso di restare a casa", "mi hai chiesto", "ha chiuso la scatola", "Ho bevuto un litro d'acqua", "avete acceso la luce tutti quanti?", "hanno aperto il negozio", "mi hai detto", "lui ha cucinato", "nel gruppo", "hai chiuso", "chiudere", "chiedere", "accendere", "quali sono i participi passati dei tre tipi di verbi", "Laura è stata brava, invece Paolo e Luca sono stati cattivi", "Sono i giocattoli che i bambini hanno avuto a Natale".
+======================================================================================
 2026-01-20 07:19:04
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================
