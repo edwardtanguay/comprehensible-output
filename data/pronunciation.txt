@@ -539,3 +539,5 @@ nl; de sjaal; SHAHL; the scarf
 nl; klaar voor college; koh-LAY-zhah; ready for college
 
 nl; percentage; PAIR-sen-tahzh-eh; percentage
+
+nl; je kunt mij bellen indien je hulp nodig hebt; in-DEEN; you can call me if you need help

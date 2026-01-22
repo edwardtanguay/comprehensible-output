@@ -197,7 +197,7 @@ CONJUGATION OVERVIEW
 		- COND: andrei, andresti, andrebbe, andremmo, andreste, andrebbero
 		- PRSU: vada, vada, vada, andiamo, andiate, vadano
 		- IMSU: andassi, andassi, andasse, andassimo, andaste, andassero
-		- IPER: *, va'/vai, vada, andiamo, andate, vadano
+		- IPER: *, vai, vada, andiamo, andate, vadano
 		- GERU: andando
 	- dare
 		- PRES: do, dai, dà, diamo, date, danno

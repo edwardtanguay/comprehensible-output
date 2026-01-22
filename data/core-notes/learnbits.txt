@@ -1792,6 +1792,43 @@
 	- dove si colloca "ne" in relazione ad altri pronomi
 		- me ne vado (I'm leaving)
 		- me ne dai (give me some)
+- l'imperativo
+	- come formare l'imperativo per tu e voi
+		- si usa il coniugazione presente indicativo
+			- prendi il mio cellulare
+			- state attenti alla lezione di oggi
+			- ECCEZIONE: con i verbi -are, usare "a" invece di "i"
+				- passa la palla
+	- come formare l'imperativo per noi e Lei
+		- si usa il congiuntivo presente
+			- iniziamo subito 
+				- (NOTARE CHE: di solito uguale al presente)
+			- prego, vada avanti
+	- come formare l'imperativo negativo per Lei, noi, voi
+		- seguire le regole di cui sopra aggiungendo "non"
+			- non vada
+			- non prendiamo
+			- non mangiate
+	- come formare l'imperativo negativo per tu
+		- con "non" + infinito
+			- non prendere
+			- non andare
+			- non dormire
+	- cosa succede se hai un pronome con l'imperativo "tu"
+		- il pronome di solito si unisce al verbo in una sola parola
+			- prendi il quaderno --> prendilo
+			- parla a me --> parlami
+		- alla forma negativa, però, il pronome può andare sia dopo il verbo, sia tra il verbo e la negazione
+			- non prenderlo = non lo prendere
+			- non parlatemi = non mi parlate
+	- quali sono i verbi irregolari all'imperativo (tu/voi)
+		- essere: sii, siate
+		- avere: abbi, abbiate
+		- sapere: sappi, sappiate
+		- stare: sta'
+		- fare: fa'
+		- andare: va'
+		- dare: da'
 
 
 ===TODO===		

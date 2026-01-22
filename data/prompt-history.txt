@@ -1,4 +1,9 @@
 ======================================================================================
+2026-01-22 07:26:52
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Stamattina siamo stati dal dentista", "continua ad andare", "Che fatica questa lezione", "alcuni verbi cambiano la radice", "cadere", "raddoppiare l'ultima consonante", "scegliere", "di fingere", "sostituisci quelle lettere con "ss"", "il resto dei verbi", "Questo è il bello e il brutto dell’italiano", "valgono per tutte", "Come abbiamo già accennato", "meno comune", "Eccole qui", "come si coniugano i verbi regolari in -are per", "le desinenze", "Munisciti di carta e penna", "pertanto", "se stavi pensando di poterne fare a meno".
+======================================================================================
 2026-01-21 07:16:01
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================
