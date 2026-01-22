@@ -13,12 +13,10 @@
 	- x 5.9 https://learnamo.com/indicativo-imperfetto-morfologia/
 	- x 5.9 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
 	- x 5.9 https://learnamo.com/come-quando-usare-ne/
-	- .. 5.9 https://learnamo.com/imperativo-italiano/
+	- x 5.9 https://learnamo.com/imperativo-italiano/
+	- .. 5.9 https://learnamo.com/il-futuro-in-italiano/
 
 
-
-
-	- 5.9 https://learnamo.com/il-futuro-in-italiano/
 	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
@@ -751,6 +749,7 @@
 				- 35%
 				- più lunghi, spesso derivati ​​o presi in prestito
 				- stati soggettivi astratti, soggettivi, intellettuali, morali o complessi: importante
+			- non distinguono il genere
 		- GRUPPO 3: egotist(a) --> masc a/i, fem a/e
 			- uno studente egoista, due studenti egoisti
 			- una studentessa egoista, due studentesse egoiste
@@ -1655,15 +1654,6 @@
 						- mangiare --> manger-
 				- leggere --> legger-
 				- dormire --> dormir- 	
-			- irregolare: i verbi irregolari hanno basi diverse
-				- essere --> sar-
-				- avere --> avr-
-				- dare --> dar-
-				- fare --> far-
-				- stare --> star-
-				- dovere --> dovr-
-				- sapere --> sapr-
-				- vivere --> vivr-
 		- aggiungere le desinenze
 			- ei
 			- esti
@@ -1671,13 +1661,22 @@
 			- emmo
 			- este
 			- ebbero
-		- nota che il futuro è simile
-			- ò
-			- ai
-			- à
-			- emo
-			- ete
-			- anno
+	- quali sono le basi dei verbi irregolari
+		- ere 1
+			- essere --> sar-
+			- avere --> avr-
+			- vedere --> vedr-
+			- dovere --> dovr-
+			- potere --> potr-
+			- sapere --> sapr-
+		- ere 2
+			- cadere --> cadr-
+			- vivere --> vivr-
+		- are
+			- stare --> star-
+			- dare --> dar-
+			- fare --> far-
+			- andare --> andr-
 	- quando usare il condizionale presente
 		- per esprimere un desiderio
 			- mi piacerebbe tanto visitare Paris
@@ -1830,6 +1829,42 @@
 		- andare: va'
 		- dare: da'
 
+- futuro
+	- come formare tutti il condizionale presente
+		- come formare la base
+			- regolare: rimuovi l'ultima lettera
+				- parlare --> parler- (a diventa e)
+					- i verbi che terminano in -care e -gare prendono una h dopo la -c e la -g in tutte le persone
+						- pagare --> pagher-
+						- comunicare --> comunicher-
+					- i verbi in -ciare e -giare perdono la -i in tutte le persone
+						- cominciare --> comincer-
+						- mangiare --> manger-
+				- leggere --> legger-
+				- dormire --> dormir- 	
+		- aggiungere le desinenze
+			- ò
+			- ai
+			- à
+			- emo
+			- ete
+			- anno
+- quali sono le basi dei verbi irregolari
+	- ere 1
+		- essere --> sar-
+		- avere --> avr-
+		- vedere --> vedr-
+		- dovere --> dovr-
+		- potere --> potr-
+		- sapere --> sapr-
+	- ere 2
+		- cadere --> cadr-
+		- vivere --> vivr-
+	- are
+		- stare --> star-
+		- dare --> dar-
+		- fare --> far-
+		- andare --> andr-
 
 ===TODO===		
 - parole utili per parlare del tempo
@@ -1877,3 +1912,4 @@
 	- più caratteristico e distintivo della pronuncia italiana
 	- Come potete vedere dalla tabella
 	- della prima persona 
+
