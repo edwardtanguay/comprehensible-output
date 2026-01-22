@@ -14,11 +14,13 @@
 	- x 5.9 https://learnamo.com/come-quando-usare-indicativo-imperfetto/
 	- x 5.9 https://learnamo.com/come-quando-usare-ne/
 	- x 5.9 https://learnamo.com/imperativo-italiano/
-	- .. 5.9 https://learnamo.com/il-futuro-in-italiano/
+	- x 5.9 https://learnamo.com/il-futuro-in-italiano/
+	- .. 5.9 https://learnamo.com/ci-ne-particelle-italiano/
 
 
-	- 5.5 https://learnamo.com/appena-significato-italiano/
-
+	- 5.9 https://learnamo.com/ci-italiano/
+	- 5.9 https://learnamo.com/ci-cambia-significato/
+	- 5.9 https://learnamo.com/appena-significato-italiano/
 	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
@@ -26,9 +28,6 @@
 	- 5.9 https://learnamo.com/congiuntivo-presente-passato/
 	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
 	- 5.9 https://learnamo.com/come-usare-gerundio/
-	- 5.9 https://learnamo.com/ci-ne-particelle-italiano/
-	- 5.9 https://learnamo.com/ci-italiano/
-	- 5.9 https://learnamo.com/ci-cambia-significato/
 	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
 	- 5.8 https://learnamo.com/venire-derivati/
 	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
@@ -399,6 +398,9 @@
 		- ottantotto
 	- spell 41
 		- quarantuno
+- indicazioni
+	- sinistra, destra
+	- guarda in alto, guarda in basso
 - i giorni della settimana
 	- giorni della settimana
 		- lunedì
@@ -1784,12 +1786,15 @@
 			- andarsene (andare via, partire dal posto in cui ci si trova)
 				- basta, me ne vado
 					- dal posto in cui mi trovo
+				- (to get out of here)
 			- non poterne più (essere stanchi di qualcosa)
 				- sei di nuovo in ritardo, non ne posso più
 					- del tuo ritardo
+				- (can't take it anymore)
 			- valerne la pena (qualcosa è degna degli sforzi e dell'impegno, li merita)
 				- visitare Firenze in un giorno è stato faticoso ma ne è valsa la pena
 					- della fatica che abbiamo fatto per vederla in un giorno
+				- (worth it)
 			- volerne a qualcuno (essere arrabbiati con qualcuno)
 				- non me ne volere ma penso che tu stia sbagliando
 					- non essere arrabbiato con me ma penso che tu stia sbagliando
@@ -1800,6 +1805,106 @@
 	- dove si colloca "ne" in relazione ad altri pronomi
 		- me ne vado (I'm leaving)
 		- me ne dai (give me some)
+- ne o ci
+	- a cosa servono
+		- la loro funzione principale è quella di sostituire parole o intere parti di una frase, evitando così ripetizioni inutili
+	- dove sono posizionati
+		- prima del verbo
+	- ne
+		- indica una parte di una quantità
+			- esempi generali
+				- prendo cinque cioccolatini 
+					- ne prendo cinque
+				- assaggia un po' di torta 
+					- assaggiane un po'
+				- mancano molti documenti
+					- ne mancano molti
+				- non voglio del miele
+					- non ne voglio
+				- Luca ha 5 fratelli ma io non ne ho nessuno
+			- con un participio passato, bisogna concordare il participio passato in genere e numero con il sostantivo sostituito da "ne"
+				- quante valigie hai portato
+					- ne ho portata una sola
+					- ne ho portate solo due
+				- quanti gelati hai mangiato
+					- ne ho mangiati tre
+		- sostituisce "di qualcuno" o "di qualcosa"
+			- se hai mangiato i biscotti, dimmi che ne pensi
+			- ho guardato il film horror ma non ne ho avuto paura
+			- dopo aver licenziato Lucrezia, il suo capo si è reso conto di averne bisogno
+		- sostituisce "da qualcuno" o "da qualcosa"
+			- so che è una situazione difficile, ma sono certa che riuscirai a uscirne
+			- appena ha conosciuto Stefania, ne è rimasto affascinato
+	- ci
+		- un pronome riflessivo per noi
+			- quando siamo in vacanza, ci svegliamo sempre molto tardi
+			- non ci vediamo da molto tempo, ma ci incontreremo di nuovo dopodomani
+		- un pronome che sostituisce noi o a noi
+			- Paolo ha accompagnato me e mia sorella all'aeroporto
+				- Paolo ci ha accompagnato all’aeroporto
+			- Mia nonna ha sempre dato buoni consigli a me e ai miei cugini
+				- mia nonna ci ha sempre dato buoni consigli
+		- si riferisce a un luogo (sostituisce "qui", "lì", "in questo luogo", "in quel luogo"...)
+			- vado a Torino domani
+				- ci vado domani
+			- non stiamo mai in casa il sabato sera
+				- non ci stiamo mai il sabato sera
+			- con chi sei andato alle Hawaii l'anno scorso
+				- con chi ci sei andato
+		- sostituisce "a qualcosa"
+			- hai pensato a un piano
+				- ci hai pensato
+			- non fare caso alle sue parole
+				- non farci caso
+			- prova a cucinare il pollo
+				- ci prova
+		- sostituisce "in qualcuno/qualcosa"
+			- non crede in Dio
+				- non ci crede
+			- Lea è cascata nello scherzo
+				- Lea ci è cascata
+		- sostituisce "con qualcuno/qualcosa"
+			- parlo sempre con mia sorella
+				- ci parlo sempre
+			- non giocavo spesso con le bambole
+				- non ci giocavo spesso
+		- sostituisce "su qualcuno/qualcosa"
+			- scommetto 10 euro su questo fatto
+				- ci scommetto 10 euro
+			- possiamo contare su di lui
+				- possiamo contarci
+		- unisce ad alcuni verbi per formarne degli altri dal significato diverso
+			- metterci
+				- indica tempo o impegno necessario
+					- per finire questo esercizio ci metti almeno mezz'ora
+					- ci = it, metti = takes
+			- esserci
+				- indica presenza o disponibilità
+					- domani sera ci sei o lavori
+			- volerci
+				- indica necessità (impersonale)
+					- per capire questo concetto ci vogliono pazienza e tempo
+			- vederci
+				- indica capacità visiva o chiarezza
+					- senza occhiali non ci vedo bene
+			- ci + la = ce (per ragioni fonetiche, non logiche)
+				- farcela
+					- indica riuscire
+						- è difficile, ma ce la fai se studi con costanza
+				- avercela
+					- indica essere arrabbiati con qualcuno
+						- perché ce l'hai con me
+
+			
+
+
+
+
+
+
+
+
+
 - l'imperativo
 	- come formare l'imperativo per tu e voi
 		- si usa il coniugazione presente indicativo
@@ -1924,6 +2029,8 @@
 	- portare: non puoi portarmelo via
 	- individuando dove 
 	- Le consonanti doppie sono facoltative
+	- dopo aver licenziato Lucrezia, il suo capo si è reso conto di averne bisogno
+
 
 
 - important words
@@ -1942,6 +2049,7 @@
 	- il complemento va messo dopo il verbo
 	- queste espressioni vanno imparate a memoria
 	- il presente venga utilizzato anche per esprimere eventi futuri
+	- in questo caso, vanno messe dopo, formando una sola parola
 
 - pronoun examples
 	- uno degli aspetti 
