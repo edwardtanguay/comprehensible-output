@@ -17,6 +17,8 @@
 	- .. 5.9 https://learnamo.com/il-futuro-in-italiano/
 
 
+	- 5.5 https://learnamo.com/appena-significato-italiano/
+
 	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
@@ -100,7 +102,6 @@
 	- 5.5 https://learnamo.com/connettori-italiano/
 	- 5.5 https://learnamo.com/ce-o-ci-sono/
 	- 5.5 https://learnamo.com/articoli-determinativi-uso/
-	- 5.5 https://learnamo.com/appena-significato-italiano/
 	- 5.5 https://learnamo.com/andare-venire/
 	- 5.5 https://learnamo.com/aggettivi-indefiniti/
 	- 5.5 https://learnamo.com/aggettivi-indefiniti-guida/
@@ -1662,21 +1663,29 @@
 			- este
 			- ebbero
 	- quali sono le basi dei verbi irregolari
-		- ere 1
-			- essere --> sar-
-			- avere --> avr-
-			- vedere --> vedr-
-			- dovere --> dovr-
-			- potere --> potr-
-			- sapere --> sapr-
-		- ere 2
-			- cadere --> cadr-
-			- vivere --> vivr-
 		- are
 			- stare --> star-
 			- dare --> dar-
 			- fare --> far-
 			- andare --> andr-
+		- ere core
+			- essere --> sar-
+			- avere --> avr-
+			- volere --> vorr- ("rr")
+			- dovere --> dovr-
+			- potere --> potr-
+			- sapere --> sapr-
+		- ere altre
+			- vedere --> vedr-
+			- cadere --> cadr-
+			- vivere --> vivr-
+		- ere "rr"
+			- rimanere --> rimarr-
+			- mantenere --> manterr-
+			- tenere --> terr-
+			- bere --> berr-
+		- ire
+			- venire --> verr
 	- quando usare il condizionale presente
 		- per esprimere un desiderio
 			- mi piacerebbe tanto visitare Paris
@@ -1849,22 +1858,53 @@
 			- emo
 			- ete
 			- anno
-- quali sono le basi dei verbi irregolari
-	- ere 1
-		- essere --> sar-
-		- avere --> avr-
-		- vedere --> vedr-
-		- dovere --> dovr-
-		- potere --> potr-
-		- sapere --> sapr-
-	- ere 2
-		- cadere --> cadr-
-		- vivere --> vivr-
-	- are
-		- stare --> star-
-		- dare --> dar-
-		- fare --> far-
-		- andare --> andr-
+	- quali sono le basi dei verbi irregolari
+		- are
+			- stare --> star-
+			- dare --> dar-
+			- fare --> far-
+			- andare --> andr-
+		- ere core
+			- essere --> sar-
+			- avere --> avr-
+			- volere --> vorr- ("rr")
+			- dovere --> dovr-
+			- potere --> potr-
+			- sapere --> sapr-
+		- ere altre
+			- vedere --> vedr-
+			- cadere --> cadr-
+			- vivere --> vivr-
+		- ere "rr"
+			- rimanere --> rimarr-
+			- mantenere --> manterr-
+			- tenere --> terr-
+			- bere --> berr-
+		- ire
+			- venire --> verr
+	- quando usare il futuro
+		- per esprimere azioni ancora da compiere
+			- l'anno prossimo andrò in Brasile
+			- il presente venga utilizzato anche per esprimere eventi futuri
+				- domani incontreremo il Presidente
+				- domani incontriamo il Presidente
+		- per esprimere insicurezza, dubbi
+			- è buio fuori, sembra molto tardi, che ore saranno
+		- per esprimere ipotesi
+			- questo vestito costerà almeno 400 euro, non posso permettermelo
+		- per togliere importanza ad un argomento
+			- Luisa sarà anche una brava ragazza, ma proprio non la sopporto
+- futuro anteriore
+	- come formare futuro anteriore
+		- usare il futuro del verbo essere o avere + il participio passato del verbo
+			- io sarò andato/a
+			- io avrò finito
+	- quando usare
+		- per esprimere due azioni di cui una accade dopo l’altra 
+			- quando avrai finito di mangiare, andremo al cinema
+			- non appena saremo arrivati a parigi, visiteremo la torre eiffel
+		- negli stessi casi in cui abbiamo il futuro semplice, ma per esprimere un'azione al passato
+			- oggi luigi ha mal di testa, sicuramente avrà dormito poco ieri sera
 
 ===TODO===		
 - parole utili per parlare del tempo
@@ -1901,6 +1941,7 @@
 	- è proprio quella che nei tutorial viene chiamata “Claude app”
 	- il complemento va messo dopo il verbo
 	- queste espressioni vanno imparate a memoria
+	- il presente venga utilizzato anche per esprimere eventi futuri
 
 - pronoun examples
 	- uno degli aspetti 
