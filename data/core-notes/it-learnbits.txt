@@ -21,6 +21,9 @@
 	- .. 5.9 https://learnamo.com/congiuntivo-presente-passato/
 
 	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
+	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
+	- 5.9 https://learnamo.com/congiuntivo-imperfetto-trapassato/
+	- 5.9 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/
 	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
 	- 5.8 https://learnamo.com/venire-derivati/
@@ -44,9 +47,7 @@
 	- 5.8 https://learnamo.com/essere-stare-usi-differenze/
 	- 5.8 https://learnamo.com/errori-comuni-si-impersonale/
 	- 5.8 https://learnamo.com/coppie-parole-creano-confusione/
-	- 5.8 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/
 	- 5.8 https://learnamo.com/congiuntivo-si-o-no/
-	- 5.8 https://learnamo.com/congiuntivo-imperfetto-trapassato/
 	- 5.8 https://learnamo.com/congiuntivo-errori/
 	- 5.8 https://learnamo.com/come-quando-usare-indicativo-presente/
 	- 5.4 https://learnamo.com/frasi-concessive/ #mentioned
@@ -2157,13 +2158,39 @@
 		- il verbo della terza persona plurale è uguale a quello delle persone singolari +no
 			- sia --> siano
 			- abbia --> abbiano
-
-
-
-
-
-
-
+	- come si forma il congiuntivo passato 
+		- essere
+			- sia stato/a
+			- sia stato/a
+			- sia stato/a
+				- Marco non è venuto: che sia stato trattenuto a lavoro?
+			- siamo stati/e
+			- siate stati/e
+			- siano stati/e
+		- avere
+			- abbia avuto
+			- abbia avuto
+			- abbia avuto
+				- Marco non è venuto: che abbia avuto un imprevisto?
+			- abbiamo avuto
+			- abbiate avuto
+			- abbiano avuto
+		- andare
+			- sia andato/a
+			- sia andato/a
+			- sia andato/a
+				- non credo che lui sia andato a Roma
+			- siamo andati/e
+			- siate andati/e
+			- siano andati/e
+		- fare
+			- abbia fatto
+			- abbia fatto
+			- abbia fatto
+			- abbiamo fatto
+				- pensiamo che tu abbia fatto bene a trovare questo nuovo lavoro
+			- abbiate fatto
+			- abbiano fatto
 
 
 
@@ -2221,4 +2248,8 @@
 	- più caratteristico e distintivo della pronuncia italiana
 	- Come potete vedere dalla tabella
 	- della prima persona 
+
+- esempi per congiuntivo
+	- è strano che
+
 
