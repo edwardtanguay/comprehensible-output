@@ -16,19 +16,13 @@
 	- x 5.9 https://learnamo.com/imperativo-italiano/
 	- x 5.9 https://learnamo.com/il-futuro-in-italiano/
 	- x 5.9 https://learnamo.com/ci-ne-particelle-italiano/
-	- .. 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
+	- x 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
+	- x 5.9 https://learnamo.com/come-usare-gerundio/
+	- .. 5.9 https://learnamo.com/congiuntivo-presente-passato/
 
-
-	- 5.9 https://learnamo.com/come-usare-gerundio/
-	- 5.9 https://learnamo.com/ci-italiano/
-	- 5.9 https://learnamo.com/ci-cambia-significato/
-	- 5.9 https://learnamo.com/appena-significato-italiano/
-	- 5.9 https://learnamo.com/essere-avere/
-	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
-	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
-	- 5.9 https://learnamo.com/congiuntivo-presente-passato/
 	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
 	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
+	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
 	- 5.8 https://learnamo.com/venire-derivati/
 	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
 	- 5.8 https://learnamo.com/trapassato-italiano-tempo-verbale/
@@ -37,10 +31,14 @@
 	- 5.8 https://learnamo.com/pronomi-relativi/
 	- 5.8 https://learnamo.com/pronomi-diretti-indiretti/
 	- 5.8 https://learnamo.com/preposizioni-italiano-tempo/
+	- 5.8 https://learnamo.com/essere-avere/
 	- 5.8 https://learnamo.com/modi-tempi-verbali-italiani/
 	- 5.8 https://learnamo.com/il-passivo/
 	- 5.8 https://learnamo.com/il-discorso-indiretto/
 	- 5.8 https://learnamo.com/grammatica-livello-intermedio/
+	- 5.8 https://learnamo.com/appena-significato-italiano/
+	- 5.8 https://learnamo.com/ci-italiano/
+	- 5.8 https://learnamo.com/ci-cambia-significato/
 	- 5.8 https://learnamo.com/gia-o-ancora-spiegazione/
 	- 5.8 https://learnamo.com/futuro-passato-italiano/
 	- 5.8 https://learnamo.com/essere-stare-usi-differenze/
@@ -51,6 +49,7 @@
 	- 5.8 https://learnamo.com/congiuntivo-imperfetto-trapassato/
 	- 5.8 https://learnamo.com/congiuntivo-errori/
 	- 5.8 https://learnamo.com/come-quando-usare-indicativo-presente/
+	- 5.4 https://learnamo.com/frasi-concessive/ #mentioned
 	- 5.8 https://learnamo.com/ancora-o-gia-spiegazione/
 	- 5.8 https://learnamo.com/alternative-voglio-italiano/
 	- 5.8 https://learnamo.com/alternative-perche-italiano/
@@ -58,6 +57,7 @@
 	- 5.7 https://learnamo.com/sinonimi-per-esempio/
 	- 5.7 https://learnamo.com/sinonimi-non-piace-italiano/
 	- 5.7 https://learnamo.com/significato-magari/
+	- 5.7 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.7 https://learnamo.com/pure-spiegazione-uso/
 	- 5.7 https://learnamo.com/piuttosto-significato/
 	- 5.7 https://learnamo.com/ora-oramai-ormai/
@@ -110,7 +110,6 @@
 	- 5.4 https://learnamo.com/mica-significato/
 	- 5.4 https://learnamo.com/locuzioni-avverbi-italiano/
 	- 5.4 https://learnamo.com/la-frase-scissa/
-	- 5.4 https://learnamo.com/frasi-concessive/
 	- 5.4 https://learnamo.com/esclamazioni-italiane/
 	- 5.4 https://learnamo.com/errori-comuni-aggettivi/
 	- 5.4 https://learnamo.com/dativo-etico-italiano/
@@ -2054,8 +2053,125 @@
 			- ogni verbo italiano ha un infinito
 				- qui non stai distinguendo i verbi uno per uno: fai un’affermazione generale
 
+- gerundio
+	- come formi gerundio presente
+		- are: -ando
+			- mangiare → mangiando
+			- parlare → parlando
+		- ere: -endo
+			- scrivere → scrivendo
+			- leggere → leggendo 
+		- ire: -endo
+			- partire → partendo
+			- finire → finendo 
+		- cambia queste radici verbali
+			- dire --> dicendo
+			- bere --> bevendo
+	- come formi gerundio passato
+		- gerundio presente degli ausiliari (essendo e avendo) + participio passato
+			- avendo fatto 
+				- having done
+			- essendo andato
+				- having gone
+	- come e quando usare il gerundio
+		- per esprimere la maniera in cui avviene qualcosa
+			- sono dimagrita mangiando solo verdura
+		- per esprimere una causa
+			- avendo avuto la febbre, Marta non è uscita di casa per giorni
+		- per esprimere una condizione		
+			- ascoltando i consigli di chi ha più esperienza, si arriva lontano
+		- con significato temporale, esprimere contemporaneità
+			- facendo la doccia, Laura pensa alle sue esperienze passate
+			- andando in bici, ho incontrato Paolo
+			- camminando, ascoltava la musica
+		- per esprimere una concessione
+			- pur non avendo fame, ho mangiato
+				- nonostante non avessi fame, ho mangiato
+		- quando abbiamo soggetti diversi, tendiamo a non usare il gerundio
+			- mentre io faccio la doccia, Laura pensa alle esperienze passate
+			- in realtà, sarebbe possibile, ma bisogna esplicitarli
+				- avendo Marta avuto la febbre, siamo andati tutti a trovarla
+				- pur non avendo io fame, mia madre ha mangiato
+		- "stare + gerundio" indica un'azione in corso di svolgimento in un determinato momento
+			- che fai / sto mangiando un panino
+			- quando mi hai chiamato, stavo parlando con Luca
+		- "andare + gerundio" indica un'azione che si svolge in un tempo non definito
+			- Giovanni va dicendo che la sua fidanzata lo tradiva
+
+- congiuntivo
+	- come si coniuga "essere" e "avere" per il presente congiuntivo
+		- sia, sia, sia, siamo, siate, siano
+			- penso che siate molto intelligenti
+		- abbia, abbia, abbia, abbiamo, abbiate, abbiano
+			- penso che tu abbia una casa splendida
+	- come si coniuga tutti gli altri verbi per il presente congiuntivo
+		- togliere loro le desinenze dell'infinito (-are, -ere, -ire)
+			- parlare --> parl-
+				- mangiare --> mang-
+			- vedere --> ved-
+			- dormire --> dorm-
+		- aggiungere quelle del congiuntivo presente
+			- ARE: i, i, i, iamo, iate, ino
+			- ERE: a, a, a, iamo, iate, ano
+			- IRE: a, a, a, iamo, iate, ano 
+				- (finire, pulire, impedire, ...) 
+					- isca, isca, isca, iamo, iate, iscano 
+		- verbi irregolari
+			- ARE
+				- stare: stia, stia, stia, stiamo, stiate, stiano
+					- credi che Francesco stia ancora dal dentista
+				- fare: faccia, faccia, faccia, facciamo, facciate, facciano
+					- non so se i miei amici facciano o meno un party per Capodanno
+				- andare: vada, vada, vada, andiamo, andiate, vadano
+					- penso che vadano al ristorante ogni sabato
+				- dare: dia, dia, dia, diamo, diate, diano
+					- non penso che in quel negozio diano qualcosa in omaggio
+			- ERE
+				- volere: voglia, voglia, voglia, vogliamo, vogliate, vogliano
+					- non so se Federica voglia partecipare al progetto
+				- dovere: debba, debba, debba, debiamo, debiate, debbano
+					- credi che debbano fare una pausa
+				- potere: possa, possa, possa, possiamo, possiate, possano
+					- non penso che possiate farlo
+				- sapere: sappia, sappia, sappia, sappiamo, sappiate, sappiano
+					- che io sappia, l'autobus è già passato
+				- tenere: tenga, tenga, tenga, teniamo, teniate, tengano
+					- è importante che io tenga tutto sotto controllo
+				- mantenere: mantenga, mantenga, mantenga, manteniamo, manteniate, mantengano
+					- è fondamentale che mantengano la calma durante la crisi
+			- IRE
+				- uscire: esca, esca, esca, usciamo, usciate, escano
+					- è bene che tu non esca con questo freddo, potresti ammalarti
+				- venire: venga, venga, venga, veniamo, veniate, vengano
+					- credo che vengano anche Marco e suo fratello in gita con noi
+				- dire: dica, dica, dica, diciamo, diciate, dicano
+					- voglio che dicano la verità
+	- punti da ricordare riguardo al presente congiuntivo
+		- il verbo delle tre persone singolari è uguale, perciò abbiamo bisogno di esplicitare il pronome personale soggetto per evitare equivoci
+			- che io parli chiaramente è importante
+			- dubito che tu venga domani
+			- penso che lui sappia la verità
+		- il verbo della prima persona plurale è uguale a quello della prima persona plurale del presente indicativo
+			- siamo --> siamo
+			- abbiamo --> abbiamo
+		- il verbo della terza persona plurale è uguale a quello delle persone singolari +no
+			- sia --> siano
+			- abbia --> abbiano
+
+
+
+
+
+
+
+
+
+
 
 ===TODO===		
+- parole importanti
+	- pur non avendo fame, ho mangiato
+	- nonostante non avessi fame, ho mangiato
 - parole utili per parlare del tempo
 	sempre → always
 	quasi sempre → almost always

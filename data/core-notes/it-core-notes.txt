@@ -265,7 +265,8 @@ CONJUGATION OVERVIEW
 		- PARE: dovei/dovetti, dovesti, dové/dovette, dovemmo, doveste, doverono/dovettero
 		- FUTU: dovrò, dovrai, dovrà, dovremo, dovrete, dovranno
 		- COND: dovrei, dovresti, dovrebbe, dovremmo, dovreste, dovrebbero
-		- PRSU: deva/debba, deva/debba, deva/debba, dobbiamo, dobbiate, devano/debbano
+		- PRSU: debba, debba, debba, dobbiamo, dobbiate, debbano
+			- deva, deva, deva, dobbiamo, dobbiate, devano
 		- IMSU: dovessi, dovessi, dovesse, dovessimo, doveste, dovessero
 		- IPER: *, devi, deva/debba, dobbiamo, dovete, devano/debbano
 		- GERU: dovendo
@@ -694,10 +695,11 @@ CONJUGATION OVERVIEW
 
 		-- ERE -arre ---------------------------------------------------------------------------------------------------
 		trarre##: (tra-) -ggo, *, *, *, *, -ggono, tratto // to draw, to take		
+		protrarre##: (tra-) -ggo, *, *, *, *, -ggono, tratto // to prolong, to extend, to protract		
 		
 		-- ERE /i with past participle -----------------------------------------
 		accogliere##: accolgo, /i, *, /iamo, *, accolgono, accolto // to welcome
-		raccogliere##: raccolgo, /i, *, /iamo, *, raccolgono, raccolto // to gather, to collect		
+		raccogliere##: raccolgo, /i, *, /iamo, *, raccolgono, raccolto
 
 	</pre>
 	<h3>=== -IRE =========</h3>
