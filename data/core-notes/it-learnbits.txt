@@ -19,6 +19,7 @@
 	- .. 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 
 
+	- 5.9 https://learnamo.com/come-usare-gerundio/
 	- 5.9 https://learnamo.com/ci-italiano/
 	- 5.9 https://learnamo.com/ci-cambia-significato/
 	- 5.9 https://learnamo.com/appena-significato-italiano/
@@ -27,7 +28,6 @@
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
 	- 5.9 https://learnamo.com/congiuntivo-presente-passato/
 	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
-	- 5.9 https://learnamo.com/come-usare-gerundio/
 	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
 	- 5.8 https://learnamo.com/venire-derivati/
 	- 5.8 https://learnamo.com/tutte-congiunzioni-italiane/
@@ -2011,6 +2011,50 @@
 		- negli stessi casi in cui abbiamo il futuro semplice, ma per esprimere un'azione al passato
 			- oggi luigi ha mal di testa, sicuramente avrà dormito poco ieri sera
 
+- essere vs stare
+	- quando viene utilizzato "essere"
+		- si usa per esprimere l'esistenza, la qualità o la condizione 
+			- Rocco è allegro oggi
+			- la penna è blu
+			- lei è un'insegnante
+		- per indicare la posizione 
+			- Rocco è in bagno
+		- per esprimere la presenza con "c'è" o "ci sono"
+			- c'è un quaderno su questa scrivania
+			- ci sono due quaderni su questa scrivania
+			- ci sei fin qui? (è tutto chiaro finora?)
+		- per eventi/date
+			- la festa è sabato sera
+	- quando viene utilizzato "stare"
+		- per esprimere una condizione temporanea che può essere fisica, psicologica o estetica
+			- con i nuovi occhiali da sole, lui sta molto bene
+			- lei ha la febbre: sta male
+		- per indicare la posizione abituale di qualcosa
+			- il cucchiaio sta nel cassetto
+		- per esprimere comportamenti temporanei
+			- stare attenti
+			- stare in ansia
+			- stare zitti
+			- stare in silenzio	
+		- "starci" può significare essere d’accordo o entrarci 
+			- andiamo in pizzeria? / sì, ci sto
+			- il mio cellulare nella tasca proprio non ci sta
+		- "stare + gerundio" indica un'azione in corso di svolgimento
+			- in questo momento, stai leggendo un articolo 
+		- "stare per + infinito" indica quello che si farà tra pochissimo tempo
+			- stai per finire questa lezione
+
+- ciascun vs ogni
+	- ciascun [cha-SKOON]
+		- mette l’accento sull’individualità
+			- ciascun verbo ha la propria coniugazione
+				- ogni singolo verbo, preso separatamente
+	- ogni
+		- è più generale, più neutro
+			- ogni verbo italiano ha un infinito
+				- qui non stai distinguendo i verbi uno per uno: fai un’affermazione generale
+
+
 ===TODO===		
 - parole utili per parlare del tempo
 	sempre → always
@@ -2032,7 +2076,6 @@
 	- dopo aver licenziato Lucrezia, il suo capo si è reso conto di averne bisogno
 
 
-
 - important words
 	- ovunque 
 	- purtroppo
@@ -2050,6 +2093,7 @@
 	- queste espressioni vanno imparate a memoria
 	- il presente venga utilizzato anche per esprimere eventi futuri
 	- in questo caso, vanno messe dopo, formando una sola parola
+	- quando viene utilizzato
 
 - pronoun examples
 	- uno degli aspetti 

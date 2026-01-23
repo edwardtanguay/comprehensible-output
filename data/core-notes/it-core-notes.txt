@@ -646,6 +646,7 @@ CONJUGATION OVERVIEW
 		spegnere: *, *, *, *, *, *, ho spento // to turn off, to shut down
 		riavvolgere: *, *, *, *, *, *, ho riavvolo // to rewind
 		eccellere##: *, *, *, *, *, *, ho eccelso // to excel
+		svolgere##: *, *, *, *, *, *, ho svolto // to carry out, perform
 		
 
 		-- ERE go (mnemonic: Dönerladen) ---------------------------------------------------------------------------------------------------
