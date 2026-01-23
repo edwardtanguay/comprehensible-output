@@ -15,13 +15,13 @@
 	- x 5.9 https://learnamo.com/come-quando-usare-ne/
 	- x 5.9 https://learnamo.com/imperativo-italiano/
 	- x 5.9 https://learnamo.com/il-futuro-in-italiano/
-	- .. 5.9 https://learnamo.com/ci-ne-particelle-italiano/
+	- x 5.9 https://learnamo.com/ci-ne-particelle-italiano/
+	- .. 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 
 
 	- 5.9 https://learnamo.com/ci-italiano/
 	- 5.9 https://learnamo.com/ci-cambia-significato/
 	- 5.9 https://learnamo.com/appena-significato-italiano/
-	- 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- 5.9 https://learnamo.com/essere-avere/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
 	- 5.9 https://learnamo.com/imperfetto-passato-prossimo/
