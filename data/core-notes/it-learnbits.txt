@@ -18,9 +18,10 @@
 	- x 5.9 https://learnamo.com/ci-ne-particelle-italiano/
 	- x 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- x 5.9 https://learnamo.com/come-usare-gerundio/
-	- .. 5.9 https://learnamo.com/congiuntivo-presente-passato/
+	- x 5.9 https://learnamo.com/congiuntivo-presente-passato/
 
-	- 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
+	- .. 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
+
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/congiuntivo-imperfetto-trapassato/
 	- 5.9 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/
@@ -1096,6 +1097,15 @@
 			- io avevo comprato un bel vestito per l'occasione
 			- non avevo mai partecipato ad una festa così straordinaria
 - passato remoto 
+	- sfondo (Davide)
+		- aspetto
+			- perfettivo
+				- azione conclusa
+				- vista nella sua interezza
+				- passato remoto è qui
+			- imperfettivo
+				- azione in corso
+				- vista nel suo svolgersi
 	- quali sono gli usi di passato remoto
 		- per indicare un fatto avvenuto e concluso nel passato
 			- si svegliò, si ricordò di non dover andare a lavoro e si addormentò di nuovo
