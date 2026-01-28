@@ -19,11 +19,10 @@
 	- x 5.9 https://learnamo.com/essere-vs-stare-quali-sono-le-differenze-e-come-si-usano/
 	- x 5.9 https://learnamo.com/come-usare-gerundio/
 	- x 5.9 https://learnamo.com/congiuntivo-presente-passato/
-
 	- .. 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
 
-	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/congiuntivo-imperfetto-trapassato/
+	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/
 	- 5.9 https://learnamo.com/analisi-grammaticale-italiano/
 	- 5.9 https://learnamo.com/espressioni-esprimere-opinioni/
@@ -2201,8 +2200,77 @@
 				- pensiamo che tu abbia fatto bene a trovare questo nuovo lavoro
 			- abbiate fatto
 			- abbiano fatto
-
-
+	- quando usi il congiuntivo passato
+		- con verbi che esprimono un'opinione 
+			- pensare, credere/ritenere (believe), supporre, immaginare, avere l'impressione che
+				- oggi farà molto freddo
+					- credo che faccia molto freddo oggi
+				- questo vestito mi sta bene
+					- pensi che questo vestito mi stia bene?
+				- il suo fidanzato la tradisce
+					- lei ha l'impressione che il suo fidanzato la tradisca
+		- con verbi che esprimono volontà, desiderio
+			- volere, desiderare, preferire, gradire (like/enjoy) che
+				- vado a casa sua stasera
+					- vuole che io vada a casa sua stasera
+				- Marco viene e mi chiede scusa
+					- desidero che Marco venga a chiedermi scusa
+				- voi parlate meno
+					- preferiamo che voi parliate di meno
+		- con verbi che esprimono speranza o paura 
+			- sperare/augurarsi (hope), aspettarsi (expect), temere (fear), aver paura che (to be afraid that)
+				- questo brutto periodo finirà presto
+					- spero che questo brutto periodo finisca presto
+				- suo figlio si laureerà quest'estate
+					- Francesca si augura che suo figlio si laurei in estate
+					- laureare (to graduate)
+					- conditionale: si laureerei
+				- hai la febbre
+					- temo che tu abbia la febbre
+				- non riescano a venire stasera (non potranno venire stasera)
+					- ho paura che non riescano a venire stasera
+		- con verbi che esprimono incertezza, dubbio, irrealtà 
+			- esempi
+				- non essere sicuri/certi che
+				- dubitare che
+				- fingere che (pretend that)
+			- questa è la scelta migliore
+				- non sono certa che sia la scelta migliore
+			- non ne sono capace
+				- dubiti che io ne sia capace
+		- con verbi che esprimono stati d'animo
+			- esempi
+				- essere felice che
+				- essere contento che
+				- far piacere (to please)
+				- essere dispiaciuto
+				- rallegrarsi che
+			- sei qui
+				- mi fa piacere che tu sia qui
+				- sono felice che tu sia qui
+			- non ha avuto il coraggio di parlare
+				- mi dispiace che lui non abbia avuto il coraggio di parlare
+	- quando usi l'infinito preceduto da "di"
+		- se il soggetto della frase principale e il soggetto della frase dipendente sono uguali
+			- raggiungi i tuoi obiettivi
+				- spero che tu raggiunga i tuoi obiettivi 
+					- spero di raggiungere i miei obiettivi
+			- lui è il migliore
+				- credete che lui sia il migliore
+					- credete di essere il migliore
+			- siete venuti
+				- lei è contenta che voi siate venuti 
+					- lei è contenta di essere venuta
+	- quando si usa "sapere", quando si usa il congiuntivo
+		- quando introduce incertezza, dubbio
+			- non so che cosa tu voglia
+			- non so che lui sia arrivato
+			- non so che decisione abbiano preso
+		- non quando significa non ricordo / non mi è stato detto, ma il fatto è reale
+			- non so che ore sono
+			- non so che giorno è oggi
+			- non so che strada porta al centro
+	- CONTINUE: "IL CONGIUNTIVO IN FORME IMPERSONALI…"
 
 
 ===TODO===		
