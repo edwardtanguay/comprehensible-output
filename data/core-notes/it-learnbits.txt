@@ -21,6 +21,7 @@
 	- x 5.9 https://learnamo.com/congiuntivo-presente-passato/
 	- .. 5.9 https://learnamo.com/come-quando-usare-congiuntivo/
 
+	- 5.9 https://learnamo.com/en/andare-and-venire-difference/
 	- 5.9 https://learnamo.com/congiuntivo-imperfetto-trapassato/
 	- 5.9 https://learnamo.com/quando-non-usare-congiuntivo-quando-usare-indicativo/
 	- 5.9 https://learnamo.com/consecutio-temporum-indicativo-congiuntivo-condizionale/

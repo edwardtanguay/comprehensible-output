@@ -543,3 +543,7 @@ nl; percentage; PAIR-sen-tahzh-eh; percentage
 nl; je kunt mij bellen indien je hulp nodig hebt; in-DEEN; you can call me if you need help
 
 it; ciascun verbo; cha-SKOON; each verb
+
+it; la magia; mah-GEE-ah; the magic
+
+it;char:say and separate each vowel
