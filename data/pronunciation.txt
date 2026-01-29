@@ -1,5 +1,10 @@
 TODO: find list of transatlantic English rules in main file, and process here
 
+- pronuncation-models
+	- it: Davide Gemello: https://www.youtube.com/watch?v=xnj1CadIEOo
+	- de: Zsolt Wilhelm: https://www.youtube.com/watch?v=Vn8GIQG2yDk
+
+
 == Italian Phrases ===================
 Lui pala la neve ogni mattina.
 La palla è finita nel giardino.
