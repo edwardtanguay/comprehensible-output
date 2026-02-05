@@ -552,3 +552,5 @@ it; ciascun verbo; cha-SKOON; each verb
 it; la magia; mah-GEE-ah; the magic
 
 it;char:say and separate each vowel
+
+nl; het prototype; poh-toh-TEE-pah; the prototype
