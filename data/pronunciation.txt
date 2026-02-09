@@ -554,3 +554,5 @@ it; la magia; mah-GEE-ah; the magic
 it;char:say and separate each vowel
 
 nl; het prototype; poh-toh-TEE-pah; the prototype
+
+nl; een goede keuze; KÖH-zeh; a good choice
