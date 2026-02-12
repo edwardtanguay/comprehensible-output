@@ -1,3 +1,19 @@
+2026-02-12 - giovedì 12 febbraio 2026
+
+>> Un misterioso problema digitale
+
+Stai studiando informatica perché vuoi allenare la tua mente. L'ho controllato per essere sicuro: il tuo computer è acceso e tecnicamente sei a posto. Tuttavia, mentre lavori, noti qualcosa di strano. Ora siamo nel browser Firefox, ma le finestre si chiudono da sole. Quindi: dimmi cosa stai facendo adesso. Forse un hacker è entrato nel sistema? Gli ho chiesto di ottenere l'ID della sessione per capire il problema. Non sappiamo ancora dove sono salvate le sessioni, ma il manuale dice che, in caso di errore, solo la sessione corrente (o nessuna) resta valida. Gli altri utenti oppure vengono già disconnessi dal server.
+
+Ti senti confuso. Per esempio potresti raccontare così: "Stavo scrivendo, quando tutto è sparito". Anzi, è meglio agire subito. Pensi: "Cambierò la password immediatamente". Così eviti stati strani. Se il lucchetto diventa verde, è un buon segno che tutto funziona. Cerchi di scrivere un post in un forum per far crescere la conversazione, ma qualcuno scrive "hola". Ma questa è una parola spagnola, non italiana! Ti chiedi se il server sia qui o altrove. Non capisci nulla tranne una cosa: hai fame. Pensi: "Se trovo il latte fresco, prenderò anche del pane". In quel momento, il computer si riavvia esattamente come prima. Tutto è risolto.
+
+2026-02-11 - mercoledì 11 febbraio 2026
+
+>> Un assistente in cucina
+
+Oggi cucini una pasta speciale. Mentre prepari gli ingredienti, pensi: "Ho molte parole nella mia testa" e senti che "Ho molte parole italiane nella mia testa". Il tuo assistente intelligente ti aiuta e ha una voce femminile. Tu dici: "Per me va bene così" e inizi a bollire l’acqua. Il sugo è delizioso come al solito. Fai sempre piccole conversazioni veloci tra un compito e l’altro. Pensi che questa volta è abbastanza semplice finire tutto. Il sistema ti avvisa: "ogni volta che viene modificata una password, riceverai una notifica". Aggiunge che i vecchi file devono essere tutti cancellati; infatti, molti sono stati cancellati ieri.
+
+Ti piace il nostro rapporto di apprendimento. L'assistente parla così tieni il flusso senza interrompere i compiti. Ti suggerisce di parlare a voce alta così pratichi ancora. Non vuole rallentarti, specialmente quando non scrivi troppo, perché devo lavorare. Di tanto in tanto, se vuoi e puoi, studiate insieme. Se tu avessi più tempo, useresti l'app ogni ora. Quando avrai finito di mangiare, avrai imparato nuovi verbi. Se vedessi un altro cambiamento simile, saresti felice. Esclami: "Ottima idea" e l'assistente risponde: "Perfetto, vai pure."
+
 2026-02-10 - martedì 10 febbraio 2026
 
 >> Il traguardo di una mattina
