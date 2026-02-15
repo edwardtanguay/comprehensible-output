@@ -558,3 +558,5 @@ nl; het prototype; poh-toh-TEE-pah; the prototype
 nl; een goede keuze; KÖH-zeh; a good choice
 
 nl; de saus; SOWs (like cow with s at the end); the sauce
+
+it; stasera in casa; stah-SAIR-ah, KAH-zah; tonight at home
