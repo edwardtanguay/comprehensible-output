@@ -1,3 +1,11 @@
+2026-02-19 - giovedì 19 febbraio 2026
+
+>> Il problema delle due voci
+
+Sei al computer e lavori su un piccolo progetto. Guardi lo schermo e dici: “questo è strano, cioè.” Ci sono due righe uguali. Non so perché ci sono due voci e non so perché ci sono due righe, pensi. Forse è una voce del database. Mi scrivi: “o quali dubbi hai?” e io rispondo che potrebbe essere che riesca a fare meno cose oggi. Sei stanco e stai controllando il codice da due ore. Hai già cercato un errore e hai cambiato alcune parti. Ieri lavoravi tranquillo quando il sistema si è fermato. Avevi salvato tutto e avevi controllato le chiavi. 
+
+Le chiavi mancavano, quindi doveva essere questo. Hai trovato una chiave grezza nel file. Non sembra una parola tedesca, dici, ma è lo stesso per tutti e tre: per la prima persona e la seconda persona e la terza persona. “Ho quasi finito”, dici. Non sono stato via così a lungo, ma il tempo passa. Non so quanto latte ho in frigo, ma ora non è importante. Domani controllerai ancora. Starai lavorando tutta la mattina e avrai finito il progetto. Avrai lavorato per molte settimane. Se fossi più attento, troveresti subito l’errore. Sì, è molto probabilmente la causa. Guardiamo altrove, dici. Quindi ho risolto il problema, proprio così.
+
 2026-02-18 - mercoledì 18 febbraio 2026
 
 >> Il cestino misterioso
