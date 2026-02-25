@@ -8,6 +8,7 @@ import { Page404 } from "./pages/Page404.tsx";
 import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
 import { PageLinks } from "./pages/PageLinks.tsx";
+import { PagePronunciation } from "./pages/PagePronunciation.tsx";
 
 const router = createBrowserRouter([
 	{
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
 			{
 				path: "links",
 				element: <PageLinks />
+			},
+			{
+				path: "pronunciation",
+				element: <PagePronunciation />
 			},
 			{
 				path: "about",
