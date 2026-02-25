@@ -91,7 +91,7 @@ export const PagePronunciation = () => {
 				<div className="flex justify-center pb-20">
 					<button
 						onClick={handleResetLearned}
-						className="px-8 py-3 bg-red-500/10 hover:bg-red-500/20 text-red-400 font-black border-2 border-red-500/20 rounded-2xl transition-all uppercase tracking-widest text-sm hover:scale-105 active:scale-95 shadow-lg shadow-red-500/5"
+						className="px-8 py-4 bg-red-700 hover:bg-red-600 text-white font-bold border-2 border-red-900 rounded-2xl transition-all uppercase tracking-widest text-xs hover:scale-105 active:scale-95 shadow-2xl shadow-red-900/40"
 					>
 						Reset all {learnedIds.length} cards to unlearned
 					</button>
@@ -143,7 +143,7 @@ const Flashcard = ({ card, onLearned }: FlashcardProps) => {
 						e.stopPropagation();
 						onLearned();
 					}}
-					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-black px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
+					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
 				>
 					Mark as learned
 				</button>
