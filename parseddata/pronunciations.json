@@ -1,0 +1,1922 @@
+[
+	{
+		"language": "it",
+		"front": "schermo",
+		"pronunciation": "SKAIR-moh",
+		"back": "screen"
+	},
+	{
+		"language": "it",
+		"front": "ciò",
+		"pronunciation": "choh",
+		"back": "that is"
+	},
+	{
+		"language": "it",
+		"front": "righe",
+		"pronunciation": "REE-gah",
+		"back": "lines"
+	},
+	{
+		"language": "it",
+		"front": "azienda",
+		"pronunciation": "ad-zee-EN-dah",
+		"back": "agency"
+	},
+	{
+		"language": "es",
+		"front": "pantalla",
+		"pronunciation": "pahn-TIGH-yah",
+		"back": "screen"
+	},
+	{
+		"language": "fr",
+		"front": "il hoche la tête",
+		"pronunciation": "ohsh",
+		"back": "he nods his head"
+	},
+	{
+		"language": "fr",
+		"front": "quand elle s'assied",
+		"pronunciation": "sass-see-AY",
+		"back": "sits down"
+	},
+	{
+		"language": "fr",
+		"front": "la souris",
+		"pronunciation": "soo-REE",
+		"back": "mouse"
+	},
+	{
+		"language": "fr",
+		"front": "page d'accueil",
+		"pronunciation": "dah-COYee",
+		"back": "home page"
+	},
+	{
+		"language": "fr",
+		"front": "des rendez-vous capillaires",
+		"pronunciation": "kah-pee-LAIR",
+		"back": "hair appointments"
+	},
+	{
+		"language": "fr",
+		"front": "rien de bien méchant",
+		"pronunciation": "may-SH*an",
+		"back": "nothing too mad"
+	},
+	{
+		"language": "fr",
+		"front": "en vrille",
+		"pronunciation": "VREE",
+		"back": "in a spin"
+	},
+	{
+		"language": "fr",
+		"front": "je ressens une pression constante",
+		"pronunciation": "reh-S*AHN oon",
+		"back": "I feel a constant pressure"
+	},
+	{
+		"language": "fr",
+		"front": "ça a du sens, non ?",
+		"pronunciation": "S*AHS",
+		"back": "that makes sense, right?"
+	},
+	{
+		"language": "fr",
+		"front": "diapositives brillantes",
+		"pronunciation": "bree-YANT",
+		"back": "glossy slides"
+	},
+	{
+		"language": "fr",
+		"front": "ton souhait",
+		"pronunciation": "SWAY",
+		"back": "your wish"
+	},
+	{
+		"language": "fr",
+		"front": "pareil",
+		"pronunciation": "par-RAY",
+		"back": "the same"
+	},
+	{
+		"language": "fr",
+		"front": "prèt à être utilisé",
+		"pronunciation": "PRET ah",
+		"back": "ready to be used"
+	},
+	{
+		"language": "fr",
+		"front": "il s'agit en fait",
+		"pronunciation": "fett",
+		"back": "it is actually"
+	},
+	{
+		"language": "fr",
+		"front": "fais attention",
+		"pronunciation": "FAY ah",
+		"back": "pay attention"
+	},
+	{
+		"language": "fr",
+		"front": "du plus",
+		"pronunciation": "PLOOS",
+		"back": "moreover"
+	},
+	{
+		"language": "fr",
+		"front": "ce n'est guère différent",
+		"pronunciation": "GAHR (like beginning of \"garage\")",
+		"back": "it's not much different"
+	},
+	{
+		"language": "fr",
+		"front": "en ce sens que",
+		"pronunciation": "S*ENS",
+		"back": "in the sense that"
+	},
+	{
+		"language": "fr",
+		"front": "fournissent-elles",
+		"pronunciation": "for-nees-TELL",
+		"back": "do they provide"
+	},
+	{
+		"language": "fr",
+		"front": "pour chaque jouet",
+		"pronunciation": "zhoh-AY",
+		"back": "for each toy"
+	},
+	{
+		"language": "fr",
+		"front": "il ne reste plus qu'à créer",
+		"pronunciation": "rest-a-PLOO",
+		"back": "all that remains is to create"
+	},
+	{
+		"language": "fr",
+		"front": "mais en beaucoup plus court",
+		"pronunciation": "may *en ... plü coor",
+		"back": "but much shorter"
+	},
+	{
+		"language": "fr",
+		"front": "inhabituelles",
+		"pronunciation": "EEN-ha...",
+		"back": "unusual"
+	},
+	{
+		"language": "fr",
+		"front": "il s'essuie les yeux",
+		"pronunciation": "say-SWEE-lay...",
+		"back": "he wipes his eyes"
+	},
+	{
+		"language": "fr",
+		"front": "plus concis",
+		"pronunciation": "c*on-SEE",
+		"back": "more concise"
+	},
+	{
+		"language": "fr",
+		"front": "ce qui suit",
+		"pronunciation": "SWEE",
+		"back": "the following"
+	},
+	{
+		"language": "fr",
+		"front": "que tout est prêt",
+		"pronunciation": "pray",
+		"back": "that everything is ready"
+	},
+	{
+		"language": "fr",
+		"front": "bonjour à tout et toutes",
+		"pronunciation": "toot ay toot",
+		"back": "everyone"
+	},
+	{
+		"language": "fr",
+		"front": "après avoir couru une course, j'ai suivi un cours",
+		"pronunciation": "coors, coor",
+		"back": "after running a race, I took a course"
+	},
+	{
+		"language": "fr",
+		"front": "les biais",
+		"pronunciation": "say bee-AH",
+		"back": "the biases"
+	},
+	{
+		"language": "fr",
+		"front": "elle s'est opposée au plan",
+		"pronunciation": "toh-poh-SAY",
+		"back": "she is opposed to this plan"
+	},
+	{
+		"language": "fr",
+		"front": "je mets mes pantoufles",
+		"pronunciation": "may may",
+		"back": "I put on my slippers"
+	},
+	{
+		"language": "fr",
+		"front": "j'ai hâte d'être à demain",
+		"pronunciation": "zhay AHT DETreh",
+		"back": "I'm looking forward to tomorrow"
+	},
+	{
+		"language": "fr",
+		"front": "le flux de travail",
+		"pronunciation": "flü",
+		"back": "workflow"
+	},
+	{
+		"language": "fr",
+		"front": "Qui rira le dernier",
+		"pronunciation": "dairn-YAH",
+		"back": "who will laugh last"
+	},
+	{
+		"language": "fr",
+		"front": "on riait",
+		"pronunciation": "ree-AY",
+		"back": "we were laughing"
+	},
+	{
+		"language": "it",
+		"front": "cominciavano",
+		"pronunciation": "coh-meen-CHAH-vah-noh",
+		"back": "started to (imperfetto)"
+	},
+	{
+		"language": "it",
+		"front": "si chiamavano",
+		"pronunciation": "kee-ah-MAH-vah-noh",
+		"back": "were called"
+	},
+	{
+		"language": "fr",
+		"front": "Qui rira le dernier",
+		"pronunciation": "dairn-YAY",
+		"back": "who will laugh last"
+	},
+	{
+		"language": "fr",
+		"front": "une pieuvre",
+		"pronunciation": "pee-ÖV-re",
+		"back": "octopus"
+	},
+	{
+		"language": "fr",
+		"front": "pas à pas",
+		"pronunciation": "paz-ah-PAH",
+		"back": "step by step"
+	},
+	{
+		"language": "it",
+		"front": "schermo",
+		"pronunciation": "SCARE-mo",
+		"back": "screen"
+	},
+	{
+		"language": "it",
+		"front": "verso",
+		"pronunciation": "VAIR|soh",
+		"back": "towards"
+	},
+	{
+		"language": "it",
+		"front": "una scelta",
+		"pronunciation": "SHELL-tah",
+		"back": "choice"
+	},
+	{
+		"language": "es",
+		"front": "acciones",
+		"pronunciation": "AK-see-OH-nays",
+		"back": "actions"
+	},
+	{
+		"language": "it",
+		"front": "cioè",
+		"pronunciation": "CHOH-eh",
+		"back": "that is"
+	},
+	{
+		"language": "it",
+		"front": "non riesco",
+		"pronunciation": "ree-ESS-koh",
+		"back": "I am not able to"
+	},
+	{
+		"language": "it",
+		"front": "poiché",
+		"pronunciation": "poh-ee-KAY",
+		"back": "since"
+	},
+	{
+		"language": "it",
+		"front": "subito",
+		"pronunciation": "SOO-bee-toh",
+		"back": "immediately"
+	},
+	{
+		"language": "it",
+		"front": "il libro giace sul tavolo",
+		"pronunciation": "JAH-cha",
+		"back": "is lying on the table"
+	},
+	{
+		"language": "it",
+		"front": "in maiuscolo",
+		"pronunciation": "migh-YOO-skoh-loh",
+		"back": "in capital letters"
+	},
+	{
+		"language": "it",
+		"front": "dialoghi",
+		"pronunciation": "dee-AH-loh-g|ee (g like gary, grand)",
+		"back": "dialogues"
+	},
+	{
+		"language": "it",
+		"front": "consigli",
+		"pronunciation": "con-SEE-yee",
+		"back": "advice"
+	},
+	{
+		"language": "it",
+		"front": "asciugamano",
+		"pronunciation": "ah-shoo-GAH-mah-noh",
+		"back": "towel"
+	},
+	{
+		"language": "it",
+		"front": "non può essere così difficile",
+		"pronunciation": "non poo-ESS-air-ay",
+		"back": "it can't be that hard"
+	},
+	{
+		"language": "it",
+		"front": "una mattina tranquilla",
+		"pronunciation": "mah-TEEN-ah",
+		"back": "a quiet morning"
+	},
+	{
+		"language": "it",
+		"front": "lo so già",
+		"pronunciation": "loh-SOH-jah",
+		"back": "I already know that"
+	},
+	{
+		"language": "it",
+		"front": "sono sui tavoli",
+		"pronunciation": "TAH-voh-lee",
+		"back": "are on the tables"
+	},
+	{
+		"language": "it",
+		"front": "Mi chiedo chi",
+		"pronunciation": "mee-KYEH-doh-kee",
+		"back": "I wonder who"
+	},
+	{
+		"language": "it",
+		"front": "schiacciare",
+		"pronunciation": "skee-ah-CHAR-ay",
+		"back": "squash"
+	},
+	{
+		"language": "it",
+		"front": "Io vedrò se riesco",
+		"pronunciation": "ree-ES-koh",
+		"back": "I'll see if I can"
+	},
+	{
+		"language": "it",
+		"front": "disciplina",
+		"pronunciation": "dee-shee-PLEE-nah",
+		"back": "discipline"
+	},
+	{
+		"language": "it",
+		"front": "il mio vecchio laptop",
+		"pronunciation": "VEH-kee-oh",
+		"back": "old"
+	},
+	{
+		"language": "it",
+		"front": "Ogni dettaglio conta",
+		"pronunciation": "day-TAH-yo",
+		"back": "every detail count"
+	},
+	{
+		"language": "it",
+		"front": "mi capita di dimenticare",
+		"pronunciation": "KAH-pee-tah",
+		"back": "I happen to forget"
+	},
+	{
+		"language": "it",
+		"front": "Ho già quella parola",
+		"pronunciation": "oh-JAW",
+		"back": "I already have that word"
+	},
+	{
+		"language": "it",
+		"front": "creare qualcosa di stabile",
+		"pronunciation": "STAH-bee-lay",
+		"back": "create something stable"
+	},
+	{
+		"language": "it",
+		"front": "Giovedì",
+		"pronunciation": "joh-veh-DEE",
+		"back": "Thursday"
+	},
+	{
+		"language": "it",
+		"front": "scatola",
+		"pronunciation": "SKAH-toh-lah",
+		"back": "box"
+	},
+	{
+		"language": "it",
+		"front": "tutto ciò che",
+		"pronunciation": "TOO-toh CHOH-kay",
+		"back": "everything that"
+	},
+	{
+		"language": "it",
+		"front": "Usare",
+		"pronunciation": "oo-ZARR-ay",
+		"back": "to use"
+	},
+	{
+		"language": "it",
+		"front": "Sabato",
+		"pronunciation": "SAH-bah-toh",
+		"back": "Saturday"
+	},
+	{
+		"language": "fr",
+		"front": "les droits d'accès",
+		"pronunciation": "ak-SAY",
+		"back": "the access rights"
+	},
+	{
+		"language": "fr",
+		"front": "j'ai tenté d'accéder aux attributs cachés",
+		"pronunciation": "ah-trih-BÜ",
+		"back": "I tried to access the hidden attributes"
+	},
+	{
+		"language": "fr",
+		"front": "à quoi sert chaque temps",
+		"pronunciation": "sair",
+		"back": "what is the purpose of each tense"
+	},
+	{
+		"language": "fr",
+		"front": "quelques choses en plus à comprendre",
+		"pronunciation": "ploos-ah",
+		"back": "a few more things to understand"
+	},
+	{
+		"language": "fr",
+		"front": "il ne nous reste plus que",
+		"pronunciation": "PLOO kuh",
+		"back": "all we have left is"
+	},
+	{
+		"language": "fr",
+		"front": "il m'aurait aidé avec",
+		"pronunciation": "eel-mohr-ray-teh-day-ah-VEK",
+		"back": "he would have helped me with"
+	},
+	{
+		"language": "fr",
+		"front": "en fait partie",
+		"pronunciation": "fett",
+		"back": "is part of it"
+	},
+	{
+		"language": "fr",
+		"front": "c'est le but",
+		"pronunciation": "büt",
+		"back": "that's the goal"
+	},
+	{
+		"language": "fr",
+		"front": "en fait",
+		"pronunciation": "ɑ̃ fɛt",
+		"back": "in fact"
+	},
+	{
+		"language": "fr",
+		"front": "grogna-t-il",
+		"pronunciation": "grown-ya-TEEL",
+		"back": "he grumbled"
+	},
+	{
+		"language": "fr",
+		"front": "en veille",
+		"pronunciation": "VAY-ee",
+		"back": "on standby"
+	},
+	{
+		"language": "fr",
+		"front": "Francia",
+		"pronunciation": "FRAN-chah",
+		"back": "France"
+	},
+	{
+		"language": "fr",
+		"front": "mais ce n'est pas tout",
+		"pronunciation": "SNAY",
+		"back": "but that's not all"
+	},
+	{
+		"language": "fr",
+		"front": "dans ce cas",
+		"pronunciation": "SKAH",
+		"back": "in this case"
+	},
+	{
+		"language": "fr",
+		"front": "processus",
+		"pronunciation": "-süs",
+		"back": "process"
+	},
+	{
+		"language": "fr",
+		"front": "un nouveau sens",
+		"pronunciation": "S(EN)S",
+		"back": "a new meaning"
+	},
+	{
+		"language": "fr",
+		"front": "un voyage technique et humain",
+		"pronunciation": "hoo-M(AIN)",
+		"back": "a techical and human journey"
+	},
+	{
+		"language": "fr",
+		"front": "et bien plus encore",
+		"pronunciation": "ploos",
+		"back": "and much more"
+	},
+	{
+		"language": "it",
+		"front": "cioè con quale nome",
+		"pronunciation": "choh-AY",
+		"back": "that is, with what name"
+	},
+	{
+		"language": "es",
+		"front": "-g",
+		"pronunciation": "guión, [ch]ee-ONG-[ch]ay",
+		"back": "hyphen g"
+	},
+	{
+		"language": "es",
+		"front": "pantalla",
+		"pronunciation": "pahn-TIGH-ya",
+		"back": "screen"
+	},
+	{
+		"language": "es",
+		"front": "gema escondida",
+		"pronunciation": "[ch]AY-mah",
+		"back": "hidden gem"
+	},
+	{
+		"language": "es",
+		"front": "tecnológica",
+		"pronunciation": "tek-noh-LOH-[ch]ee-kah",
+		"back": "technology"
+	},
+	{
+		"language": "nl",
+		"front": "tot slot",
+		"pronunciation": "toht SLOHT",
+		"back": "finally"
+	},
+	{
+		"language": "nl",
+		"front": "druk op Control + Spatie",
+		"pronunciation": "ploos SPAHT-see",
+		"back": "space"
+	},
+	{
+		"language": "nl",
+		"front": "het is een lang proces",
+		"pronunciation": "proh-SESS",
+		"back": "it is a long process"
+	},
+	{
+		"language": "nl",
+		"front": "gedachten aan verse koffie",
+		"pronunciation": "FAIR-sah",
+		"back": "thoughts of fresh coffee"
+	},
+	{
+		"language": "nl",
+		"front": "dat is briljant",
+		"pronunciation": "brill-YANT",
+		"back": "that's brilliant"
+	},
+	{
+		"language": "nl",
+		"front": "kruispunt",
+		"pronunciation": "german:(KRAUS)-poont",
+		"back": "intersection"
+	},
+	{
+		"language": "nl",
+		"front": "hardop",
+		"pronunciation": "hard-OHP",
+		"back": "out loud"
+	},
+	{
+		"language": "nl",
+		"front": "Italiaans",
+		"pronunciation": "ee-tahl-YAWNS",
+		"back": "Italian"
+	},
+	{
+		"language": "nl",
+		"front": "wat zijn mijn opties",
+		"pronunciation": "AHP-seez",
+		"back": "what are my options"
+	},
+	{
+		"language": "nl",
+		"front": "pagina",
+		"pronunciation": "PAH-*ee-nah",
+		"back": "page"
+	},
+	{
+		"language": "nl",
+		"front": "afscheid",
+		"pronunciation": "OFF-s*ight",
+		"back": "parting (Abschied)"
+	},
+	{
+		"language": "nl",
+		"front": "de eerste functie",
+		"pronunciation": "FOONK-see",
+		"back": "the first function"
+	},
+	{
+		"language": "nl",
+		"front": "moeite",
+		"pronunciation": "MOO-ee-tah",
+		"back": "effort"
+	},
+	{
+		"language": "nl",
+		"front": "uitgesteld",
+		"pronunciation": "OUT-*eh-stellt",
+		"back": "postponed"
+	},
+	{
+		"language": "nl",
+		"front": "het enige onderdeel",
+		"pronunciation": "AYH-nih-*a",
+		"back": "the only part"
+	},
+	{
+		"language": "nl",
+		"front": "landingspagina",
+		"pronunciation": "lan-dings-pah-*ee-NAH",
+		"back": "landing page"
+	},
+	{
+		"language": "nl",
+		"front": "zeventien",
+		"pronunciation": "ZAY-veh-teen",
+		"back": "seventeen"
+	},
+	{
+		"language": "nl",
+		"front": "schrijf",
+		"pronunciation": "s-/ch/-RIGHF",
+		"back": "write"
+	},
+	{
+		"language": "nl",
+		"front": "ik besefte",
+		"pronunciation": "eek beh-SEFF-teh (\"s\" not \"z\")",
+		"back": "I realized"
+	},
+	{
+		"language": "nl",
+		"front": "notities",
+		"pronunciation": "noh-TEE-seez",
+		"back": "een kijkje nemen in mijn notities?"
+	},
+	{
+		"language": "nl",
+		"front": "huidige infrastructuur",
+		"pronunciation": "HOW-dih-*ah",
+		"back": "current"
+	},
+	{
+		"language": "nl",
+		"front": "van alle functies",
+		"pronunciation": "FOONK-seez",
+		"back": "functions"
+	},
+	{
+		"language": "nl",
+		"front": "de docent zegt",
+		"pronunciation": "doh-SENT",
+		"back": "teacher"
+	},
+	{
+		"language": "nl",
+		"front": "een abonnement",
+		"pronunciation": "ah-boh-nah-MENT",
+		"back": "subscription"
+	},
+	{
+		"language": "nl",
+		"front": "bezig met regels, de wet en naleving",
+		"pronunciation": "NAH-lay-ving",
+		"back": "concerned with rules, the law and compliance"
+	},
+	{
+		"language": "nl",
+		"front": "een puinhoop",
+		"pronunciation": "POW-en-hohp",
+		"back": "a mess"
+	},
+	{
+		"language": "nl",
+		"front": "fruit",
+		"pronunciation": "FRAUT",
+		"back": "fruit"
+	},
+	{
+		"language": "nl",
+		"front": "in een keuken",
+		"pronunciation": "KÖ-keh",
+		"back": "in a kitchen"
+	},
+	{
+		"language": "nl",
+		"front": "omdat de docent zegt",
+		"pronunciation": "doh-SENT",
+		"back": "because the teacher says"
+	},
+	{
+		"language": "nl",
+		"front": "omdat het belangrijk is",
+		"pronunciation": "iss",
+		"back": "because it is important"
+	},
+	{
+		"language": "nl",
+		"front": "Je wist niet welke kant je moest kiezen",
+		"pronunciation": "KEE-zeh",
+		"back": "you didn't know which side to choose"
+	},
+	{
+		"language": "nl",
+		"front": "alle functies",
+		"pronunciation": "FOONK-sees",
+		"back": "all functions"
+	},
+	{
+		"language": "nl",
+		"front": "hoe je een heleboel informatie ordent",
+		"pronunciation": "in-for-MAHT-see",
+		"back": "how to organize a lot of information"
+	},
+	{
+		"language": "nl",
+		"front": "de rivier stroomde sterk",
+		"pronunciation": "ree-VEER",
+		"back": "the river was flowing strongly"
+	},
+	{
+		"language": "nl",
+		"front": "je werd wakker in een puinhoop",
+		"pronunciation": "POWN-hohp",
+		"back": "you woke up in a mess"
+	},
+	{
+		"language": "nl",
+		"front": "onderhoudt",
+		"pronunciation": "OHN-der-howt",
+		"back": "maintains"
+	},
+	{
+		"language": "nl",
+		"front": "een bredere context",
+		"pronunciation": "BRAY-der-eh",
+		"back": "a broader context"
+	},
+	{
+		"language": "nl",
+		"front": "die machine",
+		"pronunciation": "mah-SHEE-nah",
+		"back": "the machine"
+	},
+	{
+		"language": "nl",
+		"front": "naar mijn mening",
+		"pronunciation": "MAY-ning",
+		"back": "in my opinion"
+	},
+	{
+		"language": "nl",
+		"front": "in paniek te raken",
+		"pronunciation": "pah-NEEK",
+		"back": "to panic"
+	},
+	{
+		"language": "nl",
+		"front": "nauwer geïntegreerd",
+		"pronunciation": "NOW-where",
+		"back": "more closely integrated"
+	},
+	{
+		"language": "nl",
+		"front": "zeven",
+		"pronunciation": "ZAY-veh",
+		"back": "seven"
+	},
+	{
+		"language": "nl",
+		"front": "en in ruil",
+		"pronunciation": "R/OW/L (rhymes with now)",
+		"back": "and in exchange"
+	},
+	{
+		"language": "nl",
+		"front": "inefficiëntie",
+		"pronunciation": "in-eff-ee-SHEN-see",
+		"back": "inefficiency"
+	},
+	{
+		"language": "nl",
+		"front": "was te lunchen",
+		"pronunciation": "LOON-chah",
+		"back": "what to have for lunch"
+	},
+	{
+		"language": "nl",
+		"front": "carrière",
+		"pronunciation": "kar-ee-AIR-eh",
+		"back": "career"
+	},
+	{
+		"language": "nl",
+		"front": "beschouw",
+		"pronunciation": "beh-S/*/OW (as in now, no \"v\" at end)",
+		"back": "consider"
+	},
+	{
+		"language": "nl",
+		"front": "potentieel",
+		"pronunciation": "poh-ten-SHAYL",
+		"back": "potential"
+	},
+	{
+		"language": "nl",
+		"front": "Op een dag komt er een vreemdeling.",
+		"pronunciation": "FRAYM-deh-ling",
+		"back": "one day a stranger comes"
+	},
+	{
+		"language": "nl",
+		"front": "heeft gedacht aan haar jeugd",
+		"pronunciation": "YOH/G/T",
+		"back": "has thought about her youth"
+	},
+	{
+		"language": "nl",
+		"front": "het is inderdaad noodzakelijk",
+		"pronunciation": "nohd-TSAH-kil-ik",
+		"back": "it is indeed necessary"
+	},
+	{
+		"language": "nl",
+		"front": "ik heb gehuild",
+		"pronunciation": "/g/eh-HAHLT",
+		"back": "I have cried"
+	},
+	{
+		"language": "nl",
+		"front": "Soms heb ik vermeden ruzie",
+		"pronunciation": "ROO-zee",
+		"back": "sometimes I'ved avoided arguing"
+	},
+	{
+		"language": "nl",
+		"front": "en luister tegelijk",
+		"pronunciation": "teh-/g/eh-LIGHK",
+		"back": "and listen at the same time"
+	},
+	{
+		"language": "nl",
+		"front": "de frustratie",
+		"pronunciation": "froo-STRAT-see",
+		"back": "frustration"
+	},
+	{
+		"language": "nl",
+		"front": "Sommigen waren aan het typen",
+		"pronunciation": "(\"s\" not \"z\" sound) SOH-mih-*eh",
+		"back": "some were typing"
+	},
+	{
+		"language": "nl",
+		"front": "Ik verheug me erop.",
+		"pronunciation": "fair-HOO*",
+		"back": "look forward to it"
+	},
+	{
+		"language": "nl",
+		"front": "Zeker weten",
+		"pronunciation": "ZAY-ker-VAY-tah",
+		"back": "you bet"
+	},
+	{
+		"language": "nl",
+		"front": "het artikel",
+		"pronunciation": "ahr-TEE-kel",
+		"back": "the article"
+	},
+	{
+		"language": "nl",
+		"front": "De sfeer hier bevalt me goed",
+		"pronunciation": "SFEER",
+		"back": "I like the atmosphere here"
+	},
+	{
+		"language": "nl",
+		"front": "Je knikt",
+		"pronunciation": "KNIKT",
+		"back": "you nod"
+	},
+	{
+		"language": "nl",
+		"front": "sociale media",
+		"pronunciation": "soh-shee-AHL-ah",
+		"back": "social media"
+	},
+	{
+		"language": "nl",
+		"front": "soms is het eenvoudig, soms niet",
+		"pronunciation": "ayn-VOW-du*",
+		"back": "sometimes it's simple, sometimes not"
+	},
+	{
+		"language": "nl",
+		"front": "je moet weten hoe je wijzigingen moet aanbrengen",
+		"pronunciation": "WIGH-zeh-*ing-ah",
+		"back": "you need to know how to make changes"
+	},
+	{
+		"language": "nl",
+		"front": "er hangt hier een slechte geur",
+		"pronunciation": "*ur",
+		"back": "there is a bad smell here"
+	},
+	{
+		"language": "nl",
+		"front": "voer de waarde in",
+		"pronunciation": "VOO-ur",
+		"back": "enter the value"
+	},
+	{
+		"language": "nl",
+		"front": "foutgevoelig",
+		"pronunciation": "F(OW)T-*eh-FOOL-i*",
+		"back": "error-prone"
+	},
+	{
+		"language": "nl",
+		"front": "Je pakt je agenda en bladert erin",
+		"pronunciation": "ah-*EN-dah",
+		"back": "You grab your calendar and leaf through it"
+	},
+	{
+		"language": "nl",
+		"front": "Vorige week had je spoed",
+		"pronunciation": "SPOOT",
+		"back": "Last week you had an emergency"
+	},
+	{
+		"language": "nl",
+		"front": "kapot",
+		"pronunciation": "kah-POHT",
+		"back": "broken"
+	},
+	{
+		"language": "nl",
+		"front": "moest je ruim een uur wachten",
+		"pronunciation": "(german:Raum)",
+		"back": "you had to wait more than an hour"
+	},
+	{
+		"language": "nl",
+		"front": "Ik beschouw dit boek als",
+		"pronunciation": "bay-S*(OW|as in cow)",
+		"back": "I consider this book as"
+	},
+	{
+		"language": "nl",
+		"front": "Je bewondert haar discipline",
+		"pronunciation": "dee-see-PLEE-nah",
+		"back": "You admire her discipline"
+	},
+	{
+		"language": "nl",
+		"front": "de ontmoeting",
+		"pronunciation": "ont-MOO-ting",
+		"back": "the meeting"
+	},
+	{
+		"language": "nl",
+		"front": "nieuwsgierig",
+		"pronunciation": "news-*EER-*ugh",
+		"back": "curious"
+	},
+	{
+		"language": "nl",
+		"front": "wijzigingen",
+		"pronunciation": "WIGH-zeh-*ing-eh",
+		"back": "changes"
+	},
+	{
+		"language": "nl",
+		"front": "vaardigheden",
+		"pronunciation": "FAR-dih-hey-duh",
+		"back": "skills"
+	},
+	{
+		"language": "nl",
+		"front": "het toneelstuk",
+		"pronunciation": "toh-NAIL-stook",
+		"back": "the play"
+	},
+	{
+		"language": "nl",
+		"front": "engageren",
+		"pronunciation": "AHN-*ah-ZHAIR-eh",
+		"back": "4.9"
+	},
+	{
+		"language": "nl",
+		"front": "De trui vol stof",
+		"pronunciation": "TROWL",
+		"back": "4.92"
+	},
+	{
+		"language": "nl",
+		"front": "onder je voeten",
+		"pronunciation": "FOO-teh",
+		"back": "4.92"
+	},
+	{
+		"language": "nl",
+		"front": "wat een bijvoeglijke bepaling is",
+		"pronunciation": "bigh-FOO*-lick-eh",
+		"back": "what an adjective clause is"
+	},
+	{
+		"language": "nl",
+		"front": "het vereist ook discipline",
+		"pronunciation": "dee-see-PLEE-nah",
+		"back": "it also requires discipline"
+	},
+	{
+		"language": "nl",
+		"front": "chaos",
+		"pronunciation": "*AH-ohs",
+		"back": "chaos"
+	},
+	{
+		"language": "nl",
+		"front": "technologie",
+		"pronunciation": "tek-noh-loh-*EE",
+		"back": "technology"
+	},
+	{
+		"language": "nl",
+		"front": "charme",
+		"pronunciation": "SHAR-mah",
+		"back": "charm"
+	},
+	{
+		"language": "nl",
+		"front": "ouderwets",
+		"pronunciation": "OW-der-vets",
+		"back": "old-fashioned"
+	},
+	{
+		"language": "nl",
+		"front": "het ontbrekende formulier",
+		"pronunciation": "form-oo-LEER",
+		"back": "the missing form"
+	},
+	{
+		"language": "nl",
+		"front": "de module en de modules",
+		"pronunciation": "moh-DOO-less",
+		"back": "the modules and the modules"
+	},
+	{
+		"language": "nl",
+		"front": "Als je beter had opgelet",
+		"pronunciation": "OH-*eh-lett",
+		"back": "if you had paid more attention"
+	},
+	{
+		"language": "nl",
+		"front": "Je schrijft in je technische logboek",
+		"pronunciation": "TEK-nees-*eh",
+		"back": "you write in your technical log book"
+	},
+	{
+		"language": "nl",
+		"front": "Ze lijken symbolisch",
+		"pronunciation": "sim-BOH-lees",
+		"back": "they seem symbolic"
+	},
+	{
+		"language": "nl",
+		"front": "de ergste leugen",
+		"pronunciation": "LUUR-*eh",
+		"back": "the worst lie"
+	},
+	{
+		"language": "nl",
+		"front": "Engeland",
+		"pronunciation": "ENG-ah-land",
+		"back": "England"
+	},
+	{
+		"language": "es",
+		"front": "En la pantalla brilla",
+		"pronunciation": "pan-TIGH-yah",
+		"back": "on the screen shines"
+	},
+	{
+		"language": "es",
+		"front": "En la pantalla brilla",
+		"pronunciation": "BREE-yah",
+		"back": "on the screen shines"
+	},
+	{
+		"language": "nl",
+		"front": "gekscherend",
+		"pronunciation": "hex-HAIR-ent",
+		"back": "jokingly"
+	},
+	{
+		"language": "es",
+		"front": "los tutoriales en línea que sigues",
+		"pronunciation": "SEE-gay(s)",
+		"back": "the online tutorials you follow"
+	},
+	{
+		"language": "nl",
+		"front": "om de fijne kneepjes te begrijpen",
+		"pronunciation": "KNAYP-yas",
+		"back": "to understand the intricacies"
+	},
+	{
+		"language": "es",
+		"front": "La lluvia cae más fuerte",
+		"pronunciation": "KAH-ee",
+		"back": "the rain falls harder"
+	},
+	{
+		"language": "nl",
+		"front": "je hebt al honger",
+		"pronunciation": "HOONG-er",
+		"back": "you are already hungry"
+	},
+	{
+		"language": "nl",
+		"front": "Houd er rekening mee dat",
+		"pronunciation": "HOW",
+		"back": "please note that"
+	},
+	{
+		"language": "nl",
+		"front": "Houd er rekening mee dat",
+		"pronunciation": "RAY-kay-ning",
+		"back": "please note that"
+	},
+	{
+		"language": "es",
+		"front": "hasta que lo logres",
+		"pronunciation": "LOH-grays",
+		"back": "until you achieve it"
+	},
+	{
+		"language": "nl",
+		"front": "naast het toetsenbord",
+		"pronunciation": "TOOTS-eh-bort",
+		"back": "near the keyboard"
+	},
+	{
+		"language": "es",
+		"front": "Te guía",
+		"pronunciation": "GEE-ah (\"G\" as in go)",
+		"back": "it guides you"
+	},
+	{
+		"language": "nl",
+		"front": "je weet dat logica erfelijk is",
+		"pronunciation": "AIR-feh-lik",
+		"back": "you know that logic is hereditary"
+	},
+	{
+		"language": "es",
+		"front": "con la mente despejada, todo encaja",
+		"pronunciation": "days-pay-*AH-dah",
+		"back": "with a clear mind, everything falls into place"
+	},
+	{
+		"language": "es",
+		"front": "con la mente despejada, todo encaja",
+		"pronunciation": "ayn-KAH-*ah",
+		"back": "with a clear mind, everything falls into place"
+	},
+	{
+		"language": "nl",
+		"front": "de standaardindeling",
+		"pronunciation": "in-DAY-ling",
+		"back": "the standard layout"
+	},
+	{
+		"language": "nl",
+		"front": "details",
+		"pronunciation": "DAY-tighs",
+		"back": "details"
+	},
+	{
+		"language": "nl",
+		"front": "een vage herinnering",
+		"pronunciation": "FAH-*eh",
+		"back": "a vague memory"
+	},
+	{
+		"language": "nl",
+		"front": "aanzienlijk veel tijd",
+		"pronunciation": "ahn-ZEEN-lik",
+		"back": "a considerable amount of time"
+	},
+	{
+		"language": "nl",
+		"front": "het is praktisch",
+		"pronunciation": "PRAK-tees",
+		"back": "it is practical"
+	},
+	{
+		"language": "nl",
+		"front": "opgeruimd",
+		"pronunciation": "OHP-*eh-(gr:raumt)",
+		"back": "cleaned up"
+	},
+	{
+		"language": "es",
+		"front": "con la mente despejada",
+		"pronunciation": "day(s)-pay-*AHDA",
+		"back": "with a clear mind"
+	},
+	{
+		"language": "nl",
+		"front": "technische uitdaging",
+		"pronunciation": "TEK-nees-ah",
+		"back": "techical challenge"
+	},
+	{
+		"language": "nl",
+		"front": "De tabel waarin",
+		"pronunciation": "tah-BELL",
+		"back": "the table where"
+	},
+	{
+		"language": "nl",
+		"front": "vijf talen tegelijk leer",
+		"pronunciation": "te*-ehl-LIGHK",
+		"back": "learn five languages at once"
+	},
+	{
+		"language": "it",
+		"front": "quando leggo la documentazione",
+		"pronunciation": "LEG-oh",
+		"back": "when I read the documentation"
+	},
+	{
+		"language": "es",
+		"front": "justo",
+		"pronunciation": "HOOS-toh",
+		"back": "just"
+	},
+	{
+		"language": "es",
+		"front": "jugué",
+		"pronunciation": "hoo-GAY",
+		"back": "I played"
+	},
+	{
+		"language": "es",
+		"front": "juegan",
+		"pronunciation": "hooWAY-gawn",
+		"back": "they play"
+	},
+	{
+		"language": "es",
+		"front": "llegué",
+		"pronunciation": "yay-GAY",
+		"back": "I arrived"
+	},
+	{
+		"language": "es",
+		"front": "cuando tú llegues",
+		"pronunciation": "YAY-gay(s)",
+		"back": "when you arrive"
+	},
+	{
+		"language": "nl",
+		"front": "aan mijn horloge te frunniken",
+		"pronunciation": "hor-LOHZH-ah",
+		"back": "fiddling with my watch"
+	},
+	{
+		"language": "es",
+		"front": "enseguida",
+		"pronunciation": "en-say-[G]EE-dah (G as in good)",
+		"back": "immediately"
+	},
+	{
+		"language": "nl",
+		"front": "de eeuw was een eeuwigheid",
+		"pronunciation": "ay-OO-ih-*ight",
+		"back": "the century was an eternity"
+	},
+	{
+		"language": "es",
+		"front": "la caja",
+		"pronunciation": "KAH-*AH",
+		"back": "the box"
+	},
+	{
+		"language": "es",
+		"front": "digo",
+		"pronunciation": "DEE-goh",
+		"back": "I say"
+	},
+	{
+		"language": "es",
+		"front": "que se acerque",
+		"pronunciation": "ah-THAIR-kay",
+		"back": "that comes close"
+	},
+	{
+		"language": "nl",
+		"front": "hij is lui",
+		"pronunciation": "LAH-oh (rhymes with \"now\", but with Dutch \"huis\" sound)",
+		"back": "he is lazy"
+	},
+	{
+		"language": "es",
+		"front": "imaginación",
+		"pronunciation": "ee-mah-*ee-nah-see-OHN",
+		"back": "imagination"
+	},
+	{
+		"language": "es",
+		"front": "seguido",
+		"pronunciation": "say [G]ee-doh (G as in good)",
+		"back": "continued"
+	},
+	{
+		"language": "nl",
+		"front": "zo vol vreugde ondanks alles",
+		"pronunciation": "FRÖ*-deh",
+		"back": "so full of joy despite everything"
+	},
+	{
+		"language": "nl",
+		"front": "steeds met genegenheid",
+		"pronunciation": "*eh-NAY-geh-hight",
+		"back": "always with affection"
+	},
+	{
+		"language": "nl",
+		"front": "je personages",
+		"pronunciation": "pair-sohn-AHZH-es",
+		"back": "your characters (in a book)"
+	},
+	{
+		"language": "es",
+		"front": "Si alguien",
+		"pronunciation": "AHL-[g]ee-en (hard g as in goat)",
+		"back": "if anyone"
+	},
+	{
+		"language": "es",
+		"front": "sabrá que no exagero",
+		"pronunciation": "egg-ZAH*-*air-oh",
+		"back": "he'll know I'm not exaggerating"
+	},
+	{
+		"language": "nl",
+		"front": "bijna een nachtmerrie",
+		"pronunciation": "NA*T-mehr-REE",
+		"back": "almost a nightmare"
+	},
+	{
+		"language": "nl",
+		"front": "Maar uiteindelijk",
+		"pronunciation": "out-IGHN-del-ik",
+		"back": "but in the end"
+	},
+	{
+		"language": "es",
+		"front": "cuidado",
+		"pronunciation": "koo-ee-DAH-doh",
+		"back": "careful"
+	},
+	{
+		"language": "es",
+		"front": "exagero",
+		"pronunciation": "eg-zah-*AIR-oh",
+		"back": "I'm exaggering"
+	},
+	{
+		"language": "nl",
+		"front": "reiziger",
+		"pronunciation": "RIGH-zih-*er",
+		"back": "traveler"
+	},
+	{
+		"language": "nl",
+		"front": "Het lukt me niet",
+		"pronunciation": "lookt",
+		"back": "I can't do it"
+	},
+	{
+		"language": "es",
+		"front": "mejor",
+		"pronunciation": "may-*or",
+		"back": "better"
+	},
+	{
+		"language": "es",
+		"front": "anochecer",
+		"pronunciation": "ah-noh-chay-SAIR",
+		"back": "dusk"
+	},
+	{
+		"language": "es",
+		"front": "muchos siguen usando",
+		"pronunciation": "SEE-gain",
+		"back": "many still use"
+	},
+	{
+		"language": "es",
+		"front": "Descargue",
+		"pronunciation": "des-KAR-gay",
+		"back": "download"
+	},
+	{
+		"language": "nl",
+		"front": "details",
+		"pronunciation": "DAY-tighs",
+		"back": "details"
+	},
+	{
+		"language": "it",
+		"front": "cioè",
+		"pronunciation": "choh-AY",
+		"back": "that is"
+	},
+	{
+		"language": "it",
+		"front": "tra righe",
+		"pronunciation": "REE-geh",
+		"back": "between lines"
+	},
+	{
+		"language": "it",
+		"front": "segnalate",
+		"pronunciation": "sen-ya-LAHT-ay",
+		"back": "reported"
+	},
+	{
+		"language": "nl",
+		"front": "met een praktische gedachte",
+		"pronunciation": "PRAK-tees-*eh",
+		"back": "with a practical thought"
+	},
+	{
+		"language": "es",
+		"front": "cuando escuchas a alguien",
+		"pronunciation": "AL-[g]ee-en",
+		"back": "when you listen to someone"
+	},
+	{
+		"language": "es",
+		"front": "despliegue",
+		"pronunciation": "dess-plee-AY-gay",
+		"back": "deployment"
+	},
+	{
+		"language": "nl",
+		"front": "Hij vraagt ​​of je vacatures hebt",
+		"pronunciation": "fah-kah-TOOR-ess",
+		"back": "he asks if you have any vacancies"
+	},
+	{
+		"language": "nl",
+		"front": "met de lepel",
+		"pronunciation": "LAY-pel",
+		"back": "with the spoon"
+	},
+	{
+		"language": "es",
+		"front": "restaurar",
+		"pronunciation": "res-t(ow)-RAR (sounds like \"town\")",
+		"back": "to restore"
+	},
+	{
+		"language": "es",
+		"front": "una estrategia",
+		"pronunciation": "ah-strah-TAY-*ee-ah",
+		"back": "a strategy"
+	},
+	{
+		"language": "es",
+		"front": "Descargue",
+		"pronunciation": "des-KAR-gay",
+		"back": "download"
+	},
+	{
+		"language": "nl",
+		"front": "Het is daar een chaos",
+		"pronunciation": "*AH-ohs",
+		"back": "it's chaos there"
+	},
+	{
+		"language": "nl",
+		"front": "een zeef",
+		"pronunciation": "ZAYF",
+		"back": "a sieve"
+	},
+	{
+		"language": "nl",
+		"front": "een wens",
+		"pronunciation": "VENS",
+		"back": "a wish"
+	},
+	{
+		"language": "nl",
+		"front": "versie",
+		"pronunciation": "FAIR-see",
+		"back": "version"
+	},
+	{
+		"language": "es",
+		"front": "para alojar imágenes",
+		"pronunciation": "ah-loh-*AR",
+		"back": "to host images"
+	},
+	{
+		"language": "nl",
+		"front": "mysterie",
+		"pronunciation": "mis-TAIR-ee",
+		"back": "mystery"
+	},
+	{
+		"language": "es",
+		"front": "estrategia genial",
+		"pronunciation": "es-trah-TAY-*ee-ah",
+		"back": "strategy"
+	},
+	{
+		"language": "nl",
+		"front": "detail",
+		"pronunciation": "day-TIGH-ee",
+		"back": "detail"
+	},
+	{
+		"language": "nl",
+		"front": "een doos vol brieven",
+		"pronunciation": "BREE-fah",
+		"back": "letters"
+	},
+	{
+		"language": "nl",
+		"front": "de vuurtoren",
+		"pronunciation": "FOOR-tor-eh",
+		"back": "the lighthouse"
+	},
+	{
+		"language": "nl",
+		"front": "Het is een overzicht van de routes",
+		"pronunciation": "ROO-tes",
+		"back": "routes"
+	},
+	{
+		"language": "nl",
+		"front": "in de gootsteen",
+		"pronunciation": "GOHT-steen",
+		"back": "in the sink"
+	},
+	{
+		"language": "nl",
+		"front": "het sjabloon uit te vouwen",
+		"pronunciation": "shah-BLOHN",
+		"back": "to unfold the template"
+	},
+	{
+		"language": "nl",
+		"front": "het sjabloon uit te vouwen",
+		"pronunciation": "FOW-wah (sounds like \"cow\")",
+		"back": "to unfold the template"
+	},
+	{
+		"language": "es",
+		"front": "vamos a escoger un tema fácil",
+		"pronunciation": "es-koh-*AIR",
+		"back": "let's choose an easy topic"
+	},
+	{
+		"language": "es",
+		"front": "Si bajamos el ritmo",
+		"pronunciation": "ba-HAH-mohs",
+		"back": "if we slow down the pace"
+	},
+	{
+		"language": "it",
+		"front": "scettico",
+		"pronunciation": "SHEH-tee-koh",
+		"back": "skeptical"
+	},
+	{
+		"language": "nl",
+		"front": "sceptisch",
+		"pronunciation": "SKEP-tees",
+		"back": "skeptical"
+	},
+	{
+		"language": "it",
+		"front": "pagine",
+		"pronunciation": "PAH-gee-neh",
+		"back": "pages"
+	},
+	{
+		"language": "nl",
+		"front": "twee pagina's",
+		"pronunciation": "PAH-*ee-nahs",
+		"back": "two pages"
+	},
+	{
+		"language": "nl",
+		"front": "kopieer dit script",
+		"pronunciation": "koh-pee-AIR",
+		"back": "copy this script"
+	},
+	{
+		"language": "nl",
+		"front": "computer",
+		"pronunciation": "comp-PYOO-ter",
+		"back": "computer"
+	},
+	{
+		"language": "nl",
+		"front": "om anderen te waarschuwen",
+		"pronunciation": "VAR-s*oo-wah",
+		"back": "to warn others"
+	},
+	{
+		"language": "nl",
+		"front": "ojalá",
+		"pronunciation": "oh-hah-LA",
+		"back": "hopefully"
+	},
+	{
+		"language": "nl",
+		"front": "dat je langs de rivier komt",
+		"pronunciation": "rih-VEER",
+		"back": "that you come along the river"
+	},
+	{
+		"language": "nl",
+		"front": "hij ging met pensioen",
+		"pronunciation": "pen-SYOON",
+		"back": "he retired"
+	},
+	{
+		"language": "nl",
+		"front": "en had nauwelijks warme kleren meegenomen",
+		"pronunciation": "NOW-eh-licks",
+		"back": "and had hardly brought any warm clothes"
+	},
+	{
+		"language": "nl",
+		"front": "Argentinië",
+		"pronunciation": "ahr-*en-TEE-nee-ah",
+		"back": "Argentina"
+	},
+	{
+		"language": "nl",
+		"front": "de sieraden zijn handgemaakt",
+		"pronunciation": "SEE-rah-deh",
+		"back": "the jewelry is handmade"
+	},
+	{
+		"language": "es",
+		"front": "las joyas",
+		"pronunciation": "HOY-yass",
+		"back": "the jewelry"
+	},
+	{
+		"language": "nl",
+		"front": "logisch",
+		"pronunciation": "LOH-*ees",
+		"back": "logical"
+	},
+	{
+		"language": "es",
+		"front": "lección",
+		"pronunciation": "lek-thee-OWN",
+		"back": "lesson"
+	},
+	{
+		"language": "nl",
+		"front": "toen het plotseling begon te sneeuwen",
+		"pronunciation": "SNAY-oh-wah",
+		"back": "when it suddenly started snowing"
+	},
+	{
+		"language": "es",
+		"front": "aire fresco",
+		"pronunciation": "EYE-ee-ray",
+		"back": "fresh air"
+	},
+	{
+		"language": "nl",
+		"front": "essentieel",
+		"pronunciation": "es-sen-SHAYL",
+		"back": "essential"
+	},
+	{
+		"language": "nl",
+		"front": "humeur",
+		"pronunciation": "hoo-MUUR",
+		"back": "humor"
+	},
+	{
+		"language": "nl",
+		"front": "details",
+		"pronunciation": "day-TICE",
+		"back": "details"
+	},
+	{
+		"language": "nl",
+		"front": "Een lawaaierige week",
+		"pronunciation": "la-VAH-ee-air-ih-*eh",
+		"back": "a noisy week"
+	},
+	{
+		"language": "it",
+		"front": "Ojalá llueva mañana",
+		"pronunciation": "you-AY-vah",
+		"back": "I hope it rains tomorrow"
+	},
+	{
+		"language": "nl",
+		"front": "Dan aarzel je",
+		"pronunciation": "AHR-zel",
+		"back": "then you hesitate"
+	},
+	{
+		"language": "nl",
+		"front": "dat ik ze moet onthouden",
+		"pronunciation": "ont-HOW-dah",
+		"back": "that I have to remember them"
+	},
+	{
+		"language": "nl",
+		"front": "dat is fantastisch",
+		"pronunciation": "fan-TASS-tees",
+		"back": "that's fantastic"
+	},
+	{
+		"language": "it",
+		"front": "scrittura scientifica o tecnica",
+		"pronunciation": "SHEN-tee-fee-kah",
+		"back": "scientific or technical writing"
+	},
+	{
+		"language": "it",
+		"front": "in quei contesti",
+		"pronunciation": "QUAY",
+		"back": "in those contexts"
+	},
+	{
+		"language": "nl",
+		"front": "een race tegen de klok",
+		"pronunciation": "RACE (as in English)",
+		"back": "a race against the clock"
+	},
+	{
+		"language": "nl",
+		"front": "strategisch plannen",
+		"pronunciation": "strah-TAY-*ees",
+		"back": "strategically plan"
+	},
+	{
+		"language": "nl",
+		"front": "Tegen zondag had je je missie eindelijk volbracht",
+		"pronunciation": "MISS-ee",
+		"back": "by Sunday you had finally completed your mission"
+	},
+	{
+		"language": "nl",
+		"front": "de sjaal",
+		"pronunciation": "SHAHL",
+		"back": "the scarf"
+	},
+	{
+		"language": "nl",
+		"front": "klaar voor college",
+		"pronunciation": "koh-LAY-zhah",
+		"back": "ready for college"
+	},
+	{
+		"language": "nl",
+		"front": "percentage",
+		"pronunciation": "PAIR-sen-tahzh-eh",
+		"back": "percentage"
+	},
+	{
+		"language": "nl",
+		"front": "je kunt mij bellen indien je hulp nodig hebt",
+		"pronunciation": "in-DEEN",
+		"back": "you can call me if you need help"
+	},
+	{
+		"language": "it",
+		"front": "ciascun verbo",
+		"pronunciation": "cha-SKOON",
+		"back": "each verb"
+	},
+	{
+		"language": "it",
+		"front": "la magia",
+		"pronunciation": "mah-GEE-ah",
+		"back": "the magic"
+	},
+	{
+		"language": "nl",
+		"front": "het prototype",
+		"pronunciation": "poh-toh-TEE-pah",
+		"back": "the prototype"
+	},
+	{
+		"language": "nl",
+		"front": "een goede keuze",
+		"pronunciation": "KÖH-zeh",
+		"back": "a good choice"
+	},
+	{
+		"language": "nl",
+		"front": "de saus",
+		"pronunciation": "SOWs (like cow with s at the end)",
+		"back": "the sauce"
+	},
+	{
+		"language": "it",
+		"front": "stasera in casa",
+		"pronunciation": "stah-SAIR-ah, KAH-zah",
+		"back": "tonight at home"
+	},
+	{
+		"language": "es",
+		"front": "la cesta está llena",
+		"pronunciation": "YEN-ah",
+		"back": "the basket is full"
+	},
+	{
+		"language": "nl",
+		"front": "elk detail",
+		"pronunciation": "day-TIGH-ee",
+		"back": "each detail"
+	}
+]

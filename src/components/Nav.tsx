@@ -15,6 +15,10 @@ const menuItems = [
 		title: "Links",
 	},
 	{
+		idCode: "pronunciation",
+		title: "Pronunciation",
+	},
+	{
 		idCode: "about",
 		title: "About",
 	},
@@ -56,19 +60,19 @@ export const Nav = () => {
 										<React.Fragment key={index}>
 											{menuItem.idCode !==
 												currentMenuItem.idCode && (
-												<div className="mt-[.2rem]">
-													<NavLink
-														to={menuItem.idCode}
-														onClick={() =>
-															setShowMobileMenu(
-																false
-															)
-														}
-													>
-														{menuItem.title}
-													</NavLink>
-												</div>
-											)}
+													<div className="mt-[.2rem]">
+														<NavLink
+															to={menuItem.idCode}
+															onClick={() =>
+																setShowMobileMenu(
+																	false
+																)
+															}
+														>
+															{menuItem.title}
+														</NavLink>
+													</div>
+												)}
 										</React.Fragment>
 									);
 								})}
