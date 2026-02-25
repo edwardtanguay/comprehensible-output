@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { HiOutlineSpeakerWave } from "react-icons/hi2";
 import pronFlashcards from "../../parseddata/pronunciations.json";
 
 interface IPronunciation {
@@ -153,6 +154,12 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 		setIsFlipped(!isFlipped);
 	};
 
+	const handleOpenTranslate = (e: React.MouseEvent) => {
+		e.stopPropagation();
+		const url = `https://translate.google.com/?sl=${card.language}&tl=en&text=${encodeURIComponent(card.front)}&op=translate`;
+		window.open(url, "_blank");
+	};
+
 	return (
 		<div
 			onClick={handleFlip}
@@ -189,6 +196,13 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 			)}
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
+				<button
+					onClick={handleOpenTranslate}
+					className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
+					title="Listen and translate"
+				>
+					<HiOutlineSpeakerWave className="text-sm" />
+				</button>
 				<button
 					onClick={(e) => {
 						e.stopPropagation();
