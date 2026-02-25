@@ -55,7 +55,7 @@ export const PagePronunciation = () => {
 				</div>
 			</div>
 
-			<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 pb-12">
+			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-12">
 				{filteredCards.map((card, index) => (
 					<Flashcard key={index} card={card} />
 				))}
@@ -72,25 +72,25 @@ const Flashcard = ({ card }: { card: IPronunciation }) => {
 		<div
 			onClick={() => setIsFlipped(!isFlipped)}
 			className={`
-        relative h-44 w-full cursor-pointer transition-all duration-300 transform
+        relative h-52 w-full cursor-pointer transition-all duration-300 transform
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
-        flex flex-col items-center justify-center p-6 text-center
+        flex flex-col items-center justify-center p-8 text-center
         group hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30
       `}
 		>
 			{!isFlipped ? (
-				<div className="text-2xl font-bold text-white tracking-wide group-hover:scale-105 transition-transform duration-300">
+				<div className="text-3xl font-bold text-white tracking-wide group-hover:scale-105 transition-transform duration-300">
 					{card.front}
 				</div>
 			) : (
-				<div className="flex flex-col items-center h-full justify-center space-y-3 animate-in fade-in zoom-in duration-300">
-					<div className="bg-cyan-500/10 px-3 py-1 rounded-full border border-cyan-500/20">
-						<span className="text-cyan-400 font-mono text-xl font-bold tracking-widest">
+				<div className="flex flex-col items-center h-full justify-center space-y-4 animate-in fade-in zoom-in duration-300">
+					<div className="bg-cyan-500/10 px-4 py-2 rounded-full border border-cyan-500/20">
+						<span className="text-cyan-400 font-mono text-2xl font-bold tracking-widest">
 							{card.pronunciation}
 						</span>
 					</div>
-					<div className="text-slate-200 italic text-lg leading-tight font-light">
+					<div className="text-slate-200 italic text-xl leading-tight font-light">
 						{card.back}
 					</div>
 				</div>
