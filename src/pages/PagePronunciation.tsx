@@ -12,12 +12,18 @@ export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
+	const [flipCounts, setFlipCounts] = useState<Record<string, number>>({});
 
 	// Initialize cards and learned state
 	useEffect(() => {
 		const storedLearned = localStorage.getItem("comprehensible_learned_cards");
 		if (storedLearned) {
 			setLearnedIds(JSON.parse(storedLearned));
+		}
+
+		const storedFlips = localStorage.getItem("comprehensible_flip_counts");
+		if (storedFlips) {
+			setFlipCounts(JSON.parse(storedFlips));
 		}
 
 		const shuffled = [...(pronFlashcards as IPronunciation[])].sort(
@@ -33,10 +39,22 @@ export const PagePronunciation = () => {
 		localStorage.setItem("comprehensible_learned_cards", JSON.stringify(newLearned));
 	};
 
+	const handleIncrementFlip = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		const newCounts = {
+			...flipCounts,
+			[id]: (flipCounts[id] || 0) + 1
+		};
+		setFlipCounts(newCounts);
+		localStorage.setItem("comprehensible_flip_counts", JSON.stringify(newCounts));
+	};
+
 	const handleResetLearned = () => {
-		if (window.confirm("Are you sure you want to reset all cards to unlearned?")) {
+		if (window.confirm("Are you sure you want to reset all cards and statistics?")) {
 			setLearnedIds([]);
+			setFlipCounts({});
 			localStorage.removeItem("comprehensible_learned_cards");
+			localStorage.removeItem("comprehensible_flip_counts");
 		}
 	};
 
@@ -97,18 +115,20 @@ export const PagePronunciation = () => {
 					<Flashcard
 						key={`${card.language}-${card.front}-${index}`}
 						card={card}
+						flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
 						onLearned={() => handleMarkAsLearned(card.language, card.front)}
+						onFlip={() => handleIncrementFlip(card.language, card.front)}
 					/>
 				))}
 			</div>
 
-			{learnedIds.length > 0 && (
+			{(learnedIds.length > 0 || Object.keys(flipCounts).length > 0) && (
 				<div className="flex justify-center pb-20">
 					<button
 						onClick={handleResetLearned}
 						className="px-8 py-4 bg-red-700 hover:bg-red-600 text-white font-bold border-2 border-red-900 rounded-2xl transition-all uppercase tracking-widest text-xs hover:scale-105 active:scale-95 shadow-2xl shadow-red-900/40"
 					>
-						Reset all {learnedIds.length} cards to unlearned
+						Reset all stats and learning progress
 					</button>
 				</div>
 			)}
@@ -118,15 +138,24 @@ export const PagePronunciation = () => {
 
 interface FlashcardProps {
 	card: IPronunciation;
+	flipCount: number;
 	onLearned: () => void;
+	onFlip: () => void;
 }
 
-const Flashcard = ({ card, onLearned }: FlashcardProps) => {
+const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
+
+	const handleFlip = () => {
+		if (!isFlipped) {
+			onFlip();
+		}
+		setIsFlipped(!isFlipped);
+	};
 
 	return (
 		<div
-			onClick={() => setIsFlipped(!isFlipped)}
+			onClick={handleFlip}
 			className={`
         relative h-52 w-full cursor-pointer transition-all duration-300 transform
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
@@ -152,6 +181,13 @@ const Flashcard = ({ card, onLearned }: FlashcardProps) => {
 				</div>
 			)}
 
+			{flipCount > 0 && (
+				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
+					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">Views:</span>
+					<span className="text-[12px] text-cyan-500 font-black">{flipCount}</span>
+				</div>
+			)}
+
 			<div className="absolute top-3 right-3 flex items-center gap-2">
 				<button
 					onClick={(e) => {
@@ -171,5 +207,6 @@ const Flashcard = ({ card, onLearned }: FlashcardProps) => {
 		</div>
 	);
 };
+
 
 
