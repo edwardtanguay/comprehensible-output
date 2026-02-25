@@ -146,8 +146,10 @@ interface FlashcardProps {
 
 const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
+	const [isDimmed, setIsDimmed] = useState(false);
 
 	const handleFlip = () => {
+		if (isDimmed) return;
 		if (!isFlipped) {
 			onFlip();
 		}
@@ -160,15 +162,21 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 		window.open(url, "_blank");
 	};
 
+	const handleKeepLearning = (e: React.MouseEvent) => {
+		e.stopPropagation();
+		setIsDimmed(!isDimmed);
+	};
+
 	return (
 		<div
 			onClick={handleFlip}
 			className={`
-        relative h-52 w-full cursor-pointer transition-all duration-300 transform
+        relative h-52 w-full transition-all duration-300 transform
+        ${isDimmed ? "opacity-20 translate-y-0 scale-95 grayscale cursor-default" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
         flex flex-col items-center justify-center p-8 text-center
-        group hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30
+        group
       `}
 		>
 			{!isFlipped ? (
@@ -188,7 +196,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				</div>
 			)}
 
-			{flipCount > 0 && (
+			{flipCount > 0 && !isDimmed && (
 				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
 					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">Views:</span>
 					<span className="text-[12px] text-cyan-500 font-black">{flipCount}</span>
@@ -196,28 +204,42 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 			)}
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
+				{!isDimmed && (
+					<>
+						<button
+							onClick={handleOpenTranslate}
+							className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
+							title="Listen and translate"
+						>
+							<HiOutlineSpeakerWave className="text-sm" />
+						</button>
+						<button
+							onClick={(e) => {
+								e.stopPropagation();
+								onLearned();
+							}}
+							className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
+						>
+							Mark as learned
+						</button>
+					</>
+				)}
 				<button
-					onClick={handleOpenTranslate}
-					className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
-					title="Listen and translate"
+					onClick={handleKeepLearning}
+					className={`text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase ${isDimmed ? "bg-cyan-500 text-slate-950 border-cyan-400" : "bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"}`}
 				>
-					<HiOutlineSpeakerWave className="text-sm" />
+					{isDimmed ? "Restore" : "Keep learning"}
 				</button>
-				<button
-					onClick={(e) => {
-						e.stopPropagation();
-						onLearned();
-					}}
-					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
-				>
-					Mark as learned
-				</button>
-				<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
-					{card.language}
-				</div>
+				{!isDimmed && (
+					<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
+						{card.language}
+					</div>
+				)}
 			</div>
 
-			<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+			{!isDimmed && (
+				<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+			)}
 		</div>
 	);
 };
