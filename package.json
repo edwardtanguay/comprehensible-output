@@ -6,6 +6,7 @@
 	"scripts": {
 		"dev": "vite --port 3221 --open",
 		"pd": "cd scripts/cmd/parse-data && go run .",
+		"pdp": "cd scripts/cmd/parse-data && go run . pdp",
 		"lc": "cd scripts/cmdbash && bash lang-count-in-google-phrases.sh",
 		"import": "cd scripts/cmd/import && go run .",
 		"cp": "cd scripts/cmd/create-prompt && go run .",
