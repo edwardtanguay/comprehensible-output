@@ -11,18 +11,40 @@ interface IPronunciation {
 export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
+	const [learnedIds, setLearnedIds] = useState<string[]>([]);
 
+	// Initialize cards and learned state
 	useEffect(() => {
+		const storedLearned = localStorage.getItem("comprehensible_learned_cards");
+		if (storedLearned) {
+			setLearnedIds(JSON.parse(storedLearned));
+		}
+
 		const shuffled = [...(pronFlashcards as IPronunciation[])].sort(
 			() => Math.random() - 0.5
 		);
 		setCards(shuffled);
 	}, []);
 
+	const handleMarkAsLearned = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		const newLearned = [...learnedIds, id];
+		setLearnedIds(newLearned);
+		localStorage.setItem("comprehensible_learned_cards", JSON.stringify(newLearned));
+	};
+
+	const handleResetLearned = () => {
+		if (window.confirm("Are you sure you want to reset all cards to unlearned?")) {
+			setLearnedIds([]);
+			localStorage.removeItem("comprehensible_learned_cards");
+		}
+	};
+
 	const languages = Array.from(new Set((pronFlashcards as IPronunciation[]).map(c => c.language))).sort();
-	const filteredCards = selectedLanguage === "all"
-		? cards
-		: cards.filter(c => c.language === selectedLanguage);
+
+	const filteredCards = cards
+		.filter(c => !learnedIds.includes(`${c.language}:${c.front}`))
+		.filter(c => selectedLanguage === "all" || c.language === selectedLanguage);
 
 	return (
 		<div className="space-y-6">
@@ -32,7 +54,7 @@ export const PagePronunciation = () => {
 						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
 					</h1>
 					<p className="text-slate-400 mt-1 font-medium">
-						Revealing {filteredCards.length} flashcards
+						{filteredCards.length === 0 ? "You've learned everything!" : `Revealing ${filteredCards.length} unlearned cards`}
 					</p>
 				</div>
 
@@ -55,17 +77,36 @@ export const PagePronunciation = () => {
 				</div>
 			</div>
 
-			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-12">
+			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-8">
 				{filteredCards.map((card, index) => (
-					<Flashcard key={index} card={card} />
+					<Flashcard
+						key={`${card.language}-${card.front}-${index}`}
+						card={card}
+						onLearned={() => handleMarkAsLearned(card.language, card.front)}
+					/>
 				))}
 			</div>
+
+			{learnedIds.length > 0 && (
+				<div className="flex justify-center pb-20">
+					<button
+						onClick={handleResetLearned}
+						className="px-8 py-3 bg-red-500/10 hover:bg-red-500/20 text-red-400 font-black border-2 border-red-500/20 rounded-2xl transition-all uppercase tracking-widest text-sm hover:scale-105 active:scale-95 shadow-lg shadow-red-500/5"
+					>
+						Reset all {learnedIds.length} cards to unlearned
+					</button>
+				</div>
+			)}
 		</div>
 	);
 };
 
+interface FlashcardProps {
+	card: IPronunciation;
+	onLearned: () => void;
+}
 
-const Flashcard = ({ card }: { card: IPronunciation }) => {
+const Flashcard = ({ card, onLearned }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
 
 	return (
@@ -95,8 +136,18 @@ const Flashcard = ({ card }: { card: IPronunciation }) => {
 					</div>
 				</div>
 			)}
-			<div className="absolute top-3 right-3">
-				<div className="text-[10px] text-slate-500 font-bold px-2 py-0.5 rounded-md bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
+
+			<div className="absolute top-3 right-3 flex items-center gap-2">
+				<button
+					onClick={(e) => {
+						e.stopPropagation();
+						onLearned();
+					}}
+					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-black px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
+				>
+					Mark as learned
+				</button>
+				<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
 					{card.language}
 				</div>
 			</div>
@@ -105,4 +156,5 @@ const Flashcard = ({ card }: { card: IPronunciation }) => {
 		</div>
 	);
 };
+
 
