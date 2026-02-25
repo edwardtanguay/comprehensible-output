@@ -48,6 +48,11 @@ func parsePronunciations() {
 			Pronunciation: strings.ReplaceAll(strings.TrimSpace(parts[2]), "’", "'"),
 			Back:          strings.ReplaceAll(strings.TrimSpace(parts[3]), "’", "'"),
 		}
+
+		if pronunciation.Language == "" || pronunciation.Front == "" || pronunciation.Pronunciation == "" || pronunciation.Back == "" {
+			fmt.Printf("Ignoring line (has empty field): %s\n", line)
+			continue
+		}
 		pronunciations = append(pronunciations, pronunciation)
 	}
 
