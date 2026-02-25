@@ -42,9 +42,16 @@ export const PagePronunciation = () => {
 
 	const languages = Array.from(new Set((pronFlashcards as IPronunciation[]).map(c => c.language))).sort();
 
-	const filteredCards = cards
-		.filter(c => !learnedIds.includes(`${c.language}:${c.front}`))
-		.filter(c => selectedLanguage === "all" || c.language === selectedLanguage);
+	const cardsInLanguage = selectedLanguage === "all"
+		? cards
+		: cards.filter(c => c.language === selectedLanguage);
+
+	const filteredCards = cardsInLanguage.filter(
+		c => !learnedIds.includes(`${c.language}:${c.front}`)
+	);
+
+	const learnedCount = cardsInLanguage.length - filteredCards.length;
+	const totalCount = cardsInLanguage.length;
 
 	return (
 		<div className="space-y-6">
@@ -53,9 +60,17 @@ export const PagePronunciation = () => {
 					<h1 className="text-4xl font-black text-white tracking-tighter italic">
 						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
 					</h1>
-					<p className="text-slate-400 mt-1 font-medium">
-						{filteredCards.length === 0 ? "You've learned everything!" : `Revealing ${filteredCards.length} unlearned cards`}
-					</p>
+					<div className="flex items-center justify-center md:justify-start gap-3 mt-2">
+						<div className="flex items-baseline gap-1 bg-slate-900/60 px-3 py-1 rounded-xl border border-slate-700/50 shadow-inner">
+							<span className="text-2xl font-black text-cyan-400 leading-none">{learnedCount}</span>
+							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">learned</span>
+						</div>
+						<div className="h-4 w-px bg-slate-700/50" />
+						<div className="flex items-baseline gap-1">
+							<span className="text-xl font-bold text-slate-200 leading-none">{totalCount}</span>
+							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">total</span>
+						</div>
+					</div>
 				</div>
 
 				<div className="flex gap-2 bg-slate-900/50 p-1.5 rounded-2xl border border-slate-700/50">
