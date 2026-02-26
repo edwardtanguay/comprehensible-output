@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { HiOutlineSpeakerWave } from "react-icons/hi2";
+import { HiOutlineSpeakerWave, HiCheck } from "react-icons/hi2";
 import pronFlashcards from "../../parseddata/pronunciations.json";
 
 interface IPronunciation {
@@ -104,7 +104,10 @@ export const PagePronunciation = () => {
 							<div className="h-7 flex items-center">
 								<span className="text-2xl font-black text-cyan-400 leading-none">{learnedCount}</span>
 							</div>
-							<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight mt-1">learned</span>
+							<div className="flex items-center gap-1 mt-1">
+								<HiCheck className="text-[10px] text-emerald-500" />
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">learned</span>
+							</div>
 						</div>
 
 						<div className="flex gap-4 bg-slate-900/40 px-4 py-2 rounded-xl border border-slate-700/30">
@@ -249,8 +252,9 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 						e.stopPropagation();
 						onLearned();
 					}}
-					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
+					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
 				>
+					<HiCheck className="text-emerald-500" />
 					Mark as learned
 				</button>
 			</div>
