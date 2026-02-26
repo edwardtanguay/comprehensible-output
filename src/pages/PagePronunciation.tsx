@@ -200,8 +200,8 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				</div>
 			) : (
 				<div className="flex flex-col items-center h-full justify-center space-y-4 animate-in fade-in zoom-in duration-300">
-					<div className="bg-cyan-500/10 px-4 py-2 rounded-full border border-cyan-500/20">
-						<span className="text-cyan-400 font-mono text-2xl font-bold">
+					<div className="px-4 py-1">
+						<span className="text-cyan-400 font-mono text-lg font-bold">
 							{card.pronunciation}
 						</span>
 					</div>
