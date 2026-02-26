@@ -254,7 +254,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 					onClick={handleKeepLearning}
 					className={`text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase ${isDimmed ? "bg-cyan-500 text-slate-950 border-cyan-400" : "bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"}`}
 				>
-					{isDimmed ? "Restore" : "Keep learning"}
+					{isDimmed ? "Restore" : "Learn Later"}
 				</button>
 			</div>
 
