@@ -1,4 +1,9 @@
 ======================================================================================
+2026-02-26 07:24:03
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "tali compiti", "Te l'avevo detto, non sei abbastanza bravo", "Ho un compito", "e mi rattristo e basta", "e rimando", "Mi riempio di un'emozione di panico", "ingigantire", "ansia anticipatoria", "quindici", "in un momento futuro", "anche più volte", "sbaliare", "cercare di prevedere", "proiezione del fallimento futuro", "dove fallirò", "farà del bene", "il prossimo metro", "ti fermi", "il filo", "la porta".
+======================================================================================
 2026-02-25 07:36:47
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

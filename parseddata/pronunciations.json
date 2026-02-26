@@ -1069,27 +1069,327 @@
 	},
 	{
 		"language": "nl",
+		"front": "toen ik mijn motivatiebrief schreef",
+		"pronunciation": "s*rayf",
+		"back": "when I wrote my motivation letter"
+	},
+	{
+		"language": "nl",
 		"front": "engageren",
 		"pronunciation": "AHN-*ah-ZHAIR-eh",
-		"back": "4.9"
+		"back": "engage"
+	},
+	{
+		"language": "nl",
+		"front": "excu­seer me",
+		"pronunciation": "eks-koo-ZAIHR-mah",
+		"back": "excuse me"
+	},
+	{
+		"language": "nl",
+		"front": "hoe je een heleboel informatie ordent",
+		"pronunciation": "HAY-leh-bool",
+		"back": "how to organize a lot of information"
+	},
+	{
+		"language": "nl",
+		"front": "essentieel",
+		"pronunciation": "ehs-en-SHAYLL",
+		"back": "essential"
+	},
+	{
+		"language": "nl",
+		"front": "het dient vrijwel hetzelfde doel",
+		"pronunciation": "het-SELF-teh",
+		"back": "it serves much the same purpose"
+	},
+	{
+		"language": "nl",
+		"front": "een schone lei",
+		"pronunciation": "LAYEE",
+		"back": "a clean slate"
+	},
+	{
+		"language": "nl",
+		"front": "tegelijkertijd",
+		"pronunciation": "teh-*el-LIGH-ker-tight",
+		"back": "at the same time"
+	},
+	{
+		"language": "nl",
+		"front": "uiteindelijk",
+		"pronunciation": "out-EYEn-deh-lik",
+		"back": "in the end"
+	},
+	{
+		"language": "nl",
+		"front": "elk detail",
+		"pronunciation": "day-TIGH-ee",
+		"back": "every detail"
+	},
+	{
+		"language": "nl",
+		"front": "formulier",
+		"pronunciation": "form-oo-LEER",
+		"back": "form"
+	},
+	{
+		"language": "nl",
+		"front": "proces",
+		"pronunciation": "proh-SESS",
+		"back": "process"
+	},
+	{
+		"language": "nl",
+		"front": "succes",
+		"pronunciation": "sook-SESS",
+		"back": "success"
+	},
+	{
+		"language": "nl",
+		"front": "ga je joggen",
+		"pronunciation": "(en:jogging)",
+		"back": "you go jogging"
+	},
+	{
+		"language": "nl",
+		"front": "ontdekking",
+		"pronunciation": "ohnt-DEHK-ing",
+		"back": "discovery"
+	},
+	{
+		"language": "nl",
+		"front": "tegelijkertijd",
+		"pronunciation": "teh-*geh-LIGHK-er-tight",
+		"back": "at the same time"
+	},
+	{
+		"language": "nl",
+		"front": "archief",
+		"pronunciation": "ahr-*EEF",
+		"back": "archive"
+	},
+	{
+		"language": "nl",
+		"front": "vijftien",
+		"pronunciation": "VIGHF-teen",
+		"back": "fifteen"
+	},
+	{
+		"language": "nl",
+		"front": "gevoel",
+		"pronunciation": "*eh-VOOL",
+		"back": "feeling"
+	},
+	{
+		"language": "nl",
+		"front": "vijf",
+		"pronunciation": "VIGHF",
+		"back": "five"
+	},
+	{
+		"language": "nl",
+		"front": "het huwelijk",
+		"pronunciation": "HYOO-ih-lik",
+		"back": "the wedding"
+	},
+	{
+		"language": "nl",
+		"front": "garage",
+		"pronunciation": "*ah-RAH-zheh",
+		"back": "garage"
+	},
+	{
+		"language": "nl",
+		"front": "de jack",
+		"pronunciation": "en(JACK)",
+		"back": "jacket"
+	},
+	{
+		"language": "nl",
+		"front": "kuikens",
+		"pronunciation": "KOW-kens",
+		"back": "chicks"
+	},
+	{
+		"language": "nl",
+		"front": "de jeugd",
+		"pronunciation": "YOH*t",
+		"back": "the youth"
+	},
+	{
+		"language": "nl",
+		"front": "de raket",
+		"pronunciation": "rah-KETT",
+		"back": "the rocket"
+	},
+	{
+		"language": "nl",
+		"front": "het gewicht van je lichaam",
+		"pronunciation": "LEE-*am",
+		"back": "the weight of your body"
+	},
+	{
+		"language": "nl",
+		"front": "snel ideeën uit te gooien",
+		"pronunciation": "*OH-ee-yah",
+		"back": "quickly throw out ideas"
+	},
+	{
+		"language": "nl",
+		"front": "je typt",
+		"pronunciation": "TEEPT",
+		"back": "you type"
+	},
+	{
+		"language": "nl",
+		"front": "voor deze keuze",
+		"pronunciation": "DAY-zeh",
+		"back": "for this choice"
+	},
+	{
+		"language": "nl",
+		"front": "dus beschouw dit als een familiekwestie",
+		"pronunciation": "bay-s*OW",
+		"back": "so consider this a family matter"
+	},
+	{
+		"language": "nl",
+		"front": "automatisch",
+		"pronunciation": "ow-toh-MAH-tees-*",
+		"back": "automatic"
+	},
+	{
+		"language": "nl",
+		"front": "uitvoeren",
+		"pronunciation": "OWT-foo-reh",
+		"back": "execute"
 	},
 	{
 		"language": "nl",
 		"front": "De trui vol stof",
 		"pronunciation": "TROWL",
-		"back": "4.92"
+		"back": "the dress is full of dust"
 	},
 	{
 		"language": "nl",
 		"front": "onder je voeten",
 		"pronunciation": "FOO-teh",
-		"back": "4.92"
+		"back": "under your feet"
 	},
 	{
 		"language": "nl",
-		"front": "wat een bijvoeglijke bepaling is",
-		"pronunciation": "bigh-FOO*-lick-eh",
-		"back": "what an adjective clause is"
+		"front": "ik moet toch het vuilnis buiten zetten",
+		"pronunciation": "VOWL-nis",
+		"back": "I have to take the trash out anyway"
+	},
+	{
+		"language": "nl",
+		"front": "Je hele jeugd lang",
+		"pronunciation": "HAY-leh",
+		"back": "throughout your childhood"
+	},
+	{
+		"language": "nl",
+		"front": "een documentaire",
+		"pronunciation": "doh-koo-mon-TAIR-eh",
+		"back": "a documentary"
+	},
+	{
+		"language": "nl",
+		"front": "dat automatisch fouten corrigeert",
+		"pronunciation": "kor-ee-ZHEERT",
+		"back": "that automatically corrects errors"
+	},
+	{
+		"language": "nl",
+		"front": "het ene bedekt, het andere maakt vuil",
+		"pronunciation": "FOWl",
+		"back": "one covers, the other makes dirt"
+	},
+	{
+		"language": "nl",
+		"front": "de ene bedekt, de andere onthult",
+		"pronunciation": "AY-neh",
+		"back": "one covers, the other reveals"
+	},
+	{
+		"language": "nl",
+		"front": "Dat is vreemd",
+		"pronunciation": "FRAYMt",
+		"back": "that's strange"
+	},
+	{
+		"language": "nl",
+		"front": "Dat is vreemd, maar heus wel logisch",
+		"pronunciation": "höss",
+		"back": "That's strange, but it makes sense"
+	},
+	{
+		"language": "nl",
+		"front": "maar het is logisch",
+		"pronunciation": "LOH-*ees",
+		"back": "but it makes sense"
+	},
+	{
+		"language": "nl",
+		"front": "zwijgen",
+		"pronunciation": "ZVIGH-*eh",
+		"back": "silence"
+	},
+	{
+		"language": "nl",
+		"front": "zoals ik al zei",
+		"pronunciation": "ZAY-ee",
+		"back": "as I said"
+	},
+	{
+		"language": "nl",
+		"front": "je hele jeugd lang",
+		"pronunciation": "HAY-leh",
+		"back": "throughout your childhood"
+	},
+	{
+		"language": "nl",
+		"front": "de perfecte correctie",
+		"pronunciation": "ko-REHK-zee",
+		"back": "the perfect correction"
+	},
+	{
+		"language": "nl",
+		"front": "maar technisch correct",
+		"pronunciation": "TEK-nees",
+		"back": "but technically correct"
+	},
+	{
+		"language": "nl",
+		"front": "mijn volgende versie",
+		"pronunciation": "FAIR-see",
+		"back": "my next version"
+	},
+	{
+		"language": "nl",
+		"front": "De geur van vers brood",
+		"pronunciation": "*OOer",
+		"back": "the smell of fresh bread"
+	},
+	{
+		"language": "nl",
+		"front": "Tot gauw",
+		"pronunciation": "*OW",
+		"back": "see you soon"
+	},
+	{
+		"language": "nl",
+		"front": "naar het plafond",
+		"pronunciation": "PLAH-fohn",
+		"back": "to the ceiling"
+	},
+	{
+		"language": "nl",
+		"front": "want onthoud",
+		"pronunciation": "ohnt-HOW",
+		"back": "because remember"
 	},
 	{
 		"language": "nl",
@@ -1918,5 +2218,17 @@
 		"front": "elk detail",
 		"pronunciation": "day-TIGH-ee",
 		"back": "each detail"
+	},
+	{
+		"language": "fr",
+		"front": "tu étudiais sous la pluie",
+		"pronunciation": "ploo-EE",
+		"back": "you study under the rain"
+	},
+	{
+		"language": "es",
+		"front": "exagerar",
+		"pronunciation": "eg-zah-*air-RAR",
+		"back": "to exaggerate"
 	}
 ]
