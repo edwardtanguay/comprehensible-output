@@ -207,13 +207,6 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				{!isDimmed && (
 					<>
 						<button
-							onClick={handleOpenTranslate}
-							className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
-							title="Listen and translate"
-						>
-							<HiOutlineSpeakerWave className="text-sm" />
-						</button>
-						<button
 							onClick={(e) => {
 								e.stopPropagation();
 								onLearned();
@@ -222,7 +215,22 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 						>
 							Mark as learned
 						</button>
+						<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
+							{card.language}
+						</div>
 					</>
+				)}
+			</div>
+
+			<div className="absolute bottom-3 right-3 flex items-center gap-2">
+				{!isDimmed && (
+					<button
+						onClick={handleOpenTranslate}
+						className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
+						title="Listen and translate"
+					>
+						<HiOutlineSpeakerWave className="text-sm" />
+					</button>
 				)}
 				<button
 					onClick={handleKeepLearning}
@@ -230,11 +238,6 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				>
 					{isDimmed ? "Restore" : "Keep learning"}
 				</button>
-				{!isDimmed && (
-					<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
-						{card.language}
-					</div>
-				)}
 			</div>
 
 			{!isDimmed && (
