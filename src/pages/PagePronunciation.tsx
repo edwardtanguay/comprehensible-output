@@ -239,12 +239,12 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 				</div>
 			)}
 
-			{flipCount > 0 && (
-				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
-					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
-					<span className="text-[12px] text-cyan-500 font-black leading-none">{flipCount}</span>
-				</div>
-			)}
+			<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
+				<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
+				<span className={`text-[12px] font-black leading-none ${getLangStyles(card.language).text} ${flipCount === 0 ? "opacity-30" : "opacity-100"}`}>
+					{flipCount}
+				</span>
+			</div>
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
 				<button
