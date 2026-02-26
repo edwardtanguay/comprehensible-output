@@ -77,7 +77,7 @@ export const PagePronunciation = () => {
 			<div className="flex flex-col md:flex-row gap-4 items-center justify-between p-6 bg-slate-800/40 rounded-3xl border border-slate-700/50 backdrop-blur-md shadow-2xl">
 				<div className="text-center md:text-left">
 					<h1 className="text-4xl font-black text-white tracking-tighter italic">
-						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
+						PRONUNCIATION <span className="text-cyan-500">MASTERY</span>
 					</h1>
 					<div className="flex items-center justify-center md:justify-start gap-3 mt-2">
 						<div className="flex items-baseline gap-1 bg-slate-900/60 px-3 py-1 rounded-xl border border-slate-700/50 shadow-inner">
