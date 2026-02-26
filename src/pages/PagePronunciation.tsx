@@ -205,20 +205,23 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
 				{!isDimmed && (
-					<>
-						<button
-							onClick={(e) => {
-								e.stopPropagation();
-								onLearned();
-							}}
-							className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
-						>
-							Mark as learned
-						</button>
-						<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
-							{card.language}
-						</div>
-					</>
+					<button
+						onClick={(e) => {
+							e.stopPropagation();
+							onLearned();
+						}}
+						className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
+					>
+						Mark as learned
+					</button>
+				)}
+			</div>
+
+			<div className="absolute bottom-3 left-3 flex items-center gap-2">
+				{!isDimmed && (
+					<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
+						{card.language}
+					</div>
 				)}
 			</div>
 
