@@ -105,7 +105,7 @@ export const PagePronunciation = () => {
 								<span className="text-2xl font-black text-cyan-400 leading-none">{learnedCount}</span>
 							</div>
 							<div className="flex items-center gap-1 mt-1">
-								<HiCheck className="text-[10px] text-emerald-500" />
+								<HiCheck className="text-[10px] text-slate-500" />
 								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">learned</span>
 							</div>
 						</div>
@@ -254,7 +254,7 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 					}}
 					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
 				>
-					<HiCheck className="text-emerald-500" />
+					<HiCheck className="text-slate-500" />
 					Mark as learned
 				</button>
 			</div>
