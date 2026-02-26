@@ -198,8 +198,8 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 
 			{flipCount > 0 && !isDimmed && (
 				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
-					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">Views:</span>
-					<span className="text-[12px] text-cyan-500 font-black">{flipCount}</span>
+					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
+					<span className="text-[12px] text-cyan-500 font-black leading-none">{flipCount}</span>
 				</div>
 			)}
 
