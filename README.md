@@ -31,3 +31,7 @@ The story is created with AI by combining the words and phrases into a creative,
 -   copy-paste the story into e.g. it.compout.txt
 -   `npm run pd`
 -   push to Vercel
+
+## See more projects
+
+- https://edwards-projects.vercel.app
