@@ -9,6 +9,18 @@ interface IPronunciation {
 	back: string;
 }
 
+const languageConfig: Record<string, { text: string; bg: string; shadow: string; border: string }> = {
+	es: { text: "text-red-500", bg: "bg-red-500", shadow: "shadow-red-500/20", border: "border-red-500/30" },
+	fr: { text: "text-blue-600", bg: "bg-blue-600", shadow: "shadow-blue-600/20", border: "border-blue-600/30" },
+	it: { text: "text-emerald-500", bg: "bg-emerald-500", shadow: "shadow-emerald-500/20", border: "border-emerald-500/30" },
+	nl: { text: "text-orange-500", bg: "bg-orange-500", shadow: "shadow-orange-500/20", border: "border-orange-500/30" }
+};
+
+const getLangStyles = (lang: string) => {
+	const config = languageConfig[lang.toLowerCase()];
+	return config || { text: "text-cyan-500", bg: "bg-cyan-500", shadow: "shadow-cyan-500/20", border: "border-cyan-500/30" };
+};
+
 export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
@@ -99,15 +111,18 @@ export const PagePronunciation = () => {
 					>
 						ALL
 					</button>
-					{languages.map(lang => (
-						<button
-							key={lang}
-							onClick={() => setSelectedLanguage(lang)}
-							className={`px-4 py-1.5 rounded-xl text-sm font-bold transition-all uppercase ${selectedLanguage === lang ? "bg-cyan-500 text-slate-900 shadow-lg shadow-cyan-500/20" : "text-slate-400 hover:text-white"}`}
-						>
-							{lang}
-						</button>
-					))}
+					{languages.map(lang => {
+						const styles = getLangStyles(lang);
+						return (
+							<button
+								key={lang}
+								onClick={() => setSelectedLanguage(lang)}
+								className={`px-4 py-1.5 rounded-xl text-sm font-bold transition-all uppercase ${selectedLanguage === lang ? `${styles.bg} text-slate-900 shadow-lg ${styles.shadow}` : `${styles.text} opacity-60 hover:opacity-100`}`}
+							>
+								{lang}
+							</button>
+						);
+					})}
 				</div>
 			</div>
 
@@ -180,7 +195,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
       `}
 		>
 			{!isFlipped ? (
-				<div className="text-3xl font-bold text-white tracking-wide group-hover:scale-105 transition-transform duration-300">
+				<div className={`text-3xl font-bold tracking-wide group-hover:scale-105 transition-transform duration-300 ${getLangStyles(card.language).text}`}>
 					{card.front}
 				</div>
 			) : (
@@ -219,7 +234,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 
 			<div className="absolute bottom-3 left-3 flex items-center gap-2">
 				{!isDimmed && (
-					<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
+					<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
 						{card.language}
 					</div>
 				)}
