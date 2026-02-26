@@ -25,6 +25,7 @@ export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
+	const [laterIds, setLaterIds] = useState<string[]>([]);
 	const [flipCounts, setFlipCounts] = useState<Record<string, number>>({});
 
 	// Initialize cards and learned state
@@ -50,6 +51,11 @@ export const PagePronunciation = () => {
 		const newLearned = [...learnedIds, id];
 		setLearnedIds(newLearned);
 		localStorage.setItem("comprehensible_learned_cards", JSON.stringify(newLearned));
+	};
+
+	const handleMarkAsLater = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		setLaterIds([...laterIds, id]);
 	};
 
 	const handleIncrementFlip = (language: string, front: string) => {
@@ -78,11 +84,13 @@ export const PagePronunciation = () => {
 		: cards.filter(c => c.language === selectedLanguage);
 
 	const filteredCards = cardsInLanguage.filter(
-		c => !learnedIds.includes(`${c.language}:${c.front}`)
+		c => !learnedIds.includes(`${c.language}:${c.front}`) &&
+			!laterIds.includes(`${c.language}:${c.front}`)
 	);
 
-	const learnedCount = cardsInLanguage.length - filteredCards.length;
-	const totalCount = cardsInLanguage.length;
+	const learnedCount = cardsInLanguage.filter(
+		c => learnedIds.includes(`${c.language}:${c.front}`)
+	).length;
 
 	return (
 		<div className="space-y-6">
@@ -97,9 +105,20 @@ export const PagePronunciation = () => {
 							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">learned</span>
 						</div>
 						<div className="h-4 w-px bg-slate-700/50" />
-						<div className="flex items-baseline gap-1">
-							<span className="text-xl font-bold text-slate-200 leading-none">{totalCount}</span>
-							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">total</span>
+						<div className="flex items-baseline gap-2 bg-slate-900/40 px-3 py-1 rounded-xl border border-slate-700/30">
+							<div className="flex items-baseline gap-1">
+								<span className="text-xl font-bold text-slate-200 leading-none">
+									{cardsInLanguage.filter(c => !learnedIds.includes(`${c.language}:${c.front}`)).length}
+								</span>
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">to learn</span>
+							</div>
+							<div className="h-3 w-px bg-slate-700/50 self-center" />
+							<div className="flex items-baseline gap-1">
+								<span className="text-lg font-black text-slate-900 bg-slate-400 px-1.5 rounded-md leading-none">
+									{filteredCards.length}
+								</span>
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">session</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -133,6 +152,7 @@ export const PagePronunciation = () => {
 						card={card}
 						flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
 						onLearned={() => handleMarkAsLearned(card.language, card.front)}
+						onLearnLater={() => handleMarkAsLater(card.language, card.front)}
 						onFlip={() => handleIncrementFlip(card.language, card.front)}
 					/>
 				))}
@@ -156,15 +176,14 @@ interface FlashcardProps {
 	card: IPronunciation;
 	flipCount: number;
 	onLearned: () => void;
+	onLearnLater: () => void;
 	onFlip: () => void;
 }
 
-const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
+const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
-	const [isDimmed, setIsDimmed] = useState(false);
 
 	const handleFlip = () => {
-		if (isDimmed) return;
 		if (!isFlipped) {
 			onFlip();
 		}
@@ -177,9 +196,9 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 		window.open(url, "_blank");
 	};
 
-	const handleKeepLearning = (e: React.MouseEvent) => {
+	const handleLearnLater = (e: React.MouseEvent) => {
 		e.stopPropagation();
-		setIsDimmed(!isDimmed);
+		onLearnLater();
 	};
 
 	return (
@@ -187,7 +206,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 			onClick={handleFlip}
 			className={`
         relative h-52 w-full transition-all duration-300 transform
-        ${isDimmed ? "opacity-20 translate-y-0 scale-95 grayscale cursor-default" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
+        cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
         flex flex-col items-center justify-center p-8 text-center
@@ -211,7 +230,7 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				</div>
 			)}
 
-			{flipCount > 0 && !isDimmed && (
+			{flipCount > 0 && (
 				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
 					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
 					<span className="text-[12px] text-cyan-500 font-black leading-none">{flipCount}</span>
@@ -219,48 +238,40 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 			)}
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
-				{!isDimmed && (
-					<button
-						onClick={(e) => {
-							e.stopPropagation();
-							onLearned();
-						}}
-						className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
-					>
-						Mark as learned
-					</button>
-				)}
-			</div>
-
-			<div className="absolute bottom-3 left-3 flex items-center gap-2">
-				{!isDimmed && (
-					<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
-						{card.language}
-					</div>
-				)}
-			</div>
-
-			<div className="absolute bottom-3 right-3 flex items-center gap-2">
-				{!isDimmed && (
-					<button
-						onClick={handleOpenTranslate}
-						className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
-						title="Listen and translate"
-					>
-						<HiOutlineSpeakerWave className="text-sm" />
-					</button>
-				)}
 				<button
-					onClick={handleKeepLearning}
-					className={`text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase ${isDimmed ? "bg-cyan-500 text-slate-950 border-cyan-400" : "bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"}`}
+					onClick={(e) => {
+						e.stopPropagation();
+						onLearned();
+					}}
+					className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
 				>
-					{isDimmed ? "Restore" : "Learn Later"}
+					Mark as learned
 				</button>
 			</div>
 
-			{!isDimmed && (
-				<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-			)}
+			<div className="absolute bottom-3 left-3 flex items-center gap-2">
+				<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
+					{card.language}
+				</div>
+			</div>
+
+			<div className="absolute bottom-3 right-3 flex items-center gap-2">
+				<button
+					onClick={handleOpenTranslate}
+					className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
+					title="Listen and translate"
+				>
+					<HiOutlineSpeakerWave className="text-sm" />
+				</button>
+				<button
+					onClick={handleLearnLater}
+					className="text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"
+				>
+					Learn Later
+				</button>
+			</div>
+
+			<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
 		</div>
 	);
 };
