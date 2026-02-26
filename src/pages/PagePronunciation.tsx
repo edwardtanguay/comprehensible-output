@@ -11,7 +11,7 @@ interface IPronunciation {
 
 const languageConfig: Record<string, { text: string; bg: string; shadow: string; border: string }> = {
 	es: { text: "text-red-500", bg: "bg-red-500", shadow: "shadow-red-500/20", border: "border-red-500/30" },
-	fr: { text: "text-blue-600", bg: "bg-blue-600", shadow: "shadow-blue-600/20", border: "border-blue-600/30" },
+	fr: { text: "text-blue-400", bg: "bg-blue-500", shadow: "shadow-blue-500/20", border: "border-blue-500/30" },
 	it: { text: "text-emerald-500", bg: "bg-emerald-500", shadow: "shadow-emerald-500/20", border: "border-emerald-500/30" },
 	nl: { text: "text-orange-500", bg: "bg-orange-500", shadow: "shadow-orange-500/20", border: "border-orange-500/30" }
 };
