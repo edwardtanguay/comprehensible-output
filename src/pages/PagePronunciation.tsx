@@ -100,30 +100,30 @@ export const PagePronunciation = () => {
 						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
 					</h1>
 					<div className="flex items-center justify-center md:justify-start gap-4 mt-2">
-						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-2 rounded-xl border border-slate-700/50 shadow-inner min-w-[90px]">
-							<div className="h-7 flex items-baseline gap-1">
+						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-2 rounded-xl border border-slate-700/50 shadow-inner min-w-[100px]">
+							<div className="h-7 flex items-baseline justify-center gap-1">
 								<span className="text-xl font-black text-cyan-400 leading-none">{learnedCount}</span>
 								<span className="text-[10px] text-slate-500 font-bold">of {cardsInLanguage.length}</span>
 							</div>
-							<div className="flex items-center gap-1 mt-1">
+							<div className="flex items-center justify-center gap-1 mt-1">
 								<HiCheck className="text-[10px] text-slate-500" />
 								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">learned</span>
 							</div>
 						</div>
 
 						<div className="flex gap-4 bg-slate-900/40 px-4 py-2 rounded-xl border border-slate-700/30">
-							<div className="flex flex-col items-center min-w-[50px]">
-								<div className="h-7 flex items-center">
-									<span className="text-xl font-bold text-slate-200 leading-none">
+							<div className="flex flex-col items-center min-w-[65px]">
+								<div className="h-7 flex items-baseline justify-center">
+									<span className="text-xl font-black text-slate-200 leading-none">
 										{cardsInLanguage.filter(c => !learnedIds.includes(`${c.language}:${c.front}`)).length}
 									</span>
 								</div>
 								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight mt-1">to learn</span>
 							</div>
 							<div className="h-8 w-px bg-slate-700/50 self-center" />
-							<div className="flex flex-col items-center min-w-[50px]">
-								<div className="h-7 flex items-center">
-									<span className="text-lg font-black text-slate-900 bg-slate-400 px-1.5 rounded-md leading-none">
+							<div className="flex flex-col items-center min-w-[65px]">
+								<div className="h-7 flex items-baseline justify-center">
+									<span className="text-xl font-black text-slate-900 bg-slate-400 px-1.5 rounded-md leading-none">
 										{filteredCards.length}
 									</span>
 								</div>
