@@ -301,14 +301,14 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			<div className={`absolute bottom-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={handleOpenTranslate}
-					className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
+					className="h-[26px] w-[26px] flex items-center justify-center bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
 					title="Listen and translate"
 				>
 					<HiOutlineSpeakerWave className="text-sm" />
 				</button>
 				<button
 					onClick={(e) => handleAction(e, onLearnLater)}
-					className="text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"
+					className="h-[26px] text-[10px] font-bold px-3 rounded-lg border transition-all uppercase bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white flex items-center"
 				>
 					Learn Later
 				</button>
