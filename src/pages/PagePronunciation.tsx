@@ -112,7 +112,7 @@ export const PagePronunciation = () => {
 					<h1 className="text-4xl font-black text-white tracking-tighter italic">
 						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
 					</h1>
-					<div className="flex items-center justify-center md:justify-start gap-4 mt-2">
+					<div className="flex items-center justify-center md:justify-start gap-4 mt-6">
 						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-3 rounded-xl border border-slate-700/50 shadow-inner min-w-[100px]">
 							<div className="h-7 flex items-baseline justify-center gap-1">
 								<span className="text-xl font-black text-cyan-400 leading-none">{learnedCount}</span>
