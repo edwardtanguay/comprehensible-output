@@ -1934,7 +1934,7 @@
 	{
 		"language": "nl",
 		"front": "in de gootsteen",
-		"pronunciation": "GOHT-steen",
+		"pronunciation": "GOHT-stayn",
 		"back": "in the sink"
 	},
 	{
@@ -2230,5 +2230,17 @@
 		"front": "exagerar",
 		"pronunciation": "eg-zah-*air-RAR",
 		"back": "to exaggerate"
+	},
+	{
+		"language": "it",
+		"front": "un progetto del genere",
+		"pronunciation": "del JEN-air-eh",
+		"back": "a project of this kind"
+	},
+	{
+		"language": "es",
+		"front": "el juicio de los demás",
+		"pronunciation": "el hoo-EE-thee-oh",
+		"back": "the judgment of others"
 	}
 ]

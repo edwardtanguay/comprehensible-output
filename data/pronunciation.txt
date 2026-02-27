@@ -485,7 +485,7 @@ nl; een doos vol brieven; BREE-fah; letters
 nl; de vuurtoren; FOOR-tor-eh; the lighthouse
 nl; Het is een overzicht van de routes; ROO-tes; routes
 
-nl; in de gootsteen; GOHT-steen; in the sink
+nl; in de gootsteen; GOHT-stayn; in the sink
 
 nl; het sjabloon uit te vouwen; shah-BLOHN; to unfold the template
 nl; het sjabloon uit te vouwen; FOW-wah (sounds like "cow"); to unfold the template
@@ -566,3 +566,7 @@ nl; elk detail; day-TIGH-ee; each detail
 fr;tu étudiais sous la pluie;ploo-EE; you study under the rain
 
 es; exagerar; eg-zah-*air-RAR; to exaggerate
+
+it;un progetto del genere ; del JEN-air-eh; a project of this kind
+
+es;el juicio de los demás; el hoo-EE-thee-oh; the judgment of others
