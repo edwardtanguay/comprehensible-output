@@ -8,6 +8,7 @@ interface IPronunciation {
 	front: string;
 	pronunciation: string;
 	back: string;
+	id?: string;
 }
 
 const languageConfig: Record<string, { text: string; bg: string; shadow: string; border: string }> = {
@@ -22,8 +23,13 @@ const getLangStyles = (lang: string) => {
 	return config || { text: "text-cyan-500", bg: "bg-cyan-500", shadow: "shadow-cyan-500/20", border: "border-cyan-500/30" };
 };
 
+const cardsWithIds: IPronunciation[] = (pronFlashcards as IPronunciation[]).map((c, i) => ({
+	...c,
+	id: `${c.language}:${c.front}:${i}`
+}));
+
 export const PagePronunciation = () => {
-	const [cards, setCards] = useState<IPronunciation[]>([]);
+	const [cards, setCards] = useState<IPronunciation[]>(cardsWithIds);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
 	const [optimisticLearnedIds, setOptimisticLearnedIds] = useState<string[]>([]);
@@ -45,7 +51,7 @@ export const PagePronunciation = () => {
 			setFlipCounts(JSON.parse(storedFlips));
 		}
 
-		const shuffled = [...(pronFlashcards as IPronunciation[])].sort(
+		const shuffled = [...cards].sort(
 			() => Math.random() - 0.5
 		);
 		setCards(shuffled);
@@ -179,7 +185,7 @@ export const PagePronunciation = () => {
 				<AnimatePresence mode="popLayout">
 					{filteredCards.map((card) => (
 						<motion.div
-							key={`${card.language}-${card.front}`}
+							key={card.id}
 							layout
 							initial={{ opacity: 0, scale: 0.9, y: 30 }}
 							animate={{ opacity: 1, scale: 1, y: 0 }}
@@ -268,7 +274,7 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 		<div
 			onClick={handleFlip}
 			className={`
-        relative h-52 w-full transition-all duration-1000 transform
+        relative h-52 w-full transition-all duration-300 transform
         ${isExiting ? "opacity-10 scale-95 grayscale pointer-events-none translate-y-4" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
