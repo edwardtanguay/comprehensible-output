@@ -232,11 +232,11 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
       `}
 		>
 			{!isFlipped ? (
-				<div className={`text-3xl font-bold tracking-wide group-hover:scale-105 transition-transform duration-300 ${getLangStyles(card.language).text}`}>
+				<div className={`text-3xl font-bold tracking-wide group-hover:scale-105 transition-transform duration-300 ${getLangStyles(card.language).text} ${isLearnedAction ? "opacity-0" : ""}`}>
 					{card.front}
 				</div>
 			) : (
-				<div className="flex flex-col items-center h-full justify-center space-y-1 animate-in fade-in zoom-in duration-300">
+				<div className={`flex flex-col items-center h-full justify-center space-y-1 animate-in fade-in zoom-in duration-300 ${isLearnedAction ? "opacity-0" : ""}`}>
 					<div className="px-4 py-1">
 						<span className={`font-mono text-lg font-bold ${getLangStyles(card.language).text}`}>
 							{card.pronunciation}
@@ -248,14 +248,14 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 				</div>
 			)}
 
-			<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
+			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
 				<span className={`text-[12px] font-black leading-none ${getLangStyles(card.language).text} ${flipCount === 0 ? "opacity-30" : "opacity-100"}`}>
 					{flipCount}
 				</span>
 			</div>
 
-			<div className="absolute top-3 right-3 flex items-center gap-2">
+			<div className={`absolute top-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={(e) => handleAction(e, onLearned, true)}
 					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
@@ -271,13 +271,13 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 				</div>
 			)}
 
-			<div className="absolute bottom-3 left-3 flex items-center gap-2">
+			<div className={`absolute bottom-3 left-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
 					{card.language}
 				</div>
 			</div>
 
-			<div className="absolute bottom-3 right-3 flex items-center gap-2">
+			<div className={`absolute bottom-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={handleOpenTranslate}
 					className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
