@@ -25,6 +25,7 @@ export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
+	const [optimisticLearnedIds, setOptimisticLearnedIds] = useState<string[]>([]);
 	const [laterIds, setLaterIds] = useState<string[]>([]);
 	const [flipCounts, setFlipCounts] = useState<Record<string, number>>({});
 
@@ -32,7 +33,9 @@ export const PagePronunciation = () => {
 	useEffect(() => {
 		const storedLearned = localStorage.getItem("comprehensible_learned_cards");
 		if (storedLearned) {
-			setLearnedIds(JSON.parse(storedLearned));
+			const parsed = JSON.parse(storedLearned);
+			setLearnedIds(parsed);
+			setOptimisticLearnedIds(parsed);
 		}
 
 		const storedFlips = localStorage.getItem("comprehensible_flip_counts");
@@ -51,6 +54,11 @@ export const PagePronunciation = () => {
 		const newLearned = [...learnedIds, id];
 		setLearnedIds(newLearned);
 		localStorage.setItem("comprehensible_learned_cards", JSON.stringify(newLearned));
+	};
+
+	const handleOptimisticLearned = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		setOptimisticLearnedIds(prev => [...prev, id]);
 	};
 
 	const handleMarkAsLater = (language: string, front: string) => {
@@ -88,8 +96,13 @@ export const PagePronunciation = () => {
 			!laterIds.includes(`${c.language}:${c.front}`)
 	);
 
+	const sessionCards = cardsInLanguage.filter(
+		c => !optimisticLearnedIds.includes(`${c.language}:${c.front}`) &&
+			!laterIds.includes(`${c.language}:${c.front}`)
+	);
+
 	const learnedCount = cardsInLanguage.filter(
-		c => learnedIds.includes(`${c.language}:${c.front}`)
+		c => optimisticLearnedIds.includes(`${c.language}:${c.front}`)
 	).length;
 
 	return (
@@ -115,7 +128,7 @@ export const PagePronunciation = () => {
 							<div className="flex flex-col items-center min-w-[65px]">
 								<div className="h-7 flex items-baseline justify-center">
 									<span className="text-xl font-black text-slate-200 leading-none">
-										{cardsInLanguage.filter(c => !learnedIds.includes(`${c.language}:${c.front}`)).length}
+										{cardsInLanguage.filter(c => !optimisticLearnedIds.includes(`${c.language}:${c.front}`)).length}
 									</span>
 								</div>
 								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">to learn</span>
@@ -124,7 +137,7 @@ export const PagePronunciation = () => {
 							<div className="flex flex-col items-center min-w-[65px]">
 								<div className="h-7 flex items-baseline justify-center">
 									<span className="text-xl font-black text-slate-900 bg-slate-400 px-1.5 rounded-md leading-none">
-										{filteredCards.length}
+										{sessionCards.length}
 									</span>
 								</div>
 								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">session</span>
@@ -162,6 +175,7 @@ export const PagePronunciation = () => {
 						card={card}
 						flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
 						onLearned={() => handleMarkAsLearned(card.language, card.front)}
+						onOptimisticLearned={() => handleOptimisticLearned(card.language, card.front)}
 						onLearnLater={() => handleMarkAsLater(card.language, card.front)}
 						onFlip={() => handleIncrementFlip(card.language, card.front)}
 					/>
@@ -186,11 +200,12 @@ interface FlashcardProps {
 	card: IPronunciation;
 	flipCount: number;
 	onLearned: () => void;
+	onOptimisticLearned: () => void;
 	onLearnLater: () => void;
 	onFlip: () => void;
 }
 
-const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: FlashcardProps) => {
+const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
 	const [isExiting, setIsExiting] = useState(false);
 	const [isLearnedAction, setIsLearnedAction] = useState(false);
@@ -214,7 +229,12 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 		e.stopPropagation();
 		if (isExiting) return;
 		setIsExiting(true);
-		if (isLearned) setIsLearnedAction(true);
+		if (isLearned) {
+			setIsLearnedAction(true);
+			onOptimisticLearned(); // Trigger header update immediately
+		} else {
+			onLearnLater(); // This is already immediate in current implementation
+		}
 		setTimeout(() => {
 			action();
 		}, 1000);
