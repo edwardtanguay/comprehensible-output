@@ -100,9 +100,10 @@ export const PagePronunciation = () => {
 						PRONUNCIATION <span className="text-cyan-500">MASTER</span>
 					</h1>
 					<div className="flex items-center justify-center md:justify-start gap-4 mt-2">
-						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-2 rounded-xl border border-slate-700/50 shadow-inner min-w-[70px]">
-							<div className="h-7 flex items-center">
-								<span className="text-2xl font-black text-cyan-400 leading-none">{learnedCount}</span>
+						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-2 rounded-xl border border-slate-700/50 shadow-inner min-w-[90px]">
+							<div className="h-7 flex items-baseline gap-1">
+								<span className="text-xl font-black text-cyan-400 leading-none">{learnedCount}</span>
+								<span className="text-[10px] text-slate-500 font-bold">of {cardsInLanguage.length}</span>
 							</div>
 							<div className="flex items-center gap-1 mt-1">
 								<HiCheck className="text-[10px] text-slate-500" />
