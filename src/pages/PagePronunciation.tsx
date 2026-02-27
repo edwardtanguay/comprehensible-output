@@ -27,6 +27,7 @@ export const PagePronunciation = () => {
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
 	const [optimisticLearnedIds, setOptimisticLearnedIds] = useState<string[]>([]);
 	const [laterIds, setLaterIds] = useState<string[]>([]);
+	const [optimisticLaterIds, setOptimisticLaterIds] = useState<string[]>([]);
 	const [flipCounts, setFlipCounts] = useState<Record<string, number>>({});
 
 	// Initialize cards and learned state
@@ -66,6 +67,11 @@ export const PagePronunciation = () => {
 		setLaterIds([...laterIds, id]);
 	};
 
+	const handleOptimisticLater = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		setOptimisticLaterIds(prev => [...prev, id]);
+	};
+
 	const handleIncrementFlip = (language: string, front: string) => {
 		const id = `${language}:${front}`;
 		const newCounts = {
@@ -98,7 +104,7 @@ export const PagePronunciation = () => {
 
 	const sessionCards = cardsInLanguage.filter(
 		c => !optimisticLearnedIds.includes(`${c.language}:${c.front}`) &&
-			!laterIds.includes(`${c.language}:${c.front}`)
+			!optimisticLaterIds.includes(`${c.language}:${c.front}`)
 	);
 
 	const learnedCount = cardsInLanguage.filter(
@@ -177,6 +183,7 @@ export const PagePronunciation = () => {
 						onLearned={() => handleMarkAsLearned(card.language, card.front)}
 						onOptimisticLearned={() => handleOptimisticLearned(card.language, card.front)}
 						onLearnLater={() => handleMarkAsLater(card.language, card.front)}
+						onOptimisticLater={() => handleOptimisticLater(card.language, card.front)}
 						onFlip={() => handleIncrementFlip(card.language, card.front)}
 					/>
 				))}
@@ -202,10 +209,11 @@ interface FlashcardProps {
 	onLearned: () => void;
 	onOptimisticLearned: () => void;
 	onLearnLater: () => void;
+	onOptimisticLater: () => void;
 	onFlip: () => void;
 }
 
-const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLater, onFlip }: FlashcardProps) => {
+const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLater, onOptimisticLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
 	const [isExiting, setIsExiting] = useState(false);
 	const [isLearnedAction, setIsLearnedAction] = useState(false);
@@ -233,7 +241,7 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			setIsLearnedAction(true);
 			onOptimisticLearned(); // Trigger header update immediately
 		} else {
-			onLearnLater(); // This is already immediate in current implementation
+			onOptimisticLater(); // Trigger header update immediately
 		}
 		setTimeout(() => {
 			action();
