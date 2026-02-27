@@ -214,14 +214,14 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 		setIsExiting(true);
 		setTimeout(() => {
 			action();
-		}, 500);
+		}, 1000);
 	};
 
 	return (
 		<div
 			onClick={handleFlip}
 			className={`
-        relative h-52 w-full transition-all duration-500 transform
+        relative h-52 w-full transition-all duration-1000 transform
         ${isExiting ? "opacity-10 scale-95 grayscale pointer-events-none translate-y-4" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
