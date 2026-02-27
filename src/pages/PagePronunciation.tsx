@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { HiOutlineSpeakerWave } from "react-icons/hi2";
+import { HiOutlineSpeakerWave, HiCheck, HiCheckCircle } from "react-icons/hi2";
 import pronFlashcards from "../../parseddata/pronunciations.json";
 
 interface IPronunciation {
@@ -9,17 +9,33 @@ interface IPronunciation {
 	back: string;
 }
 
+const languageConfig: Record<string, { text: string; bg: string; shadow: string; border: string }> = {
+	es: { text: "text-red-500", bg: "bg-red-500", shadow: "shadow-red-500/20", border: "border-red-500/30" },
+	fr: { text: "text-blue-400", bg: "bg-blue-500", shadow: "shadow-blue-500/20", border: "border-blue-500/30" },
+	it: { text: "text-emerald-500", bg: "bg-emerald-500", shadow: "shadow-emerald-500/20", border: "border-emerald-500/30" },
+	nl: { text: "text-orange-500", bg: "bg-orange-500", shadow: "shadow-orange-500/20", border: "border-orange-500/30" }
+};
+
+const getLangStyles = (lang: string) => {
+	const config = languageConfig[lang.toLowerCase()];
+	return config || { text: "text-cyan-500", bg: "bg-cyan-500", shadow: "shadow-cyan-500/20", border: "border-cyan-500/30" };
+};
+
 export const PagePronunciation = () => {
 	const [cards, setCards] = useState<IPronunciation[]>([]);
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 	const [learnedIds, setLearnedIds] = useState<string[]>([]);
+	const [optimisticLearnedIds, setOptimisticLearnedIds] = useState<string[]>([]);
+	const [laterIds, setLaterIds] = useState<string[]>([]);
 	const [flipCounts, setFlipCounts] = useState<Record<string, number>>({});
 
 	// Initialize cards and learned state
 	useEffect(() => {
 		const storedLearned = localStorage.getItem("comprehensible_learned_cards");
 		if (storedLearned) {
-			setLearnedIds(JSON.parse(storedLearned));
+			const parsed = JSON.parse(storedLearned);
+			setLearnedIds(parsed);
+			setOptimisticLearnedIds(parsed);
 		}
 
 		const storedFlips = localStorage.getItem("comprehensible_flip_counts");
@@ -38,6 +54,16 @@ export const PagePronunciation = () => {
 		const newLearned = [...learnedIds, id];
 		setLearnedIds(newLearned);
 		localStorage.setItem("comprehensible_learned_cards", JSON.stringify(newLearned));
+	};
+
+	const handleOptimisticLearned = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		setOptimisticLearnedIds(prev => [...prev, id]);
+	};
+
+	const handleMarkAsLater = (language: string, front: string) => {
+		const id = `${language}:${front}`;
+		setLaterIds([...laterIds, id]);
 	};
 
 	const handleIncrementFlip = (language: string, front: string) => {
@@ -66,11 +92,18 @@ export const PagePronunciation = () => {
 		: cards.filter(c => c.language === selectedLanguage);
 
 	const filteredCards = cardsInLanguage.filter(
-		c => !learnedIds.includes(`${c.language}:${c.front}`)
+		c => !learnedIds.includes(`${c.language}:${c.front}`) &&
+			!laterIds.includes(`${c.language}:${c.front}`)
 	);
 
-	const learnedCount = cardsInLanguage.length - filteredCards.length;
-	const totalCount = cardsInLanguage.length;
+	const sessionCards = cardsInLanguage.filter(
+		c => !optimisticLearnedIds.includes(`${c.language}:${c.front}`) &&
+			!laterIds.includes(`${c.language}:${c.front}`)
+	);
+
+	const learnedCount = cardsInLanguage.filter(
+		c => optimisticLearnedIds.includes(`${c.language}:${c.front}`)
+	).length;
 
 	return (
 		<div className="space-y-6">
@@ -79,15 +112,36 @@ export const PagePronunciation = () => {
 					<h1 className="text-4xl font-black text-white tracking-tighter italic">
 						PRONUNCIATION <span className="text-cyan-500">MASTERY</span>
 					</h1>
-					<div className="flex items-center justify-center md:justify-start gap-3 mt-2">
-						<div className="flex items-baseline gap-1 bg-slate-900/60 px-3 py-1 rounded-xl border border-slate-700/50 shadow-inner">
-							<span className="text-2xl font-black text-cyan-400 leading-none">{learnedCount}</span>
-							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">learned</span>
+					<div className="flex items-center justify-center md:justify-start gap-4 mt-6">
+						<div className="flex flex-col items-center bg-slate-900/60 px-4 py-3 rounded-xl border border-slate-700/50 shadow-inner min-w-[100px]">
+							<div className="h-7 flex items-baseline justify-center gap-1">
+								<span className="text-xl font-black text-cyan-400 leading-none">{learnedCount}</span>
+								<span className="text-[10px] text-slate-500 font-bold">of {cardsInLanguage.length}</span>
+							</div>
+							<div className="flex items-center justify-center gap-1">
+								<HiCheck className="text-[10px] text-slate-500" />
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">learned</span>
+							</div>
 						</div>
-						<div className="h-4 w-px bg-slate-700/50" />
-						<div className="flex items-baseline gap-1">
-							<span className="text-xl font-bold text-slate-200 leading-none">{totalCount}</span>
-							<span className="text-xs text-slate-500 font-bold uppercase tracking-tight">total</span>
+
+						<div className="flex gap-4 bg-slate-900/40 px-4 py-3 rounded-xl border border-slate-700/30">
+							<div className="flex flex-col items-center min-w-[65px]">
+								<div className="h-7 flex items-baseline justify-center">
+									<span className="text-xl font-black text-slate-200 leading-none">
+										{cardsInLanguage.filter(c => !optimisticLearnedIds.includes(`${c.language}:${c.front}`)).length}
+									</span>
+								</div>
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">to learn</span>
+							</div>
+							<div className="h-8 w-px bg-slate-700/50 self-center" />
+							<div className="flex flex-col items-center min-w-[65px]">
+								<div className="h-7 flex items-baseline justify-center">
+									<span className="text-xl font-black text-slate-900 bg-slate-400 px-1.5 rounded-md leading-none">
+										{sessionCards.length}
+									</span>
+								</div>
+								<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tight">session</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -99,15 +153,18 @@ export const PagePronunciation = () => {
 					>
 						ALL
 					</button>
-					{languages.map(lang => (
-						<button
-							key={lang}
-							onClick={() => setSelectedLanguage(lang)}
-							className={`px-4 py-1.5 rounded-xl text-sm font-bold transition-all uppercase ${selectedLanguage === lang ? "bg-cyan-500 text-slate-900 shadow-lg shadow-cyan-500/20" : "text-slate-400 hover:text-white"}`}
-						>
-							{lang}
-						</button>
-					))}
+					{languages.map(lang => {
+						const styles = getLangStyles(lang);
+						return (
+							<button
+								key={lang}
+								onClick={() => setSelectedLanguage(lang)}
+								className={`px-4 py-1.5 rounded-xl text-sm font-bold transition-all uppercase ${selectedLanguage === lang ? `${styles.bg} text-slate-900 shadow-lg ${styles.shadow}` : `${styles.text} opacity-60 hover:opacity-100`}`}
+							>
+								{lang}
+							</button>
+						);
+					})}
 				</div>
 			</div>
 
@@ -118,6 +175,8 @@ export const PagePronunciation = () => {
 						card={card}
 						flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
 						onLearned={() => handleMarkAsLearned(card.language, card.front)}
+						onOptimisticLearned={() => handleOptimisticLearned(card.language, card.front)}
+						onLearnLater={() => handleMarkAsLater(card.language, card.front)}
 						onFlip={() => handleIncrementFlip(card.language, card.front)}
 					/>
 				))}
@@ -141,15 +200,18 @@ interface FlashcardProps {
 	card: IPronunciation;
 	flipCount: number;
 	onLearned: () => void;
+	onOptimisticLearned: () => void;
+	onLearnLater: () => void;
 	onFlip: () => void;
 }
 
-const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
+const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
-	const [isDimmed, setIsDimmed] = useState(false);
+	const [isExiting, setIsExiting] = useState(false);
+	const [isLearnedAction, setIsLearnedAction] = useState(false);
 
 	const handleFlip = () => {
-		if (isDimmed) return;
+		if (isExiting) return;
 		if (!isFlipped) {
 			onFlip();
 		}
@@ -158,21 +220,32 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 
 	const handleOpenTranslate = (e: React.MouseEvent) => {
 		e.stopPropagation();
+		if (isExiting) return;
 		const url = `https://translate.google.com/?sl=${card.language}&tl=en&text=${encodeURIComponent(card.front)}&op=translate`;
 		window.open(url, "_blank");
 	};
 
-	const handleKeepLearning = (e: React.MouseEvent) => {
+	const handleAction = (e: React.MouseEvent, action: () => void, isLearned: boolean = false) => {
 		e.stopPropagation();
-		setIsDimmed(!isDimmed);
+		if (isExiting) return;
+		setIsExiting(true);
+		if (isLearned) {
+			setIsLearnedAction(true);
+			onOptimisticLearned(); // Trigger header update immediately
+		} else {
+			onLearnLater(); // This is already immediate in current implementation
+		}
+		setTimeout(() => {
+			action();
+		}, 1000);
 	};
 
 	return (
 		<div
 			onClick={handleFlip}
 			className={`
-        relative h-52 w-full transition-all duration-300 transform
-        ${isDimmed ? "opacity-20 translate-y-0 scale-95 grayscale cursor-default" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
+        relative h-52 w-full transition-all duration-1000 transform
+        ${isExiting ? "opacity-10 scale-95 grayscale pointer-events-none translate-y-4" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
         flex flex-col items-center justify-center p-8 text-center
@@ -180,13 +253,13 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
       `}
 		>
 			{!isFlipped ? (
-				<div className="text-3xl font-bold text-white tracking-wide group-hover:scale-105 transition-transform duration-300">
+				<div className={`text-3xl font-bold tracking-wide group-hover:scale-105 transition-transform duration-300 ${getLangStyles(card.language).text} ${isLearnedAction ? "opacity-0" : ""}`}>
 					{card.front}
 				</div>
 			) : (
-				<div className="flex flex-col items-center h-full justify-center space-y-4 animate-in fade-in zoom-in duration-300">
-					<div className="bg-cyan-500/10 px-4 py-2 rounded-full border border-cyan-500/20">
-						<span className="text-cyan-400 font-mono text-2xl font-bold">
+				<div className={`flex flex-col items-center h-full justify-center space-y-1 animate-in fade-in zoom-in duration-300 ${isLearnedAction ? "opacity-0" : ""}`}>
+					<div className="px-4 py-1">
+						<span className={`font-mono text-lg font-bold ${getLangStyles(card.language).text}`}>
 							{card.pronunciation}
 						</span>
 					</div>
@@ -196,50 +269,52 @@ const Flashcard = ({ card, flipCount, onLearned, onFlip }: FlashcardProps) => {
 				</div>
 			)}
 
-			{flipCount > 0 && !isDimmed && (
-				<div className="absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50">
-					<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter">Views:</span>
-					<span className="text-[12px] text-cyan-500 font-black">{flipCount}</span>
+			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 rounded-md border border-slate-700/50 transition-opacity duration-300 h-[26px] ${isExiting ? "opacity-0" : flipCount === 0 ? "opacity-80" : "opacity-100"}`}>
+				<span className="text-[10px] text-slate-200 uppercase tracking-tighter leading-none">Views:</span>
+				<span className={`text-[12px] leading-none ${flipCount === 0 ? "text-slate-200" : getLangStyles(card.language).text}`}>
+					{flipCount}
+				</span>
+			</div>
+
+			<div className={`absolute top-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
+				<button
+					onClick={(e) => handleAction(e, onLearned, true)}
+					className="h-[26px] text-[10px] bg-slate-900/40 text-slate-300 hover:text-slate-200 font-bold px-3 rounded-lg border border-slate-700/50 hover:border-slate-400 hover:bg-slate-800 transition-all uppercase flex items-center gap-1 shadow-sm active:translate-y-[1px]"
+				>
+					<HiCheck className="text-slate-400" />
+					Mark as learned
+				</button>
+			</div>
+
+			{isLearnedAction && (
+				<div className="absolute inset-0 flex items-center justify-center pointer-events-none z-50">
+					<HiCheckCircle className="text-slate-500/80 text-[180px] animate-in zoom-in-75 fade-in duration-1000 fill-mode-forwards opacity-0" />
 				</div>
 			)}
 
-			<div className="absolute top-3 right-3 flex items-center gap-2">
-				{!isDimmed && (
-					<>
-						<button
-							onClick={handleOpenTranslate}
-							className="p-1.5 bg-slate-900/50 hover:bg-cyan-500 text-slate-400 hover:text-slate-900 rounded-lg border border-slate-700 transition-all shadow-lg"
-							title="Listen and translate"
-						>
-							<HiOutlineSpeakerWave className="text-sm" />
-						</button>
-						<button
-							onClick={(e) => {
-								e.stopPropagation();
-								onLearned();
-							}}
-							className="text-[10px] bg-emerald-500/20 hover:bg-emerald-500 text-emerald-400 hover:text-emerald-950 font-bold px-3 py-1 rounded-lg border border-emerald-500/30 transition-all uppercase "
-						>
-							Mark as learned
-						</button>
-					</>
-				)}
-				<button
-					onClick={handleKeepLearning}
-					className={`text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase ${isDimmed ? "bg-cyan-500 text-slate-950 border-cyan-400" : "bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"}`}
-				>
-					{isDimmed ? "Restore" : "Keep learning"}
-				</button>
-				{!isDimmed && (
-					<div className="text-[10px] text-slate-500 font-bold px-2 py-1 rounded-lg bg-slate-900/50 border border-slate-700 uppercase tracking-widest">
-						{card.language}
-					</div>
-				)}
+			<div className={`absolute bottom-3 left-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
+				<div className={`h-[26px] flex items-center text-[10px] font-bold px-2 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
+					{card.language}
+				</div>
 			</div>
 
-			{!isDimmed && (
-				<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-			)}
+			<div className={`absolute bottom-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
+				<button
+					onClick={handleOpenTranslate}
+					className="h-[26px] w-[26px] flex items-center justify-center bg-slate-900/40 hover:bg-slate-800 text-slate-300 hover:text-slate-200 rounded-lg border border-slate-700/50 hover:border-slate-400 transition-all shadow-sm active:translate-y-[1px]"
+					title="Listen and translate"
+				>
+					<HiOutlineSpeakerWave className="text-sm" />
+				</button>
+				<button
+					onClick={(e) => handleAction(e, onLearnLater)}
+					className="h-[26px] text-[10px] font-bold px-3 rounded-lg border border-slate-700/50 hover:border-slate-400 transition-all uppercase bg-slate-900/40 text-slate-300 hover:bg-slate-800 hover:text-slate-200 flex items-center shadow-sm active:translate-y-[1px]"
+				>
+					Learn Later
+				</button>
+			</div>
+
+			<div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
 		</div>
 	);
 };
