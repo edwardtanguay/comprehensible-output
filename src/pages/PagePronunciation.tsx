@@ -269,9 +269,9 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 				</div>
 			)}
 
-			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 rounded-md border border-slate-700/50 transition-opacity duration-300 h-[26px] ${isExiting ? "opacity-0" : ""}`}>
-				<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
-				<span className={`text-[12px] font-black leading-none ${getLangStyles(card.language).text} ${flipCount === 0 ? "opacity-30" : "opacity-100"}`}>
+			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 rounded-md border border-slate-700/50 transition-opacity duration-300 h-[26px] ${isExiting ? "opacity-0" : flipCount === 0 ? "opacity-80" : "opacity-100"}`}>
+				<span className="text-[10px] text-slate-200 uppercase tracking-tighter leading-none">Views:</span>
+				<span className={`text-[12px] leading-none ${flipCount === 0 ? "text-slate-200" : getLangStyles(card.language).text}`}>
 					{flipCount}
 				</span>
 			</div>
