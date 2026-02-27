@@ -177,7 +177,7 @@ export const PagePronunciation = () => {
 
 			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-8 items-start">
 				<AnimatePresence mode="popLayout">
-					{filteredCards.map((card, index) => (
+					{filteredCards.map((card) => (
 						<motion.div
 							key={`${card.language}-${card.front}`}
 							layout
