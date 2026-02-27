@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { HiOutlineSpeakerWave, HiCheck, HiCheckCircle } from "react-icons/hi2";
+import { motion, AnimatePresence } from "framer-motion";
 import pronFlashcards from "../../parseddata/pronunciations.json";
 
 interface IPronunciation {
@@ -174,19 +175,34 @@ export const PagePronunciation = () => {
 				</div>
 			</div>
 
-			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-8">
-				{filteredCards.map((card, index) => (
-					<Flashcard
-						key={`${card.language}-${card.front}-${index}`}
-						card={card}
-						flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
-						onLearned={() => handleMarkAsLearned(card.language, card.front)}
-						onOptimisticLearned={() => handleOptimisticLearned(card.language, card.front)}
-						onLearnLater={() => handleMarkAsLater(card.language, card.front)}
-						onOptimisticLater={() => handleOptimisticLater(card.language, card.front)}
-						onFlip={() => handleIncrementFlip(card.language, card.front)}
-					/>
-				))}
+			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pb-8 items-start">
+				<AnimatePresence mode="popLayout">
+					{filteredCards.map((card, index) => (
+						<motion.div
+							key={`${card.language}-${card.front}`}
+							layout
+							initial={{ opacity: 0, scale: 0.9, y: 30 }}
+							animate={{ opacity: 1, scale: 1, y: 0 }}
+							exit={{ opacity: 0, scale: 0.8, y: -20 }}
+							transition={{
+								type: "spring",
+								stiffness: 300,
+								damping: 30,
+								opacity: { duration: 0.3 }
+							}}
+						>
+							<Flashcard
+								card={card}
+								flipCount={flipCounts[`${card.language}:${card.front}`] || 0}
+								onLearned={() => handleMarkAsLearned(card.language, card.front)}
+								onOptimisticLearned={() => handleOptimisticLearned(card.language, card.front)}
+								onLearnLater={() => handleMarkAsLater(card.language, card.front)}
+								onOptimisticLater={() => handleOptimisticLater(card.language, card.front)}
+								onFlip={() => handleIncrementFlip(card.language, card.front)}
+							/>
+						</motion.div>
+					))}
+				</AnimatePresence>
 			</div>
 
 			{(learnedIds.length > 0 || Object.keys(flipCounts).length > 0) && (
