@@ -32,6 +32,6 @@ The story is created with AI by combining the words and phrases into a creative,
 -   `npm run pd`
 -   push to Vercel
 
-## See more projects
+## See more projects here
 
 - https://edwards-projects.vercel.app
