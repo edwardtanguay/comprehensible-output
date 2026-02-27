@@ -279,9 +279,9 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			<div className={`absolute top-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={(e) => handleAction(e, onLearned, true)}
-					className="h-[26px] text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
+					className="h-[26px] text-[10px] bg-slate-900/40 text-slate-300 hover:text-slate-200 font-bold px-3 rounded-lg border border-slate-700/50 hover:border-slate-400 hover:bg-slate-800 transition-all uppercase flex items-center gap-1 shadow-sm active:translate-y-[1px]"
 				>
-					<HiCheck className="text-slate-500" />
+					<HiCheck className="text-slate-400" />
 					Mark as learned
 				</button>
 			</div>
@@ -301,14 +301,14 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			<div className={`absolute bottom-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={handleOpenTranslate}
-					className="h-[26px] w-[26px] flex items-center justify-center bg-slate-900/50 hover:bg-slate-800 text-slate-400 hover:text-white rounded-lg border border-slate-700 transition-all shadow-lg"
+					className="h-[26px] w-[26px] flex items-center justify-center bg-slate-900/40 hover:bg-slate-800 text-slate-300 hover:text-slate-200 rounded-lg border border-slate-700/50 hover:border-slate-400 transition-all shadow-sm active:translate-y-[1px]"
 					title="Listen and translate"
 				>
 					<HiOutlineSpeakerWave className="text-sm" />
 				</button>
 				<button
 					onClick={(e) => handleAction(e, onLearnLater)}
-					className="h-[26px] text-[10px] font-bold px-3 rounded-lg border transition-all uppercase bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white flex items-center"
+					className="h-[26px] text-[10px] font-bold px-3 rounded-lg border border-slate-700/50 hover:border-slate-400 transition-all uppercase bg-slate-900/40 text-slate-300 hover:bg-slate-800 hover:text-slate-200 flex items-center shadow-sm active:translate-y-[1px]"
 				>
 					Learn Later
 				</button>
