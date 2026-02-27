@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { HiOutlineSpeakerWave, HiCheck } from "react-icons/hi2";
+import { HiOutlineSpeakerWave, HiCheck, HiCheckCircle } from "react-icons/hi2";
 import pronFlashcards from "../../parseddata/pronunciations.json";
 
 interface IPronunciation {
@@ -192,6 +192,7 @@ interface FlashcardProps {
 const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
 	const [isExiting, setIsExiting] = useState(false);
+	const [isLearnedAction, setIsLearnedAction] = useState(false);
 
 	const handleFlip = () => {
 		if (isExiting) return;
@@ -208,10 +209,11 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 		window.open(url, "_blank");
 	};
 
-	const handleAction = (e: React.MouseEvent, action: () => void) => {
+	const handleAction = (e: React.MouseEvent, action: () => void, isLearned: boolean = false) => {
 		e.stopPropagation();
 		if (isExiting) return;
 		setIsExiting(true);
+		if (isLearned) setIsLearnedAction(true);
 		setTimeout(() => {
 			action();
 		}, 1000);
@@ -255,13 +257,19 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
 				<button
-					onClick={(e) => handleAction(e, onLearned)}
+					onClick={(e) => handleAction(e, onLearned, true)}
 					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
 				>
 					<HiCheck className="text-slate-500" />
 					Mark as learned
 				</button>
 			</div>
+
+			{isLearnedAction && (
+				<div className="absolute inset-0 flex items-center justify-center pointer-events-none z-50">
+					<HiCheckCircle className="text-slate-500/80 text-[180px] animate-in zoom-in-75 fade-in duration-1000 fill-mode-forwards opacity-0" />
+				</div>
+			)}
 
 			<div className="absolute bottom-3 left-3 flex items-center gap-2">
 				<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
