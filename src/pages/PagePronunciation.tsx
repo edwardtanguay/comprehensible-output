@@ -191,8 +191,10 @@ interface FlashcardProps {
 
 const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: FlashcardProps) => {
 	const [isFlipped, setIsFlipped] = useState(false);
+	const [isExiting, setIsExiting] = useState(false);
 
 	const handleFlip = () => {
+		if (isExiting) return;
 		if (!isFlipped) {
 			onFlip();
 		}
@@ -201,21 +203,26 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 
 	const handleOpenTranslate = (e: React.MouseEvent) => {
 		e.stopPropagation();
+		if (isExiting) return;
 		const url = `https://translate.google.com/?sl=${card.language}&tl=en&text=${encodeURIComponent(card.front)}&op=translate`;
 		window.open(url, "_blank");
 	};
 
-	const handleLearnLater = (e: React.MouseEvent) => {
+	const handleAction = (e: React.MouseEvent, action: () => void) => {
 		e.stopPropagation();
-		onLearnLater();
+		if (isExiting) return;
+		setIsExiting(true);
+		setTimeout(() => {
+			action();
+		}, 500);
 	};
 
 	return (
 		<div
 			onClick={handleFlip}
 			className={`
-        relative h-52 w-full transition-all duration-300 transform
-        cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30
+        relative h-52 w-full transition-all duration-500 transform
+        ${isExiting ? "opacity-10 scale-95 grayscale pointer-events-none translate-y-4" : "cursor-pointer hover:-translate-y-2 hover:shadow-cyan-500/20 hover:border-cyan-500/30"}
         ${isFlipped ? "bg-slate-800 border-cyan-500/50" : "bg-slate-700/80 hover:bg-slate-700 border-slate-600"}
         rounded-2xl border-2 shadow-xl overflow-hidden
         flex flex-col items-center justify-center p-8 text-center
@@ -248,10 +255,7 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 
 			<div className="absolute top-3 right-3 flex items-center gap-2">
 				<button
-					onClick={(e) => {
-						e.stopPropagation();
-						onLearned();
-					}}
+					onClick={(e) => handleAction(e, onLearned)}
 					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
 				>
 					<HiCheck className="text-slate-500" />
@@ -274,7 +278,7 @@ const Flashcard = ({ card, flipCount, onLearned, onLearnLater, onFlip }: Flashca
 					<HiOutlineSpeakerWave className="text-sm" />
 				</button>
 				<button
-					onClick={handleLearnLater}
+					onClick={(e) => handleAction(e, onLearnLater)}
 					className="text-[10px] font-bold px-3 py-1 rounded-lg border transition-all uppercase bg-slate-900/50 text-slate-400 border-slate-700 hover:bg-slate-800 hover:text-white"
 				>
 					Learn Later
