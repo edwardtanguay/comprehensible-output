@@ -269,7 +269,7 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 				</div>
 			)}
 
-			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 py-0.5 rounded-md border border-slate-700/50 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
+			<div className={`absolute top-3 left-3 flex items-center gap-1 bg-slate-900/40 px-2 rounded-md border border-slate-700/50 transition-opacity duration-300 h-[26px] ${isExiting ? "opacity-0" : ""}`}>
 				<span className="text-[10px] text-slate-500 font-bold uppercase tracking-tighter leading-none">Views:</span>
 				<span className={`text-[12px] font-black leading-none ${getLangStyles(card.language).text} ${flipCount === 0 ? "opacity-30" : "opacity-100"}`}>
 					{flipCount}
@@ -279,7 +279,7 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			<div className={`absolute top-3 right-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
 				<button
 					onClick={(e) => handleAction(e, onLearned, true)}
-					className="text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 py-1 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
+					className="h-[26px] text-[10px] bg-slate-900/50 text-slate-400 hover:text-white font-bold px-3 rounded-lg border border-slate-700 hover:bg-slate-800 transition-all uppercase flex items-center gap-1"
 				>
 					<HiCheck className="text-slate-500" />
 					Mark as learned
@@ -293,7 +293,7 @@ const Flashcard = ({ card, flipCount, onLearned, onOptimisticLearned, onLearnLat
 			)}
 
 			<div className={`absolute bottom-3 left-3 flex items-center gap-2 transition-opacity duration-300 ${isExiting ? "opacity-0" : ""}`}>
-				<div className={`text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
+				<div className={`h-[26px] flex items-center text-[10px] font-bold px-2 rounded-lg bg-slate-900/50 border uppercase tracking-widest ${getLangStyles(card.language).text} ${getLangStyles(card.language).border}`}>
 					{card.language}
 				</div>
 			</div>
