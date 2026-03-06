@@ -579,3 +579,6 @@ it; continuavo a spendere soldi; SPEN-dair-eh; I continued to spend money
 it; una macchina; MAH-kee-nah; a car
 it; smisero; ZMEE-zair-oh; they stopped 
 it; come era potuto succedere; soo-CHAT-dair-eh; how could this have happened
+
+it; la ciotola; CHOH-toh-lah; the bowl
+it; l'azienda; lahd-zee-END-ah;company
