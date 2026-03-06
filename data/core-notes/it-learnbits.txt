@@ -2232,7 +2232,8 @@
 					- ho paura che non riescano a venire stasera
 		- con verbi che esprimono incertezza, dubbio, irrealtà 
 			- esempi
-				- non essere sicuri/certi che
+				- non essere sicuri che
+				- non essere certi che
 				- dubitare che
 				- fingere che (pretend that)
 			- questa è la scelta migliore
@@ -2272,8 +2273,16 @@
 			- non so che giorno è oggi
 			- non so che strada porta al centro
 	- CONTINUE: "IL CONGIUNTIVO IN FORME IMPERSONALI…"
-
-
+- differenze di parole
+	- ciascuna vs ogni
+		- qual è la differenza tra "ciascuna" e "ogni"
+			- "ciascuna" significa ogni singola persona o cosa, considerata separatamente
+			- "ogni" significa tutti gli elementi di un insieme, ma senza insistere sulla separazione individuale
+		- fai un esempio per mostrare chiaramente la differenza tra "ciascuna" e "ognia
+			- ogni studente deve firmare 
+				- semplicemente un fatto
+			- ciascun studente deve firmare
+				- dà l'impressione che gli studenti debbano firmare uno alla volta
 ===TODO===		
 - parole importanti
 	- pur non avendo fame, ho mangiato

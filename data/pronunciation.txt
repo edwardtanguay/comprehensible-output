@@ -530,7 +530,7 @@ nl; Dan aarzel je; AHR-zel; then you hesitate
 nl; dat ik ze moet onthouden; ont-HOW-dah; that I have to remember them
 nl; dat is fantastisch; fan-TASS-tees; that's fantastic
 
-it; scrittura scientifica o tecnica; SHEN-tee-fee-kah;scientific or technical writing 
+it; scrittura scientifica o tecnica; shen-TEE-fee-kah;scientific or technical writing 
 it; in quei contesti; QUAY; in those contexts
 
 nl; een race tegen de klok; RACE (as in English); a race against the clock
