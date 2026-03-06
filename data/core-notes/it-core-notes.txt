@@ -1261,14 +1261,15 @@ CONJUGATION OVERVIEW
 		- room: la stanza, le stanze
 		- bag: la borsa, le borse
 	- masculine (il, l' --> un, lo --> uno, gli --> degli)
+		- summary: il riassunto, i riassunti
+		- month: il mese, i mesi
+		- bank: il banco, i banchi
+		- role: il ruolo, i ruoli
 		- note: l'appunto, gli apunti
 		- backpack: lo zaino, gli zaini
 		- student: lo studente, gli studenti
 		- example: l'esempio, gli esempi
 		- agent: l'agente, gli agenti
-		- month: il mese, i mesi
-		- bank: il banco, i banchi
-		- role: il ruolo, i ruoli
 		- tree: l'albero, gli alberi
 		- place: il luogo, i luoghi
 		- telephone: il telefono, i telefoni

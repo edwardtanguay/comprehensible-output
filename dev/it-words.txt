@@ -4,6 +4,16 @@ lookup: https://it.wiktionary.org/wiki
 to bypass: aggirare
 
 == ADJECTIVES ================================
+-- GRUPPO 1
+
+-- GRUPPO 2
+interessant: interessante, interessanti
+important: importante, importanti
+intelligent: intelligente, intelligenti
+evident: evidente, evidenti
+relucant: riluttante, riluttanti; 4.3
+
+-- GRUPPO 3
 
 == NOUNS ================================
 
@@ -12,12 +22,12 @@ bowl: la ciotola, le ciotale
 house: la casa, le case
 student: la studentessa, le studentesse
 run: la corsa, le corse
-overview: la panoramica, le panoramiche
-room: la stanza, le stanze
-bag: la borsa, le borse
+overview: la panoramica, le panoramiche; 4.4
+room: la stanza, le stanze; 4.4
+bag: la borsa, le borse;4.1
 door: la porta, le porte
 --
-source: la fonte, le fonti
+source: la fonte, le fonti; 4.2
 --
 friend: l'amica, le amiche
 company: l'azienda, le aziende
@@ -29,6 +39,8 @@ hand: la mano, le mani
 radio: la radio, le radio
 photo: la foto, le foto
 auto: l'auto, le auto
+-- (other)
+complexity: la complessità, le complessità
 
 --- MASCULINE --------------------
 level: il livello, i livelli
@@ -50,5 +62,6 @@ example: l'esempio, gli esempi
 agent: l'agente, gli agenti
 tree: l'albero, gli alberi
 --
+developer: lo sviluppatore, gli sviluppatori
 backpack: lo zaino, gli zaini
 student: lo studente, gli studenti
