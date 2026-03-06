@@ -1,0 +1,49 @@
+lookup: https://it.wiktionary.org/wiki
+
+== VERBS ================================
+
+== ADJECTIVES ================================
+
+== NOUNS ================================
+
+--- feminine --------------------
+house: la casa, le case
+student: la studentessa, le studentesse
+run: la corsa, le corse
+overview: la panoramica, le panoramiche
+room: la stanza, le stanze
+bag: la borsa, le borse
+door: la porta, le porte
+--
+source: la fonte, le fonti
+--
+friend: l'amica, le amiche
+company: l'azienda, le aziende
+--
+ambition: l'ambizione, le ambizioni
+instruction: l’istruzione, l'istruzioni
+-- (o)
+hand: la mano, le mani
+radio: la radio, le radio
+photo: la foto, le foto
+auto: l'auto, le auto
+
+--- masculine --------------------
+course: il corso, i corsi
+noun: il nome, i nomi
+summary: il riassunto, i riassunti
+month: il mese, i mesi
+bank: il banco, i banchi
+role: il ruolo, i ruoli
+place: il luogo, i luoghi
+telephone: il telefono, i telefoni
+plural: il plurale, i plurali
+--
+scope: l'ambito, gli ambiti
+note: l'appunto, gli apunti
+example: l'esempio, gli esempi
+agent: l'agente, gli agenti
+tree: l'albero, gli alberi
+--
+backpack: lo zaino, gli zaini
+student: lo studente, gli studenti

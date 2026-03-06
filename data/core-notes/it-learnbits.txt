@@ -732,36 +732,38 @@
 	- TODO: research this more
 		- ChatGPT: In italiano esistono due grandi classi di aggettivi, aggettivi in -o, aggettivi in -e
 		- ChatGPT: Alcuni aggettivi che terminano in -ista (es. ottimista, pessimista, nazionalista) sono uguali per maschile e femminile al singolare e cambiano solo al plurale (-i/-e).
+	- a good resource to look up adjectives
+		- 
 	- quali sono i tre gruppi
 		- GRUPPO 1: car(o) --> masc o/i, fem a/e
+			- 60%
 			- un caro studente, due cari studenti 
 			- una cara studentessa, due care studentesse
 			- esempi
 				- caro, rumeroso, moderno, rosso, alto, bello, buono, nuovo, vecchio, basso, piccolo, pieno, vuoto, lungo, corto, povero, ricco, freddo, caldo, chiaro, scuro, blanco, nero, deserto, sorpreso, vecchio
 			- tipi di parole
-				- 60%
 				- parole più brevi, sensoriali, fisiche
 				- latino/italiano di base, non da prestiti successivi
 				- monosillabiche o bisillabiche
 		- GRUPPO 2: trist(e) --> masc e/i, fem e/i
+			- 35%
 			- uno studente triste, due studenti tristi
 			- una studentessa triste, due studentesse tristi
 			- esempi
 				- forte/debole, dolce, triste, veloce/lente, grande
 				- fedele, intelligente, importante, differente, recente, frequente, efficiente, paziente, felice, gentile, difficile/facile, possibile
 			- tipi di parole
-				- 35%
 				- più lunghi, spesso derivati ​​o presi in prestito
 				- stati soggettivi astratti, soggettivi, intellettuali, morali o complessi: importante
 			- non distinguono il genere
 		- GRUPPO 3: egotist(a) --> masc a/i, fem a/e
+			- 5%
 			- uno studente egoista, due studenti egoisti
 			- una studentessa egoista, due studentesse egoiste
 			- esempi
 				- ottimista/pessimista, artista, socialista, entusiasta, ipocrita, analista, atleta
 			- tipi di parole
-				- 5%
-				- quasi tutte sono parole -ista
+				- quasi tutte sono parole con -ista
 		- invariable
 			- blu, rosa, viola, arancione, beige, lavanda
 		- scoperta
