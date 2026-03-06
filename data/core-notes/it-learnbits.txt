@@ -1817,7 +1817,7 @@
 	- dove si colloca "ne" in relazione ad altri pronomi
 		- me ne vado (I'm leaving)
 		- me ne dai (give me some)
-- ne o ci
+- ne o ci // #ne #ce
 	- a cosa servono
 		- la loro funzione principale è quella di sostituire parole o intere parti di una frase, evitando così ripetizioni inutili
 	- dove sono posizionati
@@ -1906,16 +1906,6 @@
 				- avercela
 					- indica essere arrabbiati con qualcuno
 						- perché ce l'hai con me
-
-			
-
-
-
-
-
-
-
-
 
 - l'imperativo
 	- come formare l'imperativo per tu e voi

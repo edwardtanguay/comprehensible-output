@@ -1,33 +1,52 @@
 lookup: https://it.wiktionary.org/wiki
 
-== VERBS ================================
+=#VERBS================================
 
 --ARE
-to bypass: aggirare
+to bypass: aggirare;4.4
+to set: impostare; 4.8
+to refresh: aggiornare; 4.6
 
 --ERE
+to get/obtain; ottenere; 4.9
 to belong to: appartenere
 
 --IRE
 
+--reflexive verbs
+to make sure: assicurarsi
 
-== ADJECTIVES ================================
--- GRUPPO 1
+=#ADJECTIVES ================================(mem: green st.)
+-- GRUPPO 1 - (mem: living room)
+shared: condiviso/condivisi, condivisa/condivise;4.9
+new: nuovo/nuovi, nuova/nuove
+next: prossimo/prossimi, prossima, prossime
+various: ---/vari, ---/varie
+positive: positivo/positivi, positiva/positive
+our: nostro/nostri, nostra/nostre
 
--- GRUPPO 2
-interessant: interessante, interessanti
-important: importante, importanti
-intelligent: intelligente, intelligenti
-evident: evidente, evidenti
-natural: naturale, naturali
-relucant: riluttante, riluttanti; 4.3
+
+-- GRUPPO 2 (mem: street)
+general: generale/generali
+random: casuale/casuali --- le case casuali
+interessant: interessante/interessanti
+important: importante/importanti
+intelligent: intelligente/intelligenti
+evident: evidente/evidenti
+natural: naturale/naturali
+relucant: riluttante/riluttanti; 4.3
 
 -- GRUPPO 3
 
-== NOUNS ================================
+=#ADVERBS ================================
+rather;piuttosto;4.3
 
---- FEMININE --------------------
-bowl: la ciotola, le ciotale
+=#NOUNS ================================
+
+--- #nf --- FEMININE -------------------- (mem: do quickly, cemetery)
+trap: la trappola, le trappole
+bowl: la ciotola, le ciotale --- [CHOH-toh-lah]
+thing: la cosa, le cose
 house: la casa, le case
 student: la studentessa, le studentesse
 run: la corsa, le corse
@@ -40,8 +59,9 @@ source: la fonte, le fonti; 4.2
 --
 friend: l'amica, le amiche
 company: l'azienda, le aziende
+spelling: l'ortografia, le ortografie
 --
-application: l'applicazione, le applicazioni
+application: l'applicazione, le applicazioni;4.7 --- per la tua applicazione; per le tue applicazioni
 ambition: l'ambizione, le ambizioni
 instruction: l'istruzione, l'istruzioni; 4.8
 -- (o)
@@ -52,7 +72,13 @@ auto: l'auto, le auto
 -- (other)
 complexity: la complessità, le complessità
 
---- MASCULINE --------------------
+--- #nm --- MASCULINE -------------------- (mem: do quickly, park)
+point: il punto, i punti -- i buoni punti
+detail: il dettaglio, i dettagli
+judgement: il giudizio, i giudizi
+packet: il pacchetto, i pacchetti; 4.7 --- il pacchetto grande, i pacchetti grandi
+painting: il quadro, i quadri
+case: il caso, i casi
 level: il livello, i livelli
 course: il corso, i corsi
 summary: il riassunto, i riassunti;4.7
@@ -72,6 +98,12 @@ example: l'esempio, gli esempi
 agent: l'agente, gli agenti
 tree: l'albero, gli alberi
 --
+lo scenario, gli scenari
 developer: lo sviluppatore, gli sviluppatori
 backpack: lo zaino, gli zaini
 student: lo studente, gli studenti
+
+
+
+=#CONJUCTIONS ================================
+so long as; poiché --- [poh-ee-KAY]
