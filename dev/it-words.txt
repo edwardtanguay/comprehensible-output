@@ -4,14 +4,17 @@ lookup: https://it.wiktionary.org/wiki
 
 --ARE
 to bypass: aggirare;4.4
-to set: impostare; 4.8
+to set: impostare; 4.8 --- se potessimo impostare quello stato
 to refresh: aggiornare; 4.6
+to print: stampare
 
 --ERE
 to get/obtain; ottenere; 4.9
 to belong to: appartenere
 
 --IRE
+to allow; consentire;4.4 --- Vitest ci consente di usare
+to return; restituire;4.9 --- restituisce lo stato
 
 --reflexive verbs
 to make sure: assicurarsi
@@ -20,10 +23,13 @@ to make sure: assicurarsi
 -- GRUPPO 1 - (mem: living room)
 shared: condiviso/condivisi, condivisa/condivise;4.9
 new: nuovo/nuovi, nuova/nuove
-next: prossimo/prossimi, prossima, prossime
+next: prossimo/prossimi, prossima/prossime
 various: ---/vari, ---/varie
 positive: positivo/positivi, positiva/positive
 our: nostro/nostri, nostra/nostre
+predefined: predefinito/predefiniti, predefinita/predefinite
+clear: limpido/limpidi, limpida/limpide --- l'acqua limpida
+clear: chiaro/chiari, chiara/chiare --- 
 
 
 -- GRUPPO 2 (mem: street)
@@ -40,6 +46,7 @@ relucant: riluttante/riluttanti; 4.3
 
 =#ADVERBS ================================
 rather;piuttosto;4.3
+around;attorno;4.3 --- passeggiamo attorno al lago
 
 =#NOUNS ================================
 
@@ -54,8 +61,10 @@ overview: la panoramica, le panoramiche; 4.4
 room: la stanza, le stanze; 4.4
 bag: la borsa, le borse;4.1
 door: la porta, le porte
+mountain: la montagna, le montagne
 --
 source: la fonte, le fonti; 4.2
+conversation: la conversazione, le conversazioni
 --
 friend: l'amica, le amiche
 company: l'azienda, le aziende
@@ -73,6 +82,7 @@ auto: l'auto, le auto
 complexity: la complessità, le complessità
 
 --- #nm --- MASCULINE -------------------- (mem: do quickly, park)
+way: il modo, i modi
 point: il punto, i punti -- i buoni punti
 detail: il dettaglio, i dettagli
 judgement: il giudizio, i giudizi
@@ -86,6 +96,7 @@ bank: il banco, i banchi
 role: il ruolo, i ruoli
 place: il luogo, i luoghi
 telephone: il telefono, i telefoni
+reflection: il reflesso, i reflessi
 -- (-e)
 plural: il plurale, i plurali
 month: il mese, i mesi
@@ -107,3 +118,9 @@ student: lo studente, gli studenti
 
 =#CONJUCTIONS ================================
 so long as; poiché --- [poh-ee-KAY]
+
+=#VIENE======================================
+il testo che viene stampato
+
+=#CI======================================
+Vitest ci consente di usare
