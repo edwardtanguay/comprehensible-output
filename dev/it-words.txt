@@ -1,7 +1,15 @@
 lookup: https://it.wiktionary.org/wiki
 
 == VERBS ================================
+
+--ARE
 to bypass: aggirare
+
+--ERE
+to belong to: appartenere
+
+--IRE
+
 
 == ADJECTIVES ================================
 -- GRUPPO 1
@@ -11,6 +19,7 @@ interessant: interessante, interessanti
 important: importante, importanti
 intelligent: intelligente, intelligenti
 evident: evidente, evidenti
+natural: naturale, naturali
 relucant: riluttante, riluttanti; 4.3
 
 -- GRUPPO 3
@@ -32,8 +41,9 @@ source: la fonte, le fonti; 4.2
 friend: l'amica, le amiche
 company: l'azienda, le aziende
 --
+application: l'applicazione, le applicazioni
 ambition: l'ambizione, le ambizioni
-instruction: l’istruzione, l'istruzioni
+instruction: l'istruzione, l'istruzioni; 4.8
 -- (o)
 hand: la mano, le mani
 radio: la radio, le radio
