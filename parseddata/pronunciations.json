@@ -2290,5 +2290,23 @@
 		"front": "come era potuto succedere",
 		"pronunciation": "soo-CHAT-dair-eh",
 		"back": "how could this have happened"
+	},
+	{
+		"language": "it",
+		"front": "la ciotola",
+		"pronunciation": "CHOH-toh-lah",
+		"back": "the bowl"
+	},
+	{
+		"language": "it",
+		"front": "l'azienda",
+		"pronunciation": "lahd-zee-END-ah",
+		"back": "company"
+	},
+	{
+		"language": "it",
+		"front": "se non ce l'hai già",
+		"pronunciation": "chay-ligh-JAW",
+		"back": "if you don't already have it"
 	}
 ]

@@ -11,6 +11,8 @@ to print: stampare
 --ERE
 to get/obtain; ottenere; 4.9
 to belong to: appartenere
+to imply: sottintendere; 4.8 --- la parola "ne" sostituisce qualcosa già menzionato o sottinteso
+to hide: nascondere; 4.8 
 
 --IRE
 to allow; consentire;4.4 --- Vitest ci consente di usare
@@ -124,3 +126,6 @@ il testo che viene stampato
 
 =#CI======================================
 Vitest ci consente di usare
+
+=#NE======================================
+attiva i sottotitoli se ne hai bisogno
