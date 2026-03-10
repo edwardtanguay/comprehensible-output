@@ -36,22 +36,13 @@ const Flashcard = ({ phrase }: { phrase: Phrase }) => {
 					<h2 className="text-xl font-medium text-slate-200 text-center px-4 leading-relaxed">
 						{phrase.source_phrase}
 					</h2>
-					<div className="mt-4 text-[10px] text-slate-500 uppercase tracking-widest opacity-0 group-hover:opacity-100 transition-opacity">
-						Click to reveal
-					</div>
 				</div>
 
 				{/* Back */}
 				<div className="absolute inset-0 bg-gradient-to-br from-blue-900 to-indigo-950 border border-blue-500/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-2xl backface-hidden rotate-y-180">
-					<span className="text-xs font-bold text-blue-300 absolute top-3 right-3 uppercase tracking-wider">
-						{phrase.target_language}
-					</span>
 					<h2 className="text-2xl font-bold text-white text-center px-4 leading-tight drop-shadow-md">
 						{phrase.target_phrase}
 					</h2>
-					<div className="mt-4 text-[10px] text-blue-300 uppercase tracking-widest">
-						Answer
-					</div>
 				</div>
 			</div>
 		</div>
