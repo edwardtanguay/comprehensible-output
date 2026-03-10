@@ -35,10 +35,10 @@ export const PageFlashcards = () => {
 			// "learned" & "parked": never test again (remove from training stack)
 			if (progress.status === "learned" || progress.status === "parked") return false;
 
-			// "retake": show if page loaded after 1 minute
-			if (progress.status === "retake") {
-				return diffMs >= 60 * 1000;
-			}
+			// "retake": show if page loaded after specified duration
+			if (progress.status === "retake_1m") return diffMs >= 60 * 1000;
+			if (progress.status === "retake_1h") return diffMs >= 60 * 60 * 1000;
+			if (progress.status === "retake_1d") return diffMs >= 24 * 60 * 60 * 1000;
 
 			// "toBeCorrected": show if page loaded after 24 hours
 			if (progress.status === "toBeCorrected") {
@@ -65,7 +65,7 @@ export const PageFlashcards = () => {
 			{visiblePhrases.length === 0 ? (
 				<div className="text-slate-400 mt-20 text-xl font-medium">✨ All caught up! Come back later.</div>
 			) : (
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-5xl">
+				<div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12 w-full max-w-5xl">
 					{visiblePhrases.map((phrase) => (
 						<Flashcard
 							key={phrase.id}
@@ -84,7 +84,7 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 	const langClass = `flashcard-${phrase.target_language}`;
 
 	return (
-		<div className="group perspective-1000 min-h-[16rem] rounded-xl flex flex-col">
+		<div className="group perspective-1000 min-h-[18rem] rounded-xl flex flex-col">
 			<div
 				className="relative h-48 cursor-pointer transform-style-3d transition-all duration-500"
 				onClick={() => setIsFlipped(!isFlipped)}
@@ -106,12 +106,20 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 			</div>
 
 			{/* Buttons - only visible on back flip or below the card */}
-			<div className={`mt-4 flex flex-wrap gap-2 justify-center transition-opacity duration-300 ${isFlipped ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
-				<ActionButton label="learned" color="bg-green-600" onClick={() => onStatusChange("learned")} />
-				<ActionButton label="retake" color="bg-orange-500" onClick={() => onStatusChange("retake")} />
-				<ActionButton label="park" color="bg-blue-600" onClick={() => onStatusChange("parked")} />
-				<ActionButton label="correct" color="bg-yellow-600" onClick={() => onStatusChange("toBeCorrected")} />
-				<ActionButton label="delete" color="bg-red-700" onClick={() => onStatusChange("deleted")} />
+			<div className={`mt-4 flex flex-col gap-2 items-center transition-opacity duration-300 ${isFlipped ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+				{/* Row 1: delete, park, correct, learned */}
+				<div className="flex flex-wrap gap-2 justify-center">
+					<ActionButton label="delete" color="bg-red-700" onClick={() => onStatusChange("deleted")} />
+					<ActionButton label="park" color="bg-blue-600" onClick={() => onStatusChange("parked")} />
+					<ActionButton label="correct" color="bg-yellow-600" onClick={() => onStatusChange("toBeCorrected")} />
+					<ActionButton label="learned" color="bg-green-600" onClick={() => onStatusChange("learned")} />
+				</div>
+				{/* Row 2: retake 1d, retake 1h, retake 1m */}
+				<div className="flex flex-wrap gap-2 justify-center">
+					<ActionButton label="retake 1 day" color="bg-orange-600" onClick={() => onStatusChange("retake_1d")} />
+					<ActionButton label="retake 1 hour" color="bg-orange-500" onClick={() => onStatusChange("retake_1h")} />
+					<ActionButton label="retake 1 minute" color="bg-orange-400" onClick={() => onStatusChange("retake_1m")} />
+				</div>
 			</div>
 		</div>
 	);

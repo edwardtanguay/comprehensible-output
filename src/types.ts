@@ -57,7 +57,7 @@ export const PhraseSchema = z.object({
 
 export type Phrase = z.infer<typeof PhraseSchema>;
 
-export type PhraseStatus = "none" | "learned" | "retake" | "deleted" | "parked" | "toBeCorrected";
+export type PhraseStatus = "none" | "learned" | "retake_1m" | "retake_1h" | "retake_1d" | "deleted" | "parked" | "toBeCorrected";
 
 export interface PhraseProgress {
 	status: PhraseStatus;
