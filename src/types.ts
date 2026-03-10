@@ -46,3 +46,12 @@ export const blankOutputDay: OutputDay = {
 	totalIncludesEstimates: false,
 	status: "working",
 };
+export const PhraseSchema = z.object({
+	source_phrase: z.string(),
+	target_phrase: z.string(),
+	target_language: z.string(),
+	when_recorded: z.string(),
+	when_used: z.string(),
+});
+
+export type Phrase = z.infer<typeof PhraseSchema>;
