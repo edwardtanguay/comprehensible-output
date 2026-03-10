@@ -33,9 +33,6 @@ const Flashcard = ({ phrase }: { phrase: Phrase }) => {
 			>
 				{/* Front */}
 				<div className="absolute inset-0 bg-slate-800 border border-slate-700 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden ring-1 ring-slate-700 hover:ring-slate-500 transition-all">
-					<span className="text-xs font-mono text-slate-500 absolute top-3 left-3">
-						{phrase.when_recorded}
-					</span>
 					<span className="text-xs font-bold text-blue-400 absolute top-3 right-3 uppercase tracking-wider">
 						{phrase.target_language}
 					</span>
