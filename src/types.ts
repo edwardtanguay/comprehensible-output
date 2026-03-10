@@ -46,3 +46,22 @@ export const blankOutputDay: OutputDay = {
 	totalIncludesEstimates: false,
 	status: "working",
 };
+export const PhraseSchema = z.object({
+	id: z.string().optional(),
+	source_phrase: z.string(),
+	target_phrase: z.string(),
+	target_language: z.string(),
+	when_recorded: z.string(),
+	when_used: z.string(),
+});
+
+export type Phrase = z.infer<typeof PhraseSchema>;
+
+export type PhraseStatus = "none" | "learned" | "retake_1m" | "retake_1h" | "retake_1d" | "deleted" | "parked" | "toBeFixed";
+
+export interface PhraseProgress {
+	status: PhraseStatus;
+	lastActionDate: string;
+}
+
+export type PhraseProgressMap = Record<string, PhraseProgress>;

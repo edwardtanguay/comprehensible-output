@@ -9,6 +9,7 @@ import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
 import { PageLinks } from "./pages/PageLinks.tsx";
 import { PagePronunciation } from "./pages/PagePronunciation.tsx";
+import { PageFlashcards } from "./pages/PageFlashcards.tsx";
 
 const router = createBrowserRouter([
 	{
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
 			{
 				path: "pronunciation",
 				element: <PagePronunciation />
+			},
+			{
+				path: "flashcards",
+				element: <PageFlashcards/>
 			},
 			{
 				path: "about",

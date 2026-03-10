@@ -19,6 +19,10 @@ const menuItems = [
 		title: "Pronunciation",
 	},
 	{
+		idCode: "flashcards",
+		title: "Flashcards",
+	},
+	{
 		idCode: "about",
 		title: "About",
 	},
