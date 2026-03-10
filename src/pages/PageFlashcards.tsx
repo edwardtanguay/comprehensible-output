@@ -39,8 +39,8 @@ const Flashcard = ({ phrase }: { phrase: Phrase }) => {
 				</div>
 
 				{/* Back */}
-				<div className={`absolute inset-0 ${langClass} bg-gradient-to-br from-black/20 to-transparent border border-white/5 rounded-xl p-6 flex flex-col justify-center items-center shadow-2xl backface-hidden rotate-y-180`}>
-					<h2 className="text-2xl font-bold text-white text-center px-4 leading-tight drop-shadow-md">
+				<div className={`absolute inset-0 ${langClass}-back border border-black/5 rounded-xl p-6 flex flex-col justify-center items-center shadow-2xl backface-hidden rotate-y-180`}>
+					<h2 className="text-2xl font-bold text-center px-4 leading-tight drop-shadow-md">
 						{phrase.target_phrase}
 					</h2>
 				</div>
