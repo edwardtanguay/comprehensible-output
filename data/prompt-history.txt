@@ -1,4 +1,9 @@
 ======================================================================================
+2026-03-10 07:37:52
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "la lingua italiana", "la cosa è molto buona", "sessanta per cento", "sul fuoco", "indovinate", "e starai ancora imparando.", "Il rincaro degli alloggi", "a fianco", "essere interessato a qualcosa", "Sono interessato a quell'argomento", "quali preposizioni", "quale preposizione", "guaio", "sembra giusto", "benché", "nonostante", "non era male", "settanta per cento", "passiamo alla domanda successiva", "Fino a".
+======================================================================================
 2026-03-09 06:26:30
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================
