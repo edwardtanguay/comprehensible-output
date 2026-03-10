@@ -47,6 +47,7 @@ export const blankOutputDay: OutputDay = {
 	status: "working",
 };
 export const PhraseSchema = z.object({
+	id: z.string().optional(),
 	source_phrase: z.string(),
 	target_phrase: z.string(),
 	target_language: z.string(),
@@ -55,3 +56,12 @@ export const PhraseSchema = z.object({
 });
 
 export type Phrase = z.infer<typeof PhraseSchema>;
+
+export type PhraseStatus = "none" | "learned" | "retake" | "deleted" | "parked" | "toBeCorrected";
+
+export interface PhraseProgress {
+	status: PhraseStatus;
+	lastActionDate: string;
+}
+
+export type PhraseProgressMap = Record<string, PhraseProgress>;
