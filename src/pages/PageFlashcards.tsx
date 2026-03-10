@@ -40,15 +40,15 @@ export const PageFlashcards = () => {
 			if (progress.status === "retake_1h") return diffMs >= 60 * 60 * 1000;
 			if (progress.status === "retake_1d") return diffMs >= 24 * 60 * 60 * 1000;
 
-			// "toBeCorrected": show if page loaded after 24 hours
-			if (progress.status === "toBeCorrected") {
+			// "toBeFixed": show if page loaded after 24 hours
+			if (progress.status === "toBeFixed") {
 				return diffMs >= 24 * 60 * 60 * 1000;
 			}
 
 			return true;
 		})
 		.sort((a, b) => (a.when_recorded > b.when_recorded ? -1 : 1))
-		.slice(0, 100);
+		.slice(0, 10);
 
 	const handleStatusChange = (phraseId: string, status: PhraseStatus) => {
 		setProgressMap((prev) => ({
@@ -111,7 +111,7 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 				<div className="flex flex-wrap gap-2 justify-center">
 					<ActionButton label="delete" color="bg-red-700" onClick={() => onStatusChange("deleted")} />
 					<ActionButton label="park" color="bg-blue-600" onClick={() => onStatusChange("parked")} />
-					<ActionButton label="correct" color="bg-yellow-600" onClick={() => onStatusChange("toBeCorrected")} />
+					<ActionButton label="fix" color="bg-yellow-600" onClick={() => onStatusChange("toBeFixed")} />
 					<ActionButton label="learned" color="bg-green-600" onClick={() => onStatusChange("learned")} />
 				</div>
 				{/* Row 2: retake 1d, retake 1h, retake 1m */}
