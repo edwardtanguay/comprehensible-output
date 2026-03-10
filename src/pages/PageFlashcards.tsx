@@ -9,7 +9,6 @@ export const PageFlashcards = () => {
 
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
-			<h1 className="text-3xl font-bold text-slate-100 mb-4">Latest 10 Flashcards</h1>
 			<div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-4xl">
 				{phrases.map((phrase, index) => (
 					<Flashcard key={index} phrase={phrase} />
