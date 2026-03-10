@@ -60,8 +60,18 @@ export const PageFlashcards = () => {
 		}));
 	};
 
+	const learnedCount = Object.values(progressMap).filter(p => p.status === "learned").length;
+	const retakeCount = Object.values(progressMap).filter(p =>
+		p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d"
+	).length;
+
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
+			<div className="w-full max-w-5xl flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
+				<div>{learnedCount} learned</div>
+				<div>retake {retakeCount}</div>
+			</div>
+
 			{visiblePhrases.length === 0 ? (
 				<div className="text-slate-400 mt-20 text-xl font-medium">✨ All caught up! Come back later.</div>
 			) : (
