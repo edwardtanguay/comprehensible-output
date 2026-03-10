@@ -113,9 +113,9 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 
 					{/* Row 2: retake 1 day, retake 1 hour, retake 1 minute */}
 					<div className="flex flex-wrap gap-1.5 justify-center">
-						<ActionButton label="retake 1 day" color="bg-orange-600/90" onClick={() => onStatusChange("retake_1d")} />
-						<ActionButton label="retake 1 hour" color="bg-orange-500/90" onClick={() => onStatusChange("retake_1h")} />
-						<ActionButton label="retake 1 minute" color="bg-orange-400/90" onClick={() => onStatusChange("retake_1m")} />
+						<ActionButton label="retake 1d" color="bg-orange-600/90" onClick={() => onStatusChange("retake_1d")} />
+						<ActionButton label="retake 1h" color="bg-orange-500/90" onClick={() => onStatusChange("retake_1h")} />
+						<ActionButton label="retake 1m" color="bg-orange-400/90" onClick={() => onStatusChange("retake_1m")} />
 					</div>
 				</div>
 			</div>
