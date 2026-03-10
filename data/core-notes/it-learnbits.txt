@@ -2275,6 +2275,9 @@
 				- semplicemente un fatto
 			- ciascun studente deve firmare
 				- dà l'impressione che gli studenti debbano firmare uno alla volta
+- avverbi
+	- gli avverbi cambiano quando li usi?
+		- non, gli avverbi in italiano non cambiano genere o numero come fanno gli aggettivi
 ===TODO===		
 - parole importanti
 	- pur non avendo fame, ho mangiato
