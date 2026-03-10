@@ -5,7 +5,7 @@ import { Phrase } from "../types";
 export const PageFlashcards = () => {
 	const phrases = (phrasesRaw as Phrase[])
 		.sort((a, b) => (a.when_recorded > b.when_recorded ? -1 : 1))
-		.slice(0, 10);
+		.slice(0, 100);
 
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
