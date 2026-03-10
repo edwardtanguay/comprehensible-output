@@ -20,6 +20,7 @@ export const PageFlashcards = () => {
 
 const Flashcard = ({ phrase }: { phrase: Phrase }) => {
 	const [isFlipped, setIsFlipped] = useState(false);
+	const langClass = `flashcard-${phrase.target_language}`;
 
 	return (
 		<div
@@ -31,14 +32,14 @@ const Flashcard = ({ phrase }: { phrase: Phrase }) => {
 					}`}
 			>
 				{/* Front */}
-				<div className="absolute inset-0 bg-slate-800 border border-slate-700 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden ring-1 ring-slate-700 hover:ring-slate-500 transition-all">
+				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
 					<h2 className="text-xl font-medium text-slate-200 text-center px-4 leading-relaxed">
 						{phrase.source_phrase}
 					</h2>
 				</div>
 
 				{/* Back */}
-				<div className="absolute inset-0 bg-gradient-to-br from-blue-900 to-indigo-950 border border-blue-500/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-2xl backface-hidden rotate-y-180">
+				<div className={`absolute inset-0 ${langClass} bg-gradient-to-br from-black/20 to-transparent border border-white/5 rounded-xl p-6 flex flex-col justify-center items-center shadow-2xl backface-hidden rotate-y-180`}>
 					<h2 className="text-2xl font-bold text-white text-center px-4 leading-tight drop-shadow-md">
 						{phrase.target_phrase}
 					</h2>
