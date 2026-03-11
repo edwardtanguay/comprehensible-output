@@ -114,7 +114,7 @@ export const PageFlashcards = () => {
 		return p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d";
 	}).length;
 
-	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount;
+	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount - retakeCount;
 
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
