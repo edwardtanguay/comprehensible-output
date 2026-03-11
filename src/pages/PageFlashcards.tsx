@@ -31,14 +31,16 @@ export const PageFlashcards = () => {
 
 	const [selectedLanguage, setSelectedLanguage] = useState<string>(() => searchParams.get("lang") || "all");
 	const [sortOrder, setSortOrder] = useState<"newest" | "random">(() => (searchParams.get("sort") as "newest" | "random") || "newest");
+	const [showRetakes, setShowRetakes] = useState<boolean>(() => searchParams.get("retakes") !== "false");
 	const [randomSeed] = useState(() => Math.random().toString());
 
 	useEffect(() => {
 		const newParams = new URLSearchParams(searchParams);
 		newParams.set("lang", selectedLanguage);
 		newParams.set("sort", sortOrder);
+		newParams.set("retakes", showRetakes.toString());
 		setSearchParams(newParams, { replace: true });
-	}, [selectedLanguage, sortOrder, setSearchParams]);
+	}, [selectedLanguage, sortOrder, showRetakes, setSearchParams]);
 
 	useEffect(() => {
 		localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(progressMap));
@@ -78,6 +80,9 @@ export const PageFlashcards = () => {
 				if (progress.status === "learned" || progress.status === "parked") return false;
 
 				// "retake": show if page loaded after specified duration
+				const isRetake = progress.status?.startsWith("retake_");
+				if (isRetake && !showRetakes) return false;
+
 				if (progress.status === "retake_1m") return diffMs >= 60 * 1000;
 				if (progress.status === "retake_1h") return diffMs >= 60 * 60 * 1000;
 				if (progress.status === "retake_1d") return diffMs >= 24 * 60 * 60 * 1000;
@@ -115,7 +120,7 @@ export const PageFlashcards = () => {
 				}
 			})
 			.slice(0, 10);
-	}, [filteredByLanguage, progressMap, sortOrder, randomSeed]);
+	}, [filteredByLanguage, progressMap, sortOrder, showRetakes, randomSeed]);
 
 	const handleStatusChange = (phraseId: string, status: PhraseStatus) => {
 		setProgressMap((prev) => ({
@@ -183,10 +188,24 @@ export const PageFlashcards = () => {
 					</select>
 				</div>
 
-				<div className="flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
+				<div className="flex justify-between items-center px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
 					<div className="flex-1 text-left">{learnedCount} learned</div>
 					<div className="flex-1 text-center">{toLearnCount} waiting</div>
-					<div className="flex-1 text-right">retake {retakeCount}</div>
+					<div className="flex-1 text-right flex items-center justify-end gap-2 text-xs">
+						<label className="flex items-center gap-2 cursor-pointer group">
+							<div className="relative inline-flex items-center cursor-pointer">
+								<input
+									type="checkbox"
+									checked={showRetakes}
+									onChange={(e) => setShowRetakes(e.target.checked)}
+									className="sr-only peer"
+								/>
+								<div className="w-7 h-4 bg-slate-400 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-3 after:w-3 after:transition-all peer-checked:bg-blue-600"></div>
+							</div>
+							<span className="opacity-70 group-hover:opacity-100 transition-opacity">retake</span>
+						</label>
+						<span className="w-4 text-right">{retakeCount}</span>
+					</div>
 				</div>
 			</div>
 
