@@ -2,17 +2,28 @@ import { useState, useEffect } from "react";
 import phrasesRaw from "../../parseddata/compoutPhrases.json";
 import { Phrase, PhraseProgressMap, PhraseStatus } from "../types";
 import { HiVolumeUp } from "react-icons/hi";
+import { useSearchParams } from "react-router-dom";
 
 const LOCAL_STORAGE_KEY = "flashcard_progress_v1";
 
 export const PageFlashcards = () => {
+	const [searchParams, setSearchParams] = useSearchParams();
+
 	const [progressMap, setProgressMap] = useState<PhraseProgressMap>(() => {
 		const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
 		return saved ? JSON.parse(saved) : {};
 	});
-	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
-	const [sortOrder, setSortOrder] = useState<"newest" | "random">("newest");
+
+	const [selectedLanguage, setSelectedLanguage] = useState<string>(() => searchParams.get("lang") || "all");
+	const [sortOrder, setSortOrder] = useState<"newest" | "random">(() => (searchParams.get("sort") as "newest" | "random") || "newest");
 	const [randomSeed] = useState(() => Math.random().toString());
+
+	useEffect(() => {
+		const newParams = new URLSearchParams(searchParams);
+		newParams.set("lang", selectedLanguage);
+		newParams.set("sort", sortOrder);
+		setSearchParams(newParams, { replace: true });
+	}, [selectedLanguage, sortOrder, setSearchParams]);
 
 	useEffect(() => {
 		localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(progressMap));
@@ -197,6 +208,7 @@ export const PageFlashcards = () => {
 						<Flashcard
 							key={phrase.id}
 							phrase={phrase}
+							isRetake={progressMap[phrase.id!]?.status?.startsWith("retake_")}
 							onStatusChange={(status) => handleStatusChange(phrase.id!, status)}
 						/>
 					))}
@@ -206,7 +218,7 @@ export const PageFlashcards = () => {
 	);
 };
 
-const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange: (status: PhraseStatus) => void }) => {
+const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRetake?: boolean; onStatusChange: (status: PhraseStatus) => void }) => {
 	const [isFlipped, setIsFlipped] = useState(false);
 	const langClass = `flashcard-${phrase.target_language}`;
 
@@ -219,6 +231,11 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 			>
 				{/* Front */}
 				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
+					{isRetake && (
+						<div className={`absolute bottom-2 left-3 text-[10px] uppercase tracking-widest opacity-60 ${phrase.target_language === "nl" ? "text-slate-900" : "text-slate-300"}`}>
+							retaking
+						</div>
+					)}
 					<h2 className="text-xl font-medium text-slate-200 text-center px-4 leading-relaxed">
 						{phrase.source_phrase}
 					</h2>
