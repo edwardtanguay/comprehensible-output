@@ -13,11 +13,14 @@
 }
 
 a.active {
-	color: rgb(0, 0, 0);
+	color: #fff;
 	font-style: italic;
+	font-weight: bold;
 }
 
 body {
+	background-color: #1e293b; // slate-800
+	color: #cbd5e1; // slate-300
 	opacity: 0;
 	animation: fadeIn 0.3s ease-in forwards;
 }
@@ -153,7 +156,7 @@ body {
 	}
 
 	a {
-		color: navy;
+		color: #93c5fd;
 		text-decoration: underline
 	}
 
