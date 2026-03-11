@@ -133,21 +133,19 @@ export const PageFlashcards = () => {
 	};
 
 	// Optimize counts by iterating over allPhrases once and checking progressMap
-	const { learnedCount, parkedCount, deletedCount, retakeCount } = useMemo(() => {
-		let learned = 0, parked = 0, deleted = 0, retake = 0;
+	const { learnedCount, retakeCount } = useMemo(() => {
+		let learned = 0, retake = 0;
 		allPhrases.forEach(phrase => {
 			if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return;
 			const p = progressMap[phrase.id!];
 			if (!p) return;
 			if (p.status === "learned") learned++;
-			else if (p.status === "parked") parked++;
-			else if (p.status === "deleted") deleted++;
 			else if (p.status?.startsWith("retake_")) retake++;
 		});
-		return { learnedCount: learned, parkedCount: parked, deletedCount: deleted, retakeCount: retake };
+		return { learnedCount: learned, retakeCount: retake };
 	}, [progressMap, selectedLanguage]);
 
-	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount - retakeCount;
+
 
 	return (
 		<div className="flex flex-col items-center gap-6 py-6 px-1 md:px-6">
@@ -194,10 +192,9 @@ export const PageFlashcards = () => {
 					</select>
 				</div>
 
-				<div className="flex flex-col sm:flex-row justify-between items-center gap-2 px-2 text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-widest whitespace-nowrap">
-					<div className="flex-1 text-left">{learnedCount} learned</div>
-					<div className="flex-1 text-center">{toLearnCount} waiting</div>
-					<div className="flex-1 text-right flex items-center justify-end gap-2 text-xs">
+				<div className="flex justify-between items-center px-2 text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-widest">
+					<div className="text-left text-orange-400/90 text-xs">{learnedCount} of {filteredByLanguage.length} learned</div>
+					<div className="flex items-center gap-2 text-xs">
 						<label className="flex items-center gap-2 cursor-pointer group">
 							<div className="relative inline-flex items-center cursor-pointer">
 								<input
