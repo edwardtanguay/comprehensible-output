@@ -148,9 +148,9 @@ export const PageFlashcards = () => {
 
 
 	return (
-		<div className="flex flex-col items-center gap-6 py-6 px-1 md:px-6">
-			<div className="w-full max-w-5xl">
-				<div className="flex flex-col md:flex-row gap-4 mb-4">
+		<div className="flex flex-col items-center gap-4 py-0 px-1 md:px-6">
+			<div className="w-full max-w-5xl flex flex-col gap-4">
+				<div className="flex flex-col md:flex-row gap-4">
 					<select
 						value={selectedLanguage}
 						onChange={(e) => setSelectedLanguage(e.target.value)}

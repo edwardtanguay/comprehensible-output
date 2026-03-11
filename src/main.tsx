@@ -34,7 +34,7 @@ const router = createBrowserRouter([
 			{
 				path: "flashcards",
 				element: (
-					<Suspense fallback={<div className="p-6 text-slate-500 animate-pulse">Loading phrases...</div>}>
+					<Suspense fallback={<div className="p-6 text-slate-200 text-center animate-pulse">Loading phrases...</div>}>
 						<PageFlashcards />
 					</Suspense>
 				)
