@@ -278,7 +278,7 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 					<button
 						onClick={(e) => {
 							e.stopPropagation();
-							const url = `https://translate.google.com/?sl=auto&tl=${phrase.target_language}&text=${encodeURIComponent(phrase.target_phrase)}&op=translate`;
+							const url = `https://translate.google.com/?tl=en&sl=${phrase.target_language}&text=${encodeURIComponent(phrase.target_phrase)}&op=translate`;
 							window.open(url, "_blank");
 						}}
 						className="absolute bottom-2 right-2 p-2 bg-white/10 hover:bg-white/20 text-white rounded-full transition-all hover:scale-110 active:scale-90"
