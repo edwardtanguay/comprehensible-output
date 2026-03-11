@@ -1,10 +1,25 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import phrasesRaw from "../../parseddata/compoutPhrases.json";
 import { Phrase, PhraseProgressMap, PhraseStatus } from "../types";
 import { HiVolumeUp } from "react-icons/hi";
 import { useSearchParams } from "react-router-dom";
 
 const LOCAL_STORAGE_KEY = "flashcard_progress_v1";
+
+const allPhrases = (phrasesRaw as Phrase[]).map((p, i) => ({
+	...p,
+	id: p.id || `${p.source_phrase}-${p.target_language}-${i}`, // Simple fallback ID
+}));
+
+const languageNames: Record<string, string> = {
+	it: "Italian",
+	de: "German",
+	nl: "Dutch",
+	es: "Spanish",
+	fr: "French",
+	en: "English",
+	pl: "Polish",
+};
 
 export const PageFlashcards = () => {
 	const [searchParams, setSearchParams] = useSearchParams();
@@ -29,86 +44,78 @@ export const PageFlashcards = () => {
 		localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(progressMap));
 	}, [progressMap]);
 
-	const allPhrases = (phrasesRaw as Phrase[]).map((p, i) => ({
-		...p,
-		id: p.id || `${p.source_phrase}-${p.target_language}-${i}`, // Simple fallback ID
-	}));
+	const languageCounts = useMemo(() => {
+		return allPhrases.reduce((acc, p) => {
+			acc[p.target_language] = (acc[p.target_language] || 0) + 1;
+			return acc;
+		}, {} as Record<string, number>);
+	}, []);
 
-	const now = new Date();
+	const languages = useMemo(() => {
+		return Object.keys(languageCounts).sort((a, b) => languageCounts[b] - languageCounts[a]);
+	}, [languageCounts]);
 
-	const languageNames: Record<string, string> = {
-		it: "Italian",
-		de: "German",
-		nl: "Dutch",
-		es: "Spanish",
-		fr: "French",
-		en: "English",
-		pl: "Polish",
-	};
+	const filteredByLanguage = useMemo(() => {
+		return selectedLanguage === "all"
+			? allPhrases
+			: allPhrases.filter(p => p.target_language === selectedLanguage);
+	}, [selectedLanguage]);
 
-	const languageCounts = allPhrases.reduce((acc, p) => {
-		acc[p.target_language] = (acc[p.target_language] || 0) + 1;
-		return acc;
-	}, {} as Record<string, number>);
+	const visiblePhrases = useMemo(() => {
+		const now = new Date();
+		return filteredByLanguage
+			.filter((phrase) => {
+				const progress = progressMap[phrase.id!];
+				if (!progress) return true;
 
-	const languages = Object.keys(languageCounts).sort((a, b) => languageCounts[b] - languageCounts[a]);
+				const lastAction = new Date(progress.lastActionDate);
+				const diffMs = now.getTime() - lastAction.getTime();
 
-	const filteredByLanguage = selectedLanguage === "all"
-		? allPhrases
-		: allPhrases.filter(p => p.target_language === selectedLanguage);
+				// "deleted": never show
+				if (progress.status === "deleted") return false;
 
-	const visiblePhrases = filteredByLanguage
-		.filter((phrase) => {
-			const progress = progressMap[phrase.id!];
-			if (!progress) return true;
+				// "learned" & "parked": never test again (remove from training stack)
+				if (progress.status === "learned" || progress.status === "parked") return false;
 
-			const lastAction = new Date(progress.lastActionDate);
-			const diffMs = now.getTime() - lastAction.getTime();
+				// "retake": show if page loaded after specified duration
+				if (progress.status === "retake_1m") return diffMs >= 60 * 1000;
+				if (progress.status === "retake_1h") return diffMs >= 60 * 60 * 1000;
+				if (progress.status === "retake_1d") return diffMs >= 24 * 60 * 60 * 1000;
 
-			// "deleted": never show
-			if (progress.status === "deleted") return false;
+				// "toBeFixed": show if page loaded after 24 hours
+				if (progress.status === "toBeFixed") {
+					return diffMs >= 24 * 60 * 60 * 1000;
+				}
 
-			// "learned" & "parked": never test again (remove from training stack)
-			if (progress.status === "learned" || progress.status === "parked") return false;
+				return true;
+			})
+			.sort((a, b) => {
+				const progressA = progressMap[a.id!];
+				const progressB = progressMap[b.id!];
+				const isRetakeA = progressA?.status?.startsWith("retake_") ? 1 : 0;
+				const isRetakeB = progressB?.status?.startsWith("retake_") ? 1 : 0;
 
-			// "retake": show if page loaded after specified duration
-			if (progress.status === "retake_1m") return diffMs >= 60 * 1000;
-			if (progress.status === "retake_1h") return diffMs >= 60 * 60 * 1000;
-			if (progress.status === "retake_1d") return diffMs >= 24 * 60 * 60 * 1000;
+				// Priority 1: Retakes first
+				if (isRetakeA !== isRetakeB) {
+					return isRetakeB - isRetakeA;
+				}
 
-			// "toBeFixed": show if page loaded after 24 hours
-			if (progress.status === "toBeFixed") {
-				return diffMs >= 24 * 60 * 60 * 1000;
-			}
-
-			return true;
-		})
-		.sort((a, b) => {
-			const progressA = progressMap[a.id!];
-			const progressB = progressMap[b.id!];
-			const isRetakeA = progressA?.status?.startsWith("retake_") ? 1 : 0;
-			const isRetakeB = progressB?.status?.startsWith("retake_") ? 1 : 0;
-
-			// Priority 1: Retakes first
-			if (isRetakeA !== isRetakeB) {
-				return isRetakeB - isRetakeA;
-			}
-
-			// Priority 2: Chosen sort order
-			if (sortOrder === "newest") {
-				return a.when_recorded > b.when_recorded ? -1 : 1;
-			} else {
-				// Deterministic random based on ID + session seed
-				const hash = (str: string) => {
-					const salted = str + randomSeed;
-					let h = 0;
-					for (let i = 0; i < salted.length; i++) h = (Math.imul(31, h) + salted.charCodeAt(i)) | 0;
-					return h;
-				};
-				return hash(a.id!) - hash(b.id!);
-			}
-		})
-		.slice(0, 10);
+				// Priority 2: Chosen sort order
+				if (sortOrder === "newest") {
+					return a.when_recorded > b.when_recorded ? -1 : 1;
+				} else {
+					// Deterministic random based on ID + session seed
+					const hash = (str: string) => {
+						const salted = str + randomSeed;
+						let h = 0;
+						for (let i = 0; i < salted.length; i++) h = (Math.imul(31, h) + salted.charCodeAt(i)) | 0;
+						return h;
+					};
+					return hash(a.id!) - hash(b.id!);
+				}
+			})
+			.slice(0, 10);
+	}, [filteredByLanguage, progressMap, sortOrder, randomSeed]);
 
 	const handleStatusChange = (phraseId: string, status: PhraseStatus) => {
 		setProgressMap((prev) => ({
@@ -120,37 +127,20 @@ export const PageFlashcards = () => {
 		}));
 	};
 
-	const learnedCount = Object.values(progressMap).filter((p, i) => {
-		const phraseId = Object.keys(progressMap)[i];
-		const phrase = allPhrases.find(ph => ph.id === phraseId);
-		if (!phrase) return false;
-		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
-		return p.status === "learned";
-	}).length;
-
-	const parkedCount = Object.values(progressMap).filter((p, i) => {
-		const phraseId = Object.keys(progressMap)[i];
-		const phrase = allPhrases.find(ph => ph.id === phraseId);
-		if (!phrase) return false;
-		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
-		return p.status === "parked";
-	}).length;
-
-	const deletedCount = Object.values(progressMap).filter((p, i) => {
-		const phraseId = Object.keys(progressMap)[i];
-		const phrase = allPhrases.find(ph => ph.id === phraseId);
-		if (!phrase) return false;
-		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
-		return p.status === "deleted";
-	}).length;
-
-	const retakeCount = Object.values(progressMap).filter((p, i) => {
-		const phraseId = Object.keys(progressMap)[i];
-		const phrase = allPhrases.find(ph => ph.id === phraseId);
-		if (!phrase) return false;
-		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
-		return p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d";
-	}).length;
+	// Optimize counts by iterating over allPhrases once and checking progressMap
+	const { learnedCount, parkedCount, deletedCount, retakeCount } = useMemo(() => {
+		let learned = 0, parked = 0, deleted = 0, retake = 0;
+		allPhrases.forEach(phrase => {
+			if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return;
+			const p = progressMap[phrase.id!];
+			if (!p) return;
+			if (p.status === "learned") learned++;
+			else if (p.status === "parked") parked++;
+			else if (p.status === "deleted") deleted++;
+			else if (p.status?.startsWith("retake_")) retake++;
+		});
+		return { learnedCount: learned, parkedCount: parked, deletedCount: deleted, retakeCount: retake };
+	}, [progressMap, selectedLanguage]);
 
 	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount - retakeCount;
 
