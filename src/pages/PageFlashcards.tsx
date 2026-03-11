@@ -208,9 +208,8 @@ export const PageFlashcards = () => {
 								/>
 								<div className="w-7 h-4 bg-slate-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-slate-800 after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-3 after:w-3 after:transition-all peer-checked:bg-yellow-400"></div>
 							</div>
-							<span className="opacity-70 group-hover:opacity-100 transition-opacity text-yellow-400/90 font-bold">retaking</span>
+							<span className="opacity-70 group-hover:opacity-100 transition-opacity text-yellow-400/90 font-bold">retaking {retakeCount}</span>
 						</label>
-						<span className="w-4 text-right text-yellow-400/80 font-mono">{retakeCount}</span>
 					</div>
 				</div>
 			</div>
