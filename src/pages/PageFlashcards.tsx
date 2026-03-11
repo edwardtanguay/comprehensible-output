@@ -156,7 +156,7 @@ export const PageFlashcards = () => {
 					<select
 						value={selectedLanguage}
 						onChange={(e) => setSelectedLanguage(e.target.value)}
-						className="flex-1 p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
 						style={{
 							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
 							backgroundRepeat: 'no-repeat',
@@ -175,7 +175,7 @@ export const PageFlashcards = () => {
 					<select
 						value={sortOrder}
 						onChange={(e) => setSortOrder(e.target.value as "newest" | "random")}
-						className="flex-1 p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
 						style={{
 							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
 							backgroundRepeat: 'no-repeat',
