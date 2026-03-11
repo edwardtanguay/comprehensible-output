@@ -200,11 +200,11 @@ export const PageFlashcards = () => {
 									onChange={(e) => setShowRetakes(e.target.checked)}
 									className="sr-only peer"
 								/>
-								<div className="w-7 h-4 bg-slate-400 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-3 after:w-3 after:transition-all peer-checked:bg-blue-600"></div>
+								<div className="w-7 h-4 bg-slate-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-slate-800 after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-3 after:w-3 after:transition-all peer-checked:bg-yellow-400"></div>
 							</div>
-							<span className="opacity-70 group-hover:opacity-100 transition-opacity">retake</span>
+							<span className="opacity-70 group-hover:opacity-100 transition-opacity text-yellow-400/90 font-bold">retaking</span>
 						</label>
-						<span className="w-4 text-right">{retakeCount}</span>
+						<span className="w-4 text-right text-yellow-400/80 font-mono">{retakeCount}</span>
 					</div>
 				</div>
 			</div>
@@ -241,7 +241,8 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 				{/* Front */}
 				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
 					{isRetake && (
-						<div className={`absolute bottom-2 left-3 text-[10px] uppercase tracking-widest opacity-60 ${phrase.target_language === "nl" ? "text-slate-900" : "text-slate-300"}`}>
+						<div className="absolute bottom-3 left-3 flex items-center gap-1 bg-yellow-400 text-slate-900 text-[9px] font-black uppercase tracking-tighter px-1.5 py-0.5 rounded shadow-lg border border-yellow-500/50">
+							<div className="w-1.5 h-1.5 bg-slate-900 rounded-full animate-pulse"></div>
 							retaking
 						</div>
 					)}
