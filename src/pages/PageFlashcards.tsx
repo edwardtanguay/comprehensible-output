@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 import phrasesRaw from "../../parseddata/compoutPhrases.json";
 import { Phrase, PhraseProgressMap, PhraseStatus } from "../types";
-import { HiVolumeUp } from "react-icons/hi";
+import { HiVolumeUp, HiRefresh } from "react-icons/hi";
 import { useSearchParams } from "react-router-dom";
 
 const LOCAL_STORAGE_KEY = "flashcard_progress_v1";
@@ -241,7 +241,8 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 				{/* Front */}
 				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
 					{isRetake && (
-						<div className="absolute bottom-3 left-3 pl-2 border-l-2 border-yellow-400 text-yellow-400 text-[11px] italic font-medium tracking-wide drop-shadow-sm">
+						<div className="absolute bottom-3 left-3 flex items-center gap-1 text-yellow-400 text-[11px] italic font-medium tracking-wide drop-shadow-sm">
+							<HiRefresh size={14} />
 							retaking
 						</div>
 					)}
