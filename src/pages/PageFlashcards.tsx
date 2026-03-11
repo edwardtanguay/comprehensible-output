@@ -241,8 +241,7 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 				{/* Front */}
 				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
 					{isRetake && (
-						<div className="absolute bottom-3 left-3 flex items-center gap-1 bg-yellow-400 text-slate-900 text-[9px] font-black uppercase tracking-tighter px-1.5 py-0.5 rounded shadow-lg border border-yellow-500/50">
-							<div className="w-1.5 h-1.5 bg-slate-900 rounded-full animate-pulse"></div>
+						<div className={`absolute bottom-3 left-3 pl-2 border-l-2 border-current text-[11px] italic font-medium tracking-wide opacity-80 ${phrase.target_language === "nl" ? "text-slate-900" : "text-yellow-400/90"}`}>
 							retaking
 						</div>
 					)}
