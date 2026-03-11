@@ -9,7 +9,9 @@ import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
 import { PageLinks } from "./pages/PageLinks.tsx";
 import { PagePronunciation } from "./pages/PagePronunciation.tsx";
-import { PageFlashcards } from "./pages/PageFlashcards.tsx";
+import { Suspense, lazy } from "react";
+
+const PageFlashcards = lazy(() => import("./pages/PageFlashcards.tsx").then(module => ({ default: module.PageFlashcards })));
 
 const router = createBrowserRouter([
 	{
@@ -31,7 +33,11 @@ const router = createBrowserRouter([
 			},
 			{
 				path: "flashcards",
-				element: <PageFlashcards/>
+				element: (
+					<Suspense fallback={<div className="p-6 text-slate-500 animate-pulse">Loading phrases...</div>}>
+						<PageFlashcards />
+					</Suspense>
+				)
 			},
 			{
 				path: "about",

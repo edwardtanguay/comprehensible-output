@@ -8,10 +8,10 @@ function App() {
 
 	useEffect(() => {
 		initialize();
-	});
+	}, [initialize]);
 
 	return (
-		<main className="bg-slate-400 p-4 w-full md:w-[60rem] mt-0 md:mt-6">
+		<main className="bg-slate-800 p-4 w-full md:w-[60rem] mt-0 md:mt-6 shadow-2xl rounded-lg border border-slate-700">
 			<Header />
 			<main className="py-4">
 				<Outlet />

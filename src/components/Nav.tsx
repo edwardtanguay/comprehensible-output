@@ -43,7 +43,7 @@ export const Nav = () => {
 		<>
 			{currentMenuItem && (
 				<nav>
-					<div className="md:hidden bg-slate-500 text-[1.2rem] px-4 py-2 content">
+					<div className="md:hidden bg-slate-700 text-slate-100 text-[1.2rem] px-4 py-2 content border border-slate-600 rounded-t-md">
 						<div className="flex justify-between">
 							<p>
 								<NavLink to={currentMenuItem.idCode}>
@@ -83,7 +83,7 @@ export const Nav = () => {
 							</div>
 						)}
 					</div>
-					<div className="hidden md:block bg-slate-500 px-4 py-2 content">
+					<div className="hidden md:block bg-slate-700 text-slate-100 px-4 py-2 content border border-slate-600 rounded-md">
 						<ul className="flex gap-4">
 							{menuItems.map((menuItem, index) => {
 								return (

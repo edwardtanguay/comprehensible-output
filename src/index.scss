@@ -13,11 +13,14 @@
 }
 
 a.active {
-	color: rgb(0, 0, 0);
+	color: #fff;
 	font-style: italic;
+	font-weight: bold;
 }
 
 body {
+	background-color: #1e293b; // slate-800
+	color: #cbd5e1; // slate-300
 	opacity: 0;
 	animation: fadeIn 0.3s ease-in forwards;
 }
@@ -81,7 +84,7 @@ body {
 }
 
 .header-es {
-	background-color: #5f0e0e;
+	background-color: #9b1b1b;
 }
 
 .header-it {
@@ -153,7 +156,7 @@ body {
 	}
 
 	a {
-		color: navy;
+		color: #93c5fd;
 		text-decoration: underline
 	}
 
@@ -187,20 +190,15 @@ body {
 }
 
 .flashcard-es {
-	background-color: #2e0d0d;
+	background-color: #821717;
 }
 
 .flashcard-nl {
-	background-color: #ff8c00;
-	color: #000;
-
-	h2 {
-		color: #000;
-	}
+	background-color: #612d01;
 }
 
 .flashcard-fr {
-	background-color: #0d1a2e;
+	background-color: #1a3a63;
 }
 
 .flashcard-de {
@@ -221,29 +219,29 @@ body {
 }
 
 .flashcard-es-back {
-	background-color: #3a1e1e;
-	color: #c4a8a8;
+	background-color: #9b1b1b;
+	color: #ffebeb;
 
 	h2 {
-		color: #c4a8a8;
+		color: #ffebeb;
 	}
 }
 
 .flashcard-nl-back {
-	background-color: #3d2b1b;
-	color: #c4b6a8;
+	background-color: #43240e;
+	color: #d8c9b9;
 
 	h2 {
-		color: #c4b6a8;
+		color: #d8c9b9;
 	}
 }
 
 .flashcard-fr-back {
-	background-color: #1b283d;
-	color: #a8b6c4;
+	background-color: #244b7d;
+	color: #e2e8f0;
 
 	h2 {
-		color: #a8b6c4;
+		color: #e2e8f0;
 	}
 }
 
