@@ -9,6 +9,7 @@ export const PageFlashcards = () => {
 		const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
 		return saved ? JSON.parse(saved) : {};
 	});
+	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
 
 	useEffect(() => {
 		localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(progressMap));
@@ -21,7 +22,28 @@ export const PageFlashcards = () => {
 
 	const now = new Date();
 
-	const visiblePhrases = allPhrases
+	const languageNames: Record<string, string> = {
+		it: "Italian",
+		de: "German",
+		nl: "Dutch",
+		es: "Spanish",
+		fr: "French",
+		en: "English",
+		pl: "Polish",
+	};
+
+	const languageCounts = allPhrases.reduce((acc, p) => {
+		acc[p.target_language] = (acc[p.target_language] || 0) + 1;
+		return acc;
+	}, {} as Record<string, number>);
+
+	const languages = Object.keys(languageCounts).sort((a, b) => languageCounts[b] - languageCounts[a]);
+
+	const filteredByLanguage = selectedLanguage === "all"
+		? allPhrases
+		: allPhrases.filter(p => p.target_language === selectedLanguage);
+
+	const visiblePhrases = filteredByLanguage
 		.filter((phrase) => {
 			const progress = progressMap[phrase.id!];
 			if (!progress) return true;
@@ -60,20 +82,67 @@ export const PageFlashcards = () => {
 		}));
 	};
 
-	const learnedCount = Object.values(progressMap).filter(p => p.status === "learned").length;
-	const parkedCount = Object.values(progressMap).filter(p => p.status === "parked").length;
-	const deletedCount = Object.values(progressMap).filter(p => p.status === "deleted").length;
-	const retakeCount = Object.values(progressMap).filter(p =>
-		p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d"
-	).length;
-	const toLearnCount = allPhrases.length - learnedCount - parkedCount - deletedCount;
+	const learnedCount = Object.values(progressMap).filter((p, i) => {
+		const phraseId = Object.keys(progressMap)[i];
+		const phrase = allPhrases.find(ph => ph.id === phraseId);
+		if (!phrase) return false;
+		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
+		return p.status === "learned";
+	}).length;
+
+	const parkedCount = Object.values(progressMap).filter((p, i) => {
+		const phraseId = Object.keys(progressMap)[i];
+		const phrase = allPhrases.find(ph => ph.id === phraseId);
+		if (!phrase) return false;
+		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
+		return p.status === "parked";
+	}).length;
+
+	const deletedCount = Object.values(progressMap).filter((p, i) => {
+		const phraseId = Object.keys(progressMap)[i];
+		const phrase = allPhrases.find(ph => ph.id === phraseId);
+		if (!phrase) return false;
+		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
+		return p.status === "deleted";
+	}).length;
+
+	const retakeCount = Object.values(progressMap).filter((p, i) => {
+		const phraseId = Object.keys(progressMap)[i];
+		const phrase = allPhrases.find(ph => ph.id === phraseId);
+		if (!phrase) return false;
+		if (selectedLanguage !== "all" && phrase.target_language !== selectedLanguage) return false;
+		return p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d";
+	}).length;
+
+	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount;
 
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
-			<div className="w-full max-w-5xl flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
-				<div className="flex-1 text-left">{learnedCount} learned</div>
-				<div className="flex-1 text-center">{toLearnCount} to learn</div>
-				<div className="flex-1 text-right">retake {retakeCount}</div>
+			<div className="w-full max-w-5xl">
+				<select
+					value={selectedLanguage}
+					onChange={(e) => setSelectedLanguage(e.target.value)}
+					className="w-full p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium mb-4 shadow-lg cursor-pointer appearance-none"
+					style={{
+						backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+						backgroundRepeat: 'no-repeat',
+						backgroundPosition: 'right 0.75rem center',
+						backgroundSize: '1rem'
+					}}
+				>
+					<option value="all">all languages ({allPhrases.length})</option>
+					{languages.map(lang => (
+						<option key={lang} value={lang}>
+							{(languageNames[lang] || lang)} ({languageCounts[lang]})
+						</option>
+					))}
+				</select>
+
+				<div className="flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
+					<div className="flex-1 text-left">{learnedCount} learned</div>
+					<div className="flex-1 text-center">{toLearnCount} to learn</div>
+					<div className="flex-1 text-right">retake {retakeCount}</div>
+				</div>
 			</div>
 
 			{visiblePhrases.length === 0 ? (
