@@ -141,7 +141,7 @@ export const PageFlashcards = () => {
 
 				<div className="flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
 					<div className="flex-1 text-left">{learnedCount} learned</div>
-					<div className="flex-1 text-center">{toLearnCount} to learn</div>
+					<div className="flex-1 text-center">{toLearnCount} waiting</div>
 					<div className="flex-1 text-right">retake {retakeCount}</div>
 				</div>
 			</div>
