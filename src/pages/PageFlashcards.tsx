@@ -150,9 +150,9 @@ export const PageFlashcards = () => {
 	const toLearnCount = filteredByLanguage.length - learnedCount - parkedCount - deletedCount - retakeCount;
 
 	return (
-		<div className="flex flex-col items-center gap-6 p-6">
+		<div className="flex flex-col items-center gap-6 py-6 px-1 md:px-6">
 			<div className="w-full max-w-5xl">
-				<div className="flex gap-4 mb-4">
+				<div className="flex flex-col md:flex-row gap-4 mb-4">
 					<select
 						value={selectedLanguage}
 						onChange={(e) => setSelectedLanguage(e.target.value)}
@@ -194,7 +194,7 @@ export const PageFlashcards = () => {
 					</select>
 				</div>
 
-				<div className="flex justify-between items-center px-2 text-slate-400 text-xs font-bold uppercase tracking-widest">
+				<div className="flex flex-col sm:flex-row justify-between items-center gap-2 px-2 text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-widest whitespace-nowrap">
 					<div className="flex-1 text-left">{learnedCount} learned</div>
 					<div className="flex-1 text-center">{toLearnCount} waiting</div>
 					<div className="flex-1 text-right flex items-center justify-end gap-2 text-xs">
@@ -217,7 +217,7 @@ export const PageFlashcards = () => {
 			{visiblePhrases.length === 0 ? (
 				<div className="text-slate-400 mt-20 text-xl font-medium">✨ All caught up! Come back later.</div>
 			) : (
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12 w-full max-w-5xl">
+				<div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-x-8 md:gap-y-12 w-full max-w-5xl">
 					{visiblePhrases.map((phrase) => (
 						<Flashcard
 							key={phrase.id}

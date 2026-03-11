@@ -11,7 +11,7 @@ function App() {
 	}, [initialize]);
 
 	return (
-		<main className="bg-slate-800 p-4 w-full md:w-[60rem] mt-0 md:mt-6 shadow-2xl rounded-lg border border-slate-700">
+		<main className="bg-slate-800 px-1 py-4 md:p-4 w-full md:w-[60rem] mt-0 md:mt-6 shadow-2xl rounded-none md:rounded-lg border-y md:border border-slate-700">
 			<Header />
 			<main className="py-4">
 				<Outlet />
