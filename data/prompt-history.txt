@@ -1,4 +1,9 @@
 ======================================================================================
+2026-03-11 07:28:43
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Gliel'ho dato", "abbasseremo il riscaldamento", "spegneremo il riscaldamento", "il mercato azionario è imprevedibile", "il file che ho scaricato", "la mia frase era corretta", "Voglio raccogliere frasi", "duemila", "settecento", "recarsi", "recare", "si reca", "quando ci si reca presso una persona", "andrei volentieri in palestra", "novanta", "non suona bene", "aumenteremo la temperatura", "qual è il verbo", "sono pronto", "questa è un'altra parola".
+======================================================================================
 2026-03-10 07:37:52
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

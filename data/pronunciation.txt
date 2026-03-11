@@ -585,3 +585,5 @@ it; l'azienda; lahd-zee-END-ah;company
 it; se non ce l'hai già; chay-ligh-JAW; if you don't already have it
 
 it;non è un grande guaio; GOOWAH-ee-oh; it's not a big problem (trouble)
+
+es; Cuando visitas a alguien; ALL-gee-en; When you visit someone
