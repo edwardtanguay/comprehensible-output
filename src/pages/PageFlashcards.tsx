@@ -61,15 +61,19 @@ export const PageFlashcards = () => {
 	};
 
 	const learnedCount = Object.values(progressMap).filter(p => p.status === "learned").length;
+	const parkedCount = Object.values(progressMap).filter(p => p.status === "parked").length;
+	const deletedCount = Object.values(progressMap).filter(p => p.status === "deleted").length;
 	const retakeCount = Object.values(progressMap).filter(p =>
 		p.status === "retake_1m" || p.status === "retake_1h" || p.status === "retake_1d"
 	).length;
+	const toLearnCount = allPhrases.length - learnedCount - parkedCount - deletedCount;
 
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
 			<div className="w-full max-w-5xl flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
-				<div>{learnedCount} learned</div>
-				<div>retake {retakeCount}</div>
+				<div className="flex-1 text-left">{learnedCount} learned</div>
+				<div className="flex-1 text-center">{toLearnCount} to learn</div>
+				<div className="flex-1 text-right">retake {retakeCount}</div>
 			</div>
 
 			{visiblePhrases.length === 0 ? (
