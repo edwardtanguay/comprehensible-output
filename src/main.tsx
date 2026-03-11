@@ -10,6 +10,7 @@ import { store } from './store/store.ts';
 import { PageLinks } from "./pages/PageLinks.tsx";
 import { PagePronunciation } from "./pages/PagePronunciation.tsx";
 import { Suspense, lazy } from "react";
+import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
 const PageFlashcards = lazy(() => import("./pages/PageFlashcards.tsx").then(module => ({ default: module.PageFlashcards })));
 
@@ -34,7 +35,12 @@ const router = createBrowserRouter([
 			{
 				path: "flashcards",
 				element: (
-					<Suspense fallback={<div className="p-6 text-slate-200 text-center animate-pulse">Loading phrases...</div>}>
+					<Suspense fallback={
+						<div className="p-12 text-slate-200 flex flex-col items-center justify-center gap-4">
+							<AiOutlineLoading3Quarters className="animate-spin text-3xl text-blue-400" />
+							<div className="text-center animate-pulse font-medium">Loading phrases...</div>
+						</div>
+					}>
 						<PageFlashcards />
 					</Suspense>
 				)

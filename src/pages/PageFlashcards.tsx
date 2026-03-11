@@ -154,7 +154,7 @@ export const PageFlashcards = () => {
 					<select
 						value={selectedLanguage}
 						onChange={(e) => setSelectedLanguage(e.target.value)}
-						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-white/20 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
 						style={{
 							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
 							backgroundRepeat: 'no-repeat',
@@ -179,7 +179,7 @@ export const PageFlashcards = () => {
 								setRandomSeed(Math.random().toString());
 							}
 						}}
-						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-white/20 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
 						style={{
 							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
 							backgroundRepeat: 'no-repeat',
@@ -241,7 +241,7 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 				style={{ transform: isFlipped ? "rotateY(180deg)" : "none" }}
 			>
 				{/* Front */}
-				<div className={`absolute inset-0 ${langClass} border border-slate-700/30 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
+				<div className={`absolute inset-0 ${langClass} border border-white/20 rounded-xl p-6 flex flex-col justify-center items-center shadow-xl backface-hidden transition-all`}>
 					{isRetake && (
 						<div className="absolute bottom-3 left-3 flex items-center gap-1 text-yellow-400 text-[11px] italic font-medium tracking-wide drop-shadow-sm">
 							<HiRefresh size={14} />
@@ -254,7 +254,7 @@ const Flashcard = ({ phrase, isRetake, onStatusChange }: { phrase: Phrase; isRet
 				</div>
 
 				{/* Back */}
-				<div className={`absolute inset-0 ${langClass}-back border border-black/5 rounded-xl p-3 flex flex-col justify-between items-center shadow-2xl backface-hidden rotate-y-180`}>
+				<div className={`absolute inset-0 ${langClass}-back border border-white/20 rounded-xl p-3 flex flex-col justify-between items-center shadow-2xl backface-hidden rotate-y-180`}>
 					{/* Row 1: delete, park, fix, learned */}
 					<div className="flex flex-wrap gap-1.5 justify-center">
 						<ActionButton label="delete" color="bg-red-700/90" onClick={() => onStatusChange("deleted")} />
