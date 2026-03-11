@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import phrasesRaw from "../../parseddata/compoutPhrases.json";
 import { Phrase, PhraseProgressMap, PhraseStatus } from "../types";
+import { HiVolumeUp } from "react-icons/hi";
 
 const LOCAL_STORAGE_KEY = "flashcard_progress_v1";
 
@@ -200,6 +201,19 @@ const Flashcard = ({ phrase, onStatusChange }: { phrase: Phrase; onStatusChange:
 						<ActionButton label="retake 1h" color="bg-orange-500/90" onClick={() => onStatusChange("retake_1h")} />
 						<ActionButton label="retake 1m" color="bg-orange-400/90" onClick={() => onStatusChange("retake_1m")} />
 					</div>
+
+					{/* Audio/Speaker Button */}
+					<button
+						onClick={(e) => {
+							e.stopPropagation();
+							const url = `https://translate.google.com/?sl=auto&tl=${phrase.target_language}&text=${encodeURIComponent(phrase.target_phrase)}&op=translate`;
+							window.open(url, "_blank");
+						}}
+						className="absolute bottom-2 right-2 p-2 bg-white/10 hover:bg-white/20 text-white rounded-full transition-all hover:scale-110 active:scale-90"
+						title="Listen on Google Translate"
+					>
+						<HiVolumeUp size={18} />
+					</button>
 				</div>
 			</div>
 
