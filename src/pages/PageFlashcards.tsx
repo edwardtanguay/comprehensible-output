@@ -11,6 +11,8 @@ export const PageFlashcards = () => {
 		return saved ? JSON.parse(saved) : {};
 	});
 	const [selectedLanguage, setSelectedLanguage] = useState<string>("all");
+	const [sortOrder, setSortOrder] = useState<"newest" | "random">("newest");
+	const [randomSeed] = useState(() => Math.random().toString());
 
 	useEffect(() => {
 		localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(progressMap));
@@ -70,7 +72,31 @@ export const PageFlashcards = () => {
 
 			return true;
 		})
-		.sort((a, b) => (a.when_recorded > b.when_recorded ? -1 : 1))
+		.sort((a, b) => {
+			const progressA = progressMap[a.id!];
+			const progressB = progressMap[b.id!];
+			const isRetakeA = progressA?.status?.startsWith("retake_") ? 1 : 0;
+			const isRetakeB = progressB?.status?.startsWith("retake_") ? 1 : 0;
+
+			// Priority 1: Retakes first
+			if (isRetakeA !== isRetakeB) {
+				return isRetakeB - isRetakeA;
+			}
+
+			// Priority 2: Chosen sort order
+			if (sortOrder === "newest") {
+				return a.when_recorded > b.when_recorded ? -1 : 1;
+			} else {
+				// Deterministic random based on ID + session seed
+				const hash = (str: string) => {
+					const salted = str + randomSeed;
+					let h = 0;
+					for (let i = 0; i < salted.length; i++) h = (Math.imul(31, h) + salted.charCodeAt(i)) | 0;
+					return h;
+				};
+				return hash(a.id!) - hash(b.id!);
+			}
+		})
 		.slice(0, 10);
 
 	const handleStatusChange = (phraseId: string, status: PhraseStatus) => {
@@ -120,24 +146,41 @@ export const PageFlashcards = () => {
 	return (
 		<div className="flex flex-col items-center gap-6 p-6">
 			<div className="w-full max-w-5xl">
-				<select
-					value={selectedLanguage}
-					onChange={(e) => setSelectedLanguage(e.target.value)}
-					className="w-full p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium mb-4 shadow-lg cursor-pointer appearance-none"
-					style={{
-						backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
-						backgroundRepeat: 'no-repeat',
-						backgroundPosition: 'right 0.75rem center',
-						backgroundSize: '1rem'
-					}}
-				>
-					<option value="all">all languages ({allPhrases.length})</option>
-					{languages.map(lang => (
-						<option key={lang} value={lang}>
-							{(languageNames[lang] || lang)} ({languageCounts[lang]})
-						</option>
-					))}
-				</select>
+				<div className="flex gap-4 mb-4">
+					<select
+						value={selectedLanguage}
+						onChange={(e) => setSelectedLanguage(e.target.value)}
+						className="flex-1 p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						style={{
+							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+							backgroundRepeat: 'no-repeat',
+							backgroundPosition: 'right 0.75rem center',
+							backgroundSize: '1rem'
+						}}
+					>
+						<option value="all">all languages ({allPhrases.length})</option>
+						{languages.map(lang => (
+							<option key={lang} value={lang}>
+								{(languageNames[lang] || lang)} ({languageCounts[lang]})
+							</option>
+						))}
+					</select>
+
+					<select
+						value={sortOrder}
+						onChange={(e) => setSortOrder(e.target.value as "newest" | "random")}
+						className="flex-1 p-2.5 bg-slate-800 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
+						style={{
+							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+							backgroundRepeat: 'no-repeat',
+							backgroundPosition: 'right 0.75rem center',
+							backgroundSize: '1rem'
+						}}
+					>
+						<option value="newest">newest first</option>
+						<option value="random">random</option>
+					</select>
+				</div>
 
 				<div className="flex justify-between px-2 text-slate-700 text-xs font-bold uppercase tracking-widest">
 					<div className="flex-1 text-left">{learnedCount} learned</div>
