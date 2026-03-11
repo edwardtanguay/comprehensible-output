@@ -32,7 +32,7 @@ export const PageFlashcards = () => {
 	const [selectedLanguage, setSelectedLanguage] = useState<string>(() => searchParams.get("lang") || "all");
 	const [sortOrder, setSortOrder] = useState<"newest" | "random">(() => (searchParams.get("sort") as "newest" | "random") || "newest");
 	const [showRetakes, setShowRetakes] = useState<boolean>(() => searchParams.get("retakes") !== "false");
-	const [randomSeed] = useState(() => Math.random().toString());
+	const [randomSeed, setRandomSeed] = useState(() => Math.random().toString());
 
 	useEffect(() => {
 		const newParams = new URLSearchParams(searchParams);
@@ -174,7 +174,13 @@ export const PageFlashcards = () => {
 
 					<select
 						value={sortOrder}
-						onChange={(e) => setSortOrder(e.target.value as "newest" | "random")}
+						onChange={(e) => {
+							const newSort = e.target.value as "newest" | "random";
+							setSortOrder(newSort);
+							if (newSort === "random") {
+								setRandomSeed(Math.random().toString());
+							}
+						}}
 						className="flex-1 p-2.5 bg-slate-900 text-slate-200 border border-slate-700 rounded-lg outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium shadow-lg cursor-pointer appearance-none"
 						style={{
 							backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
