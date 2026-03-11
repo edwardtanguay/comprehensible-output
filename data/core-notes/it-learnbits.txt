@@ -2292,6 +2292,9 @@
 	raramente / di rado → rarely
 	quasi mai → almost never
 	mai → never
+- common words
+	- sometimes
+		- a volte
 - falsi amici
 	- la comparsa di qualche cosa
 	- la causa di ciò che compare
