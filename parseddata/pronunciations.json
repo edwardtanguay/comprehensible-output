@@ -2314,5 +2314,17 @@
 		"front": "non è un grande guaio",
 		"pronunciation": "GOOWAH-ee-oh",
 		"back": "it's not a big problem (trouble)"
+	},
+	{
+		"language": "es",
+		"front": "Cuando visitas a alguien",
+		"pronunciation": "ALL-gee-en",
+		"back": "When you visit someone"
+	},
+	{
+		"language": "it",
+		"front": "Ho dimenticato la ciotola nel frigorifero",
+		"pronunciation": "CHOH-toh-lah, free-goh-REE-fair-oh",
+		"back": "I forgot the bowl in the refrigerator"
 	}
 ]
