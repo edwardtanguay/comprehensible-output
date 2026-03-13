@@ -1098,7 +1098,7 @@
 		- per esprimere un'azione avvenuta prima di un'altra nel passato (espressa con imperfetto, passato prossimo o passato remoto).
 			- io avevo comprato un bel vestito per l'occasione
 			- non avevo mai partecipato ad una festa così straordinaria
-- passato remoto 
+- passato remoto (#remoto)
 	- sfondo (Davide)
 		- aspetto
 			- perfettivo
@@ -1159,6 +1159,8 @@
 		- fui, fosti, fu, fummo, foste, furono
 	- come si coniuga la passato remoto per il verbo avere
 		- ebbi, avesti, ebbe, avemmo, aveste, ebbero
+	- come si coniuga la passato remoto per il verbo volere
+		- volli, volesti, volle, volemmo, voleste, vollero
 	- come si coniuga la passato remoto per il verbo fare
 		- feci, facesti, fece, facemmo, faceste, fecero
 	- come si coniuga la passato remoto per il verbo dire
@@ -1169,6 +1171,8 @@
 		- venni, venisti, venne, venimmo, veniste, vennero
 	- come si coniuga la passato remoto per il verbo nascere
 		- nacqui, nascesti, nacque, nasquemmo, nasceste, nasquero
+	- come si coniuga la passato remoto per il verbo sapere
+		- seppi, sapesti, seppe, sapemmo, sapeste, seppero
 - trapassato remoto
 	- quali sono gli usi di trapassato prossimo
 		- per esprime un fatto avvenuto prima di un altro passato (espresso al passato remoto)
@@ -1841,12 +1845,13 @@
 				- quanti gelati hai mangiato
 					- ne ho mangiati tre
 		- sostituisce "di qualcuno" o "di qualcosa"
-			- se hai mangiato i biscotti, dimmi che ne pensi
-			- ho guardato il film horror ma non ne ho avuto paura
-			- dopo aver licenziato Lucrezia, il suo capo si è reso conto di averne bisogno
+			- hai bisogno di aiuto? / no, non ne ho bisogno
+			- mi ricordo di Maria / me ne anche ricordo 
+			- parliamo del problema / sì, ne parliamo
 		- sostituisce "da qualcuno" o "da qualcosa"
-			- so che è una situazione difficile, ma sono certa che riuscirai a uscirne
-			- appena ha conosciuto Stefania, ne è rimasto affascinato
+			- vengo da Milano / ne anche vengo
+			- usciamo dal ristorante / sì, ne usciamo
+			- mi allontano da quella situazione / me ne allontano
 	- ci
 		- un pronome riflessivo per noi
 			- quando siamo in vacanza, ci svegliamo sempre molto tardi
@@ -1863,6 +1868,8 @@
 				- non ci stiamo mai il sabato sera
 			- con chi sei andato alle Hawaii l'anno scorso
 				- con chi ci sei andato
+			- a che ora sei arrivato in ufficio?
+				- ce sono arrivato alle nove
 		- sostituisce "a qualcosa"
 			- hai pensato a un piano
 				- ci hai pensato

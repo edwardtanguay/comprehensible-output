@@ -1,4 +1,9 @@
 ======================================================================================
+2026-03-13 07:18:14
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "la carne diventa marrone", "adesso metto la carne in padella", "Si usa 'ne' quando ci si riferisce a una quantità specifica", "Se fossi venuto con noi, ti saresti divertito", "a che ora sei arrivato in ufficio? / ce sono arrivato alle nove", "delle desinenze degli aggettivi", "Che cosa significa questo", "Cosa sono queste cose?", "Non posso credere quanto sia buono", "Quando siamo arrivati ​​alla stazione, erano già partiti", "lui non volle accettare il compromesso", "mi allontano da quella situazione / me ne allontano", "vengo da Milano / ne vengo anche", "e ancora una volta", "quando ci si reca presso una persona o un professionista", "Che significa la parola ‘ci’ in questa frase", "Come si elimina un branch in Git?", "Quale congiunzione è seguita dal congiuntivo?", "hai bisogno di aiuto / no, non ne ho bisogno", "parliamo del problema / sì, ne parliamo".
+======================================================================================
 2026-03-12 07:26:37
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================
