@@ -2285,6 +2285,18 @@
 - avverbi
 	- gli avverbi cambiano quando li usi?
 		- non, gli avverbi in italiano non cambiano genere o numero come fanno gli aggettivi
+- andare + participio passato
+	- che cosa fa questa costruzione: andare + participio passato
+		- indica un obbligo o una necessità, simile a "deve essere"
+	- quali sono tre esempi di questo e gli equivalenti con "deve essere"
+		- questo problema va risolto subito
+			- questo problema deve essere risolto subito
+		- le istruzioni vanno seguite con attenzione
+			- le istruzioni devono essere seguite con attenzione
+		- il modulo va compilato prima dell'inizio del corso
+			- il modulo deve essere compilato prima dell'inizio del corso
+		
+		
 ===TODO===		
 - parole importanti
 	- pur non avendo fame, ho mangiato
