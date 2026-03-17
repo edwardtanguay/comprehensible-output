@@ -1163,6 +1163,8 @@
 		- volli, volesti, volle, volemmo, voleste, vollero
 	- come si coniuga la passato remoto per il verbo fare
 		- feci, facesti, fece, facemmo, faceste, fecero
+	- come si coniuga la passato remoto per il verbo stare
+		- stetti, stesti, stette, stemmo, steste, stettero
 	- come si coniuga la passato remoto per il verbo dire
 		- dissi, dicesti, disse, dicemmo, diceste, dissero
 	- come si coniuga la passato remoto per il verbo andare
@@ -1173,6 +1175,8 @@
 		- nacqui, nascesti, nacque, nasquemmo, nasceste, nasquero
 	- come si coniuga la passato remoto per il verbo sapere
 		- seppi, sapesti, seppe, sapemmo, sapeste, seppero
+	- come si coniuga la passato remoto per il verbo scrivere
+		- scrissi, scrivesti, scrisse, scrivemmo, scriveste, scrissero
 - trapassato remoto
 	- quali sono gli usi di trapassato prossimo
 		- per esprime un fatto avvenuto prima di un altro passato (espresso al passato remoto)
@@ -1848,6 +1852,7 @@
 			- hai bisogno di aiuto? / no, non ne ho bisogno
 			- mi ricordo di Maria / me ne anche ricordo 
 			- parliamo del problema / sì, ne parliamo
+			- non so nulla di questa storia e non ne voglio sapere niente
 		- sostituisce "da qualcuno" o "da qualcosa"
 			- vengo da Milano / ne anche vengo
 			- usciamo dal ristorante / sì, ne usciamo
@@ -2295,7 +2300,7 @@
 			- le istruzioni devono essere seguite con attenzione
 		- il modulo va compilato prima dell'inizio del corso
 			- il modulo deve essere compilato prima dell'inizio del corso
-		
+
 		
 ===TODO===		
 - parole importanti
@@ -2356,5 +2361,9 @@
 
 - esempi per congiuntivo
 	- è strano che
+	
+- congiunzione 
+	- a meno che
+	-   
 
 
