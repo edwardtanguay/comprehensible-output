@@ -1268,7 +1268,7 @@
 	{
 		"language": "nl",
 		"front": "De trui vol stof",
-		"pronunciation": "TROWL",
+		"pronunciation": "TROW",
 		"back": "the dress is full of dust"
 	},
 	{
@@ -2326,5 +2326,113 @@
 		"front": "Ho dimenticato la ciotola nel frigorifero",
 		"pronunciation": "CHOH-toh-lah, free-goh-REE-fair-oh",
 		"back": "I forgot the bowl in the refrigerator"
+	},
+	{
+		"language": "it",
+		"front": "l'emozione che segue",
+		"pronunciation": "SAY-goo-ay",
+		"back": "the emotion that follows"
+	},
+	{
+		"language": "nl",
+		"front": "bij namen van rivieren",
+		"pronunciation": "ree-VEER-reh",
+		"back": "with names of rivers"
+	},
+	{
+		"language": "nl",
+		"front": "de olie",
+		"pronunciation": "OH-lee",
+		"back": "the oil"
+	},
+	{
+		"language": "nl",
+		"front": "de politie",
+		"pronunciation": "poh-LEE-tsee",
+		"back": "the police"
+	},
+	{
+		"language": "nl",
+		"front": "het ondergoed",
+		"pronunciation": "ON-der-hoot",
+		"back": "the underwear"
+	},
+	{
+		"language": "nl",
+		"front": "het advies",
+		"pronunciation": "ad-VEES",
+		"back": "the advice"
+	},
+	{
+		"language": "nl",
+		"front": "Welk percentage van de woorden bevat \"de\"",
+		"pronunciation": "pair-sen-TAHZH-eh",
+		"back": "what percentage of the words contain \"de\""
+	},
+	{
+		"language": "nl",
+		"front": "het overleg",
+		"pronunciation": "OH-ver-leh*",
+		"back": "the consultation"
+	},
+	{
+		"language": "nl",
+		"front": "het object",
+		"pronunciation": "OHB-yect",
+		"back": "the object"
+	},
+	{
+		"language": "nl",
+		"front": "het ogenblik",
+		"pronunciation": "OH-*en-blik",
+		"back": "the moment"
+	},
+	{
+		"language": "nl",
+		"front": "het type",
+		"pronunciation": "TEE-pah",
+		"back": "the type"
+	},
+	{
+		"language": "nl",
+		"front": "het uiterlijk",
+		"pronunciation": "OW-ter-lik",
+		"back": "the appearance"
+	},
+	{
+		"language": "nl",
+		"front": "het weekend",
+		"pronunciation": "WEEK-ent",
+		"back": "the weekend"
+	},
+	{
+		"language": "nl",
+		"front": "het wijzigen",
+		"pronunciation": "VIGH-zeh-ghen",
+		"back": "the modification"
+	},
+	{
+		"language": "nl",
+		"front": "de eieren",
+		"pronunciation": "IGH-er-eh",
+		"back": "the eggs"
+	},
+	{
+		"language": "nl",
+		"front": "de meeuw",
+		"pronunciation": "MAY-oo",
+		"back": "the seagull"
+	},
+	{
+		"language": "nl",
+		"front": "de leeuw",
+		"pronunciation": "LAY-oo",
+		"back": "the lion"
+	},
+	{
+		"language": "nl",
+		"front": "de sneeuw",
+		"pronunciation": "SNAY-oo",
+		"back": "the snow"
 	}
 ]
