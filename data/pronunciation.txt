@@ -345,7 +345,7 @@ nl; voor deze keuze; DAY-zeh; for this choice
 nl; dus beschouw dit als een familiekwestie; bay-s*OW; so consider this a family matter
 nl; automatisch; ow-toh-MAH-tees-*; automatic
 nl; uitvoeren; OWT-foo-reh; execute
-nl; De trui vol stof; TROWL; the dress is full of dust
+nl; De trui vol stof; TROW; the dress is full of dust
 nl; onder je voeten; FOO-teh; under your feet
 nl; ik moet toch het vuilnis buiten zetten; VOWL-nis; I have to take the trash out anyway
 nl; Je hele jeugd lang; HAY-leh; throughout your childhood
@@ -595,3 +595,17 @@ it; l'emozione che segue; SAY-goo-ay; the emotion that follows
 nl; bij namen van rivieren; ree-VEER-reh; with names of rivers
 nl; de olie; OH-lee; the oil
 nl; de politie; poh-LEE-tsee; the police
+nl; het ondergoed; ON-der-hoot; the underwear
+nl; het advies; ad-VEES; the advice
+nl; Welk percentage van de woorden bevat "de"; pair-sen-TAHZH-eh; what percentage of the words contain "de"
+nl; het overleg; OH-ver-leh*; the consultation
+nl; het object; OHB-yect; the object
+nl; het ogenblik; OH-*en-blik; the moment
+nl; het type; TEE-pah; the type
+nl; het uiterlijk; OW-ter-lik; the appearance
+nl; het weekend; WEEK-ent; the weekend
+nl; het wijzigen; VIGH-zeh-ghen; the modification
+nl; de eieren; IGH-er-eh; the eggs
+nl; de meeuw; MAY-oo; the seagull
+nl; de leeuw; LAY-oo; the lion
+nl; de sneeuw; SNAY-oo; the snow

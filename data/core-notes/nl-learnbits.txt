@@ -8,6 +8,65 @@
 							- exactly sure
 			- een: onbepaald lidwoord
 				- indefinite article
+	- welk percentage van de woorden bevat "de" en "het"
+		- de = 75%
+		- het = 25%
+	- wat zijn de drie soorten zelfstandige naamwoorden
+		- mannelijk (m.)
+		- vrouwelijk (v.)
+		- onzijdig (o.)
+	- is er een praktische grammaticale reden om te weten of een zelfstandig naamwoord mannelijk of vrouwelijk is
+		- nee, er is geen praktisch grammaticale reden meer
+	- hebben alle zelfstandige naamwoorden een enkelvouds- en een meervoudsvorm
+		- sommige hebben geen meervoud
+			- eigennamen
+				- Nederland
+				- Brussel
+			- stofnamen
+				- het goud, de melk
+			- abstracte begrippen
+				- het nieuws, het geluk, die informatie
+				- 
+	- wanneer wordt het bepaald lidwoord "het" gebruikt
+		- verkleinwoorden
+			- het kindje, het boompje
+		- talen
+			- het Chinees, het Japans, het Engels
+		- metalen en andere materialen
+			- het goud, het zilver, het brons, het ijzer, het papier, het hout
+		- windrichtingen
+			- het noorden, het zuiden, het zuidoosten
+		- sporten en spelen
+			- het voetbal, het badminton, het tennis, het domino, het bridge, het yahtzee, het schaakspel
+		- be, ge, her, ont, ver naamwoorden met twee lettergrepen
+			- het bestuur, het geluk, het herstel, het ontbijt, het verdriet
+			- uitzondering
+				- de verkoop
+		- veelvoorkomende woorden die "het" gebruiken
+			- het adres, het advies, het afscheid, het antwoord, het artikel
+			- het bad, het bed, het bedrag, het bedrijf, het been, het begin, het bestand, het bier, het bos, het brood
+			- het cadeau, het café, het centrum, het cijfer, het concert, het contact, het contract
+			- het dak, het deel, het dier, het ding, het document, het doel, het dorp
+			- het ei, het einde, het element
+			- het feest, het feit, het fruit
+			- het geld, het geluk, het gevoel
+			- het haar, het hemd, het hotel, het huis
+			- het idee, het ijs, het internet
+			- het jaar
+			- het kantoor, het kind, het kruispunt
+			- het land, het leven, het lied, het licht, het lid
+			- het mes, het model, het museum
+			- het nieuws, het niveau, het nummer
+			- het object, het ogenblik, het ondergoed, het ontbijt, het oog, het oor
+			- het papier, het park, het paspoort, het personeel, het potlood, het plan, het plein, het plezier, het problem, het product, het project, het protest, het punt
+			- het quorum
+			- het raam, het recept, het restaurant, het rijbewijs
+			- het sap, het scherm, het schip, het speelgoed, het spel, het stadion, het station, het stopcontact, het strand, het strijkijzer, het stuk, het succes, het system
+			- het team, het theater, het ticket, het toilet, het T-shirt
+			- het uiterlijk, het uur
+			- het vak, het veld, het verhaal, het verkeer, het verschil, het verstand, het verzoek, het vlees, het vuur
+			- het water, het weekend, het weer, het werk, het woord
+			- het zilver, het zout, het zweet, het zwembad
 	- wanneer wordt het bepaald lidwoord "de" gebruikt
 		- persoonsnamen
 			- de man, de vrouw, de bakker, de chauffeur
@@ -28,7 +87,7 @@
 				- het vliegtuig, het schip, het vlot
 					- raft
 		- dranken en vloeistoffen
-			- de melk, de koffie, de thee, de limonade, de wij, de gin, de olie, de benzine, de azijn
+			- de melk, de koffie, de thee, de limonade, de wijn, de gin, de olie, de benzine, de azijn
 			- uitzonderingen
 				- het water, het bier, het sap
 		- naamwoorden die eindigen op
@@ -39,7 +98,7 @@
 			- heid
 				- de moeilijkheid, de gezelligheid, de snelheid, de vrijheid, de schoonheid, 
 			- ie
-				- de theorie, de organisatie, de categorie, de melodie, de politie
+				- de theorie, de organisatie, de categorie, de melodie, de politie, de informatie, de fantasie
 			- ing
 				- de kleding, de meeting, de richting
 			- teit
@@ -48,18 +107,83 @@
 				- de vriendschap, de wetenschap
 			- is
 				- de kennis, de ergenis
-	- wanneer wordt het bepaald lidwoord "het" gebruikt
+- het zelfstandig naamwoord
+	- wat is het lidwoord van alle meervoudige zelfstandige naamwoorden
+		- de
+	- hoe vorm je de uitgangen van de meeste zelfstandige naamwoorden
+		- en (70%)
+			- het mes, de messen
+		- s (30%)
+			- de kamer, de kamers
+	- gewijzigde spellingen van het meervoud voor zelfstandige naamwoorden die eindigen op -en
+		- lange klank
+			- de boom, de bomen
+			- de raad, de raden
+				- council
+		- korte klank
+			- de bom, de bommen
+		- f --> v
+			- de brief, de brieven
+		- s --> z
+			- het huis, de huizen
+		- ee --> +ën
+			- de zee, de zeeën
+		- ie --> +ën
+			- de fantasie, de fantasieën
+			- de knie, de knieën
+		- ie --> /+ën
+			- de bacterie, de bacteriën
+			- de kolonie, de konolniën
+		- (klinker) --> ?
+			- de stad, de steden
+			- het lid, de leden
+			- het schip, de schepen
+		- (?) --> +eren
+			- het kind, de kinderen
+			- het ei, de eieren
+	- naamwoorden waarvan je zou verwachten dat ze eindigen op -en, maar die eindigen op -s
+		- de reden, de redenen
+		- de engel, de engelen
+		- het wonder, de wonderen
+	- welke naamwoorden altijd eindigen op -s
 		- verkleinwoorden
-			- het kindje, het boompje
-		- talen
-			- het Chinees, het Japans, het Engels
-		- metalen en andere materialen
-			- het ijzer, het papier, het hout, het goud, het zilver, het brons
-		- windrichting
-				
-				
-10 naamwoorden die eindigen op age, ine, se			
-10 naamwoorden die eindigen op 
-10 naamwoorden die eindigen op 				
-10 naamwoorden die eindigen op 				
-10 naamwoorden die eindigen op 				
+			- het kindje, de kindjes
+			- he lichtje, de lichtjes
+			- het potloodje, de potloodjes
+		- naamwoorden uit een andere taal
+			- de cafés
+			- de tickets
+			- de hotels
+	- welke naamwoorden altijd eindigen op -'s
+		- naamwoorden die eindigen op -a, -i, -o, -u, -y
+			- de pizza's
+			- de kiwi's
+			- de auto's
+- het verkleinwoord
+	- +je
+		- de fles, het flesje
+			- bottle
+		- de kop, het kopje
+			- head
+		- het huis, het huisje
+	- +tje
+		- de tafel, het tafeltje
+			- table
+		- het kussen, het kussentje
+			- pillow
+		- 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
