@@ -1,0 +1,65 @@
+- lidwoorden
+	- hoeveel lidwoorden zijn er in het Nederlands en wat zijn ze
+		- drei: de/het, een
+			- de/het: bepaalde lidwoorden
+				- definite article
+					- bepaald = certain
+						- ik ben nog niet bepaald zeker van mijn beslissing
+							- exactly sure
+			- een: onbepaald lidwoord
+				- indefinite article
+	- wanneer wordt het bepaald lidwoord "de" gebruikt
+		- persoonsnamen
+			- de man, de vrouw, de bakker, de chauffeur
+			- uitzonderingen
+				- het kind, het meisje
+		- meervoud
+			- de meisjes, de kranten, de computers
+				- kranten = newspapers
+		- groente, fruit, bomen, planten en bloemen
+			- de aardappel, de peer, de tulp, de appel, de banaan, de sinaasappel, de ardbei, de wortel, de komkommer, de tomaat, de ui, de sla
+		- rivieren
+			- de Nordzee, de Atlantische Oceaan, de Rijn
+		- cijfers en letters
+			- de 6, de "a"
+		- trasportmiddelen
+			- de auto, de trein, de bus, de tram, de fiets, de boot, de metro
+			- uitzonderingen
+				- het vliegtuig, het schip, het vlot
+					- raft
+		- dranken en vloeistoffen
+			- de melk, de koffie, de thee, de limonade, de wij, de gin, de olie, de benzine, de azijn
+			- uitzonderingen
+				- het water, het bier, het sap
+		- naamwoorden die eindigen op
+			- ade, ide, ode, ude
+				- de salade, de genocide, de methode, de attitude, de episode
+			- age, ine, se
+				- de garage, de discipline, de synthese, de bagage, de camouflage, de machine, de routine
+			- heid
+				- de moeilijkheid, de gezelligheid, de snelheid, de vrijheid, de schoonheid, 
+			- ie
+				- de theorie, de organisatie, de categorie, de melodie, de politie
+			- ing
+				- de kleding, de meeting, de richting
+			- teit
+				- de universiteit, de kwaliteit, de identiteit
+			- schap
+				- de vriendschap, de wetenschap
+			- is
+				- de kennis, de ergenis
+	- wanneer wordt het bepaald lidwoord "het" gebruikt
+		- verkleinwoorden
+			- het kindje, het boompje
+		- talen
+			- het Chinees, het Japans, het Engels
+		- metalen en andere materialen
+			- het ijzer, het papier, het hout, het goud, het zilver, het brons
+		- windrichting
+				
+				
+10 naamwoorden die eindigen op age, ine, se			
+10 naamwoorden die eindigen op 
+10 naamwoorden die eindigen op 				
+10 naamwoorden die eindigen op 				
+10 naamwoorden die eindigen op 				
