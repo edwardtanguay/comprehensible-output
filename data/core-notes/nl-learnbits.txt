@@ -171,7 +171,11 @@
 			- table
 		- het kussen, het kussentje
 			- pillow
-		- 
+		- de kamer, het kamertje
+		- de deur, het deurtje
+		- het avontuur, het avontuurtje
+		- uitzondering
+			- de jongen, het jongetje
 	
 	
 	
