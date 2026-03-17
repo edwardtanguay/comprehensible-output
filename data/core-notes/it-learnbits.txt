@@ -388,15 +388,20 @@
 		- then number + "mila": duemila, tremila, etc.
 	- how to form numbers 1 million to 2 million
 		- milione
-		- then number + "milioni": duemila, tremila, etc.
+		- then number + "milioni": due milioini, tre milioni, etc.
 	- list the numbers 1-21
 		- primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo
 		- undicesimo, dodicesimo, tredicesimo, quattordicesimo, quindicesimo, sedicesimo, diciassettesimo, diciottesimo, diciannovesimo, ventesimo, ventunesimo
 	- how do you spell 17
 		- diciassette
 		- with double s
+	- how do you spell 10
+		- diciannove
+		- with double s
 	- spell 88
 		- ottantotto
+	- spell 81
+		- ottantuno
 	- spell 41
 		- quarantuno
 - indicazioni
@@ -569,7 +574,8 @@
 			- la casa, la strada, la rosa, la spaggia
 		- eccetto i nomi che iniziano con un suono vocalico
 			- l'isola, l'ancora, l'iniziativa
-			- eccezione: la iena
+			- eccezione
+				- la iena
 	- quali sono le regole per l'articolo determinativo maschile
 		- metti "le" prima di nomi maschile
 			- il cane, il ristorante, il quadro
