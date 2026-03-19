@@ -1171,6 +1171,8 @@
 		- feci, facesti, fece, facemmo, faceste, fecero
 	- come si coniuga la passato remoto per il verbo stare
 		- stetti, stesti, stette, stemmo, steste, stettero
+	- come si coniuga la passato remoto per il verbo dare
+		- detti, desti, dette, demmo, deste, dettero
 	- come si coniuga la passato remoto per il verbo dire
 		- dissi, dicesti, disse, dicemmo, diceste, dissero
 	- come si coniuga la passato remoto per il verbo andare
@@ -2370,6 +2372,8 @@
 	
 - congiunzione 
 	- a meno che
-	-   
+
+- reflexive that shows obbligation "needs to be..."
+	- questo libro va letto entro domani
 
 
