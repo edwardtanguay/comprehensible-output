@@ -1,4 +1,9 @@
 ======================================================================================
+2026-03-20 07:08:33
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "per quanto fosse tardi, decise di fare un'ultima passeggiata", "per quanto", "Non te la prendere con lui, è solo un po' nervoso.", "Facciamolo adesso in spagnolo", "e naturalmente torniamo all'italiano", "ora leggerò i testi per intero in ogni lingua, uno dopo l'altro", "si esprime un giudizio soggettivo", "Qual è la parola che manca?", "preghiamo", "Qualora insorgessero problemi tecnici, vi preghiamo di contattare l'assistenza.", "qualora", "siccome", "È incredibile che loro siano andati fino a Roma a piedi.", "Se tu avessi prestato più attenzione, oggi non saresti in questa situazione.", "I libri che ho comprato ieri, li ho letti tutti.", "la frase, le frasi", "Dopo aver consegnato il rapporto, il dirigente ha lasciato l'ufficio.", "Quale tempo verbale si usa per un'azione finita prima di un'altra", "Cerco un collaboratore che sappia parlare fluentemente il cinese", "affatto".
+======================================================================================
 2026-03-19 07:25:59
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

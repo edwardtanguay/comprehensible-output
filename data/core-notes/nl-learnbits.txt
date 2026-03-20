@@ -176,6 +176,79 @@
 		- het avontuur, het avontuurtje
 		- uitzondering
 			- de jongen, het jongetje  
+	- dubbele klinker
+		- de opa, het opaatje
+		- het café, het cafeetje
+	- eindmedeklinker verdubbelt
+		- de kam, de kammtje
+		- het hotel, het hotelletje
+		- de snor, het snorretje
+			- mustache
+	- de apostrof
+		- de dvd, het dvd'tje
+		- de baby, het baby'tje
+	- +pje
+		- de film, het filmpje
+		- de helm, het helmpje
+		- de bloem, het bloempje
+	- /+pke
+		- de verrassing, het verrassinkje
+		- de meeting, het meetinkje
+	- -etje
+		- de wandeling, het wandelingetje
+- de vorming van zelfstandige naamwoorden
+	- stem
+		- lachen --> de lach
+		- verliezen --> het verlies
+		- beseffen --> het besef
+	- ge + stem (negatieve connotatie)
+		- klagen --> het geklaag
+		- praten --> het gepraat
+	- naamwoord + de 
+		- de persoon die de handeling op dit moment uitvoert
+			- wachten --> de wachtende
+			- overleven --> de overlevende
+	- naamwoord + ge_e
+		- de persoon die betrokken is
+			- aanklagen --> aangeklaagde
+	- stam + er/ster
+		- vertellen --> vertelster
+		- lopen --> loper
+	- stam + sel
+		- mengen --> het mengsel
+			- mixture
+	- stam + ing
+		- wandelen --> de wandeling
+		- omgeven --> de omgeving
+			- surroundings
+		- ervaren --> de ervaring
+		- verhuizen --> de verhuizing
+	- verscheidene
+		- ruiken --> de reuk
+		- klagen --> de klacht
+		- genieten --> het genot
+	- bijvoeglijk naamwoord één-op-één
+		- blauw --> het blauw
+		- geheim --> het geheim
+	- personen van bijvoeglijk naamwoord + e (de)
+		- blind --> de blinde
+		- gelukkig --> de gelukkige
+		- tweetalig --> de tweetalige
+	- abstracte concepten van bijvoeglijke naamwoorden + e (het)
+		- gevaarlijk --> het gevaarlijke
+		- interessant --> het interessante
+	- abstracte concepten van bijvoeglijke naamwoorden + heid (de)
+		- vriendelijk --> de vriendelijkheid
+		- gezellig --> de gezelligheid
+		- verdraagzaam --> de verdraagzaamheid
+			- tolerance
+		- vrij --> de vrijheid
+	- abstracte concepten van bijvoeglijke naamwoorden + te (de)
+		- leeg --> de leegte
+			- empty, void
+		- hoog --> de hoogte
+		- lang --> de lengte
+		
 	
 	
 	
