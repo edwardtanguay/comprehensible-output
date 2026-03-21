@@ -2372,8 +2372,19 @@
 	
 - congiunzione 
 	- a meno che
+	- siccome
+	- sebbene
+	- affinché
 
 - reflexive that shows obbligation "needs to be..."
 	- questo libro va letto entro domani
-
+- fornisce esempi della regola: per esprimere un'azione futura rispetto a un momento passato, l'italiano utilizza il condizionale passato
+	- sapevo che entro la sera avrei finito il lavoro
+	- pensavo che sarei arrivato in tempo
+	- diceva che avrebbe finito il lavoro entro sera
+	- credevamo che loro avrebbero accettato l'offerta
+	- mi aveva promesso che mi avrebbe chiamato il giorno dopo
+	- speravi che tutto sarebbe andato meglio
+	
+	
 

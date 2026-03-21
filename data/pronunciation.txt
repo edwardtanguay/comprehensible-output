@@ -609,3 +609,5 @@ nl; de eieren; IGH-er-eh; the eggs
 nl; de meeuw; MAY-oo; the seagull
 nl; de leeuw; LAY-oo; the lion
 nl; de sneeuw; SNAY-oo; the snow
+
+it;si dicono molte bugie in giro; boo-GEE-ah; there are too many lies going around

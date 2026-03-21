@@ -62,7 +62,7 @@ export const SingleOutputItem = ({ outputItem }: Props) => {
 			</div>
 			{outputItem.isOpen && (
 				<div
-					className={`bg-slate-300 p-2 rounded-b htmlBody bodykind-${outputItem.kind}`}
+					className={`bg-slate-300 p-2 rounded-b text-black htmlBody bodykind-${outputItem.kind}`}
 					dangerouslySetInnerHTML={{ __html: outputItem.htmlBody }}
 				/>
 			)}
