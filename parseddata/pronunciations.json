@@ -2440,5 +2440,17 @@
 		"front": "si dicono molte bugie in giro",
 		"pronunciation": "boo-GEE-ah",
 		"back": "there are too many lies going around"
+	},
+	{
+		"language": "it",
+		"front": "scatola",
+		"pronunciation": "SKAH-toh-lah",
+		"back": "box"
+	},
+	{
+		"language": "nl",
+		"front": "en plak de tape hier",
+		"pronunciation": "TAYP",
+		"back": "and stick the tape here"
 	}
 ]

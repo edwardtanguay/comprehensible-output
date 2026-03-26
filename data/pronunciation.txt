@@ -611,3 +611,7 @@ nl; de leeuw; LAY-oo; the lion
 nl; de sneeuw; SNAY-oo; the snow
 
 it;si dicono molte bugie in giro; boo-GEE-ah; there are too many lies going around
+
+it;scatola; SKAH-toh-lah; box
+
+nl;en plak de tape hier;TAYP;and stick the tape here
