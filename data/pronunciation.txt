@@ -615,3 +615,5 @@ it;si dicono molte bugie in giro; boo-GEE-ah; there are too many lies going arou
 it;scatola; SKAH-toh-lah; box
 
 nl;en plak de tape hier;TAYP;and stick the tape here
+
+it; sulla lunghezza della camminata; loon-GAY-tsah;about the length of the walk
