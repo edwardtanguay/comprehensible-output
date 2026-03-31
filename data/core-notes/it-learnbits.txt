@@ -1172,7 +1172,10 @@
 	- come si coniuga la passato remoto per il verbo stare
 		- stetti, stesti, stette, stemmo, steste, stettero
 	- come si coniuga la passato remoto per il verbo dare
-		- detti, desti, dette, demmo, deste, dettero
+		- diedi, desti, diede, demmo, deste, dettero
+			- molto più usato (standard moderno)
+		- detti, -----, dette, -----,, -----, -------
+			- raro, letterario, oggi quasi in disuso
 	- come si coniuga la passato remoto per il verbo dire
 		- dissi, dicesti, disse, dicemmo, diceste, dissero
 	- come si coniuga la passato remoto per il verbo andare
@@ -1185,6 +1188,8 @@
 		- seppi, sapesti, seppe, sapemmo, sapeste, seppero
 	- come si coniuga la passato remoto per il verbo scrivere
 		- scrissi, scrivesti, scrisse, scrivemmo, scriveste, scrissero
+	- come si coniuga la passato remoto per il verbo vivere
+		- vissi, vivesti, visse, vivemmo, viveste, vissero
 - trapassato remoto
 	- quali sono gli usi di trapassato prossimo
 		- per esprime un fatto avvenuto prima di un altro passato (espresso al passato remoto)
