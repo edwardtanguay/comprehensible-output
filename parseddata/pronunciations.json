@@ -2452,5 +2452,59 @@
 		"front": "en plak de tape hier",
 		"pronunciation": "TAYP",
 		"back": "and stick the tape here"
+	},
+	{
+		"language": "it",
+		"front": "sulla lunghezza della camminata",
+		"pronunciation": "loon-GAY-tsah",
+		"back": "about the length of the walk"
+	},
+	{
+		"language": "it",
+		"front": "Marta, sistemandosi lo zaino",
+		"pronunciation": "sis-tehm-MAN-doh-zee",
+		"back": "adjusting the backpack"
+	},
+	{
+		"language": "it",
+		"front": "che fiancheggiavano il sentiero",
+		"pronunciation": "fee-ahn-kay-JAW-vah-noh",
+		"back": "that were lining the path"
+	},
+	{
+		"language": "it",
+		"front": "paesaggio",
+		"pronunciation": "pah-ay-ZAH-joh",
+		"back": "landscape"
+	},
+	{
+		"language": "it",
+		"front": "nonostante la leggera salita",
+		"pronunciation": "leh-JAIR-ah",
+		"back": "despite the slight climb"
+	},
+	{
+		"language": "it",
+		"front": "Peschiera del Garda",
+		"pronunciation": "pess-key-AIR-ah",
+		"back": "fishpond of Garda"
+	},
+	{
+		"language": "it",
+		"front": "raggiunsero il porto",
+		"pronunciation": "rah-JOON-sair-oh",
+		"back": "they reached the port"
+	},
+	{
+		"language": "it",
+		"front": "che profumano l'aria",
+		"pronunciation": "LAHR-ee-ah",
+		"back": "that perfume the area"
+	},
+	{
+		"language": "it",
+		"front": "Eccoci vicino a Moniga del Garda",
+		"pronunciation": "EH-koh-chee",
+		"back": "Here we are near Moniga del Garda"
 	}
 ]
