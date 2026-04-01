@@ -2506,5 +2506,53 @@
 		"front": "Eccoci vicino a Moniga del Garda",
 		"pronunciation": "EH-koh-chee",
 		"back": "Here we are near Moniga del Garda"
+	},
+	{
+		"language": "it",
+		"front": "Fermiamoci un minuto",
+		"pronunciation": "fair-mee-AH-moh-chee",
+		"back": "let's stop for a minute"
+	},
+	{
+		"language": "it",
+		"front": "Malcesine",
+		"pronunciation": "mahl-CHEHZ-ee-nah",
+		"back": "Malcesine"
+	},
+	{
+		"language": "it",
+		"front": "Vedono fiori e mucche",
+		"pronunciation": "VAY-doh-noh",
+		"back": "they see flowers and cows"
+	},
+	{
+		"language": "it",
+		"front": "Poi scendono e visitano",
+		"pronunciation": "SHEN-doh-noh, VEE-zee-tah-noh",
+		"back": "then they go down and visit"
+	},
+	{
+		"language": "it",
+		"front": "Castello Scaligero di Malcesine",
+		"pronunciation": "skah-LEE-jer-oh",
+		"back": "Castello Scaligero di Malcesine"
+	},
+	{
+		"language": "it",
+		"front": "con le vongole",
+		"pronunciation": "VON-goh-lay",
+		"back": "with clams"
+	},
+	{
+		"language": "it",
+		"front": "Torbole",
+		"pronunciation": "TOR-boh-leh",
+		"back": "Torbole"
+	},
+	{
+		"language": "it",
+		"front": "è leggero e buono",
+		"pronunciation": "leh-JEHR-oh",
+		"back": "it's light and good"
 	}
 ]

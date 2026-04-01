@@ -627,3 +627,12 @@ it; Peschiera del Garda ; pess-key-AIR-ah; fishpond of Garda
 it; raggiunsero il porto ;rah-JOON-sair-oh; they reached the port
 it; che profumano l’aria; LAHR-ee-ah; that perfume the area
 it; Eccoci vicino a Moniga del Garda; EH-koh-chee; Here we are near Moniga del Garda
+
+it; Fermiamoci un minuto; fair-mee-AH-moh-chee; let's stop for a minute
+it; Malcesine; mahl-CHEHZ-ee-nah; Malcesine
+it; Vedono fiori e mucche; VAY-doh-noh;they see flowers and cows
+it; Poi scendono e visitano; SHEN-doh-noh, VEE-zee-tah-noh; then they go down and visit
+it; Castello Scaligero di Malcesine; skah-LEE-jer-oh; Castello Scaligero di Malcesine
+it; con le vongole; VON-goh-lay; with clams
+it; Torbole; TOR-boh-leh; Torbole
+it; è leggero e buono; leh-JEHR-oh; it's light and good
