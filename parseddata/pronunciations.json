@@ -2288,7 +2288,7 @@
 	{
 		"language": "it",
 		"front": "come era potuto succedere",
-		"pronunciation": "soo-CHAT-dair-eh",
+		"pronunciation": "soo-CHEH-dair-eh",
 		"back": "how could this have happened"
 	},
 	{
@@ -2632,5 +2632,47 @@
 		"front": "Peschiera del Garda",
 		"pronunciation": "pes-kyeeERdah",
 		"back": "Peschiera del Garda"
+	},
+	{
+		"language": "it",
+		"front": "chiedere l'ora",
+		"pronunciation": "kee-EH-dair-ay",
+		"back": "ask the time"
+	},
+	{
+		"language": "it",
+		"front": "quando mancano minuti",
+		"pronunciation": "MAN-koh-noh",
+		"back": "when there are minutes left"
+	},
+	{
+		"language": "it",
+		"front": "sono le 7:10",
+		"pronunciation": "SET-day-dee-ETCH-ee",
+		"back": "it's 7:10"
+	},
+	{
+		"language": "it",
+		"front": "incontrarci alle 5:30",
+		"pronunciation": "CHING-qway-ee-MED-zoh",
+		"back": "let's meet at 5:30"
+	},
+	{
+		"language": "it",
+		"front": "molto utile",
+		"pronunciation": "OO-tee-lay",
+		"back": "very useful"
+	},
+	{
+		"language": "it",
+		"front": "questo tipo di dialogo",
+		"pronunciation": "dee-AH-loh-goh",
+		"back": "this type of dialogue"
+	},
+	{
+		"language": "it",
+		"front": "Ho un asciugamano",
+		"pronunciation": "ah-shoo-ga-MAHN-oh",
+		"back": "I have a towel"
 	}
 ]

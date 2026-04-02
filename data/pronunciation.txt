@@ -578,7 +578,7 @@ it; perciò spendevo di più; per-CHOH; therefore I spent more
 it; continuavo a spendere soldi; SPEN-dair-eh; I continued to spend money
 it; una macchina; MAH-kee-nah; a car
 it; smisero; ZMEE-zair-oh; they stopped 
-it; come era potuto succedere; soo-CHAT-dair-eh; how could this have happened
+it; come era potuto succedere; soo-CHEH-dair-eh; how could this have happened
 
 it; la ciotola; CHOH-toh-lah; the bowl
 it; l'azienda; lahd-zee-END-ah;company
@@ -651,3 +651,13 @@ it; Castello Scaligero di Sirmione ; skah-LEE-jer-oh, seer-mee-OH-nay; Castello 
 it; continuano verso Malcesine; kon-TEEN-oo-ahn-oh; they continue toward Malcesine
 it; Desenzano del Garda; deh-zen-TSAH-noh; Desenzano del Garda
 it; Peschiera del Garda; pes-kyeeERdah; Peschiera del Garda
+
+it; chiedere l'ora; kee-EH-dair-ay; ask the time
+it; quando mancano minuti; MAN-koh-noh; when there are minutes left
+it; sono le 7:10; SET-day-dee-ETCH-ee; it's 7:10
+it; incontrarci alle 5:30; CHING-qway-ee-MED-zoh;let's meet at 5:30
+it; molto utile; OO-tee-lay; very useful
+it; questo tipo di dialogo; dee-AH-loh-goh;this type of dialogue
+it; Ho un asciugamano; ah-shoo-ga-MAHN-oh; I have a towel
+
+it; Devo metterci dentro qualcosa

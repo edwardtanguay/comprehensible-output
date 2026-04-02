@@ -1,3 +1,5 @@
+break this text up into paragraphs with a two new lines at the end of each paragraph, make the paragraphs make sense when one reads it
+
 Crea un quiz sulla grammatica italiana livello B2 su tutte le forme dei verbi al passato
 
 Crea una storia di 500 parole in italiano A2 su quattro persone che fanno un’escursione intorno al Lago di Garda, cosa vedono, cosa vivono, con linguaggio quotidiano utile, soprattutto dialoghi, frasi utili per comprare cose, al ristorante, chiedere indicazioni, ecc., e menziona almeno 10 luoghi reali della zona. Ecco la storia riscritta con le frasi in stile narrativo come: "può ho detto Paolo, ..."
