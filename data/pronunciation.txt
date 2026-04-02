@@ -620,7 +620,6 @@ it; sulla lunghezza della camminata; loon-GAY-tsah;about the length of the walk
 
 it;Marta, sistemandosi lo zaino; sis-tehm-MAN-doh-zee; adjusting the backpack
 
-it; che fiancheggiavano il sentiero; fee-ahn-kay-JAW-vah-noh; that were lining the path
 it; paesaggio; pah-ay-ZAH-joh;landscape
 it; nonostante la leggera salita ; leh-JAIR-ah; despite the slight climb
 it; Peschiera del Garda ; pess-key-AIR-ah; fishpond of Garda
@@ -638,7 +637,7 @@ it; Torbole; TOR-boh-leh; Torbole
 it; è leggero e buono; leh-JEHR-oh; it's light and good
 it; Peschiera; pess-key-AIR-ah; fish pond
 
-it;un'area boschiva; boh-SKEE-vah;a wooded area
+it;un'area boschiva; AH-ray-ah boh-SKEE-vah;a wooded area
 
 it;zaini leggeri; zah-EE-nee leh-JAIR-ee; light backpacks
 it; Camminano lungo il lago; cah-MEE-nah-noh; they walk along the lake
@@ -660,4 +659,5 @@ it; molto utile; OO-tee-lay; very useful
 it; questo tipo di dialogo; dee-AH-loh-goh;this type of dialogue
 it; Ho un asciugamano; ah-shoo-ga-MAHN-oh; I have a towel
 
-it; Devo metterci dentro qualcosa
+it; Devo metterci dentro qualcosa; MEH-tair-chee; I have to put something inside it
+it; che profumano l’aria; LAHR-ee-ah; that perfume the area
