@@ -2554,5 +2554,83 @@
 		"front": "è leggero e buono",
 		"pronunciation": "leh-JEHR-oh",
 		"back": "it's light and good"
+	},
+	{
+		"language": "it",
+		"front": "Peschiera",
+		"pronunciation": "pess-key-AIR-ah",
+		"back": "fish pond"
+	},
+	{
+		"language": "it",
+		"front": "un'area boschiva",
+		"pronunciation": "boh-SKEE-vah",
+		"back": "a wooded area"
+	},
+	{
+		"language": "it",
+		"front": "zaini leggeri",
+		"pronunciation": "zah-EE-nee leh-JAIR-ee",
+		"back": "light backpacks"
+	},
+	{
+		"language": "it",
+		"front": "Camminano lungo il lago",
+		"pronunciation": "cah-MEE-nah-noh",
+		"back": "they walk along the lake"
+	},
+	{
+		"language": "it",
+		"front": "alberi verdi",
+		"pronunciation": "AHL-bair-ee",
+		"back": "green trees"
+	},
+	{
+		"language": "it",
+		"front": "Castello Scaligero di Malcesine",
+		"pronunciation": "skah-LEE-jer-oh",
+		"back": "Castello Scaligero di Malcesine"
+	},
+	{
+		"language": "it",
+		"front": "Anch'io",
+		"pronunciation": "ahn-KEE-oh",
+		"back": "me, too"
+	},
+	{
+		"language": "it",
+		"front": "Sì, seguitemi",
+		"pronunciation": "seh-GWEE-teh-mee",
+		"back": "yes, follow me"
+	},
+	{
+		"language": "it",
+		"front": "scusi, dov'è il bagno",
+		"pronunciation": "doh-VAY",
+		"back": "where is the bathroom"
+	},
+	{
+		"language": "it",
+		"front": "Castello Scaligero di Sirmione",
+		"pronunciation": "skah-LEE-jer-oh, seer-mee-OH-nay",
+		"back": "Castello Scaligero di Sirmione"
+	},
+	{
+		"language": "it",
+		"front": "continuano verso Malcesine",
+		"pronunciation": "kon-TEEN-oo-ahn-oh",
+		"back": "they continue toward Malcesine"
+	},
+	{
+		"language": "it",
+		"front": "Desenzano del Garda",
+		"pronunciation": "deh-zen-TSAH-noh",
+		"back": "Desenzano del Garda"
+	},
+	{
+		"language": "it",
+		"front": "Peschiera del Garda",
+		"pronunciation": "pes-kyeeERdah",
+		"back": "Peschiera del Garda"
 	}
 ]

@@ -636,3 +636,18 @@ it; Castello Scaligero di Malcesine; skah-LEE-jer-oh; Castello Scaligero di Malc
 it; con le vongole; VON-goh-lay; with clams
 it; Torbole; TOR-boh-leh; Torbole
 it; è leggero e buono; leh-JEHR-oh; it's light and good
+it; Peschiera; pess-key-AIR-ah; fish pond
+
+it;un'area boschiva; boh-SKEE-vah;a wooded area
+
+it;zaini leggeri; zah-EE-nee leh-JAIR-ee; light backpacks
+it; Camminano lungo il lago; cah-MEE-nah-noh; they walk along the lake
+it; alberi verdi; AHL-bair-ee; green trees
+it; Castello Scaligero di Malcesine; skah-LEE-jer-oh; Castello Scaligero di Malcesine
+it; Anch’io; ahn-KEE-oh;me, too
+it; Sì, seguitemi; seh-GWEE-teh-mee; yes, follow me
+it; scusi, dov’è il bagno; doh-VAY; where is the bathroom
+it; Castello Scaligero di Sirmione ; skah-LEE-jer-oh, seer-mee-OH-nay; Castello Scaligero di Sirmione 
+it; continuano verso Malcesine; kon-TEEN-oo-ahn-oh; they continue toward Malcesine
+it; Desenzano del Garda; deh-zen-TSAH-noh; Desenzano del Garda
+it; Peschiera del Garda; pes-kyeeERdah; Peschiera del Garda
