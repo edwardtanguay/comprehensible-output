@@ -2467,12 +2467,6 @@
 	},
 	{
 		"language": "it",
-		"front": "che fiancheggiavano il sentiero",
-		"pronunciation": "fee-ahn-kay-JAW-vah-noh",
-		"back": "that were lining the path"
-	},
-	{
-		"language": "it",
 		"front": "paesaggio",
 		"pronunciation": "pah-ay-ZAH-joh",
 		"back": "landscape"
@@ -2564,7 +2558,7 @@
 	{
 		"language": "it",
 		"front": "un'area boschiva",
-		"pronunciation": "boh-SKEE-vah",
+		"pronunciation": "AH-ray-ah boh-SKEE-vah",
 		"back": "a wooded area"
 	},
 	{
@@ -2674,5 +2668,29 @@
 		"front": "Ho un asciugamano",
 		"pronunciation": "ah-shoo-ga-MAHN-oh",
 		"back": "I have a towel"
+	},
+	{
+		"language": "it",
+		"front": "Devo metterci dentro qualcosa",
+		"pronunciation": "MEH-tair-chee",
+		"back": "I have to put something inside it"
+	},
+	{
+		"language": "it",
+		"front": "che profumano l'aria",
+		"pronunciation": "LAHR-ee-ah",
+		"back": "that perfume the area"
+	},
+	{
+		"language": "it",
+		"front": "nel pomeriggio sono libera",
+		"pronunciation": "poh-mair-REE-joh / lee-BAIR-ah",
+		"back": "this afternoon I'm free"
+	},
+	{
+		"language": "it",
+		"front": "Queste parole aiutano a organizzare",
+		"pronunciation": "ah-YOO-toh-noh",
+		"back": "these words help to organize"
 	}
 ]
