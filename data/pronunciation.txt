@@ -661,3 +661,6 @@ it; Ho un asciugamano; ah-shoo-ga-MAHN-oh; I have a towel
 
 it; Devo metterci dentro qualcosa; MEH-tair-chee; I have to put something inside it
 it; che profumano l’aria; LAHR-ee-ah; that perfume the area
+
+it; nel pomeriggio sono libera;poh-mair-REE-joh / lee-BAIR-ah; this afternoon I'm free
+it; Queste parole aiutano a organizzare; ah-YOO-toh-noh; these words help to organize
