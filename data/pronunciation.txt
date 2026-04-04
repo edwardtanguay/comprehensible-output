@@ -687,3 +687,20 @@ it; Quindici euro ; QUEEN-dee-chee; fifty euros
 it; Pedalano lungo la ciclabile ; peh-DAH-lah-noh; they pedal along the bike path
 it; Pedalano lungo la ciclabile ; chee-CLAW-bee-lay; they pedal along the bike path
 it; è stata condividere; kon-dee-VEE-dair-eh; was sharing
+
+it;arrivarono alla stazione ; ah-REE-vah-roh-noh; arrived at the station
+it;disse ; DEE-seh; said (remoto passato)
+it; Il sole già scintillava ;jaw-shin-tee-LAH-vah;the sun was already shining
+it; i quattro amici pedalavano lungo la riva; peh-deh-LAH-vah-noh; teh four friends were pedaling along the shore
+it; comprò una calamita; cah-lah-MEE-tah;bought a magnet
+it; Giulia fece decine di foto ; day-CHEE-nay; Giulia took dozens of photos
+it; si fermarono in un ristorante ; fair-MAHR-roh-noh;they stopped at a restaurant
+it; presero la strada panoramica ; PRAY-zair-roh; they took the scenic road
+it; dove visitarono il Vittoriale degli Italiani; vee-see-TAHR-ran-oh; where they visited the Vittoriale degli Italiani
+it; dove visitarono il Vittoriale degli Italiani; vee-tor-ee-AHL-ay; where they visited the Vittoriale degli Italiani
+it; fermandosi a Toscolano-Maderno per un gelato; fair-MAHN-doh-see; stopping in Toscolano-Maderno for an ice cream
+it; il vero sapore della zona; sah-POOR-eh; the true flavor of the area
+it; Le montagne si riflettevano sull’acqua; ree-fleh-TAY-vah-noh; The mountains were reflected in the water
+it; Prenotarono il traghetto; preh-noh-TAHR-roh-no; they booked the ferry
+it; Vorrei vivere qui ; VEE-vair-eh; I would like to live here
+it; amicizia ; ah-mee-CHEET-see-ah; friendship

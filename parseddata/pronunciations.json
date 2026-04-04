@@ -2818,5 +2818,101 @@
 		"front": "è stata condividere",
 		"pronunciation": "kon-dee-VEE-dair-eh",
 		"back": "was sharing"
+	},
+	{
+		"language": "it",
+		"front": "arrivarono alla stazione",
+		"pronunciation": "ah-REE-vah-roh-noh",
+		"back": "arrived at the station"
+	},
+	{
+		"language": "it",
+		"front": "disse",
+		"pronunciation": "DEE-seh",
+		"back": "said (remoto passato)"
+	},
+	{
+		"language": "it",
+		"front": "Il sole già scintillava",
+		"pronunciation": "jaw-shin-tee-LAH-vah",
+		"back": "the sun was already shining"
+	},
+	{
+		"language": "it",
+		"front": "i quattro amici pedalavano lungo la riva",
+		"pronunciation": "peh-deh-LAH-vah-noh",
+		"back": "teh four friends were pedaling along the shore"
+	},
+	{
+		"language": "it",
+		"front": "comprò una calamita",
+		"pronunciation": "cah-lah-MEE-tah",
+		"back": "bought a magnet"
+	},
+	{
+		"language": "it",
+		"front": "Giulia fece decine di foto",
+		"pronunciation": "day-CHEE-nay",
+		"back": "Giulia took dozens of photos"
+	},
+	{
+		"language": "it",
+		"front": "si fermarono in un ristorante",
+		"pronunciation": "fair-MAHR-roh-noh",
+		"back": "they stopped at a restaurant"
+	},
+	{
+		"language": "it",
+		"front": "presero la strada panoramica",
+		"pronunciation": "PRAY-zair-roh",
+		"back": "they took the scenic road"
+	},
+	{
+		"language": "it",
+		"front": "dove visitarono il Vittoriale degli Italiani",
+		"pronunciation": "vee-see-TAHR-ran-oh",
+		"back": "where they visited the Vittoriale degli Italiani"
+	},
+	{
+		"language": "it",
+		"front": "dove visitarono il Vittoriale degli Italiani",
+		"pronunciation": "vee-tor-ee-AHL-ay",
+		"back": "where they visited the Vittoriale degli Italiani"
+	},
+	{
+		"language": "it",
+		"front": "fermandosi a Toscolano-Maderno per un gelato",
+		"pronunciation": "fair-MAHN-doh-see",
+		"back": "stopping in Toscolano-Maderno for an ice cream"
+	},
+	{
+		"language": "it",
+		"front": "il vero sapore della zona",
+		"pronunciation": "sah-POOR-eh",
+		"back": "the true flavor of the area"
+	},
+	{
+		"language": "it",
+		"front": "Le montagne si riflettevano sull'acqua",
+		"pronunciation": "ree-fleh-TAY-vah-noh",
+		"back": "The mountains were reflected in the water"
+	},
+	{
+		"language": "it",
+		"front": "Prenotarono il traghetto",
+		"pronunciation": "preh-noh-TAHR-roh-no",
+		"back": "they booked the ferry"
+	},
+	{
+		"language": "it",
+		"front": "Vorrei vivere qui",
+		"pronunciation": "VEE-vair-eh",
+		"back": "I would like to live here"
+	},
+	{
+		"language": "it",
+		"front": "amicizia",
+		"pronunciation": "ah-mee-CHEET-see-ah",
+		"back": "friendship"
 	}
 ]
