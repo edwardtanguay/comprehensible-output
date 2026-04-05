@@ -2914,5 +2914,71 @@
 		"front": "amicizia",
 		"pronunciation": "ah-mee-CHEET-see-ah",
 		"back": "friendship"
+	},
+	{
+		"language": "it",
+		"front": "se ne innamorano",
+		"pronunciation": "ih-NAH-mor-ah-noh",
+		"back": "they fall in love with it"
+	},
+	{
+		"language": "it",
+		"front": "indica",
+		"pronunciation": "IN-dee-kah",
+		"back": "indicates"
+	},
+	{
+		"language": "it",
+		"front": "mentre preparano gli zaini",
+		"pronunciation": "preh-PAR-ah-noh",
+		"back": "while they prepare their backpacks"
+	},
+	{
+		"language": "it",
+		"front": "mentre preparano gli zaini",
+		"pronunciation": "ZAH-ee-nee",
+		"back": "while they prepare their backpacks"
+	},
+	{
+		"language": "it",
+		"front": "si fermano vicino alle grotte",
+		"pronunciation": "FAIR-mah-noh",
+		"back": "they stop near the caves"
+	},
+	{
+		"language": "it",
+		"front": "si siedono in un bar",
+		"pronunciation": "see-EH-doh-noh",
+		"back": "they sit in a bar"
+	},
+	{
+		"language": "it",
+		"front": "Mangiano e chiacchierano",
+		"pronunciation": "MAN-gee-ah-no",
+		"back": "they eat and chat"
+	},
+	{
+		"language": "it",
+		"front": "Mangiano e chiacchierano",
+		"pronunciation": "kee-AH-kee-er-ah-noh",
+		"back": "they eat and chat"
+	},
+	{
+		"language": "it",
+		"front": "entrano",
+		"pronunciation": "EN-trah-noh",
+		"back": "they enter"
+	},
+	{
+		"language": "it",
+		"front": "Sì, accomodatevi",
+		"pronunciation": "ah-koh-moh-DAH-teh-vee",
+		"back": "yes, come in"
+	},
+	{
+		"language": "it",
+		"front": "Intanto godiamocela",
+		"pronunciation": "goh-dee-AH-moh-chay-la",
+		"back": "in the meantime, let's enjoy it"
 	}
 ]

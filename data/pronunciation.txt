@@ -704,3 +704,16 @@ it; Le montagne si riflettevano sull’acqua; ree-fleh-TAY-vah-noh; The mountain
 it; Prenotarono il traghetto; preh-noh-TAHR-roh-no; they booked the ferry
 it; Vorrei vivere qui ; VEE-vair-eh; I would like to live here
 it; amicizia ; ah-mee-CHEET-see-ah; friendship
+
+it; se ne innamorano; ih-NAH-mor-ah-noh; they fall in love with it
+it; indica; IN-dee-kah; indicates
+it; mentre preparano gli zaini ; preh-PAR-ah-noh; while they prepare their backpacks
+it; mentre preparano gli zaini ; ZAH-ee-nee; while they prepare their backpacks
+it; si fermano vicino alle grotte; FAIR-mah-noh; they stop near the caves
+it; si siedono in un bar; see-EH-doh-noh; they sit in a bar
+it; Mangiano e chiacchierano; MAN-gee-ah-no; they eat and chat
+it; Mangiano e chiacchierano; kee-AH-kee-er-ah-noh; they eat and chat
+it; entrano ; EN-trah-noh; they enter
+it; Sì, accomodatevi; ah-koh-moh-DAH-teh-vee; yes, come in
+it; Intanto godiamocela; goh-dee-AH-moh-chay-la; in the meantime, let's enjoy it
+
