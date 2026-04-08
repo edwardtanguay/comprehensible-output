@@ -705,7 +705,7 @@ it; Prenotarono il traghetto; preh-noh-TAHR-roh-no; they booked the ferry
 it; Vorrei vivere qui ; VEE-vair-eh; I would like to live here
 it; amicizia ; ah-mee-CHEET-see-ah; friendship
 
-it; se ne innamorano; ih-NAH-mor-ah-noh; they fall in love with it
+it; se ne innamorano; ih-nah-MOR-ah-noh; they fall in love with it
 it; indica; IN-dee-kah; indicates
 it; mentre preparano gli zaini ; preh-PAR-ah-noh; while they prepare their backpacks
 it; mentre preparano gli zaini ; ZAH-ee-nee; while they prepare their backpacks
@@ -717,3 +717,12 @@ it; entrano ; EN-trah-noh; they enter
 it; Sì, accomodatevi; ah-koh-moh-DAH-teh-vee; yes, come in
 it; Intanto godiamocela; goh-dee-AH-moh-chay-la; in the meantime, let's enjoy it
 
+it;Entrano in un piccolo bar; EN-trah-noh; they enter a small café
+it; poiché ciò non è corretto; poh-ee-KAY CHOH nohn; since this is not correct
+it; sono già le 7:48; soh-noh-JAW-lay;it is almost 7:48
+it; accomodatevi; ah-koh-moh-DAH-teh-vee; have a seat
+it; pesce di lago ; PAY-shee; lake fish
+it; un paio di minuti fa;PIGH-yoh;a couple minutes ago
+it; il sole comincia a scendere; coh-MEEN-cha; the sun is starting to set
+it; Facciamoci una foto; fah-CHAH-moh-chee; let's take a picture together
+it;Continuano verso Malcesine; kon-TEE-noo-ahn-noh; they continue on toward Malcesine

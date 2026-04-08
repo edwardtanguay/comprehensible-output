@@ -2918,7 +2918,7 @@
 	{
 		"language": "it",
 		"front": "se ne innamorano",
-		"pronunciation": "ih-NAH-mor-ah-noh",
+		"pronunciation": "ih-nah-MOR-ah-noh",
 		"back": "they fall in love with it"
 	},
 	{
@@ -2980,5 +2980,59 @@
 		"front": "Intanto godiamocela",
 		"pronunciation": "goh-dee-AH-moh-chay-la",
 		"back": "in the meantime, let's enjoy it"
+	},
+	{
+		"language": "it",
+		"front": "Entrano in un piccolo bar",
+		"pronunciation": "EN-trah-noh",
+		"back": "they enter a small café"
+	},
+	{
+		"language": "it",
+		"front": "poiché ciò non è corretto",
+		"pronunciation": "poh-ee-KAY CHOH nohn",
+		"back": "since this is not correct"
+	},
+	{
+		"language": "it",
+		"front": "sono già le 7:48",
+		"pronunciation": "soh-noh-JAW-lay",
+		"back": "it is almost 7:48"
+	},
+	{
+		"language": "it",
+		"front": "accomodatevi",
+		"pronunciation": "ah-koh-moh-DAH-teh-vee",
+		"back": "have a seat"
+	},
+	{
+		"language": "it",
+		"front": "pesce di lago",
+		"pronunciation": "PAY-shee",
+		"back": "lake fish"
+	},
+	{
+		"language": "it",
+		"front": "un paio di minuti fa",
+		"pronunciation": "PIGH-yoh",
+		"back": "a couple minutes ago"
+	},
+	{
+		"language": "it",
+		"front": "il sole comincia a scendere",
+		"pronunciation": "coh-MEEN-cha",
+		"back": "the sun is starting to set"
+	},
+	{
+		"language": "it",
+		"front": "Facciamoci una foto",
+		"pronunciation": "fah-CHAH-moh-chee",
+		"back": "let's take a picture together"
+	},
+	{
+		"language": "it",
+		"front": "Continuano verso Malcesine",
+		"pronunciation": "kon-TEE-noo-ahn-noh",
+		"back": "they continue on toward Malcesine"
 	}
 ]

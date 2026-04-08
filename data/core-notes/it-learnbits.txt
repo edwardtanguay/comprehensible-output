@@ -1838,7 +1838,7 @@
 	- dove si colloca "ne" in relazione ad altri pronomi
 		- me ne vado (I'm leaving)
 		- me ne dai (give me some)
-- ne o ci // #ne #ce
+- ne o ci o ce// #ne #ce #ci ``ne ``ce ``ci
 	- a cosa servono
 		- la loro funzione principale è quella di sostituire parole o intere parti di una frase, evitando così ripetizioni inutili
 	- dove sono posizionati
@@ -1855,21 +1855,74 @@
 				- non voglio del miele
 					- non ne voglio
 				- Luca ha 5 fratelli ma io non ne ho nessuno
+				- Allora ne prendiamo quattro
+				- vorrei comprarne uno per mia sorella
+				- ce ne sono tanti, scegli quello che ti piace
+			- esempi che non fanno riferimento a nulla prima della frase
+				- scusi, ce ne porta quattro cappuccini e due brioche?
 			- con un participio passato, bisogna concordare il participio passato in genere e numero con il sostantivo sostituito da "ne"
 				- quante valigie hai portato
 					- ne ho portata una sola
 					- ne ho portate solo due
 				- quanti gelati hai mangiato
 					- ne ho mangiati tre
-		- sostituisce "di qualcuno" o "di qualcosa"
+		- sostituisce "di qualcuno / di qualcosa / di questo / di quella cosa / di questa cosa / di ciò"
 			- hai bisogno di aiuto? / no, non ne ho bisogno
 			- mi ricordo di Maria / me ne anche ricordo 
 			- parliamo del problema / sì, ne parliamo
 			- non so nulla di questa storia e non ne voglio sapere niente
-		- sostituisce "da qualcuno" o "da qualcosa"
+			- me ne sono appena ricordato
+				- "ne" sostituisce "di qualcosa"
+				- il verbo è "ricordarsi di qualcosa"
+			- il motivo è che non ce n'è abbastanza
+			- così ce ne ricordiamo per sempre
+				- ce = a noi / per noi stessi, cioè indica chi si ricorda
+			- me ne ricordo
+				- io mi ricordo di questo
+			- te ne ricordi?
+				- tu ti ricordi di questo?
+			- ce ne ricordiamo
+				- noi ci ricordiamo di questo
+			- è stata lunga, ma ne è valsa la pena
+				- ne = "di questa cosa / di ciò" (riferito allo sforzo, alla situazione, all'esperienza)
+				- qui "valsa" è il participio passato del verbo "valere", che significa essere utile, meritare, avere valore
+		- sostituisce "da qualcuno / da qualcosa / da qui / da qualche parte"
 			- vengo da Milano / ne anche vengo
 			- usciamo dal ristorante / sì, ne usciamo
 			- mi allontano da quella situazione / me ne allontano
+			- va bene, ce ne stiamo qui
+				- ce = a noi / per noi stessi (riflessivo)
+				- ne = da qui / da qualche parte
+			- domani ce ne andiamo a fare un'altra avventura
+				- ce ne andiamo = andiamo via da qui
+			- vado via da qui
+				- me ne vado 
+			- torniamo a casa da qui
+				- ce ne torniamo a casa
+			- sono andati via da qui prima
+				- se ne sono andati prima
+		- andarsene: (da un luogo) = andare via
+			- non me ne voglio più andare da qui
+			- no, grazie, me ne vado così
+				- indica da questo luogo / da qui / via da qui
+		- starsene: stare lì senza fare niente (e questo dà fastidio)
+			- non starsene lì ferma
+				- stare lì ferma
+					- neutro
+					- stand there still
+				- starsene lì ferma 
+					- più espressivo: stare lì senza fare niente (e questo dà fastidio)
+		- fregarsene: fregarsene di qualcosa = non importarsene
+			- non me ne frego della dieta
+				- "ne" sostituisce "di essa / di quella cosa", riferendosi alla dieta
+				- il verbo fregarsene richiede sempre "ne" quando indica di cosa non ti importa.
+				- se togli "ne", la frase perde il senso e diventa grammaticalmente scorretta
+				- io non mi preoccupo della dieta 
+		- importarsene: 
+			- non me ne importa della dieta
+		- io me ne intendo un po' di storia
+			- senza il "ne", la frase non è corretta
+			- intendersi di qualcosa non esiste senza "ne"
 	- ci
 		- un pronome riflessivo per noi
 			- quando siamo in vacanza, ci svegliamo sempre molto tardi
@@ -1879,7 +1932,13 @@
 				- Paolo ci ha accompagnato all’aeroporto
 			- Mia nonna ha sempre dato buoni consigli a me e ai miei cugini
 				- mia nonna ci ha sempre dato buoni consigli
-		- si riferisce a un luogo (sostituisce "qui", "lì", "in questo luogo", "in quel luogo"...)
+			- Scusi, ci può dire come arrivarci
+			- Cosa ci consiglia?
+			- facciamoci una foto
+				- facciamo una foto a noi stessi
+				- facciamo una foto insieme
+			- dai, proviamoci
+		- si riferisce a un luogo (sostituisce "qui", "lì", "in questo luogo", "in quel luogo"...), sostituisce un luogo già noto nel contesto
 			- vado a Torino domani
 				- ci vado domani
 			- non stiamo mai in casa il sabato sera
@@ -1888,6 +1947,8 @@
 				- con chi ci sei andato
 			- a che ora sei arrivato in ufficio?
 				- ce sono arrivato alle nove
+			- Scusi, ci può dire come arrivarci
+			- Certo, ci andate sempre dritto e poi girate a sinistra
 		- sostituisce "a qualcosa"
 			- hai pensato a un piano
 				- ci hai pensato
@@ -1895,6 +1956,14 @@
 				- non farci caso
 			- prova a cucinare il pollo
 				- ci prova
+			- ma voglio provarci
+			- Ragazzi, ci pensate
+			- non so perché ci metta così tanto
+				- "ci" sostituisce "a fare questa cosa"
+			- non ci credo, è fantastico
+				- significa in esso / in quello / a questa cosa
+				- Non credo a questa cosa = non ci credo
+			- e tutti ci credono davvero
 		- sostituisce "in qualcuno/qualcosa"
 			- non crede in Dio
 				- non ci crede
@@ -1910,6 +1979,7 @@
 				- ci scommetto 10 euro
 			- possiamo contare su di lui
 				- possiamo contarci
+		
 		- unisce ad alcuni verbi per formarne degli altri dal significato diverso
 			- metterci
 				- indica tempo o impegno necessario
@@ -1924,6 +1994,8 @@
 			- vederci
 				- indica capacità visiva o chiarezza
 					- senza occhiali non ci vedo bene
+			- viverci 
+				- Bisogna viverci questi momenti
 			- ci + la = ce (per ragioni fonetiche, non logiche)
 				- farcela
 					- indica riuscire
@@ -1931,6 +2003,12 @@
 				- avercela
 					- indica essere arrabbiati con qualcuno
 						- perché ce l'hai con me
+	- ce
+		- farcela = riuscire
+			- Mah, io non so se ce la faccio
+		- "ci" cambia forma in "ce" quando è combinato con "ne" (o altri pronomi come lo, la, li, le)
+			- Ah sì? Allora ce ne parli dopo
+				- Non si dice "ci ne",  → è grammaticalmente sbagliato.
 
 - l'imperativo
 	- come formare l'imperativo per tu e voi
@@ -2303,6 +2381,8 @@
 - avverbi
 	- gli avverbi cambiano quando li usi?
 		- non, gli avverbi in italiano non cambiano genere o numero come fanno gli aggettivi
+		- esempi
+			- le giornate erano molto belle
 - andare + participio passato
 	- che cosa fa questa costruzione: andare + participio passato
 		- indica un obbligo o una necessità, simile a "deve essere"
