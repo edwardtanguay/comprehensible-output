@@ -723,7 +723,7 @@ it; sono già le 7:48; soh-noh-JAW-lay;it is almost 7:48
 it; accomodatevi; ah-koh-moh-DAH-teh-vee; have a seat
 it; pesce di lago ; PAY-shee; lake fish
 it; un paio di minuti fa;PIGH-yoh;a couple minutes ago
-it; il sole comincia a scendere; coh-MEEN-cha; the sun is starting to set
+it; il sole comincia a scendere; coh-MEEN-cha; the sun is starting to set   
 it; Facciamoci una foto; fah-CHAH-moh-chee; let's take a picture together
 it;Continuano verso Malcesine; kon-TEE-noo-ahn-noh; they continue on toward Malcesine
 it; chiamiamoli blocchi di frasi; key-ah-mee-AH-moh-lee;let's call them sentence blocks

@@ -3088,5 +3088,41 @@
 		"front": "almeno con frasi semplici",
 		"pronunciation": "SEM-plee-chee",
 		"back": "at least with simple sentences"
+	},
+	{
+		"language": "it",
+		"front": "pensiamoci un secondo",
+		"pronunciation": "pen-see-AH-moh-chee",
+		"back": "let's think about it a second"
+	},
+	{
+		"language": "it",
+		"front": "non starsene lì ferma",
+		"pronunciation": "STAR-sen-ay",
+		"back": "don't just stand there"
+	},
+	{
+		"language": "it",
+		"front": "quanto dura la visita",
+		"pronunciation": "VEE-zee-tah",
+		"back": "how long does the visit last"
+	},
+	{
+		"language": "it",
+		"front": "salgono al Monte Baldo",
+		"pronunciation": "SAL-goh-noh",
+		"back": "they climb Monte Baldo"
+	},
+	{
+		"language": "it",
+		"front": "ci si sente liberi",
+		"pronunciation": "LEE-bair-ee",
+		"back": "you feel free"
+	},
+	{
+		"language": "it",
+		"front": "magia",
+		"pronunciation": "mah-JEE-ah",
+		"back": "magic"
 	}
 ]
