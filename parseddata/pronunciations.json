@@ -3034,5 +3034,59 @@
 		"front": "Continuano verso Malcesine",
 		"pronunciation": "kon-TEE-noo-ahn-noh",
 		"back": "they continue on toward Malcesine"
+	},
+	{
+		"language": "it",
+		"front": "chiamiamoli blocchi di frasi",
+		"pronunciation": "key-ah-mee-AH-moh-lee",
+		"back": "let's call them sentence blocks"
+	},
+	{
+		"language": "it",
+		"front": "Queste frasi diventano automatiche",
+		"pronunciation": "dee-VENT-ah-noh",
+		"back": "these sentences become automatic"
+	},
+	{
+		"language": "it",
+		"front": "posso avere un asciugamano?",
+		"pronunciation": "ah-shoo-gah-MAN-oh",
+		"back": "can I have a towel"
+	},
+	{
+		"language": "it",
+		"front": "la produzione attiva",
+		"pronunciation": "ah-TEE-vah",
+		"back": "active production"
+	},
+	{
+		"language": "it",
+		"front": "nessuno ti giudica",
+		"pronunciation": "JEW-dee-kah",
+		"back": "no one judges you"
+	},
+	{
+		"language": "it",
+		"front": "uno schema semplice",
+		"pronunciation": "SKEM-ah",
+		"back": "a simple scheme"
+	},
+	{
+		"language": "it",
+		"front": "molto utile",
+		"pronunciation": "OO-tee-lay",
+		"back": "very useful"
+	},
+	{
+		"language": "it",
+		"front": "la sedia",
+		"pronunciation": "SED-ya",
+		"back": "the chair"
+	},
+	{
+		"language": "it",
+		"front": "almeno con frasi semplici",
+		"pronunciation": "SEM-plee-chee",
+		"back": "at least with simple sentences"
 	}
 ]

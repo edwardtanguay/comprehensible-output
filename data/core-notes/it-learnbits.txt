@@ -1844,6 +1844,9 @@
 	- dove sono posizionati
 		- prima del verbo
 	- ne
+		- rules in English
+			- substitutes for a preposition + noun in expressions with the preposition di or da
+			- substitutes for a preposition + noun in expressions with the prepositions a, in, da or su
 		- indica una parte di una quantità
 			- esempi generali
 				- prendo cinque cioccolatini 
@@ -1855,9 +1858,11 @@
 				- non voglio del miele
 					- non ne voglio
 				- Luca ha 5 fratelli ma io non ne ho nessuno
-				- Allora ne prendiamo quattro
+				- allora ne prendiamo quattro
+				- ne prenderò quattro
 				- vorrei comprarne uno per mia sorella
 				- ce ne sono tanti, scegli quello che ti piace
+				- ce ne sono troppi, scegli quello che preferisci
 			- esempi che non fanno riferimento a nulla prima della frase
 				- scusi, ce ne porta quattro cappuccini e due brioche?
 			- con un participio passato, bisogna concordare il participio passato in genere e numero con il sostantivo sostituito da "ne"
@@ -1866,6 +1871,17 @@
 					- ne ho portate solo due
 				- quanti gelati hai mangiato
 					- ne ho mangiati tre
+			- quanti libri prendi?
+				- ne prendo tre
+			- hai mangiato tutta la pizza?
+				- ne ho mangiato tanta
+			- vuoi del latte?
+				- no, non ne prendo
+			- note you have to agree with the noun
+				- quanti chili di banana hai comprato?
+					- ne ho comprati due
+				- hai preso dell'acqua?
+					- sì, ne ho presa
 		- sostituisce "di qualcuno / di qualcosa / di questo / di quella cosa / di questa cosa / di ciò"
 			- hai bisogno di aiuto? / no, non ne ho bisogno
 			- mi ricordo di Maria / me ne anche ricordo 
@@ -1886,6 +1902,26 @@
 			- è stata lunga, ma ne è valsa la pena
 				- ne = "di questa cosa / di ciò" (riferito allo sforzo, alla situazione, all'esperienza)
 				- qui "valsa" è il participio passato del verbo "valere", che significa essere utile, meritare, avere valore
+			- io non me ne intendo molto 
+				- non sono molto esperto di qualcosa
+				- non so molto su un certo argomento
+				- altri esempi
+					- io me ne intendo di tecnologia
+					- lui non se ne intende di cucina
+					- voi ve ne intendete di arte?
+			- rendersi conto
+				- ci si rende conto di quanto fosse importante questo luogo
+			- e non me ne dimenticherò facilmente
+			- parlate del libro?
+				- sì, ne parliamo 
+				- no, non ne stiamo parlando
+			- hai bisogno degli occhiali?
+				- no, non ne ho bisogno
+				- sì, ne ho bisogno
+			- avete voglia di un gelato?
+				- sì, ne abbiamo voglia
+			- parlano spesso di politica?
+				- sì, ne parlano spesso
 		- sostituisce "da qualcuno / da qualcosa / da qui / da qualche parte"
 			- vengo da Milano / ne anche vengo
 			- usciamo dal ristorante / sì, ne usciamo
@@ -1901,10 +1937,16 @@
 				- ce ne torniamo a casa
 			- sono andati via da qui prima
 				- se ne sono andati prima
+			- che cosa hai preso dalla pasticceria?
+				- ne ho preso una torta
+			- a che ora esci dall'ufficio
+				- ne esco alle 6:00
 		- andarsene: (da un luogo) = andare via
 			- non me ne voglio più andare da qui
 			- no, grazie, me ne vado così
 				- indica da questo luogo / da qui / via da qui
+			- Ragazzi, ce ne andiamo subito o vogliamo fare colazione prima?
+			- poi ce ne andiamo con calma
 		- starsene: stare lì senza fare niente (e questo dà fastidio)
 			- non starsene lì ferma
 				- stare lì ferma
@@ -1912,6 +1954,7 @@
 					- stand there still
 				- starsene lì ferma 
 					- più espressivo: stare lì senza fare niente (e questo dà fastidio)
+			- non starsene lì ferma
 		- fregarsene: fregarsene di qualcosa = non importarsene
 			- non me ne frego della dieta
 				- "ne" sostituisce "di essa / di quella cosa", riferendosi alla dieta
@@ -1923,6 +1966,10 @@
 		- io me ne intendo un po' di storia
 			- senza il "ne", la frase non è corretta
 			- intendersi di qualcosa non esiste senza "ne"
+		- elemento che si usa spesso per rendere la frase più naturale e fluida nella forma impersonale
+			- ci si rende conto di quanto fosse importante questo luogo
+				- si rende conto → corretto ma meno frequente
+				- ci si rende conto → standard, più naturale
 	- ci
 		- un pronome riflessivo per noi
 			- quando siamo in vacanza, ci svegliamo sempre molto tardi
@@ -1938,6 +1985,12 @@
 				- facciamo una foto a noi stessi
 				- facciamo una foto insieme
 			- dai, proviamoci
+			- fermarsi
+				- io direi di fermarci qui
+					- fermare noi stessi
+					- mi fermo qui
+					- ci fermiamo un attimo
+					- il treno si ferma alla stazione				
 		- si riferisce a un luogo (sostituisce "qui", "lì", "in questo luogo", "in quel luogo"...), sostituisce un luogo già noto nel contesto
 			- vado a Torino domani
 				- ci vado domani
@@ -1949,6 +2002,7 @@
 				- ce sono arrivato alle nove
 			- Scusi, ci può dire come arrivarci
 			- Certo, ci andate sempre dritto e poi girate a sinistra
+			- non ci vedo bene in questa stanza, c'è poca luce
 		- sostituisce "a qualcosa"
 			- hai pensato a un piano
 				- ci hai pensato
@@ -1964,6 +2018,7 @@
 				- significa in esso / in quello / a questa cosa
 				- Non credo a questa cosa = non ci credo
 			- e tutti ci credono davvero 
+			- Luca ci pensa un attimo
 		- sostituisce "in qualcuno/qualcosa"
 			- non crede in Dio
 				- non ci crede
@@ -2004,12 +2059,40 @@
 				- avercela
 					- indica essere arrabbiati con qualcuno
 						- perché ce l'hai con me
+		- serve come elemento grammaticale quando ne è presente insieme ad altri pronomi
+			- sì, grazie, ce ne porti anche una bottiglia d’acqua
+				- ne = di qualcosa
+					- ne porti una bottiglia = porti una bottiglia di quella cosa
+	- ci si
+		- costruzione standard dei verbi riflessivi/impersonali quando si parla di sensazioni o stati generali
+			- ci si sente liberi
+				- altri esempi
+					- ci si sente liberi quando si cammina in montagna
+					- ci si diverte sempre al parco
+				- raro o errato
+					- si sente liberi
+					- ma è corretto: Luca si sente libero
+						- corretto perché Luca è un soggetto definito
 	- ce
 		- farcela = riuscire
 			- Mah, io non so se ce la faccio
 		- "ci" cambia forma in "ce" quando è combinato con "ne" (o altri pronomi come lo, la, li, le)
 			- Ah sì? Allora ce ne parli dopo
 				- Non si dice "ci ne",  → è grammaticalmente sbagliato.
+		- rende la costruzione idiomatica
+			- ce la facciamo
+				- non significa "ci" in senso di luogo
+			- la differenza tra “ce la facciamo” e “la facciamo” è sottile ma importante
+				- ce la facciamo
+					- riusciamo a farcela
+					- siamo in grado di farlo
+					- esemplio: ce la facciamo a finire il progetto entro domani
+				- la facciamo
+					- facciamo quella cosa
+					- compiamo quell'azione (accomplish)
+					- esempi
+						- la facciamo domani?
+						- la facciamo insieme
 
 - l'imperativo
 	- come formare l'imperativo per tu e voi

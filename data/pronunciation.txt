@@ -736,3 +736,10 @@ it; uno schema semplice; SKEM-ah; a simple scheme
 it; molto utile; OO-tee-lay; very useful
 it; la sedia; SED-ya; the chair
 it; almeno con frasi semplici; SEM-plee-chee; at least with simple sentences
+
+it; pensiamoci un secondo; pen-see-AH-moh-chee; let's think about it a second
+it; non starsene lì ferma; STAR-sen-ay; don't just stand there
+it; quanto dura la visita; VEE-zee-tah; how long does the visit last
+it; salgono al Monte Baldo; SAL-goh-noh; they climb Monte Baldo
+it; ci si sente liberi; LEE-bair-ee; you feel free
+it; magia; mah-JEE-ah; magic
