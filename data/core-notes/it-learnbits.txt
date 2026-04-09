@@ -1963,7 +1963,7 @@
 			- non ci credo, è fantastico
 				- significa in esso / in quello / a questa cosa
 				- Non credo a questa cosa = non ci credo
-			- e tutti ci credono davvero
+			- e tutti ci credono davvero 
 		- sostituisce "in qualcuno/qualcosa"
 			- non crede in Dio
 				- non ci crede
@@ -1979,7 +1979,8 @@
 				- ci scommetto 10 euro
 			- possiamo contare su di lui
 				- possiamo contarci
-		
+		- sostituisce "per questo / per fare questa cosa"
+			- Quanto tempo ci vuole?		
 		- unisce ad alcuni verbi per formarne degli altri dal significato diverso
 			- metterci
 				- indica tempo o impegno necessario
@@ -2471,5 +2472,8 @@
 	- mi aveva promesso che mi avrebbe chiamato il giorno dopo
 	- speravi che tutto sarebbe andato meglio
 	
-	
+
+- quick phrases
+	- allora vediamo
+	- 
 

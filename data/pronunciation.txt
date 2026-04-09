@@ -726,3 +726,13 @@ it; un paio di minuti fa;PIGH-yoh;a couple minutes ago
 it; il sole comincia a scendere; coh-MEEN-cha; the sun is starting to set
 it; Facciamoci una foto; fah-CHAH-moh-chee; let's take a picture together
 it;Continuano verso Malcesine; kon-TEE-noo-ahn-noh; they continue on toward Malcesine
+it; chiamiamoli blocchi di frasi; key-ah-mee-AH-moh-lee;let's call them sentence blocks
+it; Queste frasi diventano automatiche; dee-VENT-ah-noh; these sentences become automatic
+
+it; posso avere un asciugamano?; ah-shoo-gah-MAN-oh; can I have a towel
+it; la produzione attiva; ah-TEE-vah; active production
+it; nessuno ti giudica; JEW-dee-kah; no one judges you
+it; uno schema semplice; SKEM-ah; a simple scheme
+it; molto utile; OO-tee-lay; very useful
+it; la sedia; SED-ya; the chair
+it; almeno con frasi semplici; SEM-plee-chee; at least with simple sentences
