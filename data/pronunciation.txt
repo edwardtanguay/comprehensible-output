@@ -743,3 +743,11 @@ it; quanto dura la visita; VEE-zee-tah; how long does the visit last
 it; salgono al Monte Baldo; SAL-goh-noh; they climb Monte Baldo
 it; ci si sente liberi; LEE-bair-ee; you feel free
 it; magia; mah-JEE-ah; magic
+
+it; vogliono solo partire; VOHL-yoh-noh; they just want to go
+it;perciò è tranquillo;pair-CHOH-ay; so it's quiet
+it; una maglia in vendita; VEN-dee-tah;a shirt for sale
+it; fammi leggere l'indizio; LEH-jer-eh; let me read the hint
+it; scherza Luca; SKAIR-tsah; Luca jokes
+
+it; Mentre mangiano; MAN-jan-oh; while they eat

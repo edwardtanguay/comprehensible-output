@@ -1,3 +1,8 @@
+- activities
+	- 500 phrases a day
+	- each time you record a phrase, alter it many times slightly by adding words, etc.
+	- listen to the audio on the phrases you look up
+	- say phrase again in full-speed Italian accent
 - todo
 	- x 5.9 https://learnamo.com/verbo-venire-usi-particolari/
 	- x 5.9 https://learnamo.com/verbi-preposizioni-italiano/
@@ -1820,6 +1825,7 @@
 				- basta, me ne vado
 					- dal posto in cui mi trovo
 				- (to get out of here)
+				- qualcuno se ne va e poi non si ritrova più
 			- non poterne più (essere stanchi di qualcosa)
 				- sei di nuovo in ritardo, non ne posso più
 					- del tuo ritardo
@@ -1839,14 +1845,32 @@
 		- me ne vado (I'm leaving)
 		- me ne dai (give me some)
 - ne o ci o ce// #ne #ce #ci ``ne ``ce ``ci
+	- esercizi
+		- Ne and Ci: Practice
+			- spiegazioni, domande e risposte
+			- https://learnitalian.web.unc.edu/home/pronouns/ne-and-ci/ne-and-ci-practice
+				- pensi spesso alla tua familia?
+					- sì, ce penso spesso
 	- a cosa servono
 		- la loro funzione principale è quella di sostituire parole o intere parti di una frase, evitando così ripetizioni inutili
 	- dove sono posizionati
 		- prima del verbo
+	- panoramica delle regole
+		- ne substitutes for a preposition + noun in expressions with the preposition di or da
+			- avere bisogno di
+			- avere voglia di
+			- avere paura di
+		- ci substitutes for a preposition + noun in expressions with the prepositions a, in, da, su, (un luogo)
+			- a
+				- pensare a
+				- arrivare a
+				- credere a
+				- andare a
+			- su
+				- salire su
+			- luogo
+				- essere in Italia
 	- ne
-		- rules in English
-			- substitutes for a preposition + noun in expressions with the preposition di or da
-			- substitutes for a preposition + noun in expressions with the prepositions a, in, da or su
 		- indica una parte di una quantità
 			- esempi generali
 				- prendo cinque cioccolatini 
@@ -1863,6 +1887,7 @@
 				- vorrei comprarne uno per mia sorella
 				- ce ne sono tanti, scegli quello che ti piace
 				- ce ne sono troppi, scegli quello che preferisci
+				- perché questa volta ne ho di meno
 			- esempi che non fanno riferimento a nulla prima della frase
 				- scusi, ce ne porta quattro cappuccini e due brioche?
 			- con un participio passato, bisogna concordare il participio passato in genere e numero con il sostantivo sostituito da "ne"
@@ -1882,6 +1907,10 @@
 					- ne ho comprati due
 				- hai preso dell'acqua?
 					- sì, ne ho presa
+			- quanti corse segui?
+				- ne seguo cinque
+			- quanti email scrivi al giorno?
+				- ne scrivo dieci al giorno
 		- sostituisce "di qualcuno / di qualcosa / di questo / di quella cosa / di questa cosa / di ciò"
 			- hai bisogno di aiuto? / no, non ne ho bisogno
 			- mi ricordo di Maria / me ne anche ricordo 
@@ -1922,6 +1951,8 @@
 				- sì, ne abbiamo voglia
 			- parlano spesso di politica?
 				- sì, ne parlano spesso
+			- ne è valsa la pena
+				- è valsa la pena di questo
 		- sostituisce "da qualcuno / da qualcosa / da qui / da qualche parte"
 			- vengo da Milano / ne anche vengo
 			- usciamo dal ristorante / sì, ne usciamo
@@ -1970,6 +2001,10 @@
 			- ci si rende conto di quanto fosse importante questo luogo
 				- si rende conto → corretto ma meno frequente
 				- ci si rende conto → standard, più naturale
+		- è richiesto per una frase fissa
+			- me ne sono reso conto
+				- mi sono reso conto di qualcosa
+				- ma "me sono reso conto" è sbagliato, poiché manca "di cosa"
 	- ci
 		- un pronome riflessivo per noi
 			- quando siamo in vacanza, ci svegliamo sempre molto tardi
@@ -2001,8 +2036,12 @@
 			- a che ora sei arrivato in ufficio?
 				- ce sono arrivato alle nove
 			- Scusi, ci può dire come arrivarci
-			- Certo, ci andate sempre dritto e poi girate a sinistra
+			- certo, ci andate sempre dritto e poi girate a sinistra
 			- non ci vedo bene in questa stanza, c'è poca luce
+			- a che ora andiamo al ristorante?
+				- ci andiamo alle otto
+			- sei mai stata in Sicilia?
+				- no, non ci sono mai stata
 		- sostituisce "a qualcosa"
 			- hai pensato a un piano
 				- ci hai pensato
@@ -2019,6 +2058,10 @@
 				- Non credo a questa cosa = non ci credo
 			- e tutti ci credono davvero 
 			- Luca ci pensa un attimo
+			- pensi molto agli errori del passato?
+				- sì, ci penso spesso
+			- credi alla magia?
+				- no, non ci credo molto
 		- sostituisce "in qualcuno/qualcosa"
 			- non crede in Dio
 				- non ci crede
@@ -2032,8 +2075,10 @@
 		- sostituisce "su qualcuno/qualcosa"
 			- scommetto 10 euro su questo fatto
 				- ci scommetto 10 euro
-			- possiamo contare su di lui
-				- possiamo contarci
+			- possiamo contare su di lui?
+				- sì, possiamo contarci
+			- siete saliti sul treno?
+				- sì, ci siamo saliti
 		- sostituisce "per questo / per fare questa cosa"
 			- Quanto tempo ci vuole?		
 		- unisce ad alcuni verbi per formarne degli altri dal significato diverso
@@ -2063,6 +2108,19 @@
 			- sì, grazie, ce ne porti anche una bottiglia d’acqua
 				- ne = di qualcosa
 					- ne porti una bottiglia = porti una bottiglia di quella cosa
+		- pone l'accento sul successo
+			- la facciamo → focus sull’azione, più semplice e neutro
+			- ce la facciamo → focus su riuscire, possibile difficoltà
+		- cambia leggermente il significato
+			- se ci penso
+				- se ci penso
+					- pensiero generale
+					- se ci penso, non era una buona idea
+				- se penso
+					- pensare a una cosa specifica
+					- se penso a te, sorrido
+					- se penso al futuro, mi preoccupo
+		- 
 	- ci si
 		- costruzione standard dei verbi riflessivi/impersonali quando si parla di sensazioni o stati generali
 			- ci si sente liberi
@@ -2093,6 +2151,14 @@
 					- esempi
 						- la facciamo domani?
 						- la facciamo insieme
+		- aggiunge una sfumatura di presenza
+			- sì, ce li ho in tasca
+				- "ci li" = ce
+				- sì, li ho in tasca 
+					- frase semplice, naturale è anche corretto
+				- ma "ce li ho" aggiunge una sfumatura di presenza
+					- disponibilità “qui con me”
+					- spesso implica: “li ho già con me, tranquillo”
 
 - l'imperativo
 	- come formare l'imperativo per tu e voi
@@ -2554,9 +2620,108 @@
 	- credevamo che loro avrebbero accettato l'offerta
 	- mi aveva promesso che mi avrebbe chiamato il giorno dopo
 	- speravi che tutto sarebbe andato meglio
-	
-
+- differenciate
+	- anche, appena, adesso, ancora
+	- il caso / i casi, la casa / le case
 - quick phrases
 	- allora vediamo
-	- 
-
+- gli articoli
+	- di (some, about, of)
+		- di+il = del
+			- some
+				- ho comprato del pane fresco stamattina
+				- vorrei del vino rosso, per favore
+				- ho comprato del pane per la colazione
+			- about
+				- parliamo del film che abbiamo visto ieri
+				- parliamo del problema domani
+				- sentito una notizia del film nuovo
+			- of
+				- il titolo del film è famoso
+				- la porta del negozio è chiusa
+				- il sapore del caffè è forte
+		- di+lo = dello
+			- some
+				- ho comprato dello zucchero al supermercato
+				- bevo sempre dello succo d'arancia a colazione
+				- c'è ancora dello spazio libero qui
+			- about
+				- parliamo dello sport che pratichi
+				- ho letto un articolo dello sci
+				- discutiamo dello studente nuovo
+			- of
+				- il colore dello zaino è blu
+				- il suono dello strumento è forte
+				- il nome dello studente è difficile da ricordare
+		- di+l' = dell'
+			- some
+				- ho comprato dell'acqua fresca
+				- vuoi dell'insalata con il pranzo?
+				- c'è dell'aria fredda che entra dalla finestra
+		- di+la = della
+			- some
+				- ho preso della pasta al supermercato
+				- vuoi della carne o del pesce?
+				- c'è della luce che entra dalla finestra
+		- di+i = dei
+			- some
+				- ho comprato dei libri nuovi
+				- ho incontrato dei ragazzi al parco
+				- ci sono dei problemi da risolvere
+		- di+gli = degli
+			- some
+				- ho visto degli amici ieri sera
+				- ci sono degli alberi molto alti nel parco
+				- ho mangiato degli spaghetti buonissimi
+		- di+le = delle
+			- some
+				- ho comprato delle mele al mercato
+				- ci sono delle persone che aspettano fuori
+				- ho visto delle case molto grandi in quella zona
+	- a (to, in)
+		- a+il = al
+			- to
+				- vado al supermercato dopo il lavoro
+				- ho parlato al professore ieri
+				- torniamo al ristorante dove abbiamo mangiato bene
+			- in 
+				- vivo al nord dell’Italia
+			- at
+				- siamo al mare per le vacanze
+			- on
+				- lavoro al computer tutto il giorno
+		- a+lo = allo
+			-
+			-
+			-
+		- a+l' = all'
+			-
+			-
+			-
+		- a+la = alla
+			-
+			-
+			-
+		- a+i = ai
+			-
+			-
+			-
+		- a+gli = agli
+			-
+			-
+			-
+		- a+le = alle
+			-
+			-
+			-
+	- da (from, by, since)
+		- da+il = dal
+			- from
+				- esco dal lavoro
+				- vengo dal centro
+				- torno dal supermercato
+	- in
+	- su
+	
+- combined words
+	- mettercela

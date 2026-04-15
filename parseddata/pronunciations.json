@@ -3124,5 +3124,35 @@
 		"front": "magia",
 		"pronunciation": "mah-JEE-ah",
 		"back": "magic"
+	},
+	{
+		"language": "it",
+		"front": "vogliono solo partire",
+		"pronunciation": "VOHL-yoh-noh",
+		"back": "they just want to go"
+	},
+	{
+		"language": "it",
+		"front": "perciò è tranquillo",
+		"pronunciation": "pair-CHOH-ay",
+		"back": "so it's quiet"
+	},
+	{
+		"language": "it",
+		"front": "una maglia in vendita",
+		"pronunciation": "VEN-dee-tah",
+		"back": "a shirt for sale"
+	},
+	{
+		"language": "it",
+		"front": "fammi leggere l'indizio",
+		"pronunciation": "LEH-jer-eh",
+		"back": "let me read the hint"
+	},
+	{
+		"language": "it",
+		"front": "scherza Luca",
+		"pronunciation": "SKAIR-tsah",
+		"back": "Luca jokes"
 	}
 ]
