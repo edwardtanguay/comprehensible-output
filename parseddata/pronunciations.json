@@ -3154,5 +3154,29 @@
 		"front": "scherza Luca",
 		"pronunciation": "SKAIR-tsah",
 		"back": "Luca jokes"
+	},
+	{
+		"language": "it",
+		"front": "Mentre mangiano",
+		"pronunciation": "MAN-jan-oh",
+		"back": "while they eat"
+	},
+	{
+		"language": "it",
+		"front": "il compito",
+		"pronunciation": "KOM-pee-toh",
+		"back": "the task"
+	},
+	{
+		"language": "it",
+		"front": "Penso che sia già predisposto",
+		"pronunciation": "JAW-pray-dee-SPOH-stoh",
+		"back": "I think it is already set up"
+	},
+	{
+		"language": "it",
+		"front": "diciassette",
+		"pronunciation": "DEE-chah-SEH-tay",
+		"back": "seventeen"
 	}
 ]

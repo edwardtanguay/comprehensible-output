@@ -754,3 +754,7 @@ it; Mentre mangiano; MAN-jan-oh; while they eat
 it; il compito; KOM-pee-toh;the task
 
 it; Penso che sia già predisposto; JAW-pray-dee-SPOH-stoh;I think it is already set up
+
+it; diciassette; DEE-chah-SEH-tay; seventeen 
+it; mancano sette minuti; MAHN-cah-noh; with seven minutes left
+it; Sono già le 8:00 ; soh-noh JAW lay oh-toh; 
