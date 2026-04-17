@@ -2615,6 +2615,7 @@
 			- un vestito da sera
 			- è un comportamento da pazzi
 			- abbiamo comprato un tavolo da cucina
+			- scarpe da ginnastica
 		- indica il modo o il ruolo che qualcuno assume 
 			- si è vestito da pirata per la festa
 			- si è comportato a gran signore
@@ -2645,6 +2646,12 @@
 		- molti verbi di privazione o scelta
 			- rinunciare
 				- ha dovuto rinunciare al suo sogno
+		- molti verbi che indicano un movimento o un incitamento verso un'azione
+			- spronare
+				- il professore ci ha spronato a studiare di più
+				- il coach mi sprona a migliorare ogni giorno
+				- i miei amici mi hanno spronato a partecipare alla gara
+				- questa esperienza ti spronerà a uscire dalla tua zona di comfort
 	- di
 		- molti verbi di percezione mentale 
 			- accorgersi

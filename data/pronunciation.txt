@@ -758,3 +758,5 @@ it; Penso che sia già predisposto; JAW-pray-dee-SPOH-stoh;I think it is already
 it; diciassette; DEE-chah-SEH-tay; seventeen 
 it; mancano sette minuti; MAHN-cah-noh; with seven minutes left
 it; Sono già le 8:00 ; soh-noh JAW lay oh-toh; 
+it; So già che è così; soh JAW kay ay koh-see; I already know it is like that
+it; Sono già arrivato a casa; soh-noh-JAW-ah-ree-VAH-toh;I've already arrived home
