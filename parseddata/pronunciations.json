@@ -3178,5 +3178,23 @@
 		"front": "diciassette",
 		"pronunciation": "DEE-chah-SEH-tay",
 		"back": "seventeen"
+	},
+	{
+		"language": "it",
+		"front": "mancano sette minuti",
+		"pronunciation": "MAHN-cah-noh",
+		"back": "with seven minutes left"
+	},
+	{
+		"language": "it",
+		"front": "So già che è così",
+		"pronunciation": "soh JAW kay ay koh-see",
+		"back": "I already know it is like that"
+	},
+	{
+		"language": "it",
+		"front": "Sono già arrivato a casa",
+		"pronunciation": "soh-noh-JAW-ah-ree-VAH-toh",
+		"back": "I've already arrived home"
 	}
 ]
