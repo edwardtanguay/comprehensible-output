@@ -2543,7 +2543,112 @@
 			- le istruzioni devono essere seguite con attenzione
 		- il modulo va compilato prima dell'inizio del corso
 			- il modulo deve essere compilato prima dell'inizio del corso
-
+- quando si usa di/da ``di/``da
+	- di + infinito
+		- dopo molti verbi per indica contenuto, intenzione, opinione, sentimento
+			- pensare 
+				- stavo pensando di fare qualcosa
+				- penso di andare al lago.
+			- credere/pensare
+				- credo di avere ragione
+				- penso di avere ragione
+			- decidere 
+				- ho deciso di studiare
+				- penso che decideranno di andarsene presto
+			- promettere
+				- prometto di studiare
+				- ti prometto di arrivare puntuale domani
+			- dire
+				- ti dico di venire subito
+			- sperare
+				- spero di passare l'esame
+				- spero di finire questo progetto entro stasera
+			- ricordare
+				- ricordati di chiudere la porta
+			- finire
+				- finisco di lavorare alle sei	
+				- ho finito di studiare solo pochi minuti fa
+			- dimenticarsi
+				- mi sono dimenticato di chiamare il medico
+				- si è dimenticato di portarmi il libro
+			- rimandare
+				- il direttore ha deciso di rimandare la riunione
+			- affermare
+				- il testimone afferma di aver visto l'imputato uscire dal palazzo
+			- pregare
+				- ti prego di non dire a nessuno quello che hai visto
+			- domandare
+			- chiedere
+		- dopo aggettivi
+			- sono felice di vederti
+			- è difficile di capire 
+			- sono contento di essere qui
+			- l'insegnante è stanca di ripetere sempre le stesse cose
+		- dopo nomi
+			- la voglia di viaggiare
+			- il bisogno di dormire
+			- ho bisogno di mangiare
+		- avere il sapore o l'odore di qualcosa
+			- questo vino sa di tappo/sughero
+		- indica una qualità intrinseca di una persona o di una cosa
+			- è un uomo di parola
+			- è una persona di grande esperienza
+			- sono momenti di pura felicità
+			- ha un cuore di pietra
+		- frasi fisse
+			- non vedo l'ora di partire
+	- da + infinito
+		- per esprimere qualcosa da fare (obbligo o compito o necessità)
+			- ho molto lavoro da finire
+			- c'è una mail da scrivere
+			- questi sono documenti da firmare con urgenza
+			- c'è molto da fare prima delle vacanze
+			- è un problema difficile da risolvere
+		- dopo "essere" (deve essere fatto / vale la pena / è consigliata / degna di nota)
+			- questo esercizio è da rifare
+			- il film è da vedere
+			- è un film da non perdere assolutamente
+			- è un'occasione da non lasciarsi sfuggire per niente al mondo
+		- indica l'uso o lo scopo, simile a "per"
+			- occhiali da sole (per proteggere dal sole)
+			- macchina da sc rivere
+			- un vestito da sera
+			- è un comportamento da pazzi
+			- abbiamo comprato un tavolo da cucina
+		- indica il modo o il ruolo che qualcuno assume 
+			- si è vestito da pirata per la festa
+			- si è comportato a gran signore
+		- indica la possibilità o la necessità di subire un'azione
+			- questo libro è facile da leggere
+		- indica una qualità di scarso valore o entità
+			- si è trattato di un errore da poco
+		- per descrivere caratteristiche fisiche distintive o ornamentali di una persona
+			- è una ragazza dai capelli rossi
+		- dopo parole specifiche
+			- niente
+				- non c'è niente da mangiare nel frigorifero
+			- qualcosa
+				- c'è ancora qualcosa da fare
+			- qualcuno
+				- cerco qualcuno da aiutarmi a traslocare questo fine settimana
+		- altre
+			- quella povera donna non ha nemmeno gli occhi da piangere
+		- indicare un'azione iniziata nel passato che continua ancora nel presente
+			- vivo a Roma da tre anni
+- which verbs required which prepositions
+	- a
+		- molti verbi di spinta o movimento verso un obiettivo
+			- convincere
+				- l'ho convinto a venire con noi
+				- ho cercato di convincerlo a venire con noi al cinema
+				- non riesco a convincermi che sia la scelta giusta
+		- molti verbi di privazione o scelta
+			- rinunciare
+				- ha dovuto rinunciare al suo sogno
+	- di
+		- molti verbi di percezione mentale 
+			- accorgersi
+				- non mi ero accorto della tua presenza
 		
 ===TODO===		
 - parole importanti
@@ -2610,7 +2715,8 @@
 	- siccome
 	- sebbene
 	- affinché
-
+- false friends
+	- il direttore ha deciso di rimandare la riunione
 - reflexive that shows obbligation "needs to be..."
 	- questo libro va letto entro domani
 - fornisce esempi della regola: per esprimere un'azione futura rispetto a un momento passato, l'italiano utilizza il condizionale passato
@@ -2725,3 +2831,5 @@
 	
 - combined words
 	- mettercela
+	
+	

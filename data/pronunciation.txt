@@ -751,3 +751,6 @@ it; fammi leggere l'indizio; LEH-jer-eh; let me read the hint
 it; scherza Luca; SKAIR-tsah; Luca jokes
 
 it; Mentre mangiano; MAN-jan-oh; while they eat
+it; il compito; KOM-pee-toh;the task
+
+it; Penso che sia già predisposto; JAW-pray-dee-SPOH-stoh;I think it is already set up
