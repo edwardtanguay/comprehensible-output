@@ -758,5 +758,13 @@ it; Penso che sia già predisposto; JAW-pray-dee-SPOH-stoh;I think it is already
 it; diciassette; DEE-chah-SEH-tay; seventeen 
 it; mancano sette minuti; MAHN-cah-noh; with seven minutes left
 it; Sono già le 8:00 ; soh-noh JAW lay oh-toh; 
-it; So già che è così; soh JAW kay ay koh-see; I already know it is like that
+it; So già che è così; soh JAW kay ay koh-zee; I already know it is like that
 it; Sono già arrivato a casa; soh-noh-JAW-ah-ree-VAH-toh;I've already arrived home
+
+it; dopo un paio di minuti; PIGH-yoy; after a couple minutes
+nl; de beste reis ooit; OH-eet; the best trip ever
+es; un palillo ; pah-LEE-yoh; a toothpick
+it; Il conto è un po' salato; sah-LAH-toh; the bill is a bit steep
+
+it; improvviso; im-PROH-vee-soh;suddenly
+es; hijo; EE-*oh; son

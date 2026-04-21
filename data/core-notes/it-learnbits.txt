@@ -2611,6 +2611,7 @@
 			- è un'occasione da non lasciarsi sfuggire per niente al mondo
 		- indica l'uso o lo scopo, simile a "per"
 			- occhiali da sole (per proteggere dal sole)
+			- occhiali da vista
 			- macchina da sc rivere
 			- un vestito da sera
 			- è un comportamento da pazzi
@@ -2623,6 +2624,9 @@
 			- questo libro è facile da leggere
 		- indica una qualità di scarso valore o entità
 			- si è trattato di un errore da poco
+		- indica una conseguenza o un effetto
+			- si tratta di un film da brividi
+			- è un film da ridere
 		- per descrivere caratteristiche fisiche distintive o ornamentali di una persona
 			- è una ragazza dai capelli rossi
 		- dopo parole specifiche
@@ -2652,6 +2656,8 @@
 				- il coach mi sprona a migliorare ogni giorno
 				- i miei amici mi hanno spronato a partecipare alla gara
 				- questa esperienza ti spronerà a uscire dalla tua zona di comfort
+		- others
+			- compri le scarpe a tuo figlio?
 	- di
 		- molti verbi di percezione mentale 
 			- accorgersi
@@ -2724,6 +2730,8 @@
 	- affinché
 - false friends
 	- il direttore ha deciso di rimandare la riunione
+	- succedere
+	- Posso confrontare i due libri
 - reflexive that shows obbligation "needs to be..."
 	- questo libro va letto entro domani
 - fornisce esempi della regola: per esprimere un'azione futura rispetto a un momento passato, l'italiano utilizza il condizionale passato
@@ -2834,9 +2842,10 @@
 				- vengo dal centro
 				- torno dal supermercato
 	- in
+		- lui è caduto nella trappola
 	- su
 	
 - combined words
 	- mettercela
-	
-	
+- todo
+	- create words with "già" and put them in pronuncation

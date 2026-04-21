@@ -3188,7 +3188,7 @@
 	{
 		"language": "it",
 		"front": "So già che è così",
-		"pronunciation": "soh JAW kay ay koh-see",
+		"pronunciation": "soh JAW kay ay koh-zee",
 		"back": "I already know it is like that"
 	},
 	{
@@ -3196,5 +3196,41 @@
 		"front": "Sono già arrivato a casa",
 		"pronunciation": "soh-noh-JAW-ah-ree-VAH-toh",
 		"back": "I've already arrived home"
+	},
+	{
+		"language": "it",
+		"front": "dopo un paio di minuti",
+		"pronunciation": "PIGH-yoy",
+		"back": "after a couple minutes"
+	},
+	{
+		"language": "nl",
+		"front": "de beste reis ooit",
+		"pronunciation": "OH-eet",
+		"back": "the best trip ever"
+	},
+	{
+		"language": "es",
+		"front": "un palillo",
+		"pronunciation": "pah-LEE-yoh",
+		"back": "a toothpick"
+	},
+	{
+		"language": "it",
+		"front": "Il conto è un po' salato",
+		"pronunciation": "sah-LAH-toh",
+		"back": "the bill is a bit steep"
+	},
+	{
+		"language": "it",
+		"front": "improvviso",
+		"pronunciation": "im-PROH-vee-soh",
+		"back": "suddenly"
+	},
+	{
+		"language": "es",
+		"front": "hijo",
+		"pronunciation": "EE-*oh",
+		"back": "son"
 	}
 ]
