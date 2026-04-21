@@ -2663,6 +2663,142 @@
 			- accorgersi
 				- non mi ero accorto della tua presenza
 		
+		
+- aggettivi/pronomi/avverbi interrogativi e aggettivi dimostrativi: qual, quale, quali, questo, questa, questi, queste [memory: astorcarpack]
+	- panoramica
+		- pronomi interrogativi: che, cosa, che cosa, chi, quali/quale, quanto/quanta/quanti/quante
+		- avverbi interrogativi: dove, quando, come, perché
+		- aggettivi interrogativi: che, quali/quale (+qual), quanto/quanta/quanti/quante
+		- pronomi dimostrativi: questo/questa/questi/queste, quello/quella/quelli/quelle, stesso/stessa/stessi/stesse
+		- aggetivi dimostrativi: questo/questa/questi/queste, quello(+quel/quell')/quella(+quell')/quelli(quei/quegli)/quelle, stesso/stessa/stessi/stesse
+		- aggettivo indefinito: qualche
+	- interrogativi
+		- pronomi interrogativi
+			- che cosa
+				- che cosa vuoi?
+			- cosa
+				- cosa fai? 
+			- chi
+				- chi viene con te?
+			- qualo(+qual)
+				- quali scegli?
+				- qual è il problema?
+				- qual era l'idea?
+			- quale(+qual)
+				- quale preferisci?
+				- qual è la risposta?
+				- qual era la soluzione?
+			- quanto
+				- quanto costa?
+			- quanta
+				- quanta ne vuoi?
+				- quanta hai bevuto?
+				- quanta resta?
+			- quanti
+				- quanti vuoi?
+				- quanti ne hai comprati?
+				- quanti sono arrivati?
+			- quante
+				- quante ne vuoi?
+				- quante hai visto?
+				- quante sono rimaste?
+		- avverbi interrogativi
+			- dove
+				- dove abiti?
+			- quando
+				- quando parti?
+			- come
+				- come stai?
+			- perché
+				- perché studi italiano?
+		- aggettivi interrogativi
+			- che
+				- che libro leggi?
+			- quali
+				- quali film guardi?
+			- quale
+				- quale strada prendi?
+			- quanto
+				- quanto tempo hai?
+			- quanta
+				- quanta acqua bevi?
+			- quanti
+				- quanti libri leggi?
+			- quante
+				- quante persone arrivano?
+				
+				
+				
+				
+		- aggettivi
+			- quale / quali 
+				- quale (qual)
+					- scelta tra opzioni, parli di una scelta singola
+					- quale film preferisci?
+						- preferisco Inception
+						- mi piace di più quel film
+					- quale libro ti piace?
+					- quale di questi libri ti piace?
+						- questo mi piace
+						- mi piace quello
+					- qual (davanti a vocale o h muta)
+						- qual è il tuo nome?
+						- qual era la risposta giusta?
+						- qual altro problema hai?
+				- quali 
+					- quali film preferisci?
+						- questa domanda richiede più di un film (un elenco, diverse preferenze).
+						- esempi
+							- preferisco i film di fantascienza e i thriller.
+							- mi piacciono i film d’azione e le commedie.
+							- preferisco Inception, Interstellar e Matrix.
+							- mi piacciono soprattutto i film italiani.					
+					- quali libri leggi?
+						- leggo romanzi e saggi
+						- leggo libri di fantascienza e thriller
+						- sto leggendo Tolkien e Haruki Murakami
+						- leggo soprattutto libri di filosofia
+						- di solito leggo un po' di tutto, ma preferisco i romanzi storici
+		- quanto / quanta / quanti / quante
+			- quanto 
+				- quanto tempo hai? / ho due ore
+			- quanta 
+				- quanta acqua bevi al giorno? / bevo circa due litri
+			- quanti 
+				- quanti libri leggi al mese? / leggo tre o quattro libri
+				- quanti libri hai?
+			- quante 
+				- quante persone sono arrivate? / sono arrivate dieci persone
+	- aggettivi dimostrativi
+		- questo / questa / questi / queste 
+			- vicino a chi parla
+			- questo 
+				- questo ristorante è buono
+				- questo libro è interessante
+			- questa
+				- questa città è bellissima
+			- questi
+				- questi studenti sono molto bravi
+			- queste
+				- queste case sono nuove
+				- queste scarpe sono molto comode
+				- queste domande sono difficili
+				- queste regole non sono chiare
+		- quello / quella / quelli / quelle
+			- lontano dall'oratore
+			- quello 
+				- quello libro è mio
+			- quella 
+				- quella montagna è alta
+				- quella casa è vecchia
+			- quelli
+				- quelli studenti sono in ritardo
+			- quelle
+				- quelle scarpe sono nuove
+			
+
+
+		
 ===TODO===		
 - parole importanti
 	- pur non avendo fame, ho mangiato
