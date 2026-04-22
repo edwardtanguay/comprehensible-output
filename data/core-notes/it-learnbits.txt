@@ -2664,7 +2664,7 @@
 				- non mi ero accorto della tua presenza
 		
 		
-- aggettivi/pronomi/avverbi interrogativi e aggettivi dimostrativi: qual, quale, quali, questo, questa, questi, queste [memory: astorcarpack]
+- aggettivi/pronomi/avverbi interrogativi e aggettivi dimostrativi: `qual `cosa `questo [memory: astorcarpack]
 	- panoramica
 		- pronomi interrogativi: che, cosa, che cosa, chi, quali/quale, quanto/quanta/quanti/quante
 		- avverbi interrogativi: dove, quando, come, perché
@@ -2676,8 +2676,11 @@
 		- pronomi interrogativi
 			- che cosa
 				- che cosa vuoi?
+				- che cosa significa?
 			- cosa
 				- cosa fai? 
+				- cosa stanno facendo lì adesso?
+				- ora ho dimenticato cosa stavo per scrivere
 			- chi
 				- chi viene con te?
 			- qual
@@ -2726,73 +2729,164 @@
 						- preferisco Inception, Interstellar e Matrix
 						- mi piacciono soprattutto i film italiani
 				- quali film guardi?
+				- quali preposizioni si abbinano a quali verbi
 			- quale
 				- quale strada prendi?
 			- quanto
 				- quanto tempo hai?
+				- quanto tempo hai? / ho due ore
 			- quanta
 				- quanta acqua bevi?
+				- quanta acqua bevi al giorno? / bevo circa due litri
 			- quanti
 				- quanti libri leggi?
+				- quanti libri leggi al mese? / leggo tre o quattro libri
+				- quanti libri hai?
 			- quante
 				- quante persone arrivano?
 				- voglio iniziare quante più conversazioni possibili
+				- quante frasi abbiamo adesso?
+				- quante persone sono arrivate? / sono arrivate dieci persone
 		- pronomi dimostrativi
 			- questo
+				- questo è il libro che cerco
+				- sono ossessionato da questo
 			- questa
+				- questa è la mia casa
 			- questi
+				- questi sono i miei amici
 			- queste
+				- queste sono le chiavi
 			- quello
+				- quello è il ristorante migliore
+				- quello è il mio telefono
 			- quella
+				- quella è la strada giusta
+				- quella è la parola corretta
 			- quelli
+				- quelli sono i tuoi documenti
+				- quelli sono i miei genitori
 			- quelle
+				- quelle sono le montagne
 			- stesso
-			- stessa/stessi/stesse
-		- aggetivi dimostrativi: questo/questa/questi/queste, quello(+quel/quell')/quella(+quell')/quelli(quei/quegli)/quelle, stesso/stessa/stessi/stesse
-		- aggettivo indefinito: qualche				
-				
-				
-				
-				
-		- quanto / quanta / quanti / quante
-			- quanto 
-				- quanto tempo hai? / ho due ore
-			- quanta 
-				- quanta acqua bevi al giorno? / bevo circa due litri
-			- quanti 
-				- quanti libri leggi al mese? / leggo tre o quattro libri
-				- quanti libri hai?
-			- quante 
-				- quante persone sono arrivate? / sono arrivate dieci persone
-	- aggettivi dimostrativi
-		- questo / questa / questi / queste 
-			- vicino a chi parla
-			- questo 
-				- questo ristorante è buono
+				- voglio lo stesso di ieri
+				- non voglio il tè, prendo lo stesso
+			- stessa
+				- non ho la tua penna, uso la stessa
+			- stessi
+				- non abbiamo amici diversi, abbiamo gli stessi
+			- stesse
+				- non frequento altre scuole, frequento le stesse	
+				- non andiamo in altre scuole, andiamo sempre nelle stesse.
+		- aggetivi dimostrativi
+			- questo
 				- questo libro è interessante
+				- quando rimuovo questo codice qui
+				- questo libro e quel libro
+				- questo ristorante è buono
 			- questa
+				- questa casa è molto vecchia
 				- questa città è bellissima
 			- questi
+				- questi studenti sono preparati
 				- questi studenti sono molto bravi
 			- queste
+				- queste scarpe sono nuove
 				- queste case sono nuove
 				- queste scarpe sono molto comode
 				- queste domande sono difficili
 				- queste regole non sono chiare
-		- quello / quella / quelli / quelle
-			- lontano dall'oratore
-			- quello 
-				- quello libro è mio
-			- quella 
+			- quello
+				- quello studente è molto intelligente
+				- quello zaino è pesante
+				- quello psicologo lavora in ospedale
+				- quello gnomo è una decorazione del giardino
+				- quello xilofono è rotto
+			- quel
+				- quel ragazzo è mio amico
+				- questo libro e quel libro
+				- quel libro è mio
+			- quell'
+				- femminile
+					- quell'amica è molto gentile
+					- quell'idea non mi convince
+					- quell'attrice ha vinto un premio importante	
+				- maschile
+					- quell'amico mi ha aiutato ieri
+					- quell'albero è molto vecchio
+					- quell'edificio è stato ristrutturato da poco
+			- quella
+				- quella macchina è veloce
 				- quella montagna è alta
 				- quella casa è vecchia
 			- quelli
-				- quelli studenti sono in ritardo
+				- !! ("quelli" non esiste come aggetivo dimostrativo, vedi quei)
+			- quei
+				- quei film sono noiosi
+				- quei libri sono grandi
+			- quegli
+				- quegli alberi sono molto alti
+				- quegli alberi sono molto vecchi
+				- quegli zaini sono molto vecchi
+				- quegli studenti sono in ritardo
 			- quelle
+				- quelle case sono lontane
+				- quelle case sono grandi ma quei libri sono piccoli
+				- quelle scuole sono molto vecchie
 				- quelle scarpe sono nuove
+			- stesso
+				- voglio lo stesso gelato
+			- stessa
+				- penso che significhi la stessa cosa
+				- indossa la stessa giacca
+			- stessi
+				- abbiamo gli stessi interessi
+			- stesse
+				- frequentiamo le stesse scuole
+				- indossa la stessa giacca di ieri
+		- aggettivo indefinito
+			- qualche
+				- posso aspettare qualche minuto
+				- ho comprato qualche libro interessante			
+- thank you phrases
+	- grazie
+	- grazie mille
+	- grazie davvero
+	- mille grazie
+	- ti ringrazio
+	- grazie di cuore
+- praise frases
+	- eccellente
+	- perfetto
+	- fantastico
+	- magnifico
+	- superbo
+	- impeccabile
+	- eccezionale
+- TODO: verb/proposition combinations
+	- credere a → Credo a quello che dici.
+	- pensare a → Penso spesso a te.
+	- rinunciare a → Rinuncio a uscire stasera.
+	- partecipare a → Partecipo a una riunione.
+	- riuscire a → Riesco a finire il lavoro.
+	- avere bisogno di → Ho bisogno di aiuto.
+	- avere paura di → Ho paura di sbagliare.
+	- parlare di → Parliamo di politica.
+	- dimenticarsi di → Mi dimentico di chiamarti.
+	- smettere di → Smetto di fumare.
+	- andare a → Vado a lavorare.
+	- imparare a → Imparo a guidare.
+	- provare a → Provo a spiegare meglio.
+	- continuare a → Continuo a studiare.
+	- iniziare a → Inizio a leggere.
+	- finire di → Finisco di mangiare.
+	- decidere di → Decido di partire.
+	- promettere di → Prometto di aiutarti.
+	- cercare di → Cerco di capire.
+	- riuscire in → Riesco nel mio intento.
 			
-
-
+		
+		
 		
 ===TODO===		
 - parole importanti
