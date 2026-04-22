@@ -2680,14 +2680,18 @@
 				- cosa fai? 
 			- chi
 				- chi viene con te?
-			- qualo(+qual)
-				- quali scegli?
+			- qual
 				- qual è il problema?
-				- qual era l'idea?
-			- quale(+qual)
-				- quale preferisci?
+				- qual era l'idea? 
 				- qual è la risposta?
 				- qual era la soluzione?
+				- qual è questo tra quelli?
+				- qual è questo libro?
+			- quali
+				- quali scegli?
+				- quali sono le probleme?
+			- quale
+				- quale preferisci?
 			- quanto
 				- quanto costa?
 			- quanta
@@ -2715,6 +2719,12 @@
 			- che
 				- che libro leggi?
 			- quali
+				- quali film preferisci?
+					- questa domanda richiede più di un film (un elenco, diverse preferenze)
+						- preferisco i film di fantascienza e i thriller
+						- mi piacciono i film d’azione e le commedie
+						- preferisco Inception, Interstellar e Matrix
+						- mi piacciono soprattutto i film italiani
 				- quali film guardi?
 			- quale
 				- quale strada prendi?
@@ -2726,39 +2736,24 @@
 				- quanti libri leggi?
 			- quante
 				- quante persone arrivano?
+				- voglio iniziare quante più conversazioni possibili
+		- pronomi dimostrativi
+			- questo
+			- questa
+			- questi
+			- queste
+			- quello
+			- quella
+			- quelli
+			- quelle
+			- stesso
+			- stessa/stessi/stesse
+		- aggetivi dimostrativi: questo/questa/questi/queste, quello(+quel/quell')/quella(+quell')/quelli(quei/quegli)/quelle, stesso/stessa/stessi/stesse
+		- aggettivo indefinito: qualche				
 				
 				
 				
 				
-		- aggettivi
-			- quale / quali 
-				- quale (qual)
-					- scelta tra opzioni, parli di una scelta singola
-					- quale film preferisci?
-						- preferisco Inception
-						- mi piace di più quel film
-					- quale libro ti piace?
-					- quale di questi libri ti piace?
-						- questo mi piace
-						- mi piace quello
-					- qual (davanti a vocale o h muta)
-						- qual è il tuo nome?
-						- qual era la risposta giusta?
-						- qual altro problema hai?
-				- quali 
-					- quali film preferisci?
-						- questa domanda richiede più di un film (un elenco, diverse preferenze).
-						- esempi
-							- preferisco i film di fantascienza e i thriller.
-							- mi piacciono i film d’azione e le commedie.
-							- preferisco Inception, Interstellar e Matrix.
-							- mi piacciono soprattutto i film italiani.					
-					- quali libri leggi?
-						- leggo romanzi e saggi
-						- leggo libri di fantascienza e thriller
-						- sto leggendo Tolkien e Haruki Murakami
-						- leggo soprattutto libri di filosofia
-						- di solito leggo un po' di tutto, ma preferisco i romanzi storici
 		- quanto / quanta / quanti / quante
 			- quanto 
 				- quanto tempo hai? / ho due ore
