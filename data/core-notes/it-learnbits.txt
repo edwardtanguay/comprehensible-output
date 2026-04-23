@@ -2666,7 +2666,7 @@
 		
 - aggettivi/pronomi/avverbi interrogativi e aggettivi dimostrativi: `qual `cosa `questo [memory: astorcarpack]
 	- panoramica
-		- pronomi interrogativi: che, cosa, che cosa, chi, quali/quale, quanto/quanta/quanti/quante
+		- pronomi interrogativi: che, cosa, che cosa, chi, quale/quali, quanto/quanta/quanti/quante
 		- avverbi interrogativi: dove, quando, come, perché
 		- aggettivi interrogativi: che, quali/quale (+qual), quanto/quanta/quanti/quante
 		- pronomi dimostrativi: questo/questa/questi/queste, quello/quella/quelli/quelle, stesso/stessa/stessi/stesse
@@ -2679,8 +2679,9 @@
 				- che cosa significa?
 			- cosa
 				- cosa fai? 
-				- cosa stanno facendo lì adesso?
+				- cosa stanno facendo lì a desso?
 				- ora ho dimenticato cosa stavo per scrivere
+				- Non so cosa significhi
 			- chi
 				- chi viene con te?
 			- qual
@@ -2690,11 +2691,17 @@
 				- qual era la soluzione?
 				- qual è questo tra quelli?
 				- qual è questo libro?
-			- quali
+				- qual è il tuo colore preferito?
+				- qual è stata la tua impressione?
+				- qual era lo scopo della riunione?
+			- quale (singulare)
+				- quale preferisci?
+				- quale dei due ragazzi è tuo fratello?
+				- non ricordo quale dei due film ho visto
+			- quali (plurale)
 				- quali scegli?
 				- quali sono le probleme?
-			- quale
-				- quale preferisci?
+				- quali sono le tue ragioni?
 			- quanto
 				- quanto costa?
 			- quanta
@@ -2721,17 +2728,16 @@
 		- aggettivi interrogativi
 			- che
 				- che libro leggi?
-			- quali
-				- quali film preferisci?
-					- questa domanda richiede più di un film (un elenco, diverse preferenze)
-						- preferisco i film di fantascienza e i thriller
-						- mi piacciono i film d’azione e le commedie
-						- preferisco Inception, Interstellar e Matrix
-						- mi piacciono soprattutto i film italiani
-				- quali film guardi?
-				- quali preposizioni si abbinano a quali verbi
-			- quale
+			- quale (singulare)
+				- quale film preferisci? (un film)
 				- quale strada prendi?
+				- a quale piano abiti?
+				- non so proprio quale strada prendere
+			- quali (plurale)				
+				- quali film preferisci?  (più film)
+				- quali film guardi?
+				- non sapeva quali pesci pigliare
+				- quali preposizioni si abbinano a quali verbi
 			- quanto
 				- quanto tempo hai?
 				- quanto tempo hai? / ho due ore
@@ -2760,6 +2766,7 @@
 			- quello
 				- quello è il ristorante migliore
 				- quello è il mio telefono
+				- non è simile a quello
 			- quella
 				- quella è la strada giusta
 				- quella è la parola corretta
@@ -2787,6 +2794,7 @@
 			- questa
 				- questa casa è molto vecchia
 				- questa città è bellissima
+				- si usa questa forma 
 			- questi
 				- questi studenti sono preparati
 				- questi studenti sono molto bravi
@@ -2802,10 +2810,13 @@
 				- quello psicologo lavora in ospedale
 				- quello gnomo è una decorazione del giardino
 				- quello xilofono è rotto
+				- quello scoglio è molto scivoloso
 			- quel
 				- quel ragazzo è mio amico
 				- questo libro e quel libro
 				- quel libro è mio
+				- prendi quel vestito lì nell'armadio
+				- guarda quel cane laggiù
 			- quell'
 				- femminile
 					- quell'amica è molto gentile
@@ -2815,10 +2826,13 @@
 					- quell'amico mi ha aiutato ieri
 					- quell'albero è molto vecchio
 					- quell'edificio è stato ristrutturato da poco
+					- non vedo quell'uomo da molto tempo
+					- puoi passarmi quell'orologio che è sul tavolo?
 			- quella
 				- quella macchina è veloce
 				- quella montagna è alta
 				- quella casa è vecchia
+				- non voglio quella tazza
 			- quelli
 				- !! ("quelli" non esiste come aggetivo dimostrativo, vedi quei)
 			- quei
@@ -2844,10 +2858,21 @@
 			- stesse
 				- frequentiamo le stesse scuole
 				- indossa la stessa giacca di ieri
-		- aggettivo indefinito
+		- aggettivi indefiniti
 			- qualche
 				- posso aspettare qualche minuto
-				- ho comprato qualche libro interessante			
+				- ho comprato qualche libro interessante
+				- qualche studente è assente
+				- ho letto qualche libro interessante
+				- ho comprato qualche mela rossa
+				- c'è qualche persona fuori
+			- alcuni
+				- posso aspettare alcuni minuti
+				- ho comprato alcuni libri interessanti
+				- alcuni studenti sono assenti
+				- ho letto alcuni libri interessanti
+				- ho comprato alcuni mele rosse
+				- ci sono alcune persone fuori
 - thank you phrases
 	- grazie
 	- grazie mille
@@ -3074,3 +3099,7 @@
 	- mettercela
 - todo
 	- create words with "già" and put them in pronuncation
+- quizzes
+	- regarding "serve" e.g. "ti serve un pronome"
+	- crea un quiz su argomenti qual, quel, quello, quale, qualche, etc.
+
