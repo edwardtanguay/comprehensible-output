@@ -2684,6 +2684,7 @@
 				- Non so cosa significhi
 			- chi
 				- chi viene con te?
+				- chi ha parlato?
 			- qual
 				- qual è il problema?
 				- qual era l'idea? 
@@ -2716,6 +2717,9 @@
 				- quante ne vuoi?
 				- quante hai visto?
 				- quante sono rimaste?
+		- pronomi relativi
+			- quale (singulare)
+				- il lago, sul quale splende il sole
 		- avverbi interrogativi
 			- dove
 				- dove abiti?
@@ -2732,7 +2736,9 @@
 				- quale film preferisci? (un film)
 				- quale strada prendi?
 				- a quale piano abiti?
-				- non so proprio quale strada prendere
+				- quale libro preferisci?
+				- domanda diretta
+					- non so proprio quale strada prendere
 			- quali (plurale)				
 				- quali film preferisci?  (più film)
 				- quali film guardi?
@@ -2833,6 +2839,7 @@
 				- quella montagna è alta
 				- quella casa è vecchia
 				- non voglio quella tazza
+				- non riconoscevo quella parola
 			- quelli
 				- !! ("quelli" non esiste come aggetivo dimostrativo, vedi quei)
 			- quei
