@@ -3238,5 +3238,29 @@
 		"front": "di guarire dalla stanchezza",
 		"pronunciation": "stan-KAYT-sa",
 		"back": "to recover from your tiredness"
+	},
+	{
+		"language": "it",
+		"front": "Ho molti compiti da svolgere",
+		"pronunciation": "dah-ZVOHL-jer-ray",
+		"back": "I have many tasks to do"
+	},
+	{
+		"language": "it",
+		"front": "qualcosa del genere",
+		"pronunciation": "JEN-air-ay",
+		"back": "something like that"
+	},
+	{
+		"language": "it",
+		"front": "Castello Scaligero",
+		"pronunciation": "skah-LEE-jair-oh",
+		"back": "Castello Scaligero"
+	},
+	{
+		"language": "it",
+		"front": "Peschiera del Garda",
+		"pronunciation": "pess-kee-AIR-ah",
+		"back": "Peschiera del Garda"
 	}
 ]

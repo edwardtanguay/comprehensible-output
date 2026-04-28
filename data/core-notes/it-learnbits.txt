@@ -2674,6 +2674,8 @@
 		- aggettivo indefinito: qualche
 	- interrogativi
 		- pronomi interrogativi
+			- che
+				- che hai fatto?
 			- che cosa
 				- che cosa vuoi?
 				- che cosa significa?
@@ -2699,6 +2701,7 @@
 				- quale preferisci?
 				- quale dei due ragazzi è tuo fratello?
 				- non ricordo quale dei due film ho visto
+				- quale di questi è un avverbio interrogativo?
 			- quali (plurale)
 				- quali scegli?
 				- quali sono le probleme?
@@ -2733,12 +2736,15 @@
 			- che
 				- che libro leggi?
 			- quale (singulare)
-				- quale film preferisci? (un film)
-				- quale strada prendi?
-				- a quale piano abiti?
-				- quale libro preferisci?
-				- domanda diretta
+				- domande dirette
+					- quale film preferisci? (un film)
+					- quale strada prendi?
+					- a quale piano abiti?
+					- quale libro preferisci?
+					- quale frase contiene un aggettivo?
+				- domande indirette
 					- non so proprio quale strada prendere
+					- pensa a quale informazione
 			- quali (plurale)				
 				- quali film preferisci?  (più film)
 				- quali film guardi?
@@ -2767,12 +2773,15 @@
 				- questa è la mia casa
 			- questi
 				- questi sono i miei amici
+				- quale di questi è un avverbio interrogativo?
 			- queste
 				- queste sono le chiavi
 			- quello
 				- quello è il ristorante migliore
 				- quello è il mio telefono
 				- non è simile a quello
+				- preferisco quello
+				- quello che dici è vero
 			- quella
 				- quella è la strada giusta
 				- quella è la parola corretta
@@ -2823,6 +2832,9 @@
 				- quel libro è mio
 				- prendi quel vestito lì nell'armadio
 				- guarda quel cane laggiù
+				- posso usare Skyr in quel contenitore
+				- in quel modo
+				- guarda quel monte in lontananza
 			- quell'
 				- femminile
 					- quell'amica è molto gentile
@@ -2873,14 +2885,23 @@
 				- ho letto qualche libro interessante
 				- ho comprato qualche mela rossa
 				- c'è qualche persona fuori
-			- alcuni
+			- alcuno/alcuna/alcuni/alcune
+				- non ho visto alcuna persona in piazza
 				- posso aspettare alcuni minuti
 				- ho comprato alcuni libri interessanti
 				- alcuni studenti sono assenti
 				- ho letto alcuni libri interessanti
 				- ho comprato alcuni mele rosse
 				- ci sono alcune persone fuori
-- thank you phrases
+			- ogni (si usa solo al singolare)
+				- ogni mattina corro nel parco vicino a casa
+				- ogni studente deve consegnare il compito entro venerdì
+				- ogni volta che piove, il traffico diventa più lento
+		- pronomi indefiniti
+			- molti 
+				- molti sono partiti
+			- alcuno/alcuna/alcuni/alcune
+				- ho letto molti libri, ma ne preferisco alcuni
 	- grazie
 	- grazie mille
 	- grazie davvero
