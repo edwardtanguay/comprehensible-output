@@ -776,3 +776,5 @@ it; Ho molti compiti da svolgere; dah-ZVOHL-jer-ray;I have many tasks to do
 it; qualcosa del genere; JEN-air-ay; something like that
 it; Castello Scaligero ; skah-LEE-jair-oh; Castello Scaligero 
 it; Peschiera del Garda; pess-kee-AIR-ah; Peschiera del Garda
+
+it: Svolge la funzione di soggetto; ZVOHL-jay; it acts as a subject

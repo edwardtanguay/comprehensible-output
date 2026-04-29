@@ -2782,6 +2782,7 @@
 				- non è simile a quello
 				- preferisco quello
 				- quello che dici è vero
+				- prendi quello, è più nuovo
 			- quella
 				- quella è la strada giusta
 				- quella è la parola corretta
@@ -2801,6 +2802,10 @@
 				- non frequento altre scuole, frequento le stesse	
 				- non andiamo in altre scuole, andiamo sempre nelle stesse.
 		- aggetivi dimostrativi
+			- qual è la differenza tra questo, codesto, quello
+				- questo = vicino a me (chi parla)
+				- codesto = vicino a te (chi ascolta, ma formale o regionale della Toscana)
+				- quello = lontano da entrambi	
 			- questo
 				- questo libro è interessante
 				- quando rimuovo questo codice qui
@@ -2876,7 +2881,7 @@
 				- abbiamo gli stessi interessi
 			- stesse
 				- frequentiamo le stesse scuole
-				- indossa la stessa giacca di ieri
+				- indossa la stessa giacca di ieri		
 		- aggettivi indefiniti
 			- qualche
 				- posso aspettare qualche minuto
@@ -2937,6 +2942,15 @@
 	- promettere di → Prometto di aiutarti.
 	- cercare di → Cerco di capire.
 	- riuscire in → Riesco nel mio intento.
+- volere, venire, vedere
+	- presente io
+		- voglio, vengo, vedo
+	- participio passato
+		- voluto, venuto, visto
+	- passe remoto (io)
+		- volli, venni, vidi
+	- radice futura/condizionale
+		- vorr-, verr-, vedr-
 			
 		
 		
@@ -3130,4 +3144,5 @@
 - quizzes
 	- regarding "serve" e.g. "ti serve un pronome"
 	- crea un quiz su argomenti qual, quel, quello, quale, qualche, etc.
+	- difference between volere, venire, vedere 
 
