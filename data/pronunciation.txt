@@ -777,4 +777,7 @@ it; qualcosa del genere; JEN-air-ay; something like that
 it; Castello Scaligero ; skah-LEE-jair-oh; Castello Scaligero 
 it; Peschiera del Garda; pess-kee-AIR-ah; Peschiera del Garda
 
-it: Svolge la funzione di soggetto; ZVOHL-jay; it acts as a subject
+it; Svolge la funzione di soggetto; ZVOHL-jay; it acts as a subject
+
+it; sebbene formale, indica vicinanza; seh-BEN-ay; although formal, it indicates closeness
+it; Nessun uomo è un'isola; EE-zoh-la; no man is an island

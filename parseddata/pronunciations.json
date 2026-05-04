@@ -3262,5 +3262,23 @@
 		"front": "Peschiera del Garda",
 		"pronunciation": "pess-kee-AIR-ah",
 		"back": "Peschiera del Garda"
+	},
+	{
+		"language": "it",
+		"front": "Svolge la funzione di soggetto",
+		"pronunciation": "ZVOHL-jay",
+		"back": "it acts as a subject"
+	},
+	{
+		"language": "it",
+		"front": "sebbene formale, indica vicinanza",
+		"pronunciation": "seh-BEN-ay",
+		"back": "although formal, it indicates closeness"
+	},
+	{
+		"language": "it",
+		"front": "Nessun uomo è un'isola",
+		"pronunciation": "EE-zoh-la",
+		"back": "no man is an island"
 	}
 ]
