@@ -781,3 +781,6 @@ it; Svolge la funzione di soggetto; ZVOHL-jay; it acts as a subject
 
 it; sebbene formale, indica vicinanza; seh-BEN-ay; although formal, it indicates closeness
 it; Nessun uomo è un'isola; EE-zoh-la; no man is an island
+
+nl;mei;may;May
+

@@ -3280,5 +3280,11 @@
 		"front": "Nessun uomo è un'isola",
 		"pronunciation": "EE-zoh-la",
 		"back": "no man is an island"
+	},
+	{
+		"language": "nl",
+		"front": "mei",
+		"pronunciation": "may",
+		"back": "May"
 	}
 ]

@@ -1,4 +1,14 @@
 ======================================================================================
+2026-05-05 07:08:22
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "valigia", "Posso trasferire tutte le parole", "quella parola è sbagliata", "quella parola non è corretta", "Se avessi più tempo, visiteresti anche Napoli.", "da solito", "ridere, ripetere", "arriveremo un po' più tardi", "Voglio finire presto oggi", "Ho appena registrato la mia centesima parola", "Potrei sbagliarmi", "quattordici", "Voglio che ci vogliano solo cinque minuti", "non sono ancora le sette", "dunque", "e ped questo", "Penso che sia una buona idea", "tutte quelle frasi erano facili", "incontrano", "prosciutto".
+======================================================================================
+2026-05-04 06:24:53
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Digito questo nella console in questo modo", "battello", "sotto una copertura", "quindi al riparo da pioggia, vento,", "sotto un tetto", "Che bella prima giornata movimentata", "Il rientro", "una grande alleata", "Non tutti riescono a trarne vantaggio", "Devi sfruttare l'occasione per trarne vantaggio.", "Devi sfruttare l’occasione per trarne vantaggio.", "Ha studiato molto per trarne vantaggio all'esame.", "Ha studiato molto per trarne vantaggio all’esame.", "cosa fa la sera", "dammi pure del tu", "in una lingua straniera", "Creare frasi significative nel contesto è la chiave del successo e della fluidità.", "c'è sempre molta fila", "spedire", "cosa significa quella parola".
+======================================================================================
 2026-04-30 07:30:57
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================
