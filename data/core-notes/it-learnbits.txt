@@ -2952,7 +2952,9 @@
 	- radice futura/condizionale
 		- vorr-, verr-, vedr-
 			
-		
+- servirsi di vs.servire
+	- servirsi di = usare qualcosa
+	- servire essere utile 
 		
 		
 ===TODO===		

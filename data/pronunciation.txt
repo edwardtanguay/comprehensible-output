@@ -784,3 +784,4 @@ it; Nessun uomo è un'isola; EE-zoh-la; no man is an island
 
 nl;mei;may;May
 
+it; Non capisco perché queste azioni non appaiono; ah-PIGH-yoh-noh; I don't understand why these actions don't appear
