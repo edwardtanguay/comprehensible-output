@@ -3286,5 +3286,29 @@
 		"front": "mei",
 		"pronunciation": "may",
 		"back": "May"
+	},
+	{
+		"language": "it",
+		"front": "Non capisco perché queste azioni non appaiono",
+		"pronunciation": "ah-PIGH-yoh-noh",
+		"back": "I don't understand why these actions don't appear"
+	},
+	{
+		"language": "it",
+		"front": "Devo riavviarlo",
+		"pronunciation": "ree-ah-VEE-ahr-loh",
+		"back": "I have to start it up again"
+	},
+	{
+		"language": "it",
+		"front": "la splendida natura",
+		"pronunciation": "SPLEN-dee-dah",
+		"back": "the splendid nature"
+	},
+	{
+		"language": "it",
+		"front": "da svolgere",
+		"pronunciation": "ZVOHL-jair-ay",
+		"back": "to be completed"
 	}
 ]
