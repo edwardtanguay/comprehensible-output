@@ -3310,5 +3310,77 @@
 		"front": "da svolgere",
 		"pronunciation": "ZVOHL-jair-ay",
 		"back": "to be completed"
+	},
+	{
+		"language": "it",
+		"front": "È un invito a utilizzare",
+		"pronunciation": "in-VEE-toh",
+		"back": "it is an invitation to use"
+	},
+	{
+		"language": "it",
+		"front": "A che serve piangere",
+		"pronunciation": "pee-AHN-jair-eh",
+		"back": "what is the use of crying"
+	},
+	{
+		"language": "it",
+		"front": "Cosa implica questa frase",
+		"pronunciation": "IM-plee-kah",
+		"back": "what does this sentence imply"
+	},
+	{
+		"language": "it",
+		"front": "Devo chiudere le altre schede.",
+		"pronunciation": "SKEH-deh",
+		"back": "I have to close the other tabs"
+	},
+	{
+		"language": "it",
+		"front": "È la formula standard di cortesia",
+		"pronunciation": "kor-teh-ZEE-ah",
+		"back": "It is the standard courtesy formula."
+	},
+	{
+		"language": "it",
+		"front": "gli ospiti",
+		"pronunciation": "OH-spee-tee",
+		"back": "the guests"
+	},
+	{
+		"language": "it",
+		"front": "hai chiesto se servivano pesce locale",
+		"pronunciation": "PESH-eh",
+		"back": "you asked if they served local fish"
+	},
+	{
+		"language": "it",
+		"front": "perché avevi bisogno di mangiare qualcosa di leggero",
+		"pronunciation": "leh-JAIR-oh",
+		"back": "because you needed to eat something light"
+	},
+	{
+		"language": "it",
+		"front": "la funivia del Monte Baldo",
+		"pronunciation": "foo-nee-VEE-ah",
+		"back": "the cable car at Monte Baldo"
+	},
+	{
+		"language": "it",
+		"front": "Credevi che ci sarebbero voluti pochi minuti",
+		"pronunciation": "sah-rah-BAIR-oh",
+		"back": "You thought it would take a few minutes."
+	},
+	{
+		"language": "nl",
+		"front": "Ik typ het wel even in mijn terminal",
+		"pronunciation": "teep",
+		"back": "I'll just type it into my terminal."
+	},
+	{
+		"language": "it",
+		"front": "Vado a spegnere la sveglia.",
+		"pronunciation": "SPEN-yair-ee, ZVAY-lee-ah",
+		"back": "I will go turn off my alarm"
 	}
 ]

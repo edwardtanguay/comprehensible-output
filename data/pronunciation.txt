@@ -789,3 +789,17 @@ it; Non capisco perché queste azioni non appaiono; ah-PIGH-yoh-noh; I don't und
 it; Devo riavviarlo; ree-ah-VEE-ahr-loh; I have to start it up again
 it; la splendida natura; SPLEN-dee-dah; the splendid nature
 it; da svolgere; ZVOHL-jair-ay; to be completed
+
+it; È un invito a utilizzare ; in-VEE-toh; it is an invitation to use
+it; A che serve piangere; pee-AHN-jair-eh; what is the use of crying
+it; Cosa implica questa frase; IM-plee-kah; what does this sentence imply
+it;Devo chiudere le altre schede.;SKEH-deh; I have to close the other tabs
+it; È la formula standard di cortesia;kor-teh-ZEE-ah; It is the standard courtesy formula.
+it; gli ospiti; OH-spee-tee; the guests
+
+it;hai chiesto se servivano pesce locale; PESH-eh; you asked if they served local fish
+it; perché avevi bisogno di mangiare qualcosa di leggero; leh-JAIR-oh; because you needed to eat something light
+it; la funivia del Monte Baldo; foo-nee-VEE-ah; the cable car at Monte Baldo
+it; Credevi che ci sarebbero voluti pochi minuti; sah-rah-BAIR-oh;You thought it would take a few minutes.
+nl; Ik typ het wel even in mijn terminal; teep; I'll just type it into my terminal.
+it; Vado a spegnere la sveglia.; SPEN-yair-ee, ZVAY-lee-ah; I will go turn off my alarm
