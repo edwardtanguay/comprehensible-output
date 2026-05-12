@@ -1,9 +1,16 @@
+Create a title (first letter uppercase, the rest lowercase) and then a story about hiking around the Garda Lake striking up conversations with strangers and having conversations with them as a way to practice Italian, mention real towns and sights to see around the lake, go to restaurants, into stores, see sites, ask directions, etc. in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive, and using the verbs "servire" and the phrase "ho bisogno", using the following phrases: "Vengono copiati.", "Questi sono i tempi verbali più importanti.", "perché l'hai scoperto da solo", "sommerso di lavoro", "averti qui", "costretto", "in appena cinque minuti", "in un'oretta ti porta", "oretta", "Sto imparando dallo scorso marzo", "tutto il giorno", "sasso", "quanto dista", "e se ne va", "cortile", "ci vorrà del tempo", "ai quattro angoli", "si ostina", "ostina", "una campana"
+
 Create a title (first letter uppercase, the rest lowercase) and then a story about people taking a trip around Garda Lake mentioning real towns and sights to see around the lake, going to restaurants, talking to the waiter, asking directions, etc. in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive, and using the verbs "servire" and the phrase "ho bisogno", using the following phrases: "Devo accendere la luce.", "Devo spegnere la luce.", "Ho quasi finito.", "Il video è quasi finito.", "Credo di poter dire quanto segue.", "Scriverò", "Digiterò nel mio terminale.", "Credo che ci vorranno alcuni secondi...", "Avevo ragione su questo.", "Vedo le frasi che ho appena registrato.", "Ottima idea!", "Voglio registrare quella frase.", "Non ho ancora incollato il testo.", "I tre puntini creano un po' di confusione.", "Non devo fare nulla.", "Devo dividere il paragrafo in due parti.", "Abbiamo la nostra riunione alle nove.", "cinquecento", "Questo è il numero del giorno.", "Non mi importa affatto se riesco a finirlo o meno..."
+
 
 Create a quiz on the topics "serve" and "ho bisogno de"
 	- riesco
 	- apportare
 	- finché
+	- da vs di
+	- ancora, già, adesso, appena
+
+Crea un quiz interaktive sul seguente argomento di grammatica italiana: la differenza tra servere et "avere bisogno", e le parole riesco, apportare, finché
 
 Crea un quiz sul seguente argomento di grammatica italiana: pronomi interrogativi, avverbi interrogativi, pronomi relativi, aggettivi interrogativi, pronomi dimostrativi, aggetivi dimostrativi e aggettivi indefiniti
 

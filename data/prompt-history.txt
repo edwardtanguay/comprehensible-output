@@ -1,4 +1,9 @@
 ======================================================================================
+2026-05-11 07:03:10
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "Vengono copiati.", "Questi sono i tempi verbali più importanti.", "perché l'hai scoperto da solo", "sommerso di lavoro", "averti qui", "costretto", "in appena cinque minuti", "in un'oretta ti porta", "oretta", "Sto imparando dallo scorso marzo", "tutto il giorno", "sasso", "quanto dista", "e se ne va", "cortile", "ci vorrà del tempo", "ai quattro angoli", "si ostina", "ostina", "una campana".
+======================================================================================
 2026-05-08 07:36:42
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

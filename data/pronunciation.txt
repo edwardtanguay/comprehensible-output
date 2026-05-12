@@ -803,3 +803,7 @@ it; la funivia del Monte Baldo; foo-nee-VEE-ah; the cable car at Monte Baldo
 it; Credevi che ci sarebbero voluti pochi minuti; sah-rah-BAIR-oh;You thought it would take a few minutes.
 nl; Ik typ het wel even in mijn terminal; teep; I'll just type it into my terminal.
 it; Vado a spegnere la sveglia.; SPEN-yair-ee, ZVAY-lee-ah; I will go turn off my alarm
+
+it; Non voglio usare; oo-ZAR-eh;I don't want to use
+it; Proviamoci di nuovo.; proh-vee-AH-moh-chee; let's try it again
+it; ho stabilito le regole del progetto; stah-bee-LEE-toh; I established the rules of the project.

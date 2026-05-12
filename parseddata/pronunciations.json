@@ -3382,5 +3382,23 @@
 		"front": "Vado a spegnere la sveglia.",
 		"pronunciation": "SPEN-yair-ee, ZVAY-lee-ah",
 		"back": "I will go turn off my alarm"
+	},
+	{
+		"language": "it",
+		"front": "Non voglio usare",
+		"pronunciation": "oo-ZAR-eh",
+		"back": "I don't want to use"
+	},
+	{
+		"language": "it",
+		"front": "Proviamoci di nuovo.",
+		"pronunciation": "proh-vee-AH-moh-chee",
+		"back": "let's try it again"
+	},
+	{
+		"language": "it",
+		"front": "ho stabilito le regole del progetto",
+		"pronunciation": "stah-bee-LEE-toh",
+		"back": "I established the rules of the project."
 	}
 ]
