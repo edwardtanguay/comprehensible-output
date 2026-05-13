@@ -1,4 +1,14 @@
 ======================================================================================
+2026-05-13 07:37:39
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "il sapore è cattivo", "il lago è mosso", "cosa deve lui aspettarsi", "sul sentiero", "per arrivare in cima", "un'oretta", "faticoso", "quando ha un momento potrei ordinare un cappuccino?", "da quale binario parte il treno", "Voglio chiudere questa finestra.", "glielo incarto subito", "cosa sta per fare?", "di auguri", "uno sconto", "uno sconto sul prezzo finale", "lui sente una persona dire", "che bella brezza stasera", "una bevanda gassata molto fredda", "che si rivedranno presto", "ci sentiamo in questi giorni".
+======================================================================================
+2026-05-12 07:42:48
+Prompt in Italian to create a story with 20 phrases and 220 words...
+======================================================================================
+Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, using the informal 'you', with 220 words varying the verb tenses simple present, present continuous, present perfect, present perfect continuous, simple past, past continuous, past perfect, past perfect continuous, simple future, future continuous, future perfect, future perfect continuous, conditional, subjunctive, reflexive using the following phrases: "di liceo", "una tappa", "una tazza", "fate sogni d'oro", "meno male", "in giro", "rivolgersi all'impiegato", "tu perché sei qui", "c'è molta folla", "una ragazza del posto", "si accor", "si accorge di essersi perso", "grazie di tutto", "c'è un posto per me", "noleggiare", "ha la patente nautica", "cos'è la patente", "Sotto i quarant'anni", "enoteca", "che ha assaggiato".
+======================================================================================
 2026-05-11 07:03:10
 Prompt in Italian to create a story with 20 phrases and 220 words...
 ======================================================================================

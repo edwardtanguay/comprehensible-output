@@ -2951,10 +2951,37 @@
 		- volli, venni, vidi
 	- radice futura/condizionale
 		- vorr-, verr-, vedr-
-			
 - servirsi di vs.servire
 	- servirsi di = usare qualcosa
 	- servire essere utile 
+- importante per la coniugazione
+	- avere
+		- imperfetto
+			- avevo, avevi, aveva, avevamo, avevate, avevano
+		- future
+			- avrò, avrai, avrà, avremo, avrete, avaranno
+		- conditional
+			- avrei, avresti, avrebbe, avremmo, avreste, avrebbero
+	- essere
+		- imperfetto
+			- ero, eri, era, eramo, eravate, erano
+		- future
+			- sarò, sarai, sarà, saremo, sarete, saranno
+		- conditional
+			- sarei, saresti, sarebbe, saremmo, sareste, sarebbero
+- evita il congiuntivo
+	- penso di avere una buona idea
+	- pensavo di aver capito questo meglio
+- altri modi per dire grazie
+	- grazie mille 
+	- molte grazie
+	- mille grazie
+	- grazie davvero
+	- grazie di cuore
+	- grazie infinite
+	- grazie davvero tanto
+	- ti ringrazio tanto
+	- ti ringrazio molto
 		
 		
 ===TODO===		

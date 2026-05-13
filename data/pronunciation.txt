@@ -807,3 +807,5 @@ it; Vado a spegnere la sveglia.; SPEN-yair-ee, ZVAY-lee-ah; I will go turn off m
 it; Non voglio usare; oo-ZAR-eh;I don't want to use
 it; Proviamoci di nuovo.; proh-vee-AH-moh-chee; let's try it again
 it; ho stabilito le regole del progetto; stah-bee-LEE-toh; I established the rules of the project.
+
+it; Sarebbero arrivati prima; sah-REHB-air-oh; they would have arrived earlier
