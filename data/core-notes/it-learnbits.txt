@@ -2962,6 +2962,8 @@
 			- avrò, avrai, avrà, avremo, avrete, avaranno
 		- conditional
 			- avrei, avresti, avrebbe, avremmo, avreste, avrebbero
+		- trapassato remoto
+			- ebbi, avesti, ebbe, avemmo, aveste, ebbero   
 	- essere
 		- imperfetto
 			- ero, eri, era, eramo, eravate, erano
@@ -2969,9 +2971,15 @@
 			- sarò, sarai, sarà, saremo, sarete, saranno
 		- conditional
 			- sarei, saresti, sarebbe, saremmo, sareste, sarebbero
-- evita il congiuntivo
+		- trapassato remoto
+			- fui, fosti, fu, fummo, foste, furono
+- evita il congiuntivo, et "di aver" al generale
 	- penso di avere una buona idea
 	- pensavo di aver capito questo meglio
+	- credo di aver bisogno di un po' di caffè
+	- spero di non essere troppo in ritardo
+	- dubito di spendere così tanti soldi ogni mese
+	- non ricordo di averlo fatto
 - altri modi per dire grazie
 	- grazie mille 
 	- molte grazie
@@ -2982,7 +2990,20 @@
 	- grazie davvero tanto
 	- ti ringrazio tanto
 	- ti ringrazio molto
-		
+- riuscire
+	- siamo riusciti a riprodurlo
+- congiuntivo passato vs congiuntivo trapassato
+	- congiuntivo passato
+		- indica un’azione compiuta nel passato, ma collegata al presente o comunque non dipendente da una condizione irreale
+			- non credo che io sia tornato a casa così tardi ieri
+			- non credo che tu abbia finito il lavoro così in fretta
+			- è possibile che loro siano partiti ieri sera senza avvisare
+	- congiuntivo trapassato
+		- indica un’azione passata rispetto a un altro passato (irrealtà, ipotesi non realizzata)
+			- pensava che io fossi ritornato già da una settimana
+			- pensavo che tu avessi finito il lavoro già la settimana scorsa
+			- se loro fossero partiti prima, avrebbero evitato il traffico
+
 		
 ===TODO===		
 - parole importanti

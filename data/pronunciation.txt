@@ -809,3 +809,9 @@ it; Proviamoci di nuovo.; proh-vee-AH-moh-chee; let's try it again
 it; ho stabilito le regole del progetto; stah-bee-LEE-toh; I established the rules of the project.
 
 it; Sarebbero arrivati prima; sah-REHB-air-oh; they would have arrived earlier
+
+it; Se non fosse iniziato a piovere; pee-OH-vair-eh; if it hadn't started raining
+
+it; Vorrei che tu mi aiutassi con questo esercizio; ah-yoo-TAH-see;I would like you to help me with this exercise.
+it; Se vi avessero parlato in modo più chiaro; ah-VESS-eh-ROH;If they had spoken to you more clearly
+it; Lui crederebbe subito alle tue parole; kreh-deh-REH-beh; He would immediately believe your words

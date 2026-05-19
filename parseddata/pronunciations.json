@@ -3406,5 +3406,29 @@
 		"front": "Sarebbero arrivati prima",
 		"pronunciation": "sah-REHB-air-oh",
 		"back": "they would have arrived earlier"
+	},
+	{
+		"language": "it",
+		"front": "Se non fosse iniziato a piovere",
+		"pronunciation": "pee-OH-vair-eh",
+		"back": "if it hadn't started raining"
+	},
+	{
+		"language": "it",
+		"front": "Vorrei che tu mi aiutassi con questo esercizio",
+		"pronunciation": "ah-yoo-TAH-see",
+		"back": "I would like you to help me with this exercise."
+	},
+	{
+		"language": "it",
+		"front": "Se vi avessero parlato in modo più chiaro",
+		"pronunciation": "ah-VESS-eh-ROH",
+		"back": "If they had spoken to you more clearly"
+	},
+	{
+		"language": "it",
+		"front": "Lui crederebbe subito alle tue parole",
+		"pronunciation": "kreh-deh-REH-beh",
+		"back": "He would immediately believe your words"
 	}
 ]
