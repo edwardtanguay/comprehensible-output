@@ -817,3 +817,7 @@ it; Se vi avessero parlato in modo più chiaro; ah-VESS-eh-ROH;If they had spoke
 it; Lui crederebbe subito alle tue parole; kreh-deh-REH-beh; He would immediately believe your words
 
 it;Qui dentro c’è cattivo odore; kah-TEE-voh; inside there is a bad smell
+
+it; cancello sempre questo; kan-CHELL-oh;I always delete this
+
+it; devo correre; KOR-rer-ray;I have to run

@@ -3436,5 +3436,11 @@
 		"front": "Qui dentro c'è cattivo odore",
 		"pronunciation": "kah-TEE-voh",
 		"back": "inside there is a bad smell"
+	},
+	{
+		"language": "it",
+		"front": "cancello sempre questo",
+		"pronunciation": "kan-CHELL-oh",
+		"back": "I always delete this"
 	}
 ]
