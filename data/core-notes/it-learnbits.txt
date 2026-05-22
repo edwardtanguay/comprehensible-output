@@ -2980,6 +2980,14 @@
 	- spero di non essere troppo in ritardo
 	- dubito di spendere così tanti soldi ogni mese
 	- non ricordo di averlo fatto
+		- ma: non ricordo cosa volevo fare
+	- credo di poter dire di aver finito con questa cosa
+	- credo di essere diventato fluente da qualche parte lungo il lago
+	- ho la sensazione di dover controllare i miei messaggi
+	- credo di essere pronto
+- use of "da"
+	- avevo due parole da cercare
+	- non parlo da molti minuti
 - altri modi per dire grazie
 	- grazie mille 
 	- molte grazie
@@ -2988,8 +2996,8 @@
 	- grazie di cuore
 	- grazie infinite
 	- grazie davvero tanto
-	- ti ringrazio tanto
 	- ti ringrazio molto
+	- La ringrazio molto
 - riuscire
 	- siamo riusciti a riprodurlo
 - congiuntivo passato vs congiuntivo trapassato
@@ -3003,7 +3011,14 @@
 			- pensava che io fossi ritornato già da una settimana
 			- pensavo che tu avessi finito il lavoro già la settimana scorsa
 			- se loro fossero partiti prima, avrebbero evitato il traffico
-
+- special use of "e"
+	- Ho invitato tutti e tre i miei amici.
+	- Entrambi e due erano stanchi. (meno comune)
+	- Tutte e cinque le ragazze sono arrivate.
+- "ne"
+	- di farlo / di ascoltare l’audio
+		- È importante ascoltare l'audio, se ne hai l'occasione.
+		 
 		
 ===TODO===		
 - parole importanti

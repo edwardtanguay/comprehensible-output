@@ -3442,5 +3442,11 @@
 		"front": "cancello sempre questo",
 		"pronunciation": "kan-CHELL-oh",
 		"back": "I always delete this"
+	},
+	{
+		"language": "it",
+		"front": "devo correre",
+		"pronunciation": "KOR-rer-ray",
+		"back": "I have to run"
 	}
 ]
