@@ -2985,6 +2985,8 @@
 	- credo di essere diventato fluente da qualche parte lungo il lago
 	- ho la sensazione di dover controllare i miei messaggi
 	- credo di essere pronto
+	- credo di dover leggere questo blocco di testo ora
+	- sono contento di non doverlo fare da solo
 - use of "da"
 	- avevo due parole da cercare
 	- non parlo da molti minuti
