@@ -33,7 +33,7 @@ het ding
 het diploma 
 het doel 
 het dorp 
-e 
+
 het echtpaar 
 het ei 
 het eigendom 
