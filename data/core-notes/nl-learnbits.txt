@@ -204,11 +204,11 @@
 	- ge + stem (negatieve connotatie)
 		- klagen --> het geklaag
 		- praten --> het gepraat
-	- naamwoord + de 
+	- werkwoord + de 
 		- de persoon die de handeling op dit moment uitvoert
 			- wachten --> de wachtende
 			- overleven --> de overlevende
-	- naamwoord + ge_e
+	- stem + _ge_de
 		- de persoon die betrokken is
 			- aanklagen --> aangeklaagde
 	- stam + er/ster
@@ -231,7 +231,7 @@
 		- blauw --> het blauw
 		- geheim --> het geheim
 	- personen van bijvoeglijk naamwoord + e (de)
-		- blind --> de blinde
+		- blind --> de blinde 
 		- gelukkig --> de gelukkige
 		- tweetalig --> de tweetalige
 	- abstracte concepten van bijvoeglijke naamwoorden + e (het)
@@ -248,19 +248,10 @@
 			- empty, void
 		- hoog --> de hoogte
 		- lang --> de lengte
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+- in een bijzin komt het onderwerp ('hij') direct na het voegwoord ('dat')
+	- ik denk dat hij gisteren de hele dag heeft gewerkt
+- wanneer gebruik je 'toen' in plaats van 'als'
+	- voor een specifieke gebeurtenis die één keer in het verleden plaatsvond
+- het passief perfectum wordt gevormd met 'zijn' + voltooid deelwoord
+	- de auto is gerepareerd
+	- de fiets is door de monteur gerepareerd
